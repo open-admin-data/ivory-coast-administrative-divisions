@@ -1,0 +1,47 @@
+{
+  "id": "CI2401",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Adzopé",
+    "en": "Adzopé",
+    "slug": "adzop-ci2401"
+  },
+  "code": {
+    "id": "CI2401",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI24",
+    "level": 1,
+    "name": {
+      "local": "Me",
+      "en": "Me",
+      "slug": "me-ci24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI24",
+      "level": 1,
+      "name": {
+        "local": "Me",
+        "en": "Me",
+        "slug": "me-ci24"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.098",
+    "lon": "-3.855"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "CI1701",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Dabakala",
+    "en": "Dabakala",
+    "slug": "dabakala-ci1701"
+  },
+  "code": {
+    "id": "CI1701",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI17",
+    "level": 1,
+    "name": {
+      "local": "Hambol",
+      "en": "Hambol",
+      "slug": "hambol-ci17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI17",
+      "level": 1,
+      "name": {
+        "local": "Hambol",
+        "en": "Hambol",
+        "slug": "hambol-ci17"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.373",
+    "lon": "-4.445"
+  },
+  "metadata": {},
+  "source": {}
+}

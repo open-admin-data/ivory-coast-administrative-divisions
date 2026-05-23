@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CI260101",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Buyo",
+      "en": "Buyo",
+      "slug": "buyo-ci260101"
+    },
+    "code": {
+      "id": "CI260101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2601",
+      "level": 2,
+      "name": {
+        "local": "Buyo",
+        "en": "Buyo",
+        "slug": "buyo-ci2601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI26",
+        "level": 1,
+        "name": {
+          "local": "Nawa",
+          "en": "Nawa",
+          "slug": "nawa-ci26"
+        }
+      },
+      {
+        "id": "CI2601",
+        "level": 2,
+        "name": {
+          "local": "Buyo",
+          "en": "Buyo",
+          "slug": "buyo-ci2601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.274",
+      "lon": "-7.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI260102",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dapéoua",
+      "en": "Dapéoua",
+      "slug": "dapoua-ci260102"
+    },
+    "code": {
+      "id": "CI260102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2601",
+      "level": 2,
+      "name": {
+        "local": "Buyo",
+        "en": "Buyo",
+        "slug": "buyo-ci2601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI26",
+        "level": 1,
+        "name": {
+          "local": "Nawa",
+          "en": "Nawa",
+          "slug": "nawa-ci26"
+        }
+      },
+      {
+        "id": "CI2601",
+        "level": 2,
+        "name": {
+          "local": "Buyo",
+          "en": "Buyo",
+          "slug": "buyo-ci2601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.05",
+      "lon": "-6.913"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

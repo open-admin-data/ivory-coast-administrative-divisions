@@ -1,0 +1,47 @@
+{
+  "id": "CI0303",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Taabo",
+    "en": "Taabo",
+    "slug": "taabo-ci0303"
+  },
+  "code": {
+    "id": "CI0303",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI03",
+    "level": 1,
+    "name": {
+      "local": "Agneby-Tiassa",
+      "en": "Agneby-Tiassa",
+      "slug": "agneby-tiassa-ci03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI03",
+      "level": 1,
+      "name": {
+        "local": "Agneby-Tiassa",
+        "en": "Agneby-Tiassa",
+        "slug": "agneby-tiassa-ci03"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.192",
+    "lon": "-4.994"
+  },
+  "metadata": {},
+  "source": {}
+}

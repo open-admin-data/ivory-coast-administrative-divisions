@@ -1,0 +1,30 @@
+{
+  "id": "CI28",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Poro",
+    "en": "Poro",
+    "slug": "poro-ci28"
+  },
+  "code": {
+    "id": "CI28",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 4,
+    "sub_prefecture": 27
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.476",
+    "lon": "-5.735"
+  },
+  "metadata": {},
+  "source": {}
+}

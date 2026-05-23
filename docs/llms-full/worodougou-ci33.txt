@@ -1,0 +1,63 @@
+# Worodougou — Ivory Coast Administrative Divisions
+
+> 2 departments, 11 sub-prefectures
+> Code: CI33
+> Coordinates: 8.428, -6.781
+> Last updated: 2026-05-23. License: CC-BY-4.0.
+
+## Departments
+
+### Kani
+
+Code: CI3301, Coordinates: 8.716, -6.821
+Sub-prefectures: 4
+
+#### Djibrosso
+
+Code: CI330102, Coordinates: 8.796, -7.038
+
+#### Fadiadougou
+
+Code: CI330103, Coordinates: 8.76, -6.629
+
+#### Kani
+
+Code: CI330101, Coordinates: 8.509, -6.605
+
+#### Morondo
+
+Code: CI330104, Coordinates: 8.938, -6.802
+
+### Séguéla
+
+Code: CI3302, Coordinates: 8.156, -6.709
+Sub-prefectures: 7
+
+#### Bobi-Diarabana
+
+Code: CI330202, Coordinates: 8.172, -6.61
+
+#### Dualla
+
+Code: CI330203, Coordinates: 8.16, -6.411
+
+#### Kamalo
+
+Code: CI330204, Coordinates: 7.87, -6.972
+
+#### Massala
+
+Code: CI330205, Coordinates: 7.926, -6.398
+
+#### Séguéla
+
+Code: CI330201, Coordinates: 7.915, -6.683
+
+#### Sifié
+
+Code: CI330206, Coordinates: 7.987, -6.943
+
+#### Worofla
+
+Code: CI330207, Coordinates: 8.296, -6.92
+

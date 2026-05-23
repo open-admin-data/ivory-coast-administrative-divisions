@@ -1,0 +1,30 @@
+{
+  "id": "CI03",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Agneby-Tiassa",
+    "en": "Agneby-Tiassa",
+    "slug": "agneby-tiassa-ci03"
+  },
+  "code": {
+    "id": "CI03",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 4,
+    "sub_prefecture": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.953",
+    "lon": "-4.538"
+  },
+  "metadata": {},
+  "source": {}
+}

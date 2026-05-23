@@ -1,0 +1,30 @@
+{
+  "id": "CI10",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Folon",
+    "en": "Folon",
+    "slug": "folon-ci10"
+  },
+  "code": {
+    "id": "CI10",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 2,
+    "sub_prefecture": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.085",
+    "lon": "-7.466"
+  },
+  "metadata": {},
+  "source": {}
+}

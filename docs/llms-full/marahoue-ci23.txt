@@ -1,0 +1,96 @@
+# Marahoue — Ivory Coast Administrative Divisions
+
+> 3 departments, 18 sub-prefectures
+> Code: CI23
+> Coordinates: 7.128, -5.744
+> Last updated: 2026-05-23. License: CC-BY-4.0.
+
+## Departments
+
+### Bouaflé
+
+Code: CI2301, Coordinates: 7.071, -5.79
+Sub-prefectures: 7
+
+#### Bégbéssou
+
+Code: CI230101, Coordinates: 7.069, -5.563
+
+#### Bonon
+
+Code: CI230102, Coordinates: 6.965, -6.038
+
+#### Bouaflé
+
+Code: CI230103, Coordinates: 6.974, -5.684
+
+#### N&#39;Douffoukankro
+
+Code: CI230104, Coordinates: 6.85, -5.839
+
+#### Pakouabo
+
+Code: CI230105, Coordinates: 7.129, -5.755
+
+#### Tibéita
+
+Code: CI230106, Coordinates: 7.28, -5.771
+
+#### Zaguiéta
+
+Code: CI230107, Coordinates: 6.766, -5.986
+
+### Sinfra
+
+Code: CI2302, Coordinates: 6.651, -5.762
+Sub-prefectures: 4
+
+#### Bazré
+
+Code: CI230202, Coordinates: 6.701, -5.484
+
+#### Kononfla
+
+Code: CI230203, Coordinates: 6.66, -5.617
+
+#### Kouétinfla
+
+Code: CI230204, Coordinates: 6.605, -6.055
+
+#### Sinfra
+
+Code: CI230201, Coordinates: 6.651, -5.871
+
+### Zuénoula
+
+Code: CI2303, Coordinates: 7.461, -6.057
+Sub-prefectures: 7
+
+#### Gohitafla
+
+Code: CI230302, Coordinates: 7.53, -5.819
+
+#### Iriéfla
+
+Code: CI230303, Coordinates: 7.688, -5.826
+
+#### Kanzra
+
+Code: CI230304, Coordinates: 7.318, -6.278
+
+#### Maminigui
+
+Code: CI230305, Coordinates: 7.358, -5.885
+
+#### Voueboufla
+
+Code: CI230306, Coordinates: 7.657, -5.954
+
+#### Zanzra
+
+Code: CI230307, Coordinates: 7.503, -6.224
+
+#### Zuénoula
+
+Code: CI230301, Coordinates: 7.42, -6.069
+

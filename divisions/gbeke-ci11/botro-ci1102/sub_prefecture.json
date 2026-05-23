@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CI110201",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Botro",
+      "en": "Botro",
+      "slug": "botro-ci110201"
+    },
+    "code": {
+      "id": "CI110201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1102",
+      "level": 2,
+      "name": {
+        "local": "Botro",
+        "en": "Botro",
+        "slug": "botro-ci1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI11",
+        "level": 1,
+        "name": {
+          "local": "Gbeke",
+          "en": "Gbeke",
+          "slug": "gbeke-ci11"
+        }
+      },
+      {
+        "id": "CI1102",
+        "level": 2,
+        "name": {
+          "local": "Botro",
+          "en": "Botro",
+          "slug": "botro-ci1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.871",
+      "lon": "-5.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI110202",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Diabo",
+      "en": "Diabo",
+      "slug": "diabo-ci110202"
+    },
+    "code": {
+      "id": "CI110202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1102",
+      "level": 2,
+      "name": {
+        "local": "Botro",
+        "en": "Botro",
+        "slug": "botro-ci1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI11",
+        "level": 1,
+        "name": {
+          "local": "Gbeke",
+          "en": "Gbeke",
+          "slug": "gbeke-ci11"
+        }
+      },
+      {
+        "id": "CI1102",
+        "level": 2,
+        "name": {
+          "local": "Botro",
+          "en": "Botro",
+          "slug": "botro-ci1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.841",
+      "lon": "-5.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI110203",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Krofoinsou",
+      "en": "Krofoinsou",
+      "slug": "krofoinsou-ci110203"
+    },
+    "code": {
+      "id": "CI110203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1102",
+      "level": 2,
+      "name": {
+        "local": "Botro",
+        "en": "Botro",
+        "slug": "botro-ci1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI11",
+        "level": 1,
+        "name": {
+          "local": "Gbeke",
+          "en": "Gbeke",
+          "slug": "gbeke-ci11"
+        }
+      },
+      {
+        "id": "CI1102",
+        "level": 2,
+        "name": {
+          "local": "Botro",
+          "en": "Botro",
+          "slug": "botro-ci1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.034",
+      "lon": "-5.297"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI110204",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Languibonou",
+      "en": "Languibonou",
+      "slug": "languibonou-ci110204"
+    },
+    "code": {
+      "id": "CI110204",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1102",
+      "level": 2,
+      "name": {
+        "local": "Botro",
+        "en": "Botro",
+        "slug": "botro-ci1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI11",
+        "level": 1,
+        "name": {
+          "local": "Gbeke",
+          "en": "Gbeke",
+          "slug": "gbeke-ci11"
+        }
+      },
+      {
+        "id": "CI1102",
+        "level": 2,
+        "name": {
+          "local": "Botro",
+          "en": "Botro",
+          "slug": "botro-ci1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.706",
+      "lon": "-5.27"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

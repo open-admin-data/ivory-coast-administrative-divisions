@@ -1,0 +1,272 @@
+[
+  {
+    "id": "CI090101",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bloléquin",
+      "en": "Bloléquin",
+      "slug": "blolquin-ci090101"
+    },
+    "code": {
+      "id": "CI090101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0901",
+      "level": 2,
+      "name": {
+        "local": "Bloléquin",
+        "en": "Bloléquin",
+        "slug": "blolquin-ci0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI09",
+        "level": 1,
+        "name": {
+          "local": "Cavally",
+          "en": "Cavally",
+          "slug": "cavally-ci09"
+        }
+      },
+      {
+        "id": "CI0901",
+        "level": 2,
+        "name": {
+          "local": "Bloléquin",
+          "en": "Bloléquin",
+          "slug": "blolquin-ci0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.633",
+      "lon": "-7.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI090102",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Diboké",
+      "en": "Diboké",
+      "slug": "dibok-ci090102"
+    },
+    "code": {
+      "id": "CI090102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0901",
+      "level": 2,
+      "name": {
+        "local": "Bloléquin",
+        "en": "Bloléquin",
+        "slug": "blolquin-ci0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI09",
+        "level": 1,
+        "name": {
+          "local": "Cavally",
+          "en": "Cavally",
+          "slug": "cavally-ci09"
+        }
+      },
+      {
+        "id": "CI0901",
+        "level": 2,
+        "name": {
+          "local": "Bloléquin",
+          "en": "Bloléquin",
+          "slug": "blolquin-ci0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.387",
+      "lon": "-8.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI090103",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Doké",
+      "en": "Doké",
+      "slug": "dok-ci090103"
+    },
+    "code": {
+      "id": "CI090103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0901",
+      "level": 2,
+      "name": {
+        "local": "Bloléquin",
+        "en": "Bloléquin",
+        "slug": "blolquin-ci0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI09",
+        "level": 1,
+        "name": {
+          "local": "Cavally",
+          "en": "Cavally",
+          "slug": "cavally-ci09"
+        }
+      },
+      {
+        "id": "CI0901",
+        "level": 2,
+        "name": {
+          "local": "Bloléquin",
+          "en": "Bloléquin",
+          "slug": "blolquin-ci0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.631",
+      "lon": "-8.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI090104",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tinhou",
+      "en": "Tinhou",
+      "slug": "tinhou-ci090104"
+    },
+    "code": {
+      "id": "CI090104",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0901",
+      "level": 2,
+      "name": {
+        "local": "Bloléquin",
+        "en": "Bloléquin",
+        "slug": "blolquin-ci0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI09",
+        "level": 1,
+        "name": {
+          "local": "Cavally",
+          "en": "Cavally",
+          "slug": "cavally-ci09"
+        }
+      },
+      {
+        "id": "CI0901",
+        "level": 2,
+        "name": {
+          "local": "Bloléquin",
+          "en": "Bloléquin",
+          "slug": "blolquin-ci0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.42",
+      "lon": "-8.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI090105",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Zéaglo",
+      "en": "Zéaglo",
+      "slug": "zaglo-ci090105"
+    },
+    "code": {
+      "id": "CI090105",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0901",
+      "level": 2,
+      "name": {
+        "local": "Bloléquin",
+        "en": "Bloléquin",
+        "slug": "blolquin-ci0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI09",
+        "level": 1,
+        "name": {
+          "local": "Cavally",
+          "en": "Cavally",
+          "slug": "cavally-ci09"
+        }
+      },
+      {
+        "id": "CI0901",
+        "level": 2,
+        "name": {
+          "local": "Bloléquin",
+          "en": "Bloléquin",
+          "slug": "blolquin-ci0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.519",
+      "lon": "-7.855"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

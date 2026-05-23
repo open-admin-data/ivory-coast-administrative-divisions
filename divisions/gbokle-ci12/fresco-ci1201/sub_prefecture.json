@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CI120101",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dahiri",
+      "en": "Dahiri",
+      "slug": "dahiri-ci120101"
+    },
+    "code": {
+      "id": "CI120101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1201",
+      "level": 2,
+      "name": {
+        "local": "Fresco",
+        "en": "Fresco",
+        "slug": "fresco-ci1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI12",
+        "level": 1,
+        "name": {
+          "local": "Gbokle",
+          "en": "Gbokle",
+          "slug": "gbokle-ci12"
+        }
+      },
+      {
+        "id": "CI1201",
+        "level": 2,
+        "name": {
+          "local": "Fresco",
+          "en": "Fresco",
+          "slug": "fresco-ci1201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.312",
+      "lon": "-5.593"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI120102",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Fresco",
+      "en": "Fresco",
+      "slug": "fresco-ci120102"
+    },
+    "code": {
+      "id": "CI120102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1201",
+      "level": 2,
+      "name": {
+        "local": "Fresco",
+        "en": "Fresco",
+        "slug": "fresco-ci1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI12",
+        "level": 1,
+        "name": {
+          "local": "Gbokle",
+          "en": "Gbokle",
+          "slug": "gbokle-ci12"
+        }
+      },
+      {
+        "id": "CI1201",
+        "level": 2,
+        "name": {
+          "local": "Fresco",
+          "en": "Fresco",
+          "slug": "fresco-ci1201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.146",
+      "lon": "-5.623"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI120103",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gbagbam",
+      "en": "Gbagbam",
+      "slug": "gbagbam-ci120103"
+    },
+    "code": {
+      "id": "CI120103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1201",
+      "level": 2,
+      "name": {
+        "local": "Fresco",
+        "en": "Fresco",
+        "slug": "fresco-ci1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI12",
+        "level": 1,
+        "name": {
+          "local": "Gbokle",
+          "en": "Gbokle",
+          "slug": "gbokle-ci12"
+        }
+      },
+      {
+        "id": "CI1201",
+        "level": 2,
+        "name": {
+          "local": "Fresco",
+          "en": "Fresco",
+          "slug": "fresco-ci1201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.508",
+      "lon": "-5.671"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

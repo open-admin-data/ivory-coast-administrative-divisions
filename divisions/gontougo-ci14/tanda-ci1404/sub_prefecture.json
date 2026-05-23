@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CI140402",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Amanvi",
+      "en": "Amanvi",
+      "slug": "amanvi-ci140402"
+    },
+    "code": {
+      "id": "CI140402",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1404",
+      "level": 2,
+      "name": {
+        "local": "Tanda",
+        "en": "Tanda",
+        "slug": "tanda-ci1404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI14",
+        "level": 1,
+        "name": {
+          "local": "Gontougo",
+          "en": "Gontougo",
+          "slug": "gontougo-ci14"
+        }
+      },
+      {
+        "id": "CI1404",
+        "level": 2,
+        "name": {
+          "local": "Tanda",
+          "en": "Tanda",
+          "slug": "tanda-ci1404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.967",
+      "lon": "-3.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI140403",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Diamba",
+      "en": "Diamba",
+      "slug": "diamba-ci140403"
+    },
+    "code": {
+      "id": "CI140403",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1404",
+      "level": 2,
+      "name": {
+        "local": "Tanda",
+        "en": "Tanda",
+        "slug": "tanda-ci1404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI14",
+        "level": 1,
+        "name": {
+          "local": "Gontougo",
+          "en": "Gontougo",
+          "slug": "gontougo-ci14"
+        }
+      },
+      {
+        "id": "CI1404",
+        "level": 2,
+        "name": {
+          "local": "Tanda",
+          "en": "Tanda",
+          "slug": "tanda-ci1404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.757",
+      "lon": "-3.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI140401",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tanda",
+      "en": "Tanda",
+      "slug": "tanda-ci140401"
+    },
+    "code": {
+      "id": "CI140401",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1404",
+      "level": 2,
+      "name": {
+        "local": "Tanda",
+        "en": "Tanda",
+        "slug": "tanda-ci1404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI14",
+        "level": 1,
+        "name": {
+          "local": "Gontougo",
+          "en": "Gontougo",
+          "slug": "gontougo-ci14"
+        }
+      },
+      {
+        "id": "CI1404",
+        "level": 2,
+        "name": {
+          "local": "Tanda",
+          "en": "Tanda",
+          "slug": "tanda-ci1404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.789",
+      "lon": "-3.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI140404",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tchèdio",
+      "en": "Tchèdio",
+      "slug": "tchdio-ci140404"
+    },
+    "code": {
+      "id": "CI140404",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1404",
+      "level": 2,
+      "name": {
+        "local": "Tanda",
+        "en": "Tanda",
+        "slug": "tanda-ci1404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI14",
+        "level": 1,
+        "name": {
+          "local": "Gontougo",
+          "en": "Gontougo",
+          "slug": "gontougo-ci14"
+        }
+      },
+      {
+        "id": "CI1404",
+        "level": 2,
+        "name": {
+          "local": "Tanda",
+          "en": "Tanda",
+          "slug": "tanda-ci1404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.944",
+      "lon": "-3.303"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

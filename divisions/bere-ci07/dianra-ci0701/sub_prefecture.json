@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CI070101",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dianra",
+      "en": "Dianra",
+      "slug": "dianra-ci070101"
+    },
+    "code": {
+      "id": "CI070101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0701",
+      "level": 2,
+      "name": {
+        "local": "Dianra",
+        "en": "Dianra",
+        "slug": "dianra-ci0701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI07",
+        "level": 1,
+        "name": {
+          "local": "Bere",
+          "en": "Bere",
+          "slug": "bere-ci07"
+        }
+      },
+      {
+        "id": "CI0701",
+        "level": 2,
+        "name": {
+          "local": "Dianra",
+          "en": "Dianra",
+          "slug": "dianra-ci0701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.002",
+      "lon": "-6.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI070102",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dianra-Village",
+      "en": "Dianra-Village",
+      "slug": "dianra-village-ci070102"
+    },
+    "code": {
+      "id": "CI070102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0701",
+      "level": 2,
+      "name": {
+        "local": "Dianra",
+        "en": "Dianra",
+        "slug": "dianra-ci0701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI07",
+        "level": 1,
+        "name": {
+          "local": "Bere",
+          "en": "Bere",
+          "slug": "bere-ci07"
+        }
+      },
+      {
+        "id": "CI0701",
+        "level": 2,
+        "name": {
+          "local": "Dianra",
+          "en": "Dianra",
+          "slug": "dianra-ci0701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.652",
+      "lon": "-6.253"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

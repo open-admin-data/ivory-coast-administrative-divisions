@@ -1,0 +1,47 @@
+{
+  "id": "CI3302",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Séguéla",
+    "en": "Séguéla",
+    "slug": "sgula-ci3302"
+  },
+  "code": {
+    "id": "CI3302",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI33",
+    "level": 1,
+    "name": {
+      "local": "Worodougou",
+      "en": "Worodougou",
+      "slug": "worodougou-ci33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI33",
+      "level": 1,
+      "name": {
+        "local": "Worodougou",
+        "en": "Worodougou",
+        "slug": "worodougou-ci33"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.156",
+    "lon": "-6.709"
+  },
+  "metadata": {},
+  "source": {}
+}

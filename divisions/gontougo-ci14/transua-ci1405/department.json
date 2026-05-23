@@ -1,0 +1,47 @@
+{
+  "id": "CI1405",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Transua",
+    "en": "Transua",
+    "slug": "transua-ci1405"
+  },
+  "code": {
+    "id": "CI1405",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI14",
+    "level": 1,
+    "name": {
+      "local": "Gontougo",
+      "en": "Gontougo",
+      "slug": "gontougo-ci14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI14",
+      "level": 1,
+      "name": {
+        "local": "Gontougo",
+        "en": "Gontougo",
+        "slug": "gontougo-ci14"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.576",
+    "lon": "-3.043"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,380 @@
+[
+  {
+    "id": "CI230101",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bégbéssou",
+      "en": "Bégbéssou",
+      "slug": "bgbssou-ci230101"
+    },
+    "code": {
+      "id": "CI230101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2301",
+      "level": 2,
+      "name": {
+        "local": "Bouaflé",
+        "en": "Bouaflé",
+        "slug": "bouafl-ci2301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI23",
+        "level": 1,
+        "name": {
+          "local": "Marahoue",
+          "en": "Marahoue",
+          "slug": "marahoue-ci23"
+        }
+      },
+      {
+        "id": "CI2301",
+        "level": 2,
+        "name": {
+          "local": "Bouaflé",
+          "en": "Bouaflé",
+          "slug": "bouafl-ci2301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.069",
+      "lon": "-5.563"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI230102",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bonon",
+      "en": "Bonon",
+      "slug": "bonon-ci230102"
+    },
+    "code": {
+      "id": "CI230102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2301",
+      "level": 2,
+      "name": {
+        "local": "Bouaflé",
+        "en": "Bouaflé",
+        "slug": "bouafl-ci2301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI23",
+        "level": 1,
+        "name": {
+          "local": "Marahoue",
+          "en": "Marahoue",
+          "slug": "marahoue-ci23"
+        }
+      },
+      {
+        "id": "CI2301",
+        "level": 2,
+        "name": {
+          "local": "Bouaflé",
+          "en": "Bouaflé",
+          "slug": "bouafl-ci2301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.965",
+      "lon": "-6.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI230103",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bouaflé",
+      "en": "Bouaflé",
+      "slug": "bouafl-ci230103"
+    },
+    "code": {
+      "id": "CI230103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2301",
+      "level": 2,
+      "name": {
+        "local": "Bouaflé",
+        "en": "Bouaflé",
+        "slug": "bouafl-ci2301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI23",
+        "level": 1,
+        "name": {
+          "local": "Marahoue",
+          "en": "Marahoue",
+          "slug": "marahoue-ci23"
+        }
+      },
+      {
+        "id": "CI2301",
+        "level": 2,
+        "name": {
+          "local": "Bouaflé",
+          "en": "Bouaflé",
+          "slug": "bouafl-ci2301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.974",
+      "lon": "-5.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI230104",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "N'Douffoukankro",
+      "en": "N'Douffoukankro",
+      "slug": "ndouffoukankro-ci230104"
+    },
+    "code": {
+      "id": "CI230104",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2301",
+      "level": 2,
+      "name": {
+        "local": "Bouaflé",
+        "en": "Bouaflé",
+        "slug": "bouafl-ci2301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI23",
+        "level": 1,
+        "name": {
+          "local": "Marahoue",
+          "en": "Marahoue",
+          "slug": "marahoue-ci23"
+        }
+      },
+      {
+        "id": "CI2301",
+        "level": 2,
+        "name": {
+          "local": "Bouaflé",
+          "en": "Bouaflé",
+          "slug": "bouafl-ci2301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.85",
+      "lon": "-5.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI230105",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Pakouabo",
+      "en": "Pakouabo",
+      "slug": "pakouabo-ci230105"
+    },
+    "code": {
+      "id": "CI230105",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2301",
+      "level": 2,
+      "name": {
+        "local": "Bouaflé",
+        "en": "Bouaflé",
+        "slug": "bouafl-ci2301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI23",
+        "level": 1,
+        "name": {
+          "local": "Marahoue",
+          "en": "Marahoue",
+          "slug": "marahoue-ci23"
+        }
+      },
+      {
+        "id": "CI2301",
+        "level": 2,
+        "name": {
+          "local": "Bouaflé",
+          "en": "Bouaflé",
+          "slug": "bouafl-ci2301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.129",
+      "lon": "-5.755"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI230106",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tibéita",
+      "en": "Tibéita",
+      "slug": "tibita-ci230106"
+    },
+    "code": {
+      "id": "CI230106",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2301",
+      "level": 2,
+      "name": {
+        "local": "Bouaflé",
+        "en": "Bouaflé",
+        "slug": "bouafl-ci2301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI23",
+        "level": 1,
+        "name": {
+          "local": "Marahoue",
+          "en": "Marahoue",
+          "slug": "marahoue-ci23"
+        }
+      },
+      {
+        "id": "CI2301",
+        "level": 2,
+        "name": {
+          "local": "Bouaflé",
+          "en": "Bouaflé",
+          "slug": "bouafl-ci2301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.28",
+      "lon": "-5.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI230107",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Zaguiéta",
+      "en": "Zaguiéta",
+      "slug": "zaguita-ci230107"
+    },
+    "code": {
+      "id": "CI230107",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2301",
+      "level": 2,
+      "name": {
+        "local": "Bouaflé",
+        "en": "Bouaflé",
+        "slug": "bouafl-ci2301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI23",
+        "level": 1,
+        "name": {
+          "local": "Marahoue",
+          "en": "Marahoue",
+          "slug": "marahoue-ci23"
+        }
+      },
+      {
+        "id": "CI2301",
+        "level": 2,
+        "name": {
+          "local": "Bouaflé",
+          "en": "Bouaflé",
+          "slug": "bouafl-ci2301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.766",
+      "lon": "-5.986"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

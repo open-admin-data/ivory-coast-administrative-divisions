@@ -1,0 +1,30 @@
+{
+  "id": "CI33",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Worodougou",
+    "en": "Worodougou",
+    "slug": "worodougou-ci33"
+  },
+  "code": {
+    "id": "CI33",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 2,
+    "sub_prefecture": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.428",
+    "lon": "-6.781"
+  },
+  "metadata": {},
+  "source": {}
+}

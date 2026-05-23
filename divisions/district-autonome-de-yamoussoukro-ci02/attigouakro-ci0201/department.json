@@ -1,0 +1,47 @@
+{
+  "id": "CI0201",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Attiégouakro",
+    "en": "Attiégouakro",
+    "slug": "attigouakro-ci0201"
+  },
+  "code": {
+    "id": "CI0201",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI02",
+    "level": 1,
+    "name": {
+      "local": "District Autonome De Yamoussoukro",
+      "en": "District Autonome De Yamoussoukro",
+      "slug": "district-autonome-de-yamoussoukro-ci02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI02",
+      "level": 1,
+      "name": {
+        "local": "District Autonome De Yamoussoukro",
+        "en": "District Autonome De Yamoussoukro",
+        "slug": "district-autonome-de-yamoussoukro-ci02"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.891",
+    "lon": "-5.118"
+  },
+  "metadata": {},
+  "source": {}
+}

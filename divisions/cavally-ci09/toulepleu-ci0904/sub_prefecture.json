@@ -1,0 +1,326 @@
+[
+  {
+    "id": "CI090402",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bakoubly",
+      "en": "Bakoubly",
+      "slug": "bakoubly-ci090402"
+    },
+    "code": {
+      "id": "CI090402",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0904",
+      "level": 2,
+      "name": {
+        "local": "Toulepleu",
+        "en": "Toulepleu",
+        "slug": "toulepleu-ci0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI09",
+        "level": 1,
+        "name": {
+          "local": "Cavally",
+          "en": "Cavally",
+          "slug": "cavally-ci09"
+        }
+      },
+      {
+        "id": "CI0904",
+        "level": 2,
+        "name": {
+          "local": "Toulepleu",
+          "en": "Toulepleu",
+          "slug": "toulepleu-ci0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.492",
+      "lon": "-8.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI090403",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Méo",
+      "en": "Méo",
+      "slug": "mo-ci090403"
+    },
+    "code": {
+      "id": "CI090403",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0904",
+      "level": 2,
+      "name": {
+        "local": "Toulepleu",
+        "en": "Toulepleu",
+        "slug": "toulepleu-ci0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI09",
+        "level": 1,
+        "name": {
+          "local": "Cavally",
+          "en": "Cavally",
+          "slug": "cavally-ci09"
+        }
+      },
+      {
+        "id": "CI0904",
+        "level": 2,
+        "name": {
+          "local": "Toulepleu",
+          "en": "Toulepleu",
+          "slug": "toulepleu-ci0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.455",
+      "lon": "-8.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI090404",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Nézobly",
+      "en": "Nézobly",
+      "slug": "nzobly-ci090404"
+    },
+    "code": {
+      "id": "CI090404",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0904",
+      "level": 2,
+      "name": {
+        "local": "Toulepleu",
+        "en": "Toulepleu",
+        "slug": "toulepleu-ci0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI09",
+        "level": 1,
+        "name": {
+          "local": "Cavally",
+          "en": "Cavally",
+          "slug": "cavally-ci09"
+        }
+      },
+      {
+        "id": "CI0904",
+        "level": 2,
+        "name": {
+          "local": "Toulepleu",
+          "en": "Toulepleu",
+          "slug": "toulepleu-ci0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.592",
+      "lon": "-8.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI090405",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Péhé",
+      "en": "Péhé",
+      "slug": "ph-ci090405"
+    },
+    "code": {
+      "id": "CI090405",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0904",
+      "level": 2,
+      "name": {
+        "local": "Toulepleu",
+        "en": "Toulepleu",
+        "slug": "toulepleu-ci0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI09",
+        "level": 1,
+        "name": {
+          "local": "Cavally",
+          "en": "Cavally",
+          "slug": "cavally-ci09"
+        }
+      },
+      {
+        "id": "CI0904",
+        "level": 2,
+        "name": {
+          "local": "Toulepleu",
+          "en": "Toulepleu",
+          "slug": "toulepleu-ci0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.553",
+      "lon": "-8.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI090406",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tiobly",
+      "en": "Tiobly",
+      "slug": "tiobly-ci090406"
+    },
+    "code": {
+      "id": "CI090406",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0904",
+      "level": 2,
+      "name": {
+        "local": "Toulepleu",
+        "en": "Toulepleu",
+        "slug": "toulepleu-ci0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI09",
+        "level": 1,
+        "name": {
+          "local": "Cavally",
+          "en": "Cavally",
+          "slug": "cavally-ci09"
+        }
+      },
+      {
+        "id": "CI0904",
+        "level": 2,
+        "name": {
+          "local": "Toulepleu",
+          "en": "Toulepleu",
+          "slug": "toulepleu-ci0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.505",
+      "lon": "-8.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI090401",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Toulepleu",
+      "en": "Toulepleu",
+      "slug": "toulepleu-ci090401"
+    },
+    "code": {
+      "id": "CI090401",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0904",
+      "level": 2,
+      "name": {
+        "local": "Toulepleu",
+        "en": "Toulepleu",
+        "slug": "toulepleu-ci0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI09",
+        "level": 1,
+        "name": {
+          "local": "Cavally",
+          "en": "Cavally",
+          "slug": "cavally-ci09"
+        }
+      },
+      {
+        "id": "CI0904",
+        "level": 2,
+        "name": {
+          "local": "Toulepleu",
+          "en": "Toulepleu",
+          "slug": "toulepleu-ci0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.598",
+      "lon": "-8.392"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

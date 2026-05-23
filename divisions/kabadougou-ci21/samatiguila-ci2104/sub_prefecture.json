@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CI210402",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kimbirila Sud",
+      "en": "Kimbirila Sud",
+      "slug": "kimbirila-sud-ci210402"
+    },
+    "code": {
+      "id": "CI210402",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2104",
+      "level": 2,
+      "name": {
+        "local": "Samatiguila",
+        "en": "Samatiguila",
+        "slug": "samatiguila-ci2104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI21",
+        "level": 1,
+        "name": {
+          "local": "Kabadougou",
+          "en": "Kabadougou",
+          "slug": "kabadougou-ci21"
+        }
+      },
+      {
+        "id": "CI2104",
+        "level": 2,
+        "name": {
+          "local": "Samatiguila",
+          "en": "Samatiguila",
+          "slug": "samatiguila-ci2104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.815",
+      "lon": "-7.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI210401",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Samatiguila",
+      "en": "Samatiguila",
+      "slug": "samatiguila-ci210401"
+    },
+    "code": {
+      "id": "CI210401",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2104",
+      "level": 2,
+      "name": {
+        "local": "Samatiguila",
+        "en": "Samatiguila",
+        "slug": "samatiguila-ci2104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI21",
+        "level": 1,
+        "name": {
+          "local": "Kabadougou",
+          "en": "Kabadougou",
+          "slug": "kabadougou-ci21"
+        }
+      },
+      {
+        "id": "CI2104",
+        "level": 2,
+        "name": {
+          "local": "Samatiguila",
+          "en": "Samatiguila",
+          "slug": "samatiguila-ci2104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.88",
+      "lon": "-7.609"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

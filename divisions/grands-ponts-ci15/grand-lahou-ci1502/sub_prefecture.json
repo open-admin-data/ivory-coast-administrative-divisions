@@ -1,0 +1,272 @@
+[
+  {
+    "id": "CI150201",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ahouanou",
+      "en": "Ahouanou",
+      "slug": "ahouanou-ci150201"
+    },
+    "code": {
+      "id": "CI150201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1502",
+      "level": 2,
+      "name": {
+        "local": "Grand-Lahou",
+        "en": "Grand-Lahou",
+        "slug": "grand-lahou-ci1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI15",
+        "level": 1,
+        "name": {
+          "local": "Grands Ponts",
+          "en": "Grands Ponts",
+          "slug": "grands-ponts-ci15"
+        }
+      },
+      {
+        "id": "CI1502",
+        "level": 2,
+        "name": {
+          "local": "Grand-Lahou",
+          "en": "Grand-Lahou",
+          "slug": "grand-lahou-ci1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.459",
+      "lon": "-4.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI150202",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bacanda",
+      "en": "Bacanda",
+      "slug": "bacanda-ci150202"
+    },
+    "code": {
+      "id": "CI150202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1502",
+      "level": 2,
+      "name": {
+        "local": "Grand-Lahou",
+        "en": "Grand-Lahou",
+        "slug": "grand-lahou-ci1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI15",
+        "level": 1,
+        "name": {
+          "local": "Grands Ponts",
+          "en": "Grands Ponts",
+          "slug": "grands-ponts-ci15"
+        }
+      },
+      {
+        "id": "CI1502",
+        "level": 2,
+        "name": {
+          "local": "Grand-Lahou",
+          "en": "Grand-Lahou",
+          "slug": "grand-lahou-ci1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.695",
+      "lon": "-4.879"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI150203",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ebonou",
+      "en": "Ebonou",
+      "slug": "ebonou-ci150203"
+    },
+    "code": {
+      "id": "CI150203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1502",
+      "level": 2,
+      "name": {
+        "local": "Grand-Lahou",
+        "en": "Grand-Lahou",
+        "slug": "grand-lahou-ci1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI15",
+        "level": 1,
+        "name": {
+          "local": "Grands Ponts",
+          "en": "Grands Ponts",
+          "slug": "grands-ponts-ci15"
+        }
+      },
+      {
+        "id": "CI1502",
+        "level": 2,
+        "name": {
+          "local": "Grand-Lahou",
+          "en": "Grand-Lahou",
+          "slug": "grand-lahou-ci1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.181",
+      "lon": "-5.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI150204",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Grand Lahou",
+      "en": "Grand Lahou",
+      "slug": "grand-lahou-ci150204"
+    },
+    "code": {
+      "id": "CI150204",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1502",
+      "level": 2,
+      "name": {
+        "local": "Grand-Lahou",
+        "en": "Grand-Lahou",
+        "slug": "grand-lahou-ci1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI15",
+        "level": 1,
+        "name": {
+          "local": "Grands Ponts",
+          "en": "Grands Ponts",
+          "slug": "grands-ponts-ci15"
+        }
+      },
+      {
+        "id": "CI1502",
+        "level": 2,
+        "name": {
+          "local": "Grand-Lahou",
+          "en": "Grand-Lahou",
+          "slug": "grand-lahou-ci1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.369",
+      "lon": "-4.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI150205",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Toukouzou",
+      "en": "Toukouzou",
+      "slug": "toukouzou-ci150205"
+    },
+    "code": {
+      "id": "CI150205",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1502",
+      "level": 2,
+      "name": {
+        "local": "Grand-Lahou",
+        "en": "Grand-Lahou",
+        "slug": "grand-lahou-ci1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI15",
+        "level": 1,
+        "name": {
+          "local": "Grands Ponts",
+          "en": "Grands Ponts",
+          "slug": "grands-ponts-ci15"
+        }
+      },
+      {
+        "id": "CI1502",
+        "level": 2,
+        "name": {
+          "local": "Grand-Lahou",
+          "en": "Grand-Lahou",
+          "slug": "grand-lahou-ci1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.158",
+      "lon": "-4.804"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

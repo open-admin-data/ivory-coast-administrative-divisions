@@ -1,0 +1,47 @@
+{
+  "id": "CI3301",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Kani",
+    "en": "Kani",
+    "slug": "kani-ci3301"
+  },
+  "code": {
+    "id": "CI3301",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI33",
+    "level": 1,
+    "name": {
+      "local": "Worodougou",
+      "en": "Worodougou",
+      "slug": "worodougou-ci33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI33",
+      "level": 1,
+      "name": {
+        "local": "Worodougou",
+        "en": "Worodougou",
+        "slug": "worodougou-ci33"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.716",
+    "lon": "-6.821"
+  },
+  "metadata": {},
+  "source": {}
+}

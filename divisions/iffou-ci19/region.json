@@ -1,0 +1,30 @@
+{
+  "id": "CI19",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Iffou",
+    "en": "Iffou",
+    "slug": "iffou-ci19"
+  },
+  "code": {
+    "id": "CI19",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 3,
+    "sub_prefecture": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.498",
+    "lon": "-4.112"
+  },
+  "metadata": {},
+  "source": {}
+}

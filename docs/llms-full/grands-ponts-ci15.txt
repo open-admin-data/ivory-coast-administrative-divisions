@@ -1,0 +1,64 @@
+# Grands Ponts — Ivory Coast Administrative Divisions
+
+> 3 departments, 10 sub-prefectures
+> Code: CI15
+> Coordinates: 5.455, -4.663
+> Last updated: 2026-05-23. License: CC-BY-4.0.
+
+## Departments
+
+### Dabou
+
+Code: CI1501, Coordinates: 5.401, -4.534
+Sub-prefectures: 3
+
+#### Dabou
+
+Code: CI150101, Coordinates: 5.379, -4.401
+
+#### Lopou
+
+Code: CI150102, Coordinates: 5.457, -4.52
+
+#### Toupah
+
+Code: CI150103, Coordinates: 5.401, -4.672
+
+### Grand-Lahou
+
+Code: CI1502, Coordinates: 5.455, -4.895
+Sub-prefectures: 5
+
+#### Ahouanou
+
+Code: CI150201, Coordinates: 5.459, -4.816
+
+#### Bacanda
+
+Code: CI150202, Coordinates: 5.695, -4.879
+
+#### Ebonou
+
+Code: CI150203, Coordinates: 5.181, -5.412
+
+#### Grand Lahou
+
+Code: CI150204, Coordinates: 5.369, -4.967
+
+#### Toukouzou
+
+Code: CI150205, Coordinates: 5.158, -4.804
+
+### Jacqueville
+
+Code: CI1503, Coordinates: 5.246, -4.426
+Sub-prefectures: 2
+
+#### Attoutou
+
+Code: CI150302, Coordinates: 5.242, -4.36
+
+#### Jacqueville
+
+Code: CI150301, Coordinates: 5.246, -4.724
+

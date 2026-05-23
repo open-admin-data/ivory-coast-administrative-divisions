@@ -1,0 +1,47 @@
+{
+  "id": "CI1404",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Tanda",
+    "en": "Tanda",
+    "slug": "tanda-ci1404"
+  },
+  "code": {
+    "id": "CI1404",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI14",
+    "level": 1,
+    "name": {
+      "local": "Gontougo",
+      "en": "Gontougo",
+      "slug": "gontougo-ci14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI14",
+      "level": 1,
+      "name": {
+        "local": "Gontougo",
+        "en": "Gontougo",
+        "slug": "gontougo-ci14"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.853",
+    "lon": "-3.153"
+  },
+  "metadata": {},
+  "source": {}
+}

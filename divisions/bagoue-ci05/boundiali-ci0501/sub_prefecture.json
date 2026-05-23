@@ -1,0 +1,272 @@
+[
+  {
+    "id": "CI050101",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Baya",
+      "en": "Baya",
+      "slug": "baya-ci050101"
+    },
+    "code": {
+      "id": "CI050101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0501",
+      "level": 2,
+      "name": {
+        "local": "Boundiali",
+        "en": "Boundiali",
+        "slug": "boundiali-ci0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI05",
+        "level": 1,
+        "name": {
+          "local": "Bagoue",
+          "en": "Bagoue",
+          "slug": "bagoue-ci05"
+        }
+      },
+      {
+        "id": "CI0501",
+        "level": 2,
+        "name": {
+          "local": "Boundiali",
+          "en": "Boundiali",
+          "slug": "boundiali-ci0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.967",
+      "lon": "-6.243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI050102",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Boundiali",
+      "en": "Boundiali",
+      "slug": "boundiali-ci050102"
+    },
+    "code": {
+      "id": "CI050102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0501",
+      "level": 2,
+      "name": {
+        "local": "Boundiali",
+        "en": "Boundiali",
+        "slug": "boundiali-ci0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI05",
+        "level": 1,
+        "name": {
+          "local": "Bagoue",
+          "en": "Bagoue",
+          "slug": "bagoue-ci05"
+        }
+      },
+      {
+        "id": "CI0501",
+        "level": 2,
+        "name": {
+          "local": "Boundiali",
+          "en": "Boundiali",
+          "slug": "boundiali-ci0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.375",
+      "lon": "-6.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI050103",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ganaoni",
+      "en": "Ganaoni",
+      "slug": "ganaoni-ci050103"
+    },
+    "code": {
+      "id": "CI050103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0501",
+      "level": 2,
+      "name": {
+        "local": "Boundiali",
+        "en": "Boundiali",
+        "slug": "boundiali-ci0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI05",
+        "level": 1,
+        "name": {
+          "local": "Bagoue",
+          "en": "Bagoue",
+          "slug": "bagoue-ci05"
+        }
+      },
+      {
+        "id": "CI0501",
+        "level": 2,
+        "name": {
+          "local": "Boundiali",
+          "en": "Boundiali",
+          "slug": "boundiali-ci0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.268",
+      "lon": "-6.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI050104",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kasséré",
+      "en": "Kasséré",
+      "slug": "kassr-ci050104"
+    },
+    "code": {
+      "id": "CI050104",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0501",
+      "level": 2,
+      "name": {
+        "local": "Boundiali",
+        "en": "Boundiali",
+        "slug": "boundiali-ci0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI05",
+        "level": 1,
+        "name": {
+          "local": "Bagoue",
+          "en": "Bagoue",
+          "slug": "bagoue-ci05"
+        }
+      },
+      {
+        "id": "CI0501",
+        "level": 2,
+        "name": {
+          "local": "Boundiali",
+          "en": "Boundiali",
+          "slug": "boundiali-ci0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.785",
+      "lon": "-6.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI050105",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Siempurgo",
+      "en": "Siempurgo",
+      "slug": "siempurgo-ci050105"
+    },
+    "code": {
+      "id": "CI050105",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0501",
+      "level": 2,
+      "name": {
+        "local": "Boundiali",
+        "en": "Boundiali",
+        "slug": "boundiali-ci0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI05",
+        "level": 1,
+        "name": {
+          "local": "Bagoue",
+          "en": "Bagoue",
+          "slug": "bagoue-ci05"
+        }
+      },
+      {
+        "id": "CI0501",
+        "level": 2,
+        "name": {
+          "local": "Boundiali",
+          "en": "Boundiali",
+          "slug": "boundiali-ci0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.55",
+      "lon": "-6.284"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

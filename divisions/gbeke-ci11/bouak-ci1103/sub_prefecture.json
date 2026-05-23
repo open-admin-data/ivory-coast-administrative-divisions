@@ -1,0 +1,272 @@
+[
+  {
+    "id": "CI110301",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bouaké",
+      "en": "Bouaké",
+      "slug": "bouak-ci110301"
+    },
+    "code": {
+      "id": "CI110301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1103",
+      "level": 2,
+      "name": {
+        "local": "Bouaké",
+        "en": "Bouaké",
+        "slug": "bouak-ci1103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI11",
+        "level": 1,
+        "name": {
+          "local": "Gbeke",
+          "en": "Gbeke",
+          "slug": "gbeke-ci11"
+        }
+      },
+      {
+        "id": "CI1103",
+        "level": 2,
+        "name": {
+          "local": "Bouaké",
+          "en": "Bouaké",
+          "slug": "bouak-ci1103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.761",
+      "lon": "-5.002"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI110302",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bounda",
+      "en": "Bounda",
+      "slug": "bounda-ci110302"
+    },
+    "code": {
+      "id": "CI110302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1103",
+      "level": 2,
+      "name": {
+        "local": "Bouaké",
+        "en": "Bouaké",
+        "slug": "bouak-ci1103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI11",
+        "level": 1,
+        "name": {
+          "local": "Gbeke",
+          "en": "Gbeke",
+          "slug": "gbeke-ci11"
+        }
+      },
+      {
+        "id": "CI1103",
+        "level": 2,
+        "name": {
+          "local": "Bouaké",
+          "en": "Bouaké",
+          "slug": "bouak-ci1103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.608",
+      "lon": "-4.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI110303",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Brobo",
+      "en": "Brobo",
+      "slug": "brobo-ci110303"
+    },
+    "code": {
+      "id": "CI110303",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1103",
+      "level": 2,
+      "name": {
+        "local": "Bouaké",
+        "en": "Bouaké",
+        "slug": "bouak-ci1103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI11",
+        "level": 1,
+        "name": {
+          "local": "Gbeke",
+          "en": "Gbeke",
+          "slug": "gbeke-ci11"
+        }
+      },
+      {
+        "id": "CI1103",
+        "level": 2,
+        "name": {
+          "local": "Bouaké",
+          "en": "Bouaké",
+          "slug": "bouak-ci1103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.64",
+      "lon": "-4.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI110304",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Djébonoua",
+      "en": "Djébonoua",
+      "slug": "djbonoua-ci110304"
+    },
+    "code": {
+      "id": "CI110304",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1103",
+      "level": 2,
+      "name": {
+        "local": "Bouaké",
+        "en": "Bouaké",
+        "slug": "bouak-ci1103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI11",
+        "level": 1,
+        "name": {
+          "local": "Gbeke",
+          "en": "Gbeke",
+          "slug": "gbeke-ci11"
+        }
+      },
+      {
+        "id": "CI1103",
+        "level": 2,
+        "name": {
+          "local": "Bouaké",
+          "en": "Bouaké",
+          "slug": "bouak-ci1103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.445",
+      "lon": "-5.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI110305",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mamini",
+      "en": "Mamini",
+      "slug": "mamini-ci110305"
+    },
+    "code": {
+      "id": "CI110305",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1103",
+      "level": 2,
+      "name": {
+        "local": "Bouaké",
+        "en": "Bouaké",
+        "slug": "bouak-ci1103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI11",
+        "level": 1,
+        "name": {
+          "local": "Gbeke",
+          "en": "Gbeke",
+          "slug": "gbeke-ci11"
+        }
+      },
+      {
+        "id": "CI1103",
+        "level": 2,
+        "name": {
+          "local": "Bouaké",
+          "en": "Bouaké",
+          "slug": "bouak-ci1103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.789",
+      "lon": "-4.7"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

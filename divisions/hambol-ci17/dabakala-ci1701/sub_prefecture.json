@@ -1,0 +1,542 @@
+[
+  {
+    "id": "CI170101",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bassawa",
+      "en": "Bassawa",
+      "slug": "bassawa-ci170101"
+    },
+    "code": {
+      "id": "CI170101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1701",
+      "level": 2,
+      "name": {
+        "local": "Dabakala",
+        "en": "Dabakala",
+        "slug": "dabakala-ci1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI17",
+        "level": 1,
+        "name": {
+          "local": "Hambol",
+          "en": "Hambol",
+          "slug": "hambol-ci17"
+        }
+      },
+      {
+        "id": "CI1701",
+        "level": 2,
+        "name": {
+          "local": "Dabakala",
+          "en": "Dabakala",
+          "slug": "dabakala-ci1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.109",
+      "lon": "-4.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI170102",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bonieredougou",
+      "en": "Bonieredougou",
+      "slug": "bonieredougou-ci170102"
+    },
+    "code": {
+      "id": "CI170102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1701",
+      "level": 2,
+      "name": {
+        "local": "Dabakala",
+        "en": "Dabakala",
+        "slug": "dabakala-ci1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI17",
+        "level": 1,
+        "name": {
+          "local": "Hambol",
+          "en": "Hambol",
+          "slug": "hambol-ci17"
+        }
+      },
+      {
+        "id": "CI1701",
+        "level": 2,
+        "name": {
+          "local": "Dabakala",
+          "en": "Dabakala",
+          "slug": "dabakala-ci1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.277",
+      "lon": "-4.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI170103",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dabakala",
+      "en": "Dabakala",
+      "slug": "dabakala-ci170103"
+    },
+    "code": {
+      "id": "CI170103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1701",
+      "level": 2,
+      "name": {
+        "local": "Dabakala",
+        "en": "Dabakala",
+        "slug": "dabakala-ci1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI17",
+        "level": 1,
+        "name": {
+          "local": "Hambol",
+          "en": "Hambol",
+          "slug": "hambol-ci17"
+        }
+      },
+      {
+        "id": "CI1701",
+        "level": 2,
+        "name": {
+          "local": "Dabakala",
+          "en": "Dabakala",
+          "slug": "dabakala-ci1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.387",
+      "lon": "-4.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI170104",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Foumbolo",
+      "en": "Foumbolo",
+      "slug": "foumbolo-ci170104"
+    },
+    "code": {
+      "id": "CI170104",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1701",
+      "level": 2,
+      "name": {
+        "local": "Dabakala",
+        "en": "Dabakala",
+        "slug": "dabakala-ci1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI17",
+        "level": 1,
+        "name": {
+          "local": "Hambol",
+          "en": "Hambol",
+          "slug": "hambol-ci17"
+        }
+      },
+      {
+        "id": "CI1701",
+        "level": 2,
+        "name": {
+          "local": "Dabakala",
+          "en": "Dabakala",
+          "slug": "dabakala-ci1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.718",
+      "lon": "-4.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI170105",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Niéméné",
+      "en": "Niéméné",
+      "slug": "nimn-ci170105"
+    },
+    "code": {
+      "id": "CI170105",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1701",
+      "level": 2,
+      "name": {
+        "local": "Dabakala",
+        "en": "Dabakala",
+        "slug": "dabakala-ci1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI17",
+        "level": 1,
+        "name": {
+          "local": "Hambol",
+          "en": "Hambol",
+          "slug": "hambol-ci17"
+        }
+      },
+      {
+        "id": "CI1701",
+        "level": 2,
+        "name": {
+          "local": "Dabakala",
+          "en": "Dabakala",
+          "slug": "dabakala-ci1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.484",
+      "lon": "-4.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI170106",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Satama-Sokoro",
+      "en": "Satama-Sokoro",
+      "slug": "satama-sokoro-ci170106"
+    },
+    "code": {
+      "id": "CI170106",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1701",
+      "level": 2,
+      "name": {
+        "local": "Dabakala",
+        "en": "Dabakala",
+        "slug": "dabakala-ci1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI17",
+        "level": 1,
+        "name": {
+          "local": "Hambol",
+          "en": "Hambol",
+          "slug": "hambol-ci17"
+        }
+      },
+      {
+        "id": "CI1701",
+        "level": 2,
+        "name": {
+          "local": "Dabakala",
+          "en": "Dabakala",
+          "slug": "dabakala-ci1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.017",
+      "lon": "-4.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI170107",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Satama-Sokoura",
+      "en": "Satama-Sokoura",
+      "slug": "satama-sokoura-ci170107"
+    },
+    "code": {
+      "id": "CI170107",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1701",
+      "level": 2,
+      "name": {
+        "local": "Dabakala",
+        "en": "Dabakala",
+        "slug": "dabakala-ci1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI17",
+        "level": 1,
+        "name": {
+          "local": "Hambol",
+          "en": "Hambol",
+          "slug": "hambol-ci17"
+        }
+      },
+      {
+        "id": "CI1701",
+        "level": 2,
+        "name": {
+          "local": "Dabakala",
+          "en": "Dabakala",
+          "slug": "dabakala-ci1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.965",
+      "lon": "-4.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI170108",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sokala-Sobara",
+      "en": "Sokala-Sobara",
+      "slug": "sokala-sobara-ci170108"
+    },
+    "code": {
+      "id": "CI170108",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1701",
+      "level": 2,
+      "name": {
+        "local": "Dabakala",
+        "en": "Dabakala",
+        "slug": "dabakala-ci1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI17",
+        "level": 1,
+        "name": {
+          "local": "Hambol",
+          "en": "Hambol",
+          "slug": "hambol-ci17"
+        }
+      },
+      {
+        "id": "CI1701",
+        "level": 2,
+        "name": {
+          "local": "Dabakala",
+          "en": "Dabakala",
+          "slug": "dabakala-ci1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.492",
+      "lon": "-4.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI170109",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tendéné-Bambarasso",
+      "en": "Tendéné-Bambarasso",
+      "slug": "tendn-bambarasso-ci170109"
+    },
+    "code": {
+      "id": "CI170109",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1701",
+      "level": 2,
+      "name": {
+        "local": "Dabakala",
+        "en": "Dabakala",
+        "slug": "dabakala-ci1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI17",
+        "level": 1,
+        "name": {
+          "local": "Hambol",
+          "en": "Hambol",
+          "slug": "hambol-ci17"
+        }
+      },
+      {
+        "id": "CI1701",
+        "level": 2,
+        "name": {
+          "local": "Dabakala",
+          "en": "Dabakala",
+          "slug": "dabakala-ci1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.491",
+      "lon": "-4.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI170110",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Yaossédougou",
+      "en": "Yaossédougou",
+      "slug": "yaossdougou-ci170110"
+    },
+    "code": {
+      "id": "CI170110",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1701",
+      "level": 2,
+      "name": {
+        "local": "Dabakala",
+        "en": "Dabakala",
+        "slug": "dabakala-ci1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI17",
+        "level": 1,
+        "name": {
+          "local": "Hambol",
+          "en": "Hambol",
+          "slug": "hambol-ci17"
+        }
+      },
+      {
+        "id": "CI1701",
+        "level": 2,
+        "name": {
+          "local": "Dabakala",
+          "en": "Dabakala",
+          "slug": "dabakala-ci1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.225",
+      "lon": "-4.249"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

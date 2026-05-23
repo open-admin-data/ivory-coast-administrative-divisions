@@ -1,0 +1,47 @@
+{
+  "id": "CI0601",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Didievi",
+    "en": "Didievi",
+    "slug": "didievi-ci0601"
+  },
+  "code": {
+    "id": "CI0601",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI06",
+    "level": 1,
+    "name": {
+      "local": "Belier",
+      "en": "Belier",
+      "slug": "belier-ci06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI06",
+      "level": 1,
+      "name": {
+        "local": "Belier",
+        "en": "Belier",
+        "slug": "belier-ci06"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.239",
+    "lon": "-4.835"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,5 @@
+id,name.local,name.en,name.slug,code.id,children_count.sub_prefecture,geo.lat,geo.lon
+CI0301,Agboville,Agboville,agboville-ci0301,CI0301,11,5.922,-4.335
+CI0302,Sikensi,Sikensi,sikensi-ci0302,CI0302,2,5.672,-4.528
+CI0303,Taabo,Taabo,taabo-ci0303,CI0303,2,6.192,-4.994
+CI0304,Tiassalé,Tiassalé,tiassal-ci0304,CI0304,4,5.931,-4.796

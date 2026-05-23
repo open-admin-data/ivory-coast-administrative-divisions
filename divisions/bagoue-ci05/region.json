@@ -1,0 +1,30 @@
+{
+  "id": "CI05",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Bagoue",
+    "en": "Bagoue",
+    "slug": "bagoue-ci05"
+  },
+  "code": {
+    "id": "CI05",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 3,
+    "sub_prefecture": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.903",
+    "lon": "-6.453"
+  },
+  "metadata": {},
+  "source": {}
+}

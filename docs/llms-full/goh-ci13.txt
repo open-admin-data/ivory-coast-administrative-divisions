@@ -1,0 +1,83 @@
+# Goh — Ivory Coast Administrative Divisions
+
+> 2 departments, 16 sub-prefectures
+> Code: CI13
+> Coordinates: 6.152, -6.091
+> Last updated: 2026-05-23. License: CC-BY-4.0.
+
+## Departments
+
+### Gagnoa
+
+Code: CI1301, Coordinates: 6.074, -6.073
+Sub-prefectures: 12
+
+#### Bayota
+
+Code: CI130101, Coordinates: 6.455, -5.973
+
+#### Dahiépa-Kéhi
+
+Code: CI130102, Coordinates: 6.269, -5.81
+
+#### Dignago
+
+Code: CI130103, Coordinates: 6.213, -6.345
+
+#### Dougroupalégnoa
+
+Code: CI130104, Coordinates: 5.984, -5.941
+
+#### Doukouyo
+
+Code: CI130105, Coordinates: 5.768, -6.038
+
+#### Gagnoa
+
+Code: CI130106, Coordinates: 6.054, -6.07
+
+#### Galébouo
+
+Code: CI130107, Coordinates: 5.997, -6.243
+
+#### Gnagbodougnoa
+
+Code: CI130108, Coordinates: 5.931, -5.852
+
+#### Guiberoua
+
+Code: CI130109, Coordinates: 6.285, -6.174
+
+#### Ouragahio
+
+Code: CI130110, Coordinates: 6.321, -5.979
+
+#### Sérihio
+
+Code: CI130111, Coordinates: 5.852, -6.169
+
+#### Yopohue
+
+Code: CI130112, Coordinates: 6.436, -5.819
+
+### Oumé
+
+Code: CI1302, Coordinates: 6.401, -5.53
+Sub-prefectures: 4
+
+#### Diégonéfla
+
+Code: CI130202, Coordinates: 6.254, -5.581
+
+#### Guépahouo
+
+Code: CI130203, Coordinates: 6.48, -5.692
+
+#### Oumé
+
+Code: CI130201, Coordinates: 6.412, -5.479
+
+#### Tonla
+
+Code: CI130204, Coordinates: 6.332, -5.662
+

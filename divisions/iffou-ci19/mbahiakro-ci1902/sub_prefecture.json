@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CI190202",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bonguéra",
+      "en": "Bonguéra",
+      "slug": "bongura-ci190202"
+    },
+    "code": {
+      "id": "CI190202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1902",
+      "level": 2,
+      "name": {
+        "local": "M'Bahiakro",
+        "en": "M'Bahiakro",
+        "slug": "mbahiakro-ci1902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI19",
+        "level": 1,
+        "name": {
+          "local": "Iffou",
+          "en": "Iffou",
+          "slug": "iffou-ci19"
+        }
+      },
+      {
+        "id": "CI1902",
+        "level": 2,
+        "name": {
+          "local": "M'Bahiakro",
+          "en": "M'Bahiakro",
+          "slug": "mbahiakro-ci1902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.771",
+      "lon": "-4.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI190203",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kondossou",
+      "en": "Kondossou",
+      "slug": "kondossou-ci190203"
+    },
+    "code": {
+      "id": "CI190203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1902",
+      "level": 2,
+      "name": {
+        "local": "M'Bahiakro",
+        "en": "M'Bahiakro",
+        "slug": "mbahiakro-ci1902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI19",
+        "level": 1,
+        "name": {
+          "local": "Iffou",
+          "en": "Iffou",
+          "slug": "iffou-ci19"
+        }
+      },
+      {
+        "id": "CI1902",
+        "level": 2,
+        "name": {
+          "local": "M'Bahiakro",
+          "en": "M'Bahiakro",
+          "slug": "mbahiakro-ci1902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.739",
+      "lon": "-4.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI190201",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "M'Bahiakro",
+      "en": "M'Bahiakro",
+      "slug": "mbahiakro-ci190201"
+    },
+    "code": {
+      "id": "CI190201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1902",
+      "level": 2,
+      "name": {
+        "local": "M'Bahiakro",
+        "en": "M'Bahiakro",
+        "slug": "mbahiakro-ci1902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI19",
+        "level": 1,
+        "name": {
+          "local": "Iffou",
+          "en": "Iffou",
+          "slug": "iffou-ci19"
+        }
+      },
+      {
+        "id": "CI1902",
+        "level": 2,
+        "name": {
+          "local": "M'Bahiakro",
+          "en": "M'Bahiakro",
+          "slug": "mbahiakro-ci1902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.491",
+      "lon": "-4.333"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

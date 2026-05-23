@@ -1,0 +1,68 @@
+# Moronou — Ivory Coast Administrative Divisions
+
+> 3 departments, 11 sub-prefectures
+> Code: CI25
+> Coordinates: 6.594, -4.174
+> Last updated: 2026-05-23. License: CC-BY-4.0.
+
+## Departments
+
+### Arrah
+
+Code: CI2501, Coordinates: 6.767, -3.939
+Sub-prefectures: 3
+
+#### Arrah
+
+Code: CI250101, Coordinates: 6.689, -3.907
+
+#### Kotobi
+
+Code: CI250102, Coordinates: 6.708, -4.068
+
+#### Krégbé
+
+Code: CI250103, Coordinates: 6.877, -3.908
+
+### Bongouanou
+
+Code: CI2502, Coordinates: 6.733, -4.268
+Sub-prefectures: 4
+
+#### Andé
+
+Code: CI250201, Coordinates: 6.865, -4.112
+
+#### Assié-Koumassi
+
+Code: CI250202, Coordinates: 6.822, -4.253
+
+#### Bongouanou
+
+Code: CI250203, Coordinates: 6.624, -4.173
+
+#### N&#39;Guessankro
+
+Code: CI250204, Coordinates: 6.64, -4.325
+
+### M&#39;Batto
+
+Code: CI2503, Coordinates: 6.464, -4.435
+Sub-prefectures: 4
+
+#### Anoumaba
+
+Code: CI250302, Coordinates: 6.367, -4.468
+
+#### Assahara
+
+Code: CI250303, Coordinates: 6.665, -4.473
+
+#### M&#39;Batto
+
+Code: CI250301, Coordinates: 6.391, -4.276
+
+#### Tiémélékro
+
+Code: CI250304, Coordinates: 6.457, -4.607
+

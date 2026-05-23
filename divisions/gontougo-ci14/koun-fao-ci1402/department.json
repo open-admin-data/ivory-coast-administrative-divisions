@@ -1,0 +1,47 @@
+{
+  "id": "CI1402",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Koun Fao",
+    "en": "Koun Fao",
+    "slug": "koun-fao-ci1402"
+  },
+  "code": {
+    "id": "CI1402",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI14",
+    "level": 1,
+    "name": {
+      "local": "Gontougo",
+      "en": "Gontougo",
+      "slug": "gontougo-ci14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI14",
+      "level": 1,
+      "name": {
+        "local": "Gontougo",
+        "en": "Gontougo",
+        "slug": "gontougo-ci14"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.509",
+    "lon": "-3.376"
+  },
+  "metadata": {},
+  "source": {}
+}

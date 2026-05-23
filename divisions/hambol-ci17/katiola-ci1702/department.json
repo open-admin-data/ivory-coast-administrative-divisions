@@ -1,0 +1,47 @@
+{
+  "id": "CI1702",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Katiola",
+    "en": "Katiola",
+    "slug": "katiola-ci1702"
+  },
+  "code": {
+    "id": "CI1702",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI17",
+    "level": 1,
+    "name": {
+      "local": "Hambol",
+      "en": "Hambol",
+      "slug": "hambol-ci17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI17",
+      "level": 1,
+      "name": {
+        "local": "Hambol",
+        "en": "Hambol",
+        "slug": "hambol-ci17"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.206",
+    "lon": "-5.103"
+  },
+  "metadata": {},
+  "source": {}
+}

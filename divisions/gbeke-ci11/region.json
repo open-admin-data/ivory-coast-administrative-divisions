@@ -1,0 +1,30 @@
+{
+  "id": "CI11",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Gbeke",
+    "en": "Gbeke",
+    "slug": "gbeke-ci11"
+  },
+  "code": {
+    "id": "CI11",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 4,
+    "sub_prefecture": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.692",
+    "lon": "-5.099"
+  },
+  "metadata": {},
+  "source": {}
+}

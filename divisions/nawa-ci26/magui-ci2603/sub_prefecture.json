@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CI260301",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Méagui",
+      "en": "Méagui",
+      "slug": "magui-ci260301"
+    },
+    "code": {
+      "id": "CI260301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2603",
+      "level": 2,
+      "name": {
+        "local": "Méagui",
+        "en": "Méagui",
+        "slug": "magui-ci2603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI26",
+        "level": 1,
+        "name": {
+          "local": "Nawa",
+          "en": "Nawa",
+          "slug": "nawa-ci26"
+        }
+      },
+      {
+        "id": "CI2603",
+        "level": 2,
+        "name": {
+          "local": "Méagui",
+          "en": "Méagui",
+          "slug": "magui-ci2603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.421",
+      "lon": "-6.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI260302",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Oupoyo",
+      "en": "Oupoyo",
+      "slug": "oupoyo-ci260302"
+    },
+    "code": {
+      "id": "CI260302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2603",
+      "level": 2,
+      "name": {
+        "local": "Méagui",
+        "en": "Méagui",
+        "slug": "magui-ci2603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI26",
+        "level": 1,
+        "name": {
+          "local": "Nawa",
+          "en": "Nawa",
+          "slug": "nawa-ci26"
+        }
+      },
+      {
+        "id": "CI2603",
+        "level": 2,
+        "name": {
+          "local": "Méagui",
+          "en": "Méagui",
+          "slug": "magui-ci2603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.578",
+      "lon": "-6.601"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

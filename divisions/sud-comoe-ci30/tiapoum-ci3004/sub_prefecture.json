@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CI300402",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Noé",
+      "en": "Noé",
+      "slug": "no-ci300402"
+    },
+    "code": {
+      "id": "CI300402",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3004",
+      "level": 2,
+      "name": {
+        "local": "Tiapoum",
+        "en": "Tiapoum",
+        "slug": "tiapoum-ci3004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI30",
+        "level": 1,
+        "name": {
+          "local": "Sud-Comoe",
+          "en": "Sud-Comoe",
+          "slug": "sud-comoe-ci30"
+        }
+      },
+      {
+        "id": "CI3004",
+        "level": 2,
+        "name": {
+          "local": "Tiapoum",
+          "en": "Tiapoum",
+          "slug": "tiapoum-ci3004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.283",
+      "lon": "-2.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI300403",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Nouamou",
+      "en": "Nouamou",
+      "slug": "nouamou-ci300403"
+    },
+    "code": {
+      "id": "CI300403",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3004",
+      "level": 2,
+      "name": {
+        "local": "Tiapoum",
+        "en": "Tiapoum",
+        "slug": "tiapoum-ci3004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI30",
+        "level": 1,
+        "name": {
+          "local": "Sud-Comoe",
+          "en": "Sud-Comoe",
+          "slug": "sud-comoe-ci30"
+        }
+      },
+      {
+        "id": "CI3004",
+        "level": 2,
+        "name": {
+          "local": "Tiapoum",
+          "en": "Tiapoum",
+          "slug": "tiapoum-ci3004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.211",
+      "lon": "-2.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI300401",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tiapoum",
+      "en": "Tiapoum",
+      "slug": "tiapoum-ci300401"
+    },
+    "code": {
+      "id": "CI300401",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3004",
+      "level": 2,
+      "name": {
+        "local": "Tiapoum",
+        "en": "Tiapoum",
+        "slug": "tiapoum-ci3004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI30",
+        "level": 1,
+        "name": {
+          "local": "Sud-Comoe",
+          "en": "Sud-Comoe",
+          "slug": "sud-comoe-ci30"
+        }
+      },
+      {
+        "id": "CI3004",
+        "level": 2,
+        "name": {
+          "local": "Tiapoum",
+          "en": "Tiapoum",
+          "slug": "tiapoum-ci3004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.15",
+      "lon": "-3.013"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

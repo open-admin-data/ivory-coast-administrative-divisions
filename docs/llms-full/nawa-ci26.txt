@@ -1,0 +1,73 @@
+# Nawa — Ivory Coast Administrative Divisions
+
+> 4 departments, 11 sub-prefectures
+> Code: CI26
+> Coordinates: 5.911, -6.69
+> Last updated: 2026-05-23. License: CC-BY-4.0.
+
+## Departments
+
+### Buyo
+
+Code: CI2601, Coordinates: 6.189, -6.945
+Sub-prefectures: 2
+
+#### Buyo
+
+Code: CI260101, Coordinates: 6.274, -7.009
+
+#### Dapéoua
+
+Code: CI260102, Coordinates: 6.05, -6.913
+
+### Guéyo
+
+Code: CI2602, Coordinates: 5.561, -6.108
+Sub-prefectures: 2
+
+#### Dabouyo
+
+Code: CI260202, Coordinates: 5.495, -6.084
+
+#### Guéyo
+
+Code: CI260201, Coordinates: 5.687, -6.143
+
+### Méagui
+
+Code: CI2603, Coordinates: 5.504, -6.745
+Sub-prefectures: 2
+
+#### Méagui
+
+Code: CI260301, Coordinates: 5.421, -6.589
+
+#### Oupoyo
+
+Code: CI260302, Coordinates: 5.578, -6.601
+
+### Soubré
+
+Code: CI2604, Coordinates: 5.926, -6.59
+Sub-prefectures: 5
+
+#### Gnanmangui
+
+Code: CI260402, Coordinates: 5.765, -6.888
+
+#### Grand-Zatry
+
+Code: CI260403, Coordinates: 6.142, -6.565
+
+#### Liliyo
+
+Code: CI260404, Coordinates: 5.945, -6.43
+
+#### Okrouyo
+
+Code: CI260405, Coordinates: 5.707, -6.396
+
+#### Soubre
+
+Code: CI260401, Coordinates: 5.87, -6.618
+

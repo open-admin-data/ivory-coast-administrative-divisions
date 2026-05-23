@@ -1,0 +1,237 @@
+[
+  {
+    "id": "CI3201",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Biankouma",
+      "en": "Biankouma",
+      "slug": "biankouma-ci3201"
+    },
+    "code": {
+      "id": "CI3201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI32",
+      "level": 1,
+      "name": {
+        "local": "Tonkpi",
+        "en": "Tonkpi",
+        "slug": "tonkpi-ci32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI32",
+        "level": 1,
+        "name": {
+          "local": "Tonkpi",
+          "en": "Tonkpi",
+          "slug": "tonkpi-ci32"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.762",
+      "lon": "-7.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI3202",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Danané",
+      "en": "Danané",
+      "slug": "danan-ci3202"
+    },
+    "code": {
+      "id": "CI3202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI32",
+      "level": 1,
+      "name": {
+        "local": "Tonkpi",
+        "en": "Tonkpi",
+        "slug": "tonkpi-ci32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI32",
+        "level": 1,
+        "name": {
+          "local": "Tonkpi",
+          "en": "Tonkpi",
+          "slug": "tonkpi-ci32"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.37",
+      "lon": "-8.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI3203",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Man",
+      "en": "Man",
+      "slug": "man-ci3203"
+    },
+    "code": {
+      "id": "CI3203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI32",
+      "level": 1,
+      "name": {
+        "local": "Tonkpi",
+        "en": "Tonkpi",
+        "slug": "tonkpi-ci32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI32",
+        "level": 1,
+        "name": {
+          "local": "Tonkpi",
+          "en": "Tonkpi",
+          "slug": "tonkpi-ci32"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.336",
+      "lon": "-7.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI3204",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Sipilou",
+      "en": "Sipilou",
+      "slug": "sipilou-ci3204"
+    },
+    "code": {
+      "id": "CI3204",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI32",
+      "level": 1,
+      "name": {
+        "local": "Tonkpi",
+        "en": "Tonkpi",
+        "slug": "tonkpi-ci32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI32",
+        "level": 1,
+        "name": {
+          "local": "Tonkpi",
+          "en": "Tonkpi",
+          "slug": "tonkpi-ci32"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.868",
+      "lon": "-7.949"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI3205",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Zouan-Hounien",
+      "en": "Zouan-Hounien",
+      "slug": "zouan-hounien-ci3205"
+    },
+    "code": {
+      "id": "CI3205",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI32",
+      "level": 1,
+      "name": {
+        "local": "Tonkpi",
+        "en": "Tonkpi",
+        "slug": "tonkpi-ci32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI32",
+        "level": 1,
+        "name": {
+          "local": "Tonkpi",
+          "en": "Tonkpi",
+          "slug": "tonkpi-ci32"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.856",
+      "lon": "-8.206"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

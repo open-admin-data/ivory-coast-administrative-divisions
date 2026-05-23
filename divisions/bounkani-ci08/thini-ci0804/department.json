@@ -1,0 +1,47 @@
+{
+  "id": "CI0804",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Téhini",
+    "en": "Téhini",
+    "slug": "thini-ci0804"
+  },
+  "code": {
+    "id": "CI0804",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI08",
+    "level": 1,
+    "name": {
+      "local": "Bounkani",
+      "en": "Bounkani",
+      "slug": "bounkani-ci08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI08",
+      "level": 1,
+      "name": {
+        "local": "Bounkani",
+        "en": "Bounkani",
+        "slug": "bounkani-ci08"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.752",
+    "lon": "-3.873"
+  },
+  "metadata": {},
+  "source": {}
+}

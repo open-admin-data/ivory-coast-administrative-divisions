@@ -1,0 +1,5 @@
+id,name.local,name.en,name.slug,code.id,children_count.sub_prefecture,geo.lat,geo.lon
+CI0601,Didievi,Didievi,didievi-ci0601,CI0601,5,7.239,-4.835
+CI0602,Djekanou,Djekanou,djekanou-ci0602,CI0602,2,6.413,-5.117
+CI0603,Tiébissou,Tiébissou,tibissou-ci0603,CI0603,4,7.121,-5.207
+CI0604,Toumodi,Toumodi,toumodi-ci0604,CI0604,4,6.51,-4.933

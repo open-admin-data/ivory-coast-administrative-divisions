@@ -1,0 +1,30 @@
+{
+  "id": "CI12",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Gbokle",
+    "en": "Gbokle",
+    "slug": "gbokle-ci12"
+  },
+  "code": {
+    "id": "CI12",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 2,
+    "sub_prefecture": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.243",
+    "lon": "-5.93"
+  },
+  "metadata": {},
+  "source": {}
+}

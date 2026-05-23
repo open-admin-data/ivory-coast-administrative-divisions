@@ -1,0 +1,47 @@
+{
+  "id": "CI1001",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Kaniasso",
+    "en": "Kaniasso",
+    "slug": "kaniasso-ci1001"
+  },
+  "code": {
+    "id": "CI1001",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI10",
+    "level": 1,
+    "name": {
+      "local": "Folon",
+      "en": "Folon",
+      "slug": "folon-ci10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI10",
+      "level": 1,
+      "name": {
+        "local": "Folon",
+        "en": "Folon",
+        "slug": "folon-ci10"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.05",
+    "lon": "-7.14"
+  },
+  "metadata": {},
+  "source": {}
+}

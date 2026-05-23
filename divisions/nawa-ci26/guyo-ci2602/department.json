@@ -1,0 +1,47 @@
+{
+  "id": "CI2602",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Guéyo",
+    "en": "Guéyo",
+    "slug": "guyo-ci2602"
+  },
+  "code": {
+    "id": "CI2602",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI26",
+    "level": 1,
+    "name": {
+      "local": "Nawa",
+      "en": "Nawa",
+      "slug": "nawa-ci26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI26",
+      "level": 1,
+      "name": {
+        "local": "Nawa",
+        "en": "Nawa",
+        "slug": "nawa-ci26"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.561",
+    "lon": "-6.108"
+  },
+  "metadata": {},
+  "source": {}
+}

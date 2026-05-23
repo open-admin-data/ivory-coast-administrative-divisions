@@ -1,0 +1,380 @@
+[
+  {
+    "id": "CI230302",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gohitafla",
+      "en": "Gohitafla",
+      "slug": "gohitafla-ci230302"
+    },
+    "code": {
+      "id": "CI230302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2303",
+      "level": 2,
+      "name": {
+        "local": "Zuénoula",
+        "en": "Zuénoula",
+        "slug": "zunoula-ci2303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI23",
+        "level": 1,
+        "name": {
+          "local": "Marahoue",
+          "en": "Marahoue",
+          "slug": "marahoue-ci23"
+        }
+      },
+      {
+        "id": "CI2303",
+        "level": 2,
+        "name": {
+          "local": "Zuénoula",
+          "en": "Zuénoula",
+          "slug": "zunoula-ci2303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.53",
+      "lon": "-5.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI230303",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Iriéfla",
+      "en": "Iriéfla",
+      "slug": "irifla-ci230303"
+    },
+    "code": {
+      "id": "CI230303",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2303",
+      "level": 2,
+      "name": {
+        "local": "Zuénoula",
+        "en": "Zuénoula",
+        "slug": "zunoula-ci2303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI23",
+        "level": 1,
+        "name": {
+          "local": "Marahoue",
+          "en": "Marahoue",
+          "slug": "marahoue-ci23"
+        }
+      },
+      {
+        "id": "CI2303",
+        "level": 2,
+        "name": {
+          "local": "Zuénoula",
+          "en": "Zuénoula",
+          "slug": "zunoula-ci2303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.688",
+      "lon": "-5.826"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI230304",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kanzra",
+      "en": "Kanzra",
+      "slug": "kanzra-ci230304"
+    },
+    "code": {
+      "id": "CI230304",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2303",
+      "level": 2,
+      "name": {
+        "local": "Zuénoula",
+        "en": "Zuénoula",
+        "slug": "zunoula-ci2303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI23",
+        "level": 1,
+        "name": {
+          "local": "Marahoue",
+          "en": "Marahoue",
+          "slug": "marahoue-ci23"
+        }
+      },
+      {
+        "id": "CI2303",
+        "level": 2,
+        "name": {
+          "local": "Zuénoula",
+          "en": "Zuénoula",
+          "slug": "zunoula-ci2303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.318",
+      "lon": "-6.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI230305",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Maminigui",
+      "en": "Maminigui",
+      "slug": "maminigui-ci230305"
+    },
+    "code": {
+      "id": "CI230305",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2303",
+      "level": 2,
+      "name": {
+        "local": "Zuénoula",
+        "en": "Zuénoula",
+        "slug": "zunoula-ci2303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI23",
+        "level": 1,
+        "name": {
+          "local": "Marahoue",
+          "en": "Marahoue",
+          "slug": "marahoue-ci23"
+        }
+      },
+      {
+        "id": "CI2303",
+        "level": 2,
+        "name": {
+          "local": "Zuénoula",
+          "en": "Zuénoula",
+          "slug": "zunoula-ci2303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.358",
+      "lon": "-5.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI230306",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Voueboufla",
+      "en": "Voueboufla",
+      "slug": "voueboufla-ci230306"
+    },
+    "code": {
+      "id": "CI230306",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2303",
+      "level": 2,
+      "name": {
+        "local": "Zuénoula",
+        "en": "Zuénoula",
+        "slug": "zunoula-ci2303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI23",
+        "level": 1,
+        "name": {
+          "local": "Marahoue",
+          "en": "Marahoue",
+          "slug": "marahoue-ci23"
+        }
+      },
+      {
+        "id": "CI2303",
+        "level": 2,
+        "name": {
+          "local": "Zuénoula",
+          "en": "Zuénoula",
+          "slug": "zunoula-ci2303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.657",
+      "lon": "-5.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI230307",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Zanzra",
+      "en": "Zanzra",
+      "slug": "zanzra-ci230307"
+    },
+    "code": {
+      "id": "CI230307",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2303",
+      "level": 2,
+      "name": {
+        "local": "Zuénoula",
+        "en": "Zuénoula",
+        "slug": "zunoula-ci2303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI23",
+        "level": 1,
+        "name": {
+          "local": "Marahoue",
+          "en": "Marahoue",
+          "slug": "marahoue-ci23"
+        }
+      },
+      {
+        "id": "CI2303",
+        "level": 2,
+        "name": {
+          "local": "Zuénoula",
+          "en": "Zuénoula",
+          "slug": "zunoula-ci2303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.503",
+      "lon": "-6.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI230301",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Zuénoula",
+      "en": "Zuénoula",
+      "slug": "zunoula-ci230301"
+    },
+    "code": {
+      "id": "CI230301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2303",
+      "level": 2,
+      "name": {
+        "local": "Zuénoula",
+        "en": "Zuénoula",
+        "slug": "zunoula-ci2303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI23",
+        "level": 1,
+        "name": {
+          "local": "Marahoue",
+          "en": "Marahoue",
+          "slug": "marahoue-ci23"
+        }
+      },
+      {
+        "id": "CI2303",
+        "level": 2,
+        "name": {
+          "local": "Zuénoula",
+          "en": "Zuénoula",
+          "slug": "zunoula-ci2303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.42",
+      "lon": "-6.069"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

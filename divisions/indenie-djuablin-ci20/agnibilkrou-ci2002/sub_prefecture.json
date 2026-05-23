@@ -1,0 +1,272 @@
+[
+  {
+    "id": "CI200201",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Agnibilekrou",
+      "en": "Agnibilekrou",
+      "slug": "agnibilekrou-ci200201"
+    },
+    "code": {
+      "id": "CI200201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2002",
+      "level": 2,
+      "name": {
+        "local": "Agnibilékrou",
+        "en": "Agnibilékrou",
+        "slug": "agnibilkrou-ci2002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI20",
+        "level": 1,
+        "name": {
+          "local": "Indenie-Djuablin",
+          "en": "Indenie-Djuablin",
+          "slug": "indenie-djuablin-ci20"
+        }
+      },
+      {
+        "id": "CI2002",
+        "level": 2,
+        "name": {
+          "local": "Agnibilékrou",
+          "en": "Agnibilékrou",
+          "slug": "agnibilkrou-ci2002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.161",
+      "lon": "-3.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI200202",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Akoboissué",
+      "en": "Akoboissué",
+      "slug": "akoboissu-ci200202"
+    },
+    "code": {
+      "id": "CI200202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2002",
+      "level": 2,
+      "name": {
+        "local": "Agnibilékrou",
+        "en": "Agnibilékrou",
+        "slug": "agnibilkrou-ci2002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI20",
+        "level": 1,
+        "name": {
+          "local": "Indenie-Djuablin",
+          "en": "Indenie-Djuablin",
+          "slug": "indenie-djuablin-ci20"
+        }
+      },
+      {
+        "id": "CI2002",
+        "level": 2,
+        "name": {
+          "local": "Agnibilékrou",
+          "en": "Agnibilékrou",
+          "slug": "agnibilkrou-ci2002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.919",
+      "lon": "-3.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI200203",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Damé",
+      "en": "Damé",
+      "slug": "dam-ci200203"
+    },
+    "code": {
+      "id": "CI200203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2002",
+      "level": 2,
+      "name": {
+        "local": "Agnibilékrou",
+        "en": "Agnibilékrou",
+        "slug": "agnibilkrou-ci2002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI20",
+        "level": 1,
+        "name": {
+          "local": "Indenie-Djuablin",
+          "en": "Indenie-Djuablin",
+          "slug": "indenie-djuablin-ci20"
+        }
+      },
+      {
+        "id": "CI2002",
+        "level": 2,
+        "name": {
+          "local": "Agnibilékrou",
+          "en": "Agnibilékrou",
+          "slug": "agnibilkrou-ci2002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.003",
+      "lon": "-3.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI200204",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Duffrebo",
+      "en": "Duffrebo",
+      "slug": "duffrebo-ci200204"
+    },
+    "code": {
+      "id": "CI200204",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2002",
+      "level": 2,
+      "name": {
+        "local": "Agnibilékrou",
+        "en": "Agnibilékrou",
+        "slug": "agnibilkrou-ci2002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI20",
+        "level": 1,
+        "name": {
+          "local": "Indenie-Djuablin",
+          "en": "Indenie-Djuablin",
+          "slug": "indenie-djuablin-ci20"
+        }
+      },
+      {
+        "id": "CI2002",
+        "level": 2,
+        "name": {
+          "local": "Agnibilékrou",
+          "en": "Agnibilékrou",
+          "slug": "agnibilkrou-ci2002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.184",
+      "lon": "-3.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI200205",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tanguélan",
+      "en": "Tanguélan",
+      "slug": "tangulan-ci200205"
+    },
+    "code": {
+      "id": "CI200205",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2002",
+      "level": 2,
+      "name": {
+        "local": "Agnibilékrou",
+        "en": "Agnibilékrou",
+        "slug": "agnibilkrou-ci2002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI20",
+        "level": 1,
+        "name": {
+          "local": "Indenie-Djuablin",
+          "en": "Indenie-Djuablin",
+          "slug": "indenie-djuablin-ci20"
+        }
+      },
+      {
+        "id": "CI2002",
+        "level": 2,
+        "name": {
+          "local": "Agnibilékrou",
+          "en": "Agnibilékrou",
+          "slug": "agnibilkrou-ci2002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.152",
+      "lon": "-3.366"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

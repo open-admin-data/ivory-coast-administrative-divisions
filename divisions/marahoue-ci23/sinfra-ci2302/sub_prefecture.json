@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CI230202",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bazré",
+      "en": "Bazré",
+      "slug": "bazr-ci230202"
+    },
+    "code": {
+      "id": "CI230202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2302",
+      "level": 2,
+      "name": {
+        "local": "Sinfra",
+        "en": "Sinfra",
+        "slug": "sinfra-ci2302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI23",
+        "level": 1,
+        "name": {
+          "local": "Marahoue",
+          "en": "Marahoue",
+          "slug": "marahoue-ci23"
+        }
+      },
+      {
+        "id": "CI2302",
+        "level": 2,
+        "name": {
+          "local": "Sinfra",
+          "en": "Sinfra",
+          "slug": "sinfra-ci2302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.701",
+      "lon": "-5.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI230203",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kononfla",
+      "en": "Kononfla",
+      "slug": "kononfla-ci230203"
+    },
+    "code": {
+      "id": "CI230203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2302",
+      "level": 2,
+      "name": {
+        "local": "Sinfra",
+        "en": "Sinfra",
+        "slug": "sinfra-ci2302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI23",
+        "level": 1,
+        "name": {
+          "local": "Marahoue",
+          "en": "Marahoue",
+          "slug": "marahoue-ci23"
+        }
+      },
+      {
+        "id": "CI2302",
+        "level": 2,
+        "name": {
+          "local": "Sinfra",
+          "en": "Sinfra",
+          "slug": "sinfra-ci2302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.66",
+      "lon": "-5.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI230204",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kouétinfla",
+      "en": "Kouétinfla",
+      "slug": "koutinfla-ci230204"
+    },
+    "code": {
+      "id": "CI230204",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2302",
+      "level": 2,
+      "name": {
+        "local": "Sinfra",
+        "en": "Sinfra",
+        "slug": "sinfra-ci2302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI23",
+        "level": 1,
+        "name": {
+          "local": "Marahoue",
+          "en": "Marahoue",
+          "slug": "marahoue-ci23"
+        }
+      },
+      {
+        "id": "CI2302",
+        "level": 2,
+        "name": {
+          "local": "Sinfra",
+          "en": "Sinfra",
+          "slug": "sinfra-ci2302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.605",
+      "lon": "-6.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI230201",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sinfra",
+      "en": "Sinfra",
+      "slug": "sinfra-ci230201"
+    },
+    "code": {
+      "id": "CI230201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2302",
+      "level": 2,
+      "name": {
+        "local": "Sinfra",
+        "en": "Sinfra",
+        "slug": "sinfra-ci2302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI23",
+        "level": 1,
+        "name": {
+          "local": "Marahoue",
+          "en": "Marahoue",
+          "slug": "marahoue-ci23"
+        }
+      },
+      {
+        "id": "CI2302",
+        "level": 2,
+        "name": {
+          "local": "Sinfra",
+          "en": "Sinfra",
+          "slug": "sinfra-ci2302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.651",
+      "lon": "-5.871"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,121 @@
+# Haut-Sassandra — Ivory Coast Administrative Divisions
+
+> 4 departments, 23 sub-prefectures
+> Code: CI18
+> Coordinates: 7.033, -6.603
+> Last updated: 2026-05-23. License: CC-BY-4.0.
+
+## Departments
+
+### Daloa
+
+Code: CI1801, Coordinates: 6.921, -6.443
+Sub-prefectures: 6
+
+#### Bédiala
+
+Code: CI180101, Coordinates: 7.122, -6.226
+
+#### Daloa
+
+Code: CI180102, Coordinates: 6.854, -6.377
+
+#### Gadouan
+
+Code: CI180103, Coordinates: 6.695, -6.211
+
+#### Gboguhé
+
+Code: CI180104, Coordinates: 6.819, -6.595
+
+#### Gonaté
+
+Code: CI180105, Coordinates: 6.933, -6.25
+
+#### Zaibo
+
+Code: CI180106, Coordinates: 7.002, -6.68
+
+### Issia
+
+Code: CI1802, Coordinates: 6.476, -6.521
+Sub-prefectures: 7
+
+#### Boguédia
+
+Code: CI180202, Coordinates: 6.627, -6.519
+
+#### Iboguhé
+
+Code: CI180203, Coordinates: 6.505, -6.845
+
+#### Issia
+
+Code: CI180201, Coordinates: 6.504, -6.601
+
+#### Nahio
+
+Code: CI180204, Coordinates: 6.394, -6.239
+
+#### Namané
+
+Code: CI180205, Coordinates: 6.386, -6.745
+
+#### Saïoua
+
+Code: CI180206, Coordinates: 6.507, -6.262
+
+#### Tapéguia
+
+Code: CI180207, Coordinates: 6.35, -6.464
+
+### Vavoua
+
+Code: CI1803, Coordinates: 7.423, -6.695
+Sub-prefectures: 6
+
+#### Bazra-Nattis
+
+Code: CI180302, Coordinates: 7.64, -6.658
+
+#### Dananon
+
+Code: CI180303, Coordinates: 7.581, -6.342
+
+#### Dania
+
+Code: CI180304, Coordinates: 7.27, -6.893
+
+#### Kétro-Bassam
+
+Code: CI180305, Coordinates: 7.214, -6.648
+
+#### Seitifla
+
+Code: CI180306, Coordinates: 7.531, -6.804
+
+#### Vavoua
+
+Code: CI180301, Coordinates: 7.303, -6.503
+
+### Zoukougbeu
+
+Code: CI1804, Coordinates: 6.847, -6.861
+Sub-prefectures: 4
+
+#### Domangbeu
+
+Code: CI180402, Coordinates: 6.951, -6.972
+
+#### Grégbeu
+
+Code: CI180403, Coordinates: 6.834, -6.739
+
+#### Guéssabo
+
+Code: CI180404, Coordinates: 6.739, -6.945
+
+#### Zoukougbeu
+
+Code: CI180401, Coordinates: 6.856, -6.874
+

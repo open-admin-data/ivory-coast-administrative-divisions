@@ -1,0 +1,47 @@
+{
+  "id": "CI0703",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Mankono",
+    "en": "Mankono",
+    "slug": "mankono-ci0703"
+  },
+  "code": {
+    "id": "CI0703",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI07",
+    "level": 1,
+    "name": {
+      "local": "Bere",
+      "en": "Bere",
+      "slug": "bere-ci07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI07",
+      "level": 1,
+      "name": {
+        "local": "Bere",
+        "en": "Bere",
+        "slug": "bere-ci07"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.201",
+    "lon": "-5.839"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CI280101",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Boron",
+      "en": "Boron",
+      "slug": "boron-ci280101"
+    },
+    "code": {
+      "id": "CI280101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2801",
+      "level": 2,
+      "name": {
+        "local": "Dikodougou",
+        "en": "Dikodougou",
+        "slug": "dikodougou-ci2801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI28",
+        "level": 1,
+        "name": {
+          "local": "Poro",
+          "en": "Poro",
+          "slug": "poro-ci28"
+        }
+      },
+      {
+        "id": "CI2801",
+        "level": 2,
+        "name": {
+          "local": "Dikodougou",
+          "en": "Dikodougou",
+          "slug": "dikodougou-ci2801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.678",
+      "lon": "-5.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI280102",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dikodougou",
+      "en": "Dikodougou",
+      "slug": "dikodougou-ci280102"
+    },
+    "code": {
+      "id": "CI280102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2801",
+      "level": 2,
+      "name": {
+        "local": "Dikodougou",
+        "en": "Dikodougou",
+        "slug": "dikodougou-ci2801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI28",
+        "level": 1,
+        "name": {
+          "local": "Poro",
+          "en": "Poro",
+          "slug": "poro-ci28"
+        }
+      },
+      {
+        "id": "CI2801",
+        "level": 2,
+        "name": {
+          "local": "Dikodougou",
+          "en": "Dikodougou",
+          "slug": "dikodougou-ci2801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.963",
+      "lon": "-5.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI280103",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Guiembé",
+      "en": "Guiembé",
+      "slug": "guiemb-ci280103"
+    },
+    "code": {
+      "id": "CI280103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2801",
+      "level": 2,
+      "name": {
+        "local": "Dikodougou",
+        "en": "Dikodougou",
+        "slug": "dikodougou-ci2801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI28",
+        "level": 1,
+        "name": {
+          "local": "Poro",
+          "en": "Poro",
+          "slug": "poro-ci28"
+        }
+      },
+      {
+        "id": "CI2801",
+        "level": 2,
+        "name": {
+          "local": "Dikodougou",
+          "en": "Dikodougou",
+          "slug": "dikodougou-ci2801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.245",
+      "lon": "-5.795"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

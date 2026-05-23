@@ -1,0 +1,47 @@
+{
+  "id": "CI2003",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Béttié",
+    "en": "Béttié",
+    "slug": "btti-ci2003"
+  },
+  "code": {
+    "id": "CI2003",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI20",
+    "level": 1,
+    "name": {
+      "local": "Indenie-Djuablin",
+      "en": "Indenie-Djuablin",
+      "slug": "indenie-djuablin-ci20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI20",
+      "level": 1,
+      "name": {
+        "local": "Indenie-Djuablin",
+        "en": "Indenie-Djuablin",
+        "slug": "indenie-djuablin-ci20"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.118",
+    "lon": "-3.314"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "CI1602",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Duékoué",
+    "en": "Duékoué",
+    "slug": "dukou-ci1602"
+  },
+  "code": {
+    "id": "CI1602",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI16",
+    "level": 1,
+    "name": {
+      "local": "Guemon",
+      "en": "Guemon",
+      "slug": "guemon-ci16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI16",
+      "level": 1,
+      "name": {
+        "local": "Guemon",
+        "en": "Guemon",
+        "slug": "guemon-ci16"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.647",
+    "lon": "-7.246"
+  },
+  "metadata": {},
+  "source": {}
+}

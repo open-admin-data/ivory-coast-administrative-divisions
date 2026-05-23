@@ -1,0 +1,47 @@
+{
+  "id": "CI2002",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Agnibilékrou",
+    "en": "Agnibilékrou",
+    "slug": "agnibilkrou-ci2002"
+  },
+  "code": {
+    "id": "CI2002",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI20",
+    "level": 1,
+    "name": {
+      "local": "Indenie-Djuablin",
+      "en": "Indenie-Djuablin",
+      "slug": "indenie-djuablin-ci20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI20",
+      "level": 1,
+      "name": {
+        "local": "Indenie-Djuablin",
+        "en": "Indenie-Djuablin",
+        "slug": "indenie-djuablin-ci20"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.066",
+    "lon": "-3.333"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,55 @@
+# Gbokle — Ivory Coast Administrative Divisions
+
+> 2 departments, 9 sub-prefectures
+> Code: CI12
+> Coordinates: 5.243, -5.93
+> Last updated: 2026-05-23. License: CC-BY-4.0.
+
+## Departments
+
+### Fresco
+
+Code: CI1201, Coordinates: 5.332, -5.591
+Sub-prefectures: 3
+
+#### Dahiri
+
+Code: CI120101, Coordinates: 5.312, -5.593
+
+#### Fresco
+
+Code: CI120102, Coordinates: 5.146, -5.623
+
+#### Gbagbam
+
+Code: CI120103, Coordinates: 5.508, -5.671
+
+### Sassandra
+
+Code: CI1202, Coordinates: 5.243, -6.057
+Sub-prefectures: 6
+
+#### Dakpadou
+
+Code: CI120202, Coordinates: 5.23, -6.054
+
+#### Grihiri
+
+Code: CI120203, Coordinates: 5.458, -6.327
+
+#### Lobakuya
+
+Code: CI120204, Coordinates: 5.176, -6.3
+
+#### Medon
+
+Code: CI120205, Coordinates: 5.186, -6.163
+
+#### Sago
+
+Code: CI120206, Coordinates: 5.323, -5.846
+
+#### Sassandra
+
+Code: CI120201, Coordinates: 4.992, -6.16
+

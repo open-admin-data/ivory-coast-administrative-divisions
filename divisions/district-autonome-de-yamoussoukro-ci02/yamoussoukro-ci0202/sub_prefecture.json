@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CI020202",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kossou",
+      "en": "Kossou",
+      "slug": "kossou-ci020202"
+    },
+    "code": {
+      "id": "CI020202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0202",
+      "level": 2,
+      "name": {
+        "local": "Yamoussoukro",
+        "en": "Yamoussoukro",
+        "slug": "yamoussoukro-ci0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI02",
+        "level": 1,
+        "name": {
+          "local": "District Autonome De Yamoussoukro",
+          "en": "District Autonome De Yamoussoukro",
+          "slug": "district-autonome-de-yamoussoukro-ci02"
+        }
+      },
+      {
+        "id": "CI0202",
+        "level": 2,
+        "name": {
+          "local": "Yamoussoukro",
+          "en": "Yamoussoukro",
+          "slug": "yamoussoukro-ci0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.928",
+      "lon": "-5.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI020201",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Yamoussoukro",
+      "en": "Yamoussoukro",
+      "slug": "yamoussoukro-ci020201"
+    },
+    "code": {
+      "id": "CI020201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0202",
+      "level": 2,
+      "name": {
+        "local": "Yamoussoukro",
+        "en": "Yamoussoukro",
+        "slug": "yamoussoukro-ci0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI02",
+        "level": 1,
+        "name": {
+          "local": "District Autonome De Yamoussoukro",
+          "en": "District Autonome De Yamoussoukro",
+          "slug": "district-autonome-de-yamoussoukro-ci02"
+        }
+      },
+      {
+        "id": "CI0202",
+        "level": 2,
+        "name": {
+          "local": "Yamoussoukro",
+          "en": "Yamoussoukro",
+          "slug": "yamoussoukro-ci0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.757",
+      "lon": "-5.31"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

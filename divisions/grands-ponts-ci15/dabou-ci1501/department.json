@@ -1,0 +1,47 @@
+{
+  "id": "CI1501",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Dabou",
+    "en": "Dabou",
+    "slug": "dabou-ci1501"
+  },
+  "code": {
+    "id": "CI1501",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI15",
+    "level": 1,
+    "name": {
+      "local": "Grands Ponts",
+      "en": "Grands Ponts",
+      "slug": "grands-ponts-ci15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI15",
+      "level": 1,
+      "name": {
+        "local": "Grands Ponts",
+        "en": "Grands Ponts",
+        "slug": "grands-ponts-ci15"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.401",
+    "lon": "-4.534"
+  },
+  "metadata": {},
+  "source": {}
+}

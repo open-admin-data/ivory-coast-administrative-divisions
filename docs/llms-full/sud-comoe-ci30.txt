@@ -1,0 +1,97 @@
+# Sud-Comoe — Ivory Coast Administrative Divisions
+
+> 4 departments, 17 sub-prefectures
+> Code: CI30
+> Coordinates: 5.661, -3.143
+> Last updated: 2026-05-23. License: CC-BY-4.0.
+
+## Departments
+
+### Aboisso
+
+Code: CI3001, Coordinates: 5.712, -3.149
+Sub-prefectures: 8
+
+#### Aboisso
+
+Code: CI300101, Coordinates: 5.493, -3.216
+
+#### Adaou
+
+Code: CI300102, Coordinates: 5.457, -3.4
+
+#### Adjouan
+
+Code: CI300103, Coordinates: 5.274, -3.07
+
+#### Ayamé
+
+Code: CI300104, Coordinates: 5.622, -3.166
+
+#### Bianouan
+
+Code: CI300105, Coordinates: 6.063, -3.16
+
+#### Kouakro
+
+Code: CI300106, Coordinates: 5.475, -2.871
+
+#### Maféré
+
+Code: CI300107, Coordinates: 5.488, -3.022
+
+#### Yaou
+
+Code: CI300108, Coordinates: 5.791, -3.231
+
+### Adiaké
+
+Code: CI3002, Coordinates: 5.233, -3.26
+Sub-prefectures: 3
+
+#### Adiake
+
+Code: CI300201, Coordinates: 5.272, -3.324
+
+#### Assinie-Mafia
+
+Code: CI300202, Coordinates: 5.156, -3.381
+
+#### Etuéboué
+
+Code: CI300203, Coordinates: 5.205, -3.157
+
+### Grand-Bassam
+
+Code: CI3003, Coordinates: 5.379, -3.518
+Sub-prefectures: 3
+
+#### Bongo
+
+Code: CI300301, Coordinates: 5.476, -3.51
+
+#### Bonoua
+
+Code: CI300302, Coordinates: 5.291, -3.54
+
+#### Grand-Bassam
+
+Code: CI300303, Coordinates: 5.234, -3.783
+
+### Tiapoum
+
+Code: CI3004, Coordinates: 5.245, -2.871
+Sub-prefectures: 3
+
+#### Noé
+
+Code: CI300402, Coordinates: 5.283, -2.853
+
+#### Nouamou
+
+Code: CI300403, Coordinates: 5.211, -2.916
+
+#### Tiapoum
+
+Code: CI300401, Coordinates: 5.15, -3.013
+

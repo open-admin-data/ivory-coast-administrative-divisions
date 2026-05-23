@@ -1,0 +1,47 @@
+{
+  "id": "CI3004",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Tiapoum",
+    "en": "Tiapoum",
+    "slug": "tiapoum-ci3004"
+  },
+  "code": {
+    "id": "CI3004",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI30",
+    "level": 1,
+    "name": {
+      "local": "Sud-Comoe",
+      "en": "Sud-Comoe",
+      "slug": "sud-comoe-ci30"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI30",
+      "level": 1,
+      "name": {
+        "local": "Sud-Comoe",
+        "en": "Sud-Comoe",
+        "slug": "sud-comoe-ci30"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.245",
+    "lon": "-2.871"
+  },
+  "metadata": {},
+  "source": {}
+}

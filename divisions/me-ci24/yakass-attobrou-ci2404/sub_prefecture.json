@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CI240402",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Abongoua",
+      "en": "Abongoua",
+      "slug": "abongoua-ci240402"
+    },
+    "code": {
+      "id": "CI240402",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2404",
+      "level": 2,
+      "name": {
+        "local": "Yakassé-Attobrou",
+        "en": "Yakassé-Attobrou",
+        "slug": "yakass-attobrou-ci2404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI24",
+        "level": 1,
+        "name": {
+          "local": "Me",
+          "en": "Me",
+          "slug": "me-ci24"
+        }
+      },
+      {
+        "id": "CI2404",
+        "level": 2,
+        "name": {
+          "local": "Yakassé-Attobrou",
+          "en": "Yakassé-Attobrou",
+          "slug": "yakass-attobrou-ci2404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.275",
+      "lon": "-3.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI240403",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Biéby",
+      "en": "Biéby",
+      "slug": "biby-ci240403"
+    },
+    "code": {
+      "id": "CI240403",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2404",
+      "level": 2,
+      "name": {
+        "local": "Yakassé-Attobrou",
+        "en": "Yakassé-Attobrou",
+        "slug": "yakass-attobrou-ci2404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI24",
+        "level": 1,
+        "name": {
+          "local": "Me",
+          "en": "Me",
+          "slug": "me-ci24"
+        }
+      },
+      {
+        "id": "CI2404",
+        "level": 2,
+        "name": {
+          "local": "Yakassé-Attobrou",
+          "en": "Yakassé-Attobrou",
+          "slug": "yakass-attobrou-ci2404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.969",
+      "lon": "-3.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI240401",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Yakasse-Attobrou",
+      "en": "Yakasse-Attobrou",
+      "slug": "yakasse-attobrou-ci240401"
+    },
+    "code": {
+      "id": "CI240401",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2404",
+      "level": 2,
+      "name": {
+        "local": "Yakassé-Attobrou",
+        "en": "Yakassé-Attobrou",
+        "slug": "yakass-attobrou-ci2404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI24",
+        "level": 1,
+        "name": {
+          "local": "Me",
+          "en": "Me",
+          "slug": "me-ci24"
+        }
+      },
+      {
+        "id": "CI2404",
+        "level": 2,
+        "name": {
+          "local": "Yakassé-Attobrou",
+          "en": "Yakassé-Attobrou",
+          "slug": "yakass-attobrou-ci2404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.139",
+      "lon": "-3.558"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

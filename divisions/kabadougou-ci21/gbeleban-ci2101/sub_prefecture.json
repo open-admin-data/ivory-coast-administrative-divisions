@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CI210101",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gbéléban",
+      "en": "Gbéléban",
+      "slug": "gblban-ci210101"
+    },
+    "code": {
+      "id": "CI210101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2101",
+      "level": 2,
+      "name": {
+        "local": "Gbeleban",
+        "en": "Gbeleban",
+        "slug": "gbeleban-ci2101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI21",
+        "level": 1,
+        "name": {
+          "local": "Kabadougou",
+          "en": "Kabadougou",
+          "slug": "kabadougou-ci21"
+        }
+      },
+      {
+        "id": "CI2101",
+        "level": 2,
+        "name": {
+          "local": "Gbeleban",
+          "en": "Gbeleban",
+          "slug": "gbeleban-ci2101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.564",
+      "lon": "-8.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI210102",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Samango",
+      "en": "Samango",
+      "slug": "samango-ci210102"
+    },
+    "code": {
+      "id": "CI210102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2101",
+      "level": 2,
+      "name": {
+        "local": "Gbeleban",
+        "en": "Gbeleban",
+        "slug": "gbeleban-ci2101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI21",
+        "level": 1,
+        "name": {
+          "local": "Kabadougou",
+          "en": "Kabadougou",
+          "slug": "kabadougou-ci21"
+        }
+      },
+      {
+        "id": "CI2101",
+        "level": 2,
+        "name": {
+          "local": "Gbeleban",
+          "en": "Gbeleban",
+          "slug": "gbeleban-ci2101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.735",
+      "lon": "-7.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI210103",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Seydougou",
+      "en": "Seydougou",
+      "slug": "seydougou-ci210103"
+    },
+    "code": {
+      "id": "CI210103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2101",
+      "level": 2,
+      "name": {
+        "local": "Gbeleban",
+        "en": "Gbeleban",
+        "slug": "gbeleban-ci2101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI21",
+        "level": 1,
+        "name": {
+          "local": "Kabadougou",
+          "en": "Kabadougou",
+          "slug": "kabadougou-ci21"
+        }
+      },
+      {
+        "id": "CI2101",
+        "level": 2,
+        "name": {
+          "local": "Gbeleban",
+          "en": "Gbeleban",
+          "slug": "gbeleban-ci2101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.516",
+      "lon": "-7.926"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

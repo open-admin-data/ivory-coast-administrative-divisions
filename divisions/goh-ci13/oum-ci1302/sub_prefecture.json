@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CI130202",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Diégonéfla",
+      "en": "Diégonéfla",
+      "slug": "digonfla-ci130202"
+    },
+    "code": {
+      "id": "CI130202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1302",
+      "level": 2,
+      "name": {
+        "local": "Oumé",
+        "en": "Oumé",
+        "slug": "oum-ci1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI13",
+        "level": 1,
+        "name": {
+          "local": "Goh",
+          "en": "Goh",
+          "slug": "goh-ci13"
+        }
+      },
+      {
+        "id": "CI1302",
+        "level": 2,
+        "name": {
+          "local": "Oumé",
+          "en": "Oumé",
+          "slug": "oum-ci1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.254",
+      "lon": "-5.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI130203",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Guépahouo",
+      "en": "Guépahouo",
+      "slug": "gupahouo-ci130203"
+    },
+    "code": {
+      "id": "CI130203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1302",
+      "level": 2,
+      "name": {
+        "local": "Oumé",
+        "en": "Oumé",
+        "slug": "oum-ci1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI13",
+        "level": 1,
+        "name": {
+          "local": "Goh",
+          "en": "Goh",
+          "slug": "goh-ci13"
+        }
+      },
+      {
+        "id": "CI1302",
+        "level": 2,
+        "name": {
+          "local": "Oumé",
+          "en": "Oumé",
+          "slug": "oum-ci1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.48",
+      "lon": "-5.692"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI130201",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Oumé",
+      "en": "Oumé",
+      "slug": "oum-ci130201"
+    },
+    "code": {
+      "id": "CI130201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1302",
+      "level": 2,
+      "name": {
+        "local": "Oumé",
+        "en": "Oumé",
+        "slug": "oum-ci1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI13",
+        "level": 1,
+        "name": {
+          "local": "Goh",
+          "en": "Goh",
+          "slug": "goh-ci13"
+        }
+      },
+      {
+        "id": "CI1302",
+        "level": 2,
+        "name": {
+          "local": "Oumé",
+          "en": "Oumé",
+          "slug": "oum-ci1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.412",
+      "lon": "-5.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI130204",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tonla",
+      "en": "Tonla",
+      "slug": "tonla-ci130204"
+    },
+    "code": {
+      "id": "CI130204",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1302",
+      "level": 2,
+      "name": {
+        "local": "Oumé",
+        "en": "Oumé",
+        "slug": "oum-ci1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI13",
+        "level": 1,
+        "name": {
+          "local": "Goh",
+          "en": "Goh",
+          "slug": "goh-ci13"
+        }
+      },
+      {
+        "id": "CI1302",
+        "level": 2,
+        "name": {
+          "local": "Oumé",
+          "en": "Oumé",
+          "slug": "oum-ci1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.332",
+      "lon": "-5.662"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

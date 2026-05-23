@@ -1,0 +1,49 @@
+[
+  {
+    "id": "CI0101",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Abidjan",
+      "en": "Abidjan",
+      "slug": "abidjan-ci0101"
+    },
+    "code": {
+      "id": "CI0101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI01",
+      "level": 1,
+      "name": {
+        "local": "District Autonome D'Abidjan",
+        "en": "District Autonome D'Abidjan",
+        "slug": "district-autonome-dabidjan-ci01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI01",
+        "level": 1,
+        "name": {
+          "local": "District Autonome D'Abidjan",
+          "en": "District Autonome D'Abidjan",
+          "slug": "district-autonome-dabidjan-ci01"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.412",
+      "lon": "-4.069"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

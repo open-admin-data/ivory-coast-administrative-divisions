@@ -1,0 +1,47 @@
+{
+  "id": "CI3003",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Grand-Bassam",
+    "en": "Grand-Bassam",
+    "slug": "grand-bassam-ci3003"
+  },
+  "code": {
+    "id": "CI3003",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI30",
+    "level": 1,
+    "name": {
+      "local": "Sud-Comoe",
+      "en": "Sud-Comoe",
+      "slug": "sud-comoe-ci30"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI30",
+      "level": 1,
+      "name": {
+        "local": "Sud-Comoe",
+        "en": "Sud-Comoe",
+        "slug": "sud-comoe-ci30"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.379",
+    "lon": "-3.518"
+  },
+  "metadata": {},
+  "source": {}
+}

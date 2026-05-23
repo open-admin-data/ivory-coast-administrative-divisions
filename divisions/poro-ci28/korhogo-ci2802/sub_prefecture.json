@@ -1,0 +1,866 @@
+[
+  {
+    "id": "CI280202",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dassoungboho",
+      "en": "Dassoungboho",
+      "slug": "dassoungboho-ci280202"
+    },
+    "code": {
+      "id": "CI280202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2802",
+      "level": 2,
+      "name": {
+        "local": "Korhogo",
+        "en": "Korhogo",
+        "slug": "korhogo-ci2802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI28",
+        "level": 1,
+        "name": {
+          "local": "Poro",
+          "en": "Poro",
+          "slug": "poro-ci28"
+        }
+      },
+      {
+        "id": "CI2802",
+        "level": 2,
+        "name": {
+          "local": "Korhogo",
+          "en": "Korhogo",
+          "slug": "korhogo-ci2802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.374",
+      "lon": "-5.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI280203",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kanoroba",
+      "en": "Kanoroba",
+      "slug": "kanoroba-ci280203"
+    },
+    "code": {
+      "id": "CI280203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2802",
+      "level": 2,
+      "name": {
+        "local": "Korhogo",
+        "en": "Korhogo",
+        "slug": "korhogo-ci2802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI28",
+        "level": 1,
+        "name": {
+          "local": "Poro",
+          "en": "Poro",
+          "slug": "poro-ci28"
+        }
+      },
+      {
+        "id": "CI2802",
+        "level": 2,
+        "name": {
+          "local": "Korhogo",
+          "en": "Korhogo",
+          "slug": "korhogo-ci2802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.994",
+      "lon": "-6.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI280204",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Karakoro",
+      "en": "Karakoro",
+      "slug": "karakoro-ci280204"
+    },
+    "code": {
+      "id": "CI280204",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2802",
+      "level": 2,
+      "name": {
+        "local": "Korhogo",
+        "en": "Korhogo",
+        "slug": "korhogo-ci2802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI28",
+        "level": 1,
+        "name": {
+          "local": "Poro",
+          "en": "Poro",
+          "slug": "poro-ci28"
+        }
+      },
+      {
+        "id": "CI2802",
+        "level": 2,
+        "name": {
+          "local": "Korhogo",
+          "en": "Korhogo",
+          "slug": "korhogo-ci2802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.453",
+      "lon": "-5.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI280205",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kiémou",
+      "en": "Kiémou",
+      "slug": "kimou-ci280205"
+    },
+    "code": {
+      "id": "CI280205",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2802",
+      "level": 2,
+      "name": {
+        "local": "Korhogo",
+        "en": "Korhogo",
+        "slug": "korhogo-ci2802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI28",
+        "level": 1,
+        "name": {
+          "local": "Poro",
+          "en": "Poro",
+          "slug": "poro-ci28"
+        }
+      },
+      {
+        "id": "CI2802",
+        "level": 2,
+        "name": {
+          "local": "Korhogo",
+          "en": "Korhogo",
+          "slug": "korhogo-ci2802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.01",
+      "lon": "-5.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI280206",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kombolokoura",
+      "en": "Kombolokoura",
+      "slug": "kombolokoura-ci280206"
+    },
+    "code": {
+      "id": "CI280206",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2802",
+      "level": 2,
+      "name": {
+        "local": "Korhogo",
+        "en": "Korhogo",
+        "slug": "korhogo-ci2802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI28",
+        "level": 1,
+        "name": {
+          "local": "Poro",
+          "en": "Poro",
+          "slug": "poro-ci28"
+        }
+      },
+      {
+        "id": "CI2802",
+        "level": 2,
+        "name": {
+          "local": "Korhogo",
+          "en": "Korhogo",
+          "slug": "korhogo-ci2802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.36",
+      "lon": "-5.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI280207",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Komborodougou",
+      "en": "Komborodougou",
+      "slug": "komborodougou-ci280207"
+    },
+    "code": {
+      "id": "CI280207",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2802",
+      "level": 2,
+      "name": {
+        "local": "Korhogo",
+        "en": "Korhogo",
+        "slug": "korhogo-ci2802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI28",
+        "level": 1,
+        "name": {
+          "local": "Poro",
+          "en": "Poro",
+          "slug": "poro-ci28"
+        }
+      },
+      {
+        "id": "CI2802",
+        "level": 2,
+        "name": {
+          "local": "Korhogo",
+          "en": "Korhogo",
+          "slug": "korhogo-ci2802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.288",
+      "lon": "-5.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI280208",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Koni",
+      "en": "Koni",
+      "slug": "koni-ci280208"
+    },
+    "code": {
+      "id": "CI280208",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2802",
+      "level": 2,
+      "name": {
+        "local": "Korhogo",
+        "en": "Korhogo",
+        "slug": "korhogo-ci2802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI28",
+        "level": 1,
+        "name": {
+          "local": "Poro",
+          "en": "Poro",
+          "slug": "poro-ci28"
+        }
+      },
+      {
+        "id": "CI2802",
+        "level": 2,
+        "name": {
+          "local": "Korhogo",
+          "en": "Korhogo",
+          "slug": "korhogo-ci2802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.665",
+      "lon": "-5.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI280201",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Korhogo",
+      "en": "Korhogo",
+      "slug": "korhogo-ci280201"
+    },
+    "code": {
+      "id": "CI280201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2802",
+      "level": 2,
+      "name": {
+        "local": "Korhogo",
+        "en": "Korhogo",
+        "slug": "korhogo-ci2802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI28",
+        "level": 1,
+        "name": {
+          "local": "Poro",
+          "en": "Poro",
+          "slug": "poro-ci28"
+        }
+      },
+      {
+        "id": "CI2802",
+        "level": 2,
+        "name": {
+          "local": "Korhogo",
+          "en": "Korhogo",
+          "slug": "korhogo-ci2802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.511",
+      "lon": "-5.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI280209",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Lataha",
+      "en": "Lataha",
+      "slug": "lataha-ci280209"
+    },
+    "code": {
+      "id": "CI280209",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2802",
+      "level": 2,
+      "name": {
+        "local": "Korhogo",
+        "en": "Korhogo",
+        "slug": "korhogo-ci2802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI28",
+        "level": 1,
+        "name": {
+          "local": "Poro",
+          "en": "Poro",
+          "slug": "poro-ci28"
+        }
+      },
+      {
+        "id": "CI2802",
+        "level": 2,
+        "name": {
+          "local": "Korhogo",
+          "en": "Korhogo",
+          "slug": "korhogo-ci2802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.645",
+      "lon": "-5.524"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI280210",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "N'Ganon",
+      "en": "N'Ganon",
+      "slug": "nganon-ci280210"
+    },
+    "code": {
+      "id": "CI280210",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2802",
+      "level": 2,
+      "name": {
+        "local": "Korhogo",
+        "en": "Korhogo",
+        "slug": "korhogo-ci2802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI28",
+        "level": 1,
+        "name": {
+          "local": "Poro",
+          "en": "Poro",
+          "slug": "poro-ci28"
+        }
+      },
+      {
+        "id": "CI2802",
+        "level": 2,
+        "name": {
+          "local": "Korhogo",
+          "en": "Korhogo",
+          "slug": "korhogo-ci2802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.709",
+      "lon": "-5.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI280211",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Nafoun",
+      "en": "Nafoun",
+      "slug": "nafoun-ci280211"
+    },
+    "code": {
+      "id": "CI280211",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2802",
+      "level": 2,
+      "name": {
+        "local": "Korhogo",
+        "en": "Korhogo",
+        "slug": "korhogo-ci2802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI28",
+        "level": 1,
+        "name": {
+          "local": "Poro",
+          "en": "Poro",
+          "slug": "poro-ci28"
+        }
+      },
+      {
+        "id": "CI2802",
+        "level": 2,
+        "name": {
+          "local": "Korhogo",
+          "en": "Korhogo",
+          "slug": "korhogo-ci2802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.324",
+      "lon": "-6.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI280212",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Napiéléodougou",
+      "en": "Napiéléodougou",
+      "slug": "napilodougou-ci280212"
+    },
+    "code": {
+      "id": "CI280212",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2802",
+      "level": 2,
+      "name": {
+        "local": "Korhogo",
+        "en": "Korhogo",
+        "slug": "korhogo-ci2802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI28",
+        "level": 1,
+        "name": {
+          "local": "Poro",
+          "en": "Poro",
+          "slug": "poro-ci28"
+        }
+      },
+      {
+        "id": "CI2802",
+        "level": 2,
+        "name": {
+          "local": "Korhogo",
+          "en": "Korhogo",
+          "slug": "korhogo-ci2802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.252",
+      "lon": "-5.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI280213",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Niofoin",
+      "en": "Niofoin",
+      "slug": "niofoin-ci280213"
+    },
+    "code": {
+      "id": "CI280213",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2802",
+      "level": 2,
+      "name": {
+        "local": "Korhogo",
+        "en": "Korhogo",
+        "slug": "korhogo-ci2802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI28",
+        "level": 1,
+        "name": {
+          "local": "Poro",
+          "en": "Poro",
+          "slug": "poro-ci28"
+        }
+      },
+      {
+        "id": "CI2802",
+        "level": 2,
+        "name": {
+          "local": "Korhogo",
+          "en": "Korhogo",
+          "slug": "korhogo-ci2802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.518",
+      "lon": "-6.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI280214",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sirasso",
+      "en": "Sirasso",
+      "slug": "sirasso-ci280214"
+    },
+    "code": {
+      "id": "CI280214",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2802",
+      "level": 2,
+      "name": {
+        "local": "Korhogo",
+        "en": "Korhogo",
+        "slug": "korhogo-ci2802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI28",
+        "level": 1,
+        "name": {
+          "local": "Poro",
+          "en": "Poro",
+          "slug": "poro-ci28"
+        }
+      },
+      {
+        "id": "CI2802",
+        "level": 2,
+        "name": {
+          "local": "Korhogo",
+          "en": "Korhogo",
+          "slug": "korhogo-ci2802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.242",
+      "lon": "-6.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI280215",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sohouo",
+      "en": "Sohouo",
+      "slug": "sohouo-ci280215"
+    },
+    "code": {
+      "id": "CI280215",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2802",
+      "level": 2,
+      "name": {
+        "local": "Korhogo",
+        "en": "Korhogo",
+        "slug": "korhogo-ci2802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI28",
+        "level": 1,
+        "name": {
+          "local": "Poro",
+          "en": "Poro",
+          "slug": "poro-ci28"
+        }
+      },
+      {
+        "id": "CI2802",
+        "level": 2,
+        "name": {
+          "local": "Korhogo",
+          "en": "Korhogo",
+          "slug": "korhogo-ci2802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.659",
+      "lon": "-5.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI280216",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tioroniaradougou",
+      "en": "Tioroniaradougou",
+      "slug": "tioroniaradougou-ci280216"
+    },
+    "code": {
+      "id": "CI280216",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2802",
+      "level": 2,
+      "name": {
+        "local": "Korhogo",
+        "en": "Korhogo",
+        "slug": "korhogo-ci2802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI28",
+        "level": 1,
+        "name": {
+          "local": "Poro",
+          "en": "Poro",
+          "slug": "poro-ci28"
+        }
+      },
+      {
+        "id": "CI2802",
+        "level": 2,
+        "name": {
+          "local": "Korhogo",
+          "en": "Korhogo",
+          "slug": "korhogo-ci2802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.328",
+      "lon": "-5.684"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

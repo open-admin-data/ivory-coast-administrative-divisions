@@ -1,0 +1,326 @@
+[
+  {
+    "id": "CI140202",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Boahia",
+      "en": "Boahia",
+      "slug": "boahia-ci140202"
+    },
+    "code": {
+      "id": "CI140202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1402",
+      "level": 2,
+      "name": {
+        "local": "Koun Fao",
+        "en": "Koun Fao",
+        "slug": "koun-fao-ci1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI14",
+        "level": 1,
+        "name": {
+          "local": "Gontougo",
+          "en": "Gontougo",
+          "slug": "gontougo-ci14"
+        }
+      },
+      {
+        "id": "CI1402",
+        "level": 2,
+        "name": {
+          "local": "Koun Fao",
+          "en": "Koun Fao",
+          "slug": "koun-fao-ci1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.576",
+      "lon": "-3.489"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI140203",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kokomian",
+      "en": "Kokomian",
+      "slug": "kokomian-ci140203"
+    },
+    "code": {
+      "id": "CI140203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1402",
+      "level": 2,
+      "name": {
+        "local": "Koun Fao",
+        "en": "Koun Fao",
+        "slug": "koun-fao-ci1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI14",
+        "level": 1,
+        "name": {
+          "local": "Gontougo",
+          "en": "Gontougo",
+          "slug": "gontougo-ci14"
+        }
+      },
+      {
+        "id": "CI1402",
+        "level": 2,
+        "name": {
+          "local": "Koun Fao",
+          "en": "Koun Fao",
+          "slug": "koun-fao-ci1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.288",
+      "lon": "-3.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI140204",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kouassi-Datékro",
+      "en": "Kouassi-Datékro",
+      "slug": "kouassi-datkro-ci140204"
+    },
+    "code": {
+      "id": "CI140204",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1402",
+      "level": 2,
+      "name": {
+        "local": "Koun Fao",
+        "en": "Koun Fao",
+        "slug": "koun-fao-ci1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI14",
+        "level": 1,
+        "name": {
+          "local": "Gontougo",
+          "en": "Gontougo",
+          "slug": "gontougo-ci14"
+        }
+      },
+      {
+        "id": "CI1402",
+        "level": 2,
+        "name": {
+          "local": "Koun Fao",
+          "en": "Koun Fao",
+          "slug": "koun-fao-ci1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.789",
+      "lon": "-3.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI140201",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Koun-Fao",
+      "en": "Koun-Fao",
+      "slug": "koun-fao-ci140201"
+    },
+    "code": {
+      "id": "CI140201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1402",
+      "level": 2,
+      "name": {
+        "local": "Koun Fao",
+        "en": "Koun Fao",
+        "slug": "koun-fao-ci1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI14",
+        "level": 1,
+        "name": {
+          "local": "Gontougo",
+          "en": "Gontougo",
+          "slug": "gontougo-ci14"
+        }
+      },
+      {
+        "id": "CI1402",
+        "level": 2,
+        "name": {
+          "local": "Koun Fao",
+          "en": "Koun Fao",
+          "slug": "koun-fao-ci1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.518",
+      "lon": "-3.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI140205",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tankessé",
+      "en": "Tankessé",
+      "slug": "tankess-ci140205"
+    },
+    "code": {
+      "id": "CI140205",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1402",
+      "level": 2,
+      "name": {
+        "local": "Koun Fao",
+        "en": "Koun Fao",
+        "slug": "koun-fao-ci1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI14",
+        "level": 1,
+        "name": {
+          "local": "Gontougo",
+          "en": "Gontougo",
+          "slug": "gontougo-ci14"
+        }
+      },
+      {
+        "id": "CI1402",
+        "level": 2,
+        "name": {
+          "local": "Koun Fao",
+          "en": "Koun Fao",
+          "slug": "koun-fao-ci1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.295",
+      "lon": "-3.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI140206",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tienkoikro",
+      "en": "Tienkoikro",
+      "slug": "tienkoikro-ci140206"
+    },
+    "code": {
+      "id": "CI140206",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1402",
+      "level": 2,
+      "name": {
+        "local": "Koun Fao",
+        "en": "Koun Fao",
+        "slug": "koun-fao-ci1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI14",
+        "level": 1,
+        "name": {
+          "local": "Gontougo",
+          "en": "Gontougo",
+          "slug": "gontougo-ci14"
+        }
+      },
+      {
+        "id": "CI1402",
+        "level": 2,
+        "name": {
+          "local": "Koun Fao",
+          "en": "Koun Fao",
+          "slug": "koun-fao-ci1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.157",
+      "lon": "-3.092"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

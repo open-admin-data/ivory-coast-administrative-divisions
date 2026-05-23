@@ -1,0 +1,326 @@
+[
+  {
+    "id": "CI180101",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bédiala",
+      "en": "Bédiala",
+      "slug": "bdiala-ci180101"
+    },
+    "code": {
+      "id": "CI180101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1801",
+      "level": 2,
+      "name": {
+        "local": "Daloa",
+        "en": "Daloa",
+        "slug": "daloa-ci1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI18",
+        "level": 1,
+        "name": {
+          "local": "Haut-Sassandra",
+          "en": "Haut-Sassandra",
+          "slug": "haut-sassandra-ci18"
+        }
+      },
+      {
+        "id": "CI1801",
+        "level": 2,
+        "name": {
+          "local": "Daloa",
+          "en": "Daloa",
+          "slug": "daloa-ci1801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.122",
+      "lon": "-6.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI180102",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Daloa",
+      "en": "Daloa",
+      "slug": "daloa-ci180102"
+    },
+    "code": {
+      "id": "CI180102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1801",
+      "level": 2,
+      "name": {
+        "local": "Daloa",
+        "en": "Daloa",
+        "slug": "daloa-ci1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI18",
+        "level": 1,
+        "name": {
+          "local": "Haut-Sassandra",
+          "en": "Haut-Sassandra",
+          "slug": "haut-sassandra-ci18"
+        }
+      },
+      {
+        "id": "CI1801",
+        "level": 2,
+        "name": {
+          "local": "Daloa",
+          "en": "Daloa",
+          "slug": "daloa-ci1801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.854",
+      "lon": "-6.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI180103",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gadouan",
+      "en": "Gadouan",
+      "slug": "gadouan-ci180103"
+    },
+    "code": {
+      "id": "CI180103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1801",
+      "level": 2,
+      "name": {
+        "local": "Daloa",
+        "en": "Daloa",
+        "slug": "daloa-ci1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI18",
+        "level": 1,
+        "name": {
+          "local": "Haut-Sassandra",
+          "en": "Haut-Sassandra",
+          "slug": "haut-sassandra-ci18"
+        }
+      },
+      {
+        "id": "CI1801",
+        "level": 2,
+        "name": {
+          "local": "Daloa",
+          "en": "Daloa",
+          "slug": "daloa-ci1801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.695",
+      "lon": "-6.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI180104",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gboguhé",
+      "en": "Gboguhé",
+      "slug": "gboguh-ci180104"
+    },
+    "code": {
+      "id": "CI180104",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1801",
+      "level": 2,
+      "name": {
+        "local": "Daloa",
+        "en": "Daloa",
+        "slug": "daloa-ci1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI18",
+        "level": 1,
+        "name": {
+          "local": "Haut-Sassandra",
+          "en": "Haut-Sassandra",
+          "slug": "haut-sassandra-ci18"
+        }
+      },
+      {
+        "id": "CI1801",
+        "level": 2,
+        "name": {
+          "local": "Daloa",
+          "en": "Daloa",
+          "slug": "daloa-ci1801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.819",
+      "lon": "-6.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI180105",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gonaté",
+      "en": "Gonaté",
+      "slug": "gonat-ci180105"
+    },
+    "code": {
+      "id": "CI180105",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1801",
+      "level": 2,
+      "name": {
+        "local": "Daloa",
+        "en": "Daloa",
+        "slug": "daloa-ci1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI18",
+        "level": 1,
+        "name": {
+          "local": "Haut-Sassandra",
+          "en": "Haut-Sassandra",
+          "slug": "haut-sassandra-ci18"
+        }
+      },
+      {
+        "id": "CI1801",
+        "level": 2,
+        "name": {
+          "local": "Daloa",
+          "en": "Daloa",
+          "slug": "daloa-ci1801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.933",
+      "lon": "-6.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI180106",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Zaibo",
+      "en": "Zaibo",
+      "slug": "zaibo-ci180106"
+    },
+    "code": {
+      "id": "CI180106",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1801",
+      "level": 2,
+      "name": {
+        "local": "Daloa",
+        "en": "Daloa",
+        "slug": "daloa-ci1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI18",
+        "level": 1,
+        "name": {
+          "local": "Haut-Sassandra",
+          "en": "Haut-Sassandra",
+          "slug": "haut-sassandra-ci18"
+        }
+      },
+      {
+        "id": "CI1801",
+        "level": 2,
+        "name": {
+          "local": "Daloa",
+          "en": "Daloa",
+          "slug": "daloa-ci1801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.002",
+      "lon": "-6.68"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

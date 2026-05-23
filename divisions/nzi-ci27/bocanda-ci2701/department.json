@@ -1,0 +1,47 @@
+{
+  "id": "CI2701",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Bocanda",
+    "en": "Bocanda",
+    "slug": "bocanda-ci2701"
+  },
+  "code": {
+    "id": "CI2701",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI27",
+    "level": 1,
+    "name": {
+      "local": "N'Zi",
+      "en": "N'Zi",
+      "slug": "nzi-ci27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI27",
+      "level": 1,
+      "name": {
+        "local": "N'Zi",
+        "en": "N'Zi",
+        "slug": "nzi-ci27"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.971",
+    "lon": "-4.381"
+  },
+  "metadata": {},
+  "source": {}
+}

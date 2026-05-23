@@ -1,0 +1,8096 @@
+[
+  {
+    "id": "CI03",
+    "name": {
+      "local": "Agneby-Tiassa",
+      "en": "Agneby-Tiassa",
+      "slug": "agneby-tiassa-ci03"
+    },
+    "code": {
+      "id": "CI03",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "CI0301",
+        "name": {
+          "local": "Agboville",
+          "en": "Agboville",
+          "slug": "agboville-ci0301"
+        },
+        "code": {
+          "id": "CI0301",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI030101",
+            "name": {
+              "local": "Aboudé",
+              "en": "Aboudé",
+              "slug": "aboud-ci030101"
+            },
+            "code": {
+              "id": "CI030101",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI030102",
+            "name": {
+              "local": "Agboville",
+              "en": "Agboville",
+              "slug": "agboville-ci030102"
+            },
+            "code": {
+              "id": "CI030102",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI030103",
+            "name": {
+              "local": "Ananguié",
+              "en": "Ananguié",
+              "slug": "anangui-ci030103"
+            },
+            "code": {
+              "id": "CI030103",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI030104",
+            "name": {
+              "local": "Attobrou",
+              "en": "Attobrou",
+              "slug": "attobrou-ci030104"
+            },
+            "code": {
+              "id": "CI030104",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI030105",
+            "name": {
+              "local": "Azaguié",
+              "en": "Azaguié",
+              "slug": "azagui-ci030105"
+            },
+            "code": {
+              "id": "CI030105",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI030106",
+            "name": {
+              "local": "Cechi",
+              "en": "Cechi",
+              "slug": "cechi-ci030106"
+            },
+            "code": {
+              "id": "CI030106",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI030107",
+            "name": {
+              "local": "Grand-Morié",
+              "en": "Grand-Morié",
+              "slug": "grand-mori-ci030107"
+            },
+            "code": {
+              "id": "CI030107",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI030108",
+            "name": {
+              "local": "Guessiguié",
+              "en": "Guessiguié",
+              "slug": "guessigui-ci030108"
+            },
+            "code": {
+              "id": "CI030108",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI030109",
+            "name": {
+              "local": "Loviguié",
+              "en": "Loviguié",
+              "slug": "lovigui-ci030109"
+            },
+            "code": {
+              "id": "CI030109",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI030110",
+            "name": {
+              "local": "Oress-Krobou",
+              "en": "Oress-Krobou",
+              "slug": "oress-krobou-ci030110"
+            },
+            "code": {
+              "id": "CI030110",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI030111",
+            "name": {
+              "local": "Rubino",
+              "en": "Rubino",
+              "slug": "rubino-ci030111"
+            },
+            "code": {
+              "id": "CI030111",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI0302",
+        "name": {
+          "local": "Sikensi",
+          "en": "Sikensi",
+          "slug": "sikensi-ci0302"
+        },
+        "code": {
+          "id": "CI0302",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI030202",
+            "name": {
+              "local": "Gomon",
+              "en": "Gomon",
+              "slug": "gomon-ci030202"
+            },
+            "code": {
+              "id": "CI030202",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI030201",
+            "name": {
+              "local": "Sikensi",
+              "en": "Sikensi",
+              "slug": "sikensi-ci030201"
+            },
+            "code": {
+              "id": "CI030201",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI0303",
+        "name": {
+          "local": "Taabo",
+          "en": "Taabo",
+          "slug": "taabo-ci0303"
+        },
+        "code": {
+          "id": "CI0303",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI030302",
+            "name": {
+              "local": "Pacobo",
+              "en": "Pacobo",
+              "slug": "pacobo-ci030302"
+            },
+            "code": {
+              "id": "CI030302",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI030301",
+            "name": {
+              "local": "Taabo",
+              "en": "Taabo",
+              "slug": "taabo-ci030301"
+            },
+            "code": {
+              "id": "CI030301",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI0304",
+        "name": {
+          "local": "Tiassalé",
+          "en": "Tiassalé",
+          "slug": "tiassal-ci0304"
+        },
+        "code": {
+          "id": "CI0304",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI030402",
+            "name": {
+              "local": "Gbolouville",
+              "en": "Gbolouville",
+              "slug": "gbolouville-ci030402"
+            },
+            "code": {
+              "id": "CI030402",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI030403",
+            "name": {
+              "local": "Morokro",
+              "en": "Morokro",
+              "slug": "morokro-ci030403"
+            },
+            "code": {
+              "id": "CI030403",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI030404",
+            "name": {
+              "local": "N'Douci",
+              "en": "N'Douci",
+              "slug": "ndouci-ci030404"
+            },
+            "code": {
+              "id": "CI030404",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI030401",
+            "name": {
+              "local": "Tiassalé",
+              "en": "Tiassalé",
+              "slug": "tiassal-ci030401"
+            },
+            "code": {
+              "id": "CI030401",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CI04",
+    "name": {
+      "local": "Bafing",
+      "en": "Bafing",
+      "slug": "bafing-ci04"
+    },
+    "code": {
+      "id": "CI04",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "CI0401",
+        "name": {
+          "local": "Koro",
+          "en": "Koro",
+          "slug": "koro-ci0401"
+        },
+        "code": {
+          "id": "CI0401",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI040102",
+            "name": {
+              "local": "Booko",
+              "en": "Booko",
+              "slug": "booko-ci040102"
+            },
+            "code": {
+              "id": "CI040102",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI040103",
+            "name": {
+              "local": "Borotou",
+              "en": "Borotou",
+              "slug": "borotou-ci040103"
+            },
+            "code": {
+              "id": "CI040103",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI040101",
+            "name": {
+              "local": "Koro",
+              "en": "Koro",
+              "slug": "koro-ci040101"
+            },
+            "code": {
+              "id": "CI040101",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI040104",
+            "name": {
+              "local": "Mahandougou",
+              "en": "Mahandougou",
+              "slug": "mahandougou-ci040104"
+            },
+            "code": {
+              "id": "CI040104",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI040105",
+            "name": {
+              "local": "Niokosso",
+              "en": "Niokosso",
+              "slug": "niokosso-ci040105"
+            },
+            "code": {
+              "id": "CI040105",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI0402",
+        "name": {
+          "local": "Ouaninou",
+          "en": "Ouaninou",
+          "slug": "ouaninou-ci0402"
+        },
+        "code": {
+          "id": "CI0402",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI040202",
+            "name": {
+              "local": "Gbèlo",
+              "en": "Gbèlo",
+              "slug": "gblo-ci040202"
+            },
+            "code": {
+              "id": "CI040202",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI040203",
+            "name": {
+              "local": "Gouékan",
+              "en": "Gouékan",
+              "slug": "goukan-ci040203"
+            },
+            "code": {
+              "id": "CI040203",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI040204",
+            "name": {
+              "local": "Koonan",
+              "en": "Koonan",
+              "slug": "koonan-ci040204"
+            },
+            "code": {
+              "id": "CI040204",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI040201",
+            "name": {
+              "local": "Ouaninou",
+              "en": "Ouaninou",
+              "slug": "ouaninou-ci040201"
+            },
+            "code": {
+              "id": "CI040201",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI040205",
+            "name": {
+              "local": "Saboudougou",
+              "en": "Saboudougou",
+              "slug": "saboudougou-ci040205"
+            },
+            "code": {
+              "id": "CI040205",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI040206",
+            "name": {
+              "local": "Santa",
+              "en": "Santa",
+              "slug": "santa-ci040206"
+            },
+            "code": {
+              "id": "CI040206",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI0403",
+        "name": {
+          "local": "Touba",
+          "en": "Touba",
+          "slug": "touba-ci0403"
+        },
+        "code": {
+          "id": "CI0403",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI040302",
+            "name": {
+              "local": "Dioman",
+              "en": "Dioman",
+              "slug": "dioman-ci040302"
+            },
+            "code": {
+              "id": "CI040302",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI040303",
+            "name": {
+              "local": "Foungbesso",
+              "en": "Foungbesso",
+              "slug": "foungbesso-ci040303"
+            },
+            "code": {
+              "id": "CI040303",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI040304",
+            "name": {
+              "local": "Guintéguéla",
+              "en": "Guintéguéla",
+              "slug": "guintgula-ci040304"
+            },
+            "code": {
+              "id": "CI040304",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI040301",
+            "name": {
+              "local": "Touba",
+              "en": "Touba",
+              "slug": "touba-ci040301"
+            },
+            "code": {
+              "id": "CI040301",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CI05",
+    "name": {
+      "local": "Bagoue",
+      "en": "Bagoue",
+      "slug": "bagoue-ci05"
+    },
+    "code": {
+      "id": "CI05",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "CI0501",
+        "name": {
+          "local": "Boundiali",
+          "en": "Boundiali",
+          "slug": "boundiali-ci0501"
+        },
+        "code": {
+          "id": "CI0501",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI050101",
+            "name": {
+              "local": "Baya",
+              "en": "Baya",
+              "slug": "baya-ci050101"
+            },
+            "code": {
+              "id": "CI050101",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI050102",
+            "name": {
+              "local": "Boundiali",
+              "en": "Boundiali",
+              "slug": "boundiali-ci050102"
+            },
+            "code": {
+              "id": "CI050102",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI050103",
+            "name": {
+              "local": "Ganaoni",
+              "en": "Ganaoni",
+              "slug": "ganaoni-ci050103"
+            },
+            "code": {
+              "id": "CI050103",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI050104",
+            "name": {
+              "local": "Kasséré",
+              "en": "Kasséré",
+              "slug": "kassr-ci050104"
+            },
+            "code": {
+              "id": "CI050104",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI050105",
+            "name": {
+              "local": "Siempurgo",
+              "en": "Siempurgo",
+              "slug": "siempurgo-ci050105"
+            },
+            "code": {
+              "id": "CI050105",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI0502",
+        "name": {
+          "local": "Kouto",
+          "en": "Kouto",
+          "slug": "kouto-ci0502"
+        },
+        "code": {
+          "id": "CI0502",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI050202",
+            "name": {
+              "local": "Blességué",
+              "en": "Blességué",
+              "slug": "blessgu-ci050202"
+            },
+            "code": {
+              "id": "CI050202",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI050203",
+            "name": {
+              "local": "Gbon",
+              "en": "Gbon",
+              "slug": "gbon-ci050203"
+            },
+            "code": {
+              "id": "CI050203",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI050204",
+            "name": {
+              "local": "Kolia",
+              "en": "Kolia",
+              "slug": "kolia-ci050204"
+            },
+            "code": {
+              "id": "CI050204",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI050201",
+            "name": {
+              "local": "Kouto",
+              "en": "Kouto",
+              "slug": "kouto-ci050201"
+            },
+            "code": {
+              "id": "CI050201",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI050205",
+            "name": {
+              "local": "Sianhala",
+              "en": "Sianhala",
+              "slug": "sianhala-ci050205"
+            },
+            "code": {
+              "id": "CI050205",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI0503",
+        "name": {
+          "local": "Tengrela",
+          "en": "Tengrela",
+          "slug": "tengrela-ci0503"
+        },
+        "code": {
+          "id": "CI0503",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI050302",
+            "name": {
+              "local": "Débété",
+              "en": "Débété",
+              "slug": "dbt-ci050302"
+            },
+            "code": {
+              "id": "CI050302",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI050303",
+            "name": {
+              "local": "Kanakono",
+              "en": "Kanakono",
+              "slug": "kanakono-ci050303"
+            },
+            "code": {
+              "id": "CI050303",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI050304",
+            "name": {
+              "local": "Papara",
+              "en": "Papara",
+              "slug": "papara-ci050304"
+            },
+            "code": {
+              "id": "CI050304",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI050301",
+            "name": {
+              "local": "Tengrela",
+              "en": "Tengrela",
+              "slug": "tengrela-ci050301"
+            },
+            "code": {
+              "id": "CI050301",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CI06",
+    "name": {
+      "local": "Belier",
+      "en": "Belier",
+      "slug": "belier-ci06"
+    },
+    "code": {
+      "id": "CI06",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "CI0601",
+        "name": {
+          "local": "Didievi",
+          "en": "Didievi",
+          "slug": "didievi-ci0601"
+        },
+        "code": {
+          "id": "CI0601",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI060101",
+            "name": {
+              "local": "Boli",
+              "en": "Boli",
+              "slug": "boli-ci060101"
+            },
+            "code": {
+              "id": "CI060101",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI060102",
+            "name": {
+              "local": "Didievi",
+              "en": "Didievi",
+              "slug": "didievi-ci060102"
+            },
+            "code": {
+              "id": "CI060102",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI060103",
+            "name": {
+              "local": "Molonou-Blé",
+              "en": "Molonou-Blé",
+              "slug": "molonou-bl-ci060103"
+            },
+            "code": {
+              "id": "CI060103",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI060104",
+            "name": {
+              "local": "Raviart",
+              "en": "Raviart",
+              "slug": "raviart-ci060104"
+            },
+            "code": {
+              "id": "CI060104",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI060105",
+            "name": {
+              "local": "Tie N'Diékro",
+              "en": "Tie N'Diékro",
+              "slug": "tie-ndikro-ci060105"
+            },
+            "code": {
+              "id": "CI060105",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI0602",
+        "name": {
+          "local": "Djekanou",
+          "en": "Djekanou",
+          "slug": "djekanou-ci0602"
+        },
+        "code": {
+          "id": "CI0602",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI060201",
+            "name": {
+              "local": "Bonikro",
+              "en": "Bonikro",
+              "slug": "bonikro-ci060201"
+            },
+            "code": {
+              "id": "CI060201",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI060202",
+            "name": {
+              "local": "Djékanou",
+              "en": "Djékanou",
+              "slug": "djkanou-ci060202"
+            },
+            "code": {
+              "id": "CI060202",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI0603",
+        "name": {
+          "local": "Tiébissou",
+          "en": "Tiébissou",
+          "slug": "tibissou-ci0603"
+        },
+        "code": {
+          "id": "CI0603",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI060302",
+            "name": {
+              "local": "Lomokankro",
+              "en": "Lomokankro",
+              "slug": "lomokankro-ci060302"
+            },
+            "code": {
+              "id": "CI060302",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI060303",
+            "name": {
+              "local": "Molonou",
+              "en": "Molonou",
+              "slug": "molonou-ci060303"
+            },
+            "code": {
+              "id": "CI060303",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI060301",
+            "name": {
+              "local": "Tiébissou",
+              "en": "Tiébissou",
+              "slug": "tibissou-ci060301"
+            },
+            "code": {
+              "id": "CI060301",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI060304",
+            "name": {
+              "local": "Yakpabo-Sakassou",
+              "en": "Yakpabo-Sakassou",
+              "slug": "yakpabo-sakassou-ci060304"
+            },
+            "code": {
+              "id": "CI060304",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI0604",
+        "name": {
+          "local": "Toumodi",
+          "en": "Toumodi",
+          "slug": "toumodi-ci0604"
+        },
+        "code": {
+          "id": "CI0604",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI060402",
+            "name": {
+              "local": "Angoda",
+              "en": "Angoda",
+              "slug": "angoda-ci060402"
+            },
+            "code": {
+              "id": "CI060402",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI060403",
+            "name": {
+              "local": "Kokoumbo",
+              "en": "Kokoumbo",
+              "slug": "kokoumbo-ci060403"
+            },
+            "code": {
+              "id": "CI060403",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI060404",
+            "name": {
+              "local": "Kpouèbo",
+              "en": "Kpouèbo",
+              "slug": "kpoubo-ci060404"
+            },
+            "code": {
+              "id": "CI060404",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI060401",
+            "name": {
+              "local": "Toumodi",
+              "en": "Toumodi",
+              "slug": "toumodi-ci060401"
+            },
+            "code": {
+              "id": "CI060401",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CI07",
+    "name": {
+      "local": "Bere",
+      "en": "Bere",
+      "slug": "bere-ci07"
+    },
+    "code": {
+      "id": "CI07",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "CI0701",
+        "name": {
+          "local": "Dianra",
+          "en": "Dianra",
+          "slug": "dianra-ci0701"
+        },
+        "code": {
+          "id": "CI0701",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI070101",
+            "name": {
+              "local": "Dianra",
+              "en": "Dianra",
+              "slug": "dianra-ci070101"
+            },
+            "code": {
+              "id": "CI070101",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI070102",
+            "name": {
+              "local": "Dianra-Village",
+              "en": "Dianra-Village",
+              "slug": "dianra-village-ci070102"
+            },
+            "code": {
+              "id": "CI070102",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI0702",
+        "name": {
+          "local": "Kounahiri",
+          "en": "Kounahiri",
+          "slug": "kounahiri-ci0702"
+        },
+        "code": {
+          "id": "CI0702",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI070202",
+            "name": {
+              "local": "Kongasso",
+              "en": "Kongasso",
+              "slug": "kongasso-ci070202"
+            },
+            "code": {
+              "id": "CI070202",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI070201",
+            "name": {
+              "local": "Kounahiri",
+              "en": "Kounahiri",
+              "slug": "kounahiri-ci070201"
+            },
+            "code": {
+              "id": "CI070201",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI0703",
+        "name": {
+          "local": "Mankono",
+          "en": "Mankono",
+          "slug": "mankono-ci0703"
+        },
+        "code": {
+          "id": "CI0703",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI070302",
+            "name": {
+              "local": "Bouandougou",
+              "en": "Bouandougou",
+              "slug": "bouandougou-ci070302"
+            },
+            "code": {
+              "id": "CI070302",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI070301",
+            "name": {
+              "local": "Mankono",
+              "en": "Mankono",
+              "slug": "mankono-ci070301"
+            },
+            "code": {
+              "id": "CI070301",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI070303",
+            "name": {
+              "local": "Marandallah",
+              "en": "Marandallah",
+              "slug": "marandallah-ci070303"
+            },
+            "code": {
+              "id": "CI070303",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI070304",
+            "name": {
+              "local": "Sarhala",
+              "en": "Sarhala",
+              "slug": "sarhala-ci070304"
+            },
+            "code": {
+              "id": "CI070304",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI070305",
+            "name": {
+              "local": "Tiéningboué",
+              "en": "Tiéningboué",
+              "slug": "tiningbou-ci070305"
+            },
+            "code": {
+              "id": "CI070305",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CI08",
+    "name": {
+      "local": "Bounkani",
+      "en": "Bounkani",
+      "slug": "bounkani-ci08"
+    },
+    "code": {
+      "id": "CI08",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "CI0801",
+        "name": {
+          "local": "Bouna",
+          "en": "Bouna",
+          "slug": "bouna-ci0801"
+        },
+        "code": {
+          "id": "CI0801",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI080101",
+            "name": {
+              "local": "Bouko",
+              "en": "Bouko",
+              "slug": "bouko-ci080101"
+            },
+            "code": {
+              "id": "CI080101",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI080102",
+            "name": {
+              "local": "Bouna",
+              "en": "Bouna",
+              "slug": "bouna-ci080102"
+            },
+            "code": {
+              "id": "CI080102",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI080103",
+            "name": {
+              "local": "Ondéfidouo",
+              "en": "Ondéfidouo",
+              "slug": "ondfidouo-ci080103"
+            },
+            "code": {
+              "id": "CI080103",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI080104",
+            "name": {
+              "local": "Parc National de Bona",
+              "en": "Parc National de Bona",
+              "slug": "parc-national-de-bona-ci080104"
+            },
+            "code": {
+              "id": "CI080104",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI080105",
+            "name": {
+              "local": "Youndouo",
+              "en": "Youndouo",
+              "slug": "youndouo-ci080105"
+            },
+            "code": {
+              "id": "CI080105",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI0802",
+        "name": {
+          "local": "Doropo",
+          "en": "Doropo",
+          "slug": "doropo-ci0802"
+        },
+        "code": {
+          "id": "CI0802",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI080201",
+            "name": {
+              "local": "Danoa",
+              "en": "Danoa",
+              "slug": "danoa-ci080201"
+            },
+            "code": {
+              "id": "CI080201",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI080202",
+            "name": {
+              "local": "Doropo",
+              "en": "Doropo",
+              "slug": "doropo-ci080202"
+            },
+            "code": {
+              "id": "CI080202",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI080203",
+            "name": {
+              "local": "Kalamon",
+              "en": "Kalamon",
+              "slug": "kalamon-ci080203"
+            },
+            "code": {
+              "id": "CI080203",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI080204",
+            "name": {
+              "local": "Niamoué",
+              "en": "Niamoué",
+              "slug": "niamou-ci080204"
+            },
+            "code": {
+              "id": "CI080204",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI0803",
+        "name": {
+          "local": "Nassian",
+          "en": "Nassian",
+          "slug": "nassian-ci0803"
+        },
+        "code": {
+          "id": "CI0803",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI080302",
+            "name": {
+              "local": "Bogofa",
+              "en": "Bogofa",
+              "slug": "bogofa-ci080302"
+            },
+            "code": {
+              "id": "CI080302",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI080303",
+            "name": {
+              "local": "Kakpin",
+              "en": "Kakpin",
+              "slug": "kakpin-ci080303"
+            },
+            "code": {
+              "id": "CI080303",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI080304",
+            "name": {
+              "local": "Koutouba",
+              "en": "Koutouba",
+              "slug": "koutouba-ci080304"
+            },
+            "code": {
+              "id": "CI080304",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI080301",
+            "name": {
+              "local": "Nassian",
+              "en": "Nassian",
+              "slug": "nassian-ci080301"
+            },
+            "code": {
+              "id": "CI080301",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI080305",
+            "name": {
+              "local": "Sominassé",
+              "en": "Sominassé",
+              "slug": "sominass-ci080305"
+            },
+            "code": {
+              "id": "CI080305",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI0804",
+        "name": {
+          "local": "Téhini",
+          "en": "Téhini",
+          "slug": "thini-ci0804"
+        },
+        "code": {
+          "id": "CI0804",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI080402",
+            "name": {
+              "local": "Gogo",
+              "en": "Gogo",
+              "slug": "gogo-ci080402"
+            },
+            "code": {
+              "id": "CI080402",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI080401",
+            "name": {
+              "local": "Téhini",
+              "en": "Téhini",
+              "slug": "thini-ci080401"
+            },
+            "code": {
+              "id": "CI080401",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI080403",
+            "name": {
+              "local": "Tougbo",
+              "en": "Tougbo",
+              "slug": "tougbo-ci080403"
+            },
+            "code": {
+              "id": "CI080403",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CI09",
+    "name": {
+      "local": "Cavally",
+      "en": "Cavally",
+      "slug": "cavally-ci09"
+    },
+    "code": {
+      "id": "CI09",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "CI0901",
+        "name": {
+          "local": "Bloléquin",
+          "en": "Bloléquin",
+          "slug": "blolquin-ci0901"
+        },
+        "code": {
+          "id": "CI0901",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI090101",
+            "name": {
+              "local": "Bloléquin",
+              "en": "Bloléquin",
+              "slug": "blolquin-ci090101"
+            },
+            "code": {
+              "id": "CI090101",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI090102",
+            "name": {
+              "local": "Diboké",
+              "en": "Diboké",
+              "slug": "dibok-ci090102"
+            },
+            "code": {
+              "id": "CI090102",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI090103",
+            "name": {
+              "local": "Doké",
+              "en": "Doké",
+              "slug": "dok-ci090103"
+            },
+            "code": {
+              "id": "CI090103",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI090104",
+            "name": {
+              "local": "Tinhou",
+              "en": "Tinhou",
+              "slug": "tinhou-ci090104"
+            },
+            "code": {
+              "id": "CI090104",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI090105",
+            "name": {
+              "local": "Zéaglo",
+              "en": "Zéaglo",
+              "slug": "zaglo-ci090105"
+            },
+            "code": {
+              "id": "CI090105",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI0902",
+        "name": {
+          "local": "Guiglo",
+          "en": "Guiglo",
+          "slug": "guiglo-ci0902"
+        },
+        "code": {
+          "id": "CI0902",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI090202",
+            "name": {
+              "local": "Bédi-Gaozon",
+              "en": "Bédi-Gaozon",
+              "slug": "bdi-gaozon-ci090202"
+            },
+            "code": {
+              "id": "CI090202",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI090201",
+            "name": {
+              "local": "Guiglo",
+              "en": "Guiglo",
+              "slug": "guiglo-ci090201"
+            },
+            "code": {
+              "id": "CI090201",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI090203",
+            "name": {
+              "local": "Kaadé",
+              "en": "Kaadé",
+              "slug": "kaad-ci090203"
+            },
+            "code": {
+              "id": "CI090203",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI090204",
+            "name": {
+              "local": "Nizahon",
+              "en": "Nizahon",
+              "slug": "nizahon-ci090204"
+            },
+            "code": {
+              "id": "CI090204",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI0903",
+        "name": {
+          "local": "Taï",
+          "en": "Taï",
+          "slug": "ta-ci0903"
+        },
+        "code": {
+          "id": "CI0903",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI090301",
+            "name": {
+              "local": "Taï",
+              "en": "Taï",
+              "slug": "ta-ci090301"
+            },
+            "code": {
+              "id": "CI090301",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI090302",
+            "name": {
+              "local": "Zagné",
+              "en": "Zagné",
+              "slug": "zagn-ci090302"
+            },
+            "code": {
+              "id": "CI090302",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI0904",
+        "name": {
+          "local": "Toulepleu",
+          "en": "Toulepleu",
+          "slug": "toulepleu-ci0904"
+        },
+        "code": {
+          "id": "CI0904",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI090402",
+            "name": {
+              "local": "Bakoubly",
+              "en": "Bakoubly",
+              "slug": "bakoubly-ci090402"
+            },
+            "code": {
+              "id": "CI090402",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI090403",
+            "name": {
+              "local": "Méo",
+              "en": "Méo",
+              "slug": "mo-ci090403"
+            },
+            "code": {
+              "id": "CI090403",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI090404",
+            "name": {
+              "local": "Nézobly",
+              "en": "Nézobly",
+              "slug": "nzobly-ci090404"
+            },
+            "code": {
+              "id": "CI090404",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI090405",
+            "name": {
+              "local": "Péhé",
+              "en": "Péhé",
+              "slug": "ph-ci090405"
+            },
+            "code": {
+              "id": "CI090405",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI090406",
+            "name": {
+              "local": "Tiobly",
+              "en": "Tiobly",
+              "slug": "tiobly-ci090406"
+            },
+            "code": {
+              "id": "CI090406",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI090401",
+            "name": {
+              "local": "Toulepleu",
+              "en": "Toulepleu",
+              "slug": "toulepleu-ci090401"
+            },
+            "code": {
+              "id": "CI090401",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CI01",
+    "name": {
+      "local": "District Autonome D'Abidjan",
+      "en": "District Autonome D'Abidjan",
+      "slug": "district-autonome-dabidjan-ci01"
+    },
+    "code": {
+      "id": "CI01",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "CI0101",
+        "name": {
+          "local": "Abidjan",
+          "en": "Abidjan",
+          "slug": "abidjan-ci0101"
+        },
+        "code": {
+          "id": "CI0101",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI010101",
+            "name": {
+              "local": "Abidjan",
+              "en": "Abidjan",
+              "slug": "abidjan-ci010101"
+            },
+            "code": {
+              "id": "CI010101",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI010102",
+            "name": {
+              "local": "Anyama",
+              "en": "Anyama",
+              "slug": "anyama-ci010102"
+            },
+            "code": {
+              "id": "CI010102",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI010103",
+            "name": {
+              "local": "Bingerville",
+              "en": "Bingerville",
+              "slug": "bingerville-ci010103"
+            },
+            "code": {
+              "id": "CI010103",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI010104",
+            "name": {
+              "local": "Brofodoumé",
+              "en": "Brofodoumé",
+              "slug": "brofodoum-ci010104"
+            },
+            "code": {
+              "id": "CI010104",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI010105",
+            "name": {
+              "local": "Songon",
+              "en": "Songon",
+              "slug": "songon-ci010105"
+            },
+            "code": {
+              "id": "CI010105",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CI02",
+    "name": {
+      "local": "District Autonome De Yamoussoukro",
+      "en": "District Autonome De Yamoussoukro",
+      "slug": "district-autonome-de-yamoussoukro-ci02"
+    },
+    "code": {
+      "id": "CI02",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "CI0201",
+        "name": {
+          "local": "Attiégouakro",
+          "en": "Attiégouakro",
+          "slug": "attigouakro-ci0201"
+        },
+        "code": {
+          "id": "CI0201",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI020101",
+            "name": {
+              "local": "Attiégouakro",
+              "en": "Attiégouakro",
+              "slug": "attigouakro-ci020101"
+            },
+            "code": {
+              "id": "CI020101",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI020102",
+            "name": {
+              "local": "Lolobo",
+              "en": "Lolobo",
+              "slug": "lolobo-ci020102"
+            },
+            "code": {
+              "id": "CI020102",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI0202",
+        "name": {
+          "local": "Yamoussoukro",
+          "en": "Yamoussoukro",
+          "slug": "yamoussoukro-ci0202"
+        },
+        "code": {
+          "id": "CI0202",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI020202",
+            "name": {
+              "local": "Kossou",
+              "en": "Kossou",
+              "slug": "kossou-ci020202"
+            },
+            "code": {
+              "id": "CI020202",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI020201",
+            "name": {
+              "local": "Yamoussoukro",
+              "en": "Yamoussoukro",
+              "slug": "yamoussoukro-ci020201"
+            },
+            "code": {
+              "id": "CI020201",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CI10",
+    "name": {
+      "local": "Folon",
+      "en": "Folon",
+      "slug": "folon-ci10"
+    },
+    "code": {
+      "id": "CI10",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "CI1001",
+        "name": {
+          "local": "Kaniasso",
+          "en": "Kaniasso",
+          "slug": "kaniasso-ci1001"
+        },
+        "code": {
+          "id": "CI1001",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI100101",
+            "name": {
+              "local": "Goulia",
+              "en": "Goulia",
+              "slug": "goulia-ci100101"
+            },
+            "code": {
+              "id": "CI100101",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI100102",
+            "name": {
+              "local": "Kaniasso",
+              "en": "Kaniasso",
+              "slug": "kaniasso-ci100102"
+            },
+            "code": {
+              "id": "CI100102",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI100103",
+            "name": {
+              "local": "Mahandiana-Sokourani",
+              "en": "Mahandiana-Sokourani",
+              "slug": "mahandiana-sokourani-ci100103"
+            },
+            "code": {
+              "id": "CI100103",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI1002",
+        "name": {
+          "local": "Minignan",
+          "en": "Minignan",
+          "slug": "minignan-ci1002"
+        },
+        "code": {
+          "id": "CI1002",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI100202",
+            "name": {
+              "local": "Kimbirila-Nord",
+              "en": "Kimbirila-Nord",
+              "slug": "kimbirila-nord-ci100202"
+            },
+            "code": {
+              "id": "CI100202",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI100201",
+            "name": {
+              "local": "Minignan",
+              "en": "Minignan",
+              "slug": "minignan-ci100201"
+            },
+            "code": {
+              "id": "CI100201",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI100203",
+            "name": {
+              "local": "Sokoro",
+              "en": "Sokoro",
+              "slug": "sokoro-ci100203"
+            },
+            "code": {
+              "id": "CI100203",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI100204",
+            "name": {
+              "local": "Tienko",
+              "en": "Tienko",
+              "slug": "tienko-ci100204"
+            },
+            "code": {
+              "id": "CI100204",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CI11",
+    "name": {
+      "local": "Gbeke",
+      "en": "Gbeke",
+      "slug": "gbeke-ci11"
+    },
+    "code": {
+      "id": "CI11",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "CI1101",
+        "name": {
+          "local": "Béoumi",
+          "en": "Béoumi",
+          "slug": "boumi-ci1101"
+        },
+        "code": {
+          "id": "CI1101",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI110101",
+            "name": {
+              "local": "Ando-Kékrénou",
+              "en": "Ando-Kékrénou",
+              "slug": "ando-kkrnou-ci110101"
+            },
+            "code": {
+              "id": "CI110101",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI110102",
+            "name": {
+              "local": "Béoumi",
+              "en": "Béoumi",
+              "slug": "boumi-ci110102"
+            },
+            "code": {
+              "id": "CI110102",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI110103",
+            "name": {
+              "local": "Bodokro",
+              "en": "Bodokro",
+              "slug": "bodokro-ci110103"
+            },
+            "code": {
+              "id": "CI110103",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI110104",
+            "name": {
+              "local": "Kondrobo",
+              "en": "Kondrobo",
+              "slug": "kondrobo-ci110104"
+            },
+            "code": {
+              "id": "CI110104",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI110105",
+            "name": {
+              "local": "Lolobo",
+              "en": "Lolobo",
+              "slug": "lolobo-ci110105"
+            },
+            "code": {
+              "id": "CI110105",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI110106",
+            "name": {
+              "local": "Marabadiassa",
+              "en": "Marabadiassa",
+              "slug": "marabadiassa-ci110106"
+            },
+            "code": {
+              "id": "CI110106",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI110107",
+            "name": {
+              "local": "N'Guéssankro",
+              "en": "N'Guéssankro",
+              "slug": "ngussankro-ci110107"
+            },
+            "code": {
+              "id": "CI110107",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI1102",
+        "name": {
+          "local": "Botro",
+          "en": "Botro",
+          "slug": "botro-ci1102"
+        },
+        "code": {
+          "id": "CI1102",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI110201",
+            "name": {
+              "local": "Botro",
+              "en": "Botro",
+              "slug": "botro-ci110201"
+            },
+            "code": {
+              "id": "CI110201",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI110202",
+            "name": {
+              "local": "Diabo",
+              "en": "Diabo",
+              "slug": "diabo-ci110202"
+            },
+            "code": {
+              "id": "CI110202",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI110203",
+            "name": {
+              "local": "Krofoinsou",
+              "en": "Krofoinsou",
+              "slug": "krofoinsou-ci110203"
+            },
+            "code": {
+              "id": "CI110203",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI110204",
+            "name": {
+              "local": "Languibonou",
+              "en": "Languibonou",
+              "slug": "languibonou-ci110204"
+            },
+            "code": {
+              "id": "CI110204",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI1103",
+        "name": {
+          "local": "Bouaké",
+          "en": "Bouaké",
+          "slug": "bouak-ci1103"
+        },
+        "code": {
+          "id": "CI1103",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI110301",
+            "name": {
+              "local": "Bouaké",
+              "en": "Bouaké",
+              "slug": "bouak-ci110301"
+            },
+            "code": {
+              "id": "CI110301",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI110302",
+            "name": {
+              "local": "Bounda",
+              "en": "Bounda",
+              "slug": "bounda-ci110302"
+            },
+            "code": {
+              "id": "CI110302",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI110303",
+            "name": {
+              "local": "Brobo",
+              "en": "Brobo",
+              "slug": "brobo-ci110303"
+            },
+            "code": {
+              "id": "CI110303",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI110304",
+            "name": {
+              "local": "Djébonoua",
+              "en": "Djébonoua",
+              "slug": "djbonoua-ci110304"
+            },
+            "code": {
+              "id": "CI110304",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI110305",
+            "name": {
+              "local": "Mamini",
+              "en": "Mamini",
+              "slug": "mamini-ci110305"
+            },
+            "code": {
+              "id": "CI110305",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI1104",
+        "name": {
+          "local": "Sakassou",
+          "en": "Sakassou",
+          "slug": "sakassou-ci1104"
+        },
+        "code": {
+          "id": "CI1104",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI110402",
+            "name": {
+              "local": "Ayaou-Sran",
+              "en": "Ayaou-Sran",
+              "slug": "ayaou-sran-ci110402"
+            },
+            "code": {
+              "id": "CI110402",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI110403",
+            "name": {
+              "local": "Dibri-Assirikro",
+              "en": "Dibri-Assirikro",
+              "slug": "dibri-assirikro-ci110403"
+            },
+            "code": {
+              "id": "CI110403",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI110401",
+            "name": {
+              "local": "Sakassou",
+              "en": "Sakassou",
+              "slug": "sakassou-ci110401"
+            },
+            "code": {
+              "id": "CI110401",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI110404",
+            "name": {
+              "local": "Toumodi-Sakassou",
+              "en": "Toumodi-Sakassou",
+              "slug": "toumodi-sakassou-ci110404"
+            },
+            "code": {
+              "id": "CI110404",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CI12",
+    "name": {
+      "local": "Gbokle",
+      "en": "Gbokle",
+      "slug": "gbokle-ci12"
+    },
+    "code": {
+      "id": "CI12",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "CI1201",
+        "name": {
+          "local": "Fresco",
+          "en": "Fresco",
+          "slug": "fresco-ci1201"
+        },
+        "code": {
+          "id": "CI1201",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI120101",
+            "name": {
+              "local": "Dahiri",
+              "en": "Dahiri",
+              "slug": "dahiri-ci120101"
+            },
+            "code": {
+              "id": "CI120101",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI120102",
+            "name": {
+              "local": "Fresco",
+              "en": "Fresco",
+              "slug": "fresco-ci120102"
+            },
+            "code": {
+              "id": "CI120102",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI120103",
+            "name": {
+              "local": "Gbagbam",
+              "en": "Gbagbam",
+              "slug": "gbagbam-ci120103"
+            },
+            "code": {
+              "id": "CI120103",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI1202",
+        "name": {
+          "local": "Sassandra",
+          "en": "Sassandra",
+          "slug": "sassandra-ci1202"
+        },
+        "code": {
+          "id": "CI1202",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI120202",
+            "name": {
+              "local": "Dakpadou",
+              "en": "Dakpadou",
+              "slug": "dakpadou-ci120202"
+            },
+            "code": {
+              "id": "CI120202",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI120203",
+            "name": {
+              "local": "Grihiri",
+              "en": "Grihiri",
+              "slug": "grihiri-ci120203"
+            },
+            "code": {
+              "id": "CI120203",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI120204",
+            "name": {
+              "local": "Lobakuya",
+              "en": "Lobakuya",
+              "slug": "lobakuya-ci120204"
+            },
+            "code": {
+              "id": "CI120204",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI120205",
+            "name": {
+              "local": "Medon",
+              "en": "Medon",
+              "slug": "medon-ci120205"
+            },
+            "code": {
+              "id": "CI120205",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI120206",
+            "name": {
+              "local": "Sago",
+              "en": "Sago",
+              "slug": "sago-ci120206"
+            },
+            "code": {
+              "id": "CI120206",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI120201",
+            "name": {
+              "local": "Sassandra",
+              "en": "Sassandra",
+              "slug": "sassandra-ci120201"
+            },
+            "code": {
+              "id": "CI120201",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CI13",
+    "name": {
+      "local": "Goh",
+      "en": "Goh",
+      "slug": "goh-ci13"
+    },
+    "code": {
+      "id": "CI13",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "CI1301",
+        "name": {
+          "local": "Gagnoa",
+          "en": "Gagnoa",
+          "slug": "gagnoa-ci1301"
+        },
+        "code": {
+          "id": "CI1301",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI130101",
+            "name": {
+              "local": "Bayota",
+              "en": "Bayota",
+              "slug": "bayota-ci130101"
+            },
+            "code": {
+              "id": "CI130101",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI130102",
+            "name": {
+              "local": "Dahiépa-Kéhi",
+              "en": "Dahiépa-Kéhi",
+              "slug": "dahipa-khi-ci130102"
+            },
+            "code": {
+              "id": "CI130102",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI130103",
+            "name": {
+              "local": "Dignago",
+              "en": "Dignago",
+              "slug": "dignago-ci130103"
+            },
+            "code": {
+              "id": "CI130103",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI130104",
+            "name": {
+              "local": "Dougroupalégnoa",
+              "en": "Dougroupalégnoa",
+              "slug": "dougroupalgnoa-ci130104"
+            },
+            "code": {
+              "id": "CI130104",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI130105",
+            "name": {
+              "local": "Doukouyo",
+              "en": "Doukouyo",
+              "slug": "doukouyo-ci130105"
+            },
+            "code": {
+              "id": "CI130105",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI130106",
+            "name": {
+              "local": "Gagnoa",
+              "en": "Gagnoa",
+              "slug": "gagnoa-ci130106"
+            },
+            "code": {
+              "id": "CI130106",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI130107",
+            "name": {
+              "local": "Galébouo",
+              "en": "Galébouo",
+              "slug": "galbouo-ci130107"
+            },
+            "code": {
+              "id": "CI130107",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI130108",
+            "name": {
+              "local": "Gnagbodougnoa",
+              "en": "Gnagbodougnoa",
+              "slug": "gnagbodougnoa-ci130108"
+            },
+            "code": {
+              "id": "CI130108",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI130109",
+            "name": {
+              "local": "Guiberoua",
+              "en": "Guiberoua",
+              "slug": "guiberoua-ci130109"
+            },
+            "code": {
+              "id": "CI130109",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI130110",
+            "name": {
+              "local": "Ouragahio",
+              "en": "Ouragahio",
+              "slug": "ouragahio-ci130110"
+            },
+            "code": {
+              "id": "CI130110",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI130111",
+            "name": {
+              "local": "Sérihio",
+              "en": "Sérihio",
+              "slug": "srihio-ci130111"
+            },
+            "code": {
+              "id": "CI130111",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI130112",
+            "name": {
+              "local": "Yopohue",
+              "en": "Yopohue",
+              "slug": "yopohue-ci130112"
+            },
+            "code": {
+              "id": "CI130112",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI1302",
+        "name": {
+          "local": "Oumé",
+          "en": "Oumé",
+          "slug": "oum-ci1302"
+        },
+        "code": {
+          "id": "CI1302",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI130202",
+            "name": {
+              "local": "Diégonéfla",
+              "en": "Diégonéfla",
+              "slug": "digonfla-ci130202"
+            },
+            "code": {
+              "id": "CI130202",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI130203",
+            "name": {
+              "local": "Guépahouo",
+              "en": "Guépahouo",
+              "slug": "gupahouo-ci130203"
+            },
+            "code": {
+              "id": "CI130203",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI130201",
+            "name": {
+              "local": "Oumé",
+              "en": "Oumé",
+              "slug": "oum-ci130201"
+            },
+            "code": {
+              "id": "CI130201",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI130204",
+            "name": {
+              "local": "Tonla",
+              "en": "Tonla",
+              "slug": "tonla-ci130204"
+            },
+            "code": {
+              "id": "CI130204",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CI14",
+    "name": {
+      "local": "Gontougo",
+      "en": "Gontougo",
+      "slug": "gontougo-ci14"
+    },
+    "code": {
+      "id": "CI14",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "CI1401",
+        "name": {
+          "local": "Bondoukou",
+          "en": "Bondoukou",
+          "slug": "bondoukou-ci1401"
+        },
+        "code": {
+          "id": "CI1401",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI140101",
+            "name": {
+              "local": "Appimadoum",
+              "en": "Appimadoum",
+              "slug": "appimadoum-ci140101"
+            },
+            "code": {
+              "id": "CI140101",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI140102",
+            "name": {
+              "local": "Bondo",
+              "en": "Bondo",
+              "slug": "bondo-ci140102"
+            },
+            "code": {
+              "id": "CI140102",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI140103",
+            "name": {
+              "local": "Bondoukou",
+              "en": "Bondoukou",
+              "slug": "bondoukou-ci140103"
+            },
+            "code": {
+              "id": "CI140103",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI140104",
+            "name": {
+              "local": "Gouméré",
+              "en": "Gouméré",
+              "slug": "goumr-ci140104"
+            },
+            "code": {
+              "id": "CI140104",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI140105",
+            "name": {
+              "local": "Laoudi-Ba",
+              "en": "Laoudi-Ba",
+              "slug": "laoudi-ba-ci140105"
+            },
+            "code": {
+              "id": "CI140105",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI140106",
+            "name": {
+              "local": "Pinda-Boroko",
+              "en": "Pinda-Boroko",
+              "slug": "pinda-boroko-ci140106"
+            },
+            "code": {
+              "id": "CI140106",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI140107",
+            "name": {
+              "local": "Sapli-Sépingo",
+              "en": "Sapli-Sépingo",
+              "slug": "sapli-spingo-ci140107"
+            },
+            "code": {
+              "id": "CI140107",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI140108",
+            "name": {
+              "local": "Sorobango",
+              "en": "Sorobango",
+              "slug": "sorobango-ci140108"
+            },
+            "code": {
+              "id": "CI140108",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI140109",
+            "name": {
+              "local": "Tabagne",
+              "en": "Tabagne",
+              "slug": "tabagne-ci140109"
+            },
+            "code": {
+              "id": "CI140109",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI140110",
+            "name": {
+              "local": "Tagadi",
+              "en": "Tagadi",
+              "slug": "tagadi-ci140110"
+            },
+            "code": {
+              "id": "CI140110",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI140111",
+            "name": {
+              "local": "Taoudi",
+              "en": "Taoudi",
+              "slug": "taoudi-ci140111"
+            },
+            "code": {
+              "id": "CI140111",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI140112",
+            "name": {
+              "local": "Yézimala",
+              "en": "Yézimala",
+              "slug": "yzimala-ci140112"
+            },
+            "code": {
+              "id": "CI140112",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI1402",
+        "name": {
+          "local": "Koun Fao",
+          "en": "Koun Fao",
+          "slug": "koun-fao-ci1402"
+        },
+        "code": {
+          "id": "CI1402",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI140202",
+            "name": {
+              "local": "Boahia",
+              "en": "Boahia",
+              "slug": "boahia-ci140202"
+            },
+            "code": {
+              "id": "CI140202",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI140203",
+            "name": {
+              "local": "Kokomian",
+              "en": "Kokomian",
+              "slug": "kokomian-ci140203"
+            },
+            "code": {
+              "id": "CI140203",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI140204",
+            "name": {
+              "local": "Kouassi-Datékro",
+              "en": "Kouassi-Datékro",
+              "slug": "kouassi-datkro-ci140204"
+            },
+            "code": {
+              "id": "CI140204",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI140201",
+            "name": {
+              "local": "Koun-Fao",
+              "en": "Koun-Fao",
+              "slug": "koun-fao-ci140201"
+            },
+            "code": {
+              "id": "CI140201",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI140205",
+            "name": {
+              "local": "Tankessé",
+              "en": "Tankessé",
+              "slug": "tankess-ci140205"
+            },
+            "code": {
+              "id": "CI140205",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI140206",
+            "name": {
+              "local": "Tienkoikro",
+              "en": "Tienkoikro",
+              "slug": "tienkoikro-ci140206"
+            },
+            "code": {
+              "id": "CI140206",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI1403",
+        "name": {
+          "local": "Sandegue",
+          "en": "Sandegue",
+          "slug": "sandegue-ci1403"
+        },
+        "code": {
+          "id": "CI1403",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI140302",
+            "name": {
+              "local": "Bandakagni-Tomora",
+              "en": "Bandakagni-Tomora",
+              "slug": "bandakagni-tomora-ci140302"
+            },
+            "code": {
+              "id": "CI140302",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI140303",
+            "name": {
+              "local": "Dimandougou",
+              "en": "Dimandougou",
+              "slug": "dimandougou-ci140303"
+            },
+            "code": {
+              "id": "CI140303",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI140301",
+            "name": {
+              "local": "Sandégué",
+              "en": "Sandégué",
+              "slug": "sandgu-ci140301"
+            },
+            "code": {
+              "id": "CI140301",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI140304",
+            "name": {
+              "local": "Yorobodi",
+              "en": "Yorobodi",
+              "slug": "yorobodi-ci140304"
+            },
+            "code": {
+              "id": "CI140304",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI1404",
+        "name": {
+          "local": "Tanda",
+          "en": "Tanda",
+          "slug": "tanda-ci1404"
+        },
+        "code": {
+          "id": "CI1404",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI140402",
+            "name": {
+              "local": "Amanvi",
+              "en": "Amanvi",
+              "slug": "amanvi-ci140402"
+            },
+            "code": {
+              "id": "CI140402",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI140403",
+            "name": {
+              "local": "Diamba",
+              "en": "Diamba",
+              "slug": "diamba-ci140403"
+            },
+            "code": {
+              "id": "CI140403",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI140401",
+            "name": {
+              "local": "Tanda",
+              "en": "Tanda",
+              "slug": "tanda-ci140401"
+            },
+            "code": {
+              "id": "CI140401",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI140404",
+            "name": {
+              "local": "Tchèdio",
+              "en": "Tchèdio",
+              "slug": "tchdio-ci140404"
+            },
+            "code": {
+              "id": "CI140404",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI1405",
+        "name": {
+          "local": "Transua",
+          "en": "Transua",
+          "slug": "transua-ci1405"
+        },
+        "code": {
+          "id": "CI1405",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI140502",
+            "name": {
+              "local": "Assuéfry",
+              "en": "Assuéfry",
+              "slug": "assufry-ci140502"
+            },
+            "code": {
+              "id": "CI140502",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI140503",
+            "name": {
+              "local": "Kouassia-Niaguini",
+              "en": "Kouassia-Niaguini",
+              "slug": "kouassia-niaguini-ci140503"
+            },
+            "code": {
+              "id": "CI140503",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI140501",
+            "name": {
+              "local": "Transua",
+              "en": "Transua",
+              "slug": "transua-ci140501"
+            },
+            "code": {
+              "id": "CI140501",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CI15",
+    "name": {
+      "local": "Grands Ponts",
+      "en": "Grands Ponts",
+      "slug": "grands-ponts-ci15"
+    },
+    "code": {
+      "id": "CI15",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "CI1501",
+        "name": {
+          "local": "Dabou",
+          "en": "Dabou",
+          "slug": "dabou-ci1501"
+        },
+        "code": {
+          "id": "CI1501",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI150101",
+            "name": {
+              "local": "Dabou",
+              "en": "Dabou",
+              "slug": "dabou-ci150101"
+            },
+            "code": {
+              "id": "CI150101",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI150102",
+            "name": {
+              "local": "Lopou",
+              "en": "Lopou",
+              "slug": "lopou-ci150102"
+            },
+            "code": {
+              "id": "CI150102",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI150103",
+            "name": {
+              "local": "Toupah",
+              "en": "Toupah",
+              "slug": "toupah-ci150103"
+            },
+            "code": {
+              "id": "CI150103",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI1502",
+        "name": {
+          "local": "Grand-Lahou",
+          "en": "Grand-Lahou",
+          "slug": "grand-lahou-ci1502"
+        },
+        "code": {
+          "id": "CI1502",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI150201",
+            "name": {
+              "local": "Ahouanou",
+              "en": "Ahouanou",
+              "slug": "ahouanou-ci150201"
+            },
+            "code": {
+              "id": "CI150201",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI150202",
+            "name": {
+              "local": "Bacanda",
+              "en": "Bacanda",
+              "slug": "bacanda-ci150202"
+            },
+            "code": {
+              "id": "CI150202",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI150203",
+            "name": {
+              "local": "Ebonou",
+              "en": "Ebonou",
+              "slug": "ebonou-ci150203"
+            },
+            "code": {
+              "id": "CI150203",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI150204",
+            "name": {
+              "local": "Grand Lahou",
+              "en": "Grand Lahou",
+              "slug": "grand-lahou-ci150204"
+            },
+            "code": {
+              "id": "CI150204",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI150205",
+            "name": {
+              "local": "Toukouzou",
+              "en": "Toukouzou",
+              "slug": "toukouzou-ci150205"
+            },
+            "code": {
+              "id": "CI150205",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI1503",
+        "name": {
+          "local": "Jacqueville",
+          "en": "Jacqueville",
+          "slug": "jacqueville-ci1503"
+        },
+        "code": {
+          "id": "CI1503",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI150302",
+            "name": {
+              "local": "Attoutou",
+              "en": "Attoutou",
+              "slug": "attoutou-ci150302"
+            },
+            "code": {
+              "id": "CI150302",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI150301",
+            "name": {
+              "local": "Jacqueville",
+              "en": "Jacqueville",
+              "slug": "jacqueville-ci150301"
+            },
+            "code": {
+              "id": "CI150301",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CI16",
+    "name": {
+      "local": "Guemon",
+      "en": "Guemon",
+      "slug": "guemon-ci16"
+    },
+    "code": {
+      "id": "CI16",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "CI1601",
+        "name": {
+          "local": "Bangolo",
+          "en": "Bangolo",
+          "slug": "bangolo-ci1601"
+        },
+        "code": {
+          "id": "CI1601",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI160101",
+            "name": {
+              "local": "Bangolo",
+              "en": "Bangolo",
+              "slug": "bangolo-ci160101"
+            },
+            "code": {
+              "id": "CI160101",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI160102",
+            "name": {
+              "local": "Béoué-Zibiao",
+              "en": "Béoué-Zibiao",
+              "slug": "bou-zibiao-ci160102"
+            },
+            "code": {
+              "id": "CI160102",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI160103",
+            "name": {
+              "local": "Bléniméouin",
+              "en": "Bléniméouin",
+              "slug": "blnimouin-ci160103"
+            },
+            "code": {
+              "id": "CI160103",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI160104",
+            "name": {
+              "local": "Diéouzon",
+              "en": "Diéouzon",
+              "slug": "diouzon-ci160104"
+            },
+            "code": {
+              "id": "CI160104",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI160105",
+            "name": {
+              "local": "Gohouo-Zagna",
+              "en": "Gohouo-Zagna",
+              "slug": "gohouo-zagna-ci160105"
+            },
+            "code": {
+              "id": "CI160105",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI160106",
+            "name": {
+              "local": "Guinglo-Tahouaké",
+              "en": "Guinglo-Tahouaké",
+              "slug": "guinglo-tahouak-ci160106"
+            },
+            "code": {
+              "id": "CI160106",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI160107",
+            "name": {
+              "local": "Kahin-Zarabaon",
+              "en": "Kahin-Zarabaon",
+              "slug": "kahin-zarabaon-ci160107"
+            },
+            "code": {
+              "id": "CI160107",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI160108",
+            "name": {
+              "local": "Zéo",
+              "en": "Zéo",
+              "slug": "zo-ci160108"
+            },
+            "code": {
+              "id": "CI160108",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI160109",
+            "name": {
+              "local": "Zou",
+              "en": "Zou",
+              "slug": "zou-ci160109"
+            },
+            "code": {
+              "id": "CI160109",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI1602",
+        "name": {
+          "local": "Duékoué",
+          "en": "Duékoué",
+          "slug": "dukou-ci1602"
+        },
+        "code": {
+          "id": "CI1602",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI160201",
+            "name": {
+              "local": "Bagohouo",
+              "en": "Bagohouo",
+              "slug": "bagohouo-ci160201"
+            },
+            "code": {
+              "id": "CI160201",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI160202",
+            "name": {
+              "local": "Duékoué",
+              "en": "Duékoué",
+              "slug": "dukou-ci160202"
+            },
+            "code": {
+              "id": "CI160202",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI160203",
+            "name": {
+              "local": "Gbapleu",
+              "en": "Gbapleu",
+              "slug": "gbapleu-ci160203"
+            },
+            "code": {
+              "id": "CI160203",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI160204",
+            "name": {
+              "local": "Guéhiébly",
+              "en": "Guéhiébly",
+              "slug": "guhibly-ci160204"
+            },
+            "code": {
+              "id": "CI160204",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI160205",
+            "name": {
+              "local": "Guézon",
+              "en": "Guézon",
+              "slug": "guzon-ci160205"
+            },
+            "code": {
+              "id": "CI160205",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI1603",
+        "name": {
+          "local": "Facobly",
+          "en": "Facobly",
+          "slug": "facobly-ci1603"
+        },
+        "code": {
+          "id": "CI1603",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI160301",
+            "name": {
+              "local": "Facobly",
+              "en": "Facobly",
+              "slug": "facobly-ci160301"
+            },
+            "code": {
+              "id": "CI160301",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI160302",
+            "name": {
+              "local": "Guézon",
+              "en": "Guézon",
+              "slug": "guzon-ci160302"
+            },
+            "code": {
+              "id": "CI160302",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI160303",
+            "name": {
+              "local": "Koua",
+              "en": "Koua",
+              "slug": "koua-ci160303"
+            },
+            "code": {
+              "id": "CI160303",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI160304",
+            "name": {
+              "local": "Sémien",
+              "en": "Sémien",
+              "slug": "smien-ci160304"
+            },
+            "code": {
+              "id": "CI160304",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI160305",
+            "name": {
+              "local": "Tiény-Séably",
+              "en": "Tiény-Séably",
+              "slug": "tiny-sably-ci160305"
+            },
+            "code": {
+              "id": "CI160305",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI1604",
+        "name": {
+          "local": "Kouibly",
+          "en": "Kouibly",
+          "slug": "kouibly-ci1604"
+        },
+        "code": {
+          "id": "CI1604",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI160401",
+            "name": {
+              "local": "Kouibly",
+              "en": "Kouibly",
+              "slug": "kouibly-ci160401"
+            },
+            "code": {
+              "id": "CI160401",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI160402",
+            "name": {
+              "local": "Nidrou",
+              "en": "Nidrou",
+              "slug": "nidrou-ci160402"
+            },
+            "code": {
+              "id": "CI160402",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI160403",
+            "name": {
+              "local": "Ouyably-Gnondrou",
+              "en": "Ouyably-Gnondrou",
+              "slug": "ouyably-gnondrou-ci160403"
+            },
+            "code": {
+              "id": "CI160403",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI160404",
+            "name": {
+              "local": "Totrodrou",
+              "en": "Totrodrou",
+              "slug": "totrodrou-ci160404"
+            },
+            "code": {
+              "id": "CI160404",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CI17",
+    "name": {
+      "local": "Hambol",
+      "en": "Hambol",
+      "slug": "hambol-ci17"
+    },
+    "code": {
+      "id": "CI17",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "CI1701",
+        "name": {
+          "local": "Dabakala",
+          "en": "Dabakala",
+          "slug": "dabakala-ci1701"
+        },
+        "code": {
+          "id": "CI1701",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI170101",
+            "name": {
+              "local": "Bassawa",
+              "en": "Bassawa",
+              "slug": "bassawa-ci170101"
+            },
+            "code": {
+              "id": "CI170101",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI170102",
+            "name": {
+              "local": "Bonieredougou",
+              "en": "Bonieredougou",
+              "slug": "bonieredougou-ci170102"
+            },
+            "code": {
+              "id": "CI170102",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI170103",
+            "name": {
+              "local": "Dabakala",
+              "en": "Dabakala",
+              "slug": "dabakala-ci170103"
+            },
+            "code": {
+              "id": "CI170103",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI170104",
+            "name": {
+              "local": "Foumbolo",
+              "en": "Foumbolo",
+              "slug": "foumbolo-ci170104"
+            },
+            "code": {
+              "id": "CI170104",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI170105",
+            "name": {
+              "local": "Niéméné",
+              "en": "Niéméné",
+              "slug": "nimn-ci170105"
+            },
+            "code": {
+              "id": "CI170105",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI170106",
+            "name": {
+              "local": "Satama-Sokoro",
+              "en": "Satama-Sokoro",
+              "slug": "satama-sokoro-ci170106"
+            },
+            "code": {
+              "id": "CI170106",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI170107",
+            "name": {
+              "local": "Satama-Sokoura",
+              "en": "Satama-Sokoura",
+              "slug": "satama-sokoura-ci170107"
+            },
+            "code": {
+              "id": "CI170107",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI170108",
+            "name": {
+              "local": "Sokala-Sobara",
+              "en": "Sokala-Sobara",
+              "slug": "sokala-sobara-ci170108"
+            },
+            "code": {
+              "id": "CI170108",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI170109",
+            "name": {
+              "local": "Tendéné-Bambarasso",
+              "en": "Tendéné-Bambarasso",
+              "slug": "tendn-bambarasso-ci170109"
+            },
+            "code": {
+              "id": "CI170109",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI170110",
+            "name": {
+              "local": "Yaossédougou",
+              "en": "Yaossédougou",
+              "slug": "yaossdougou-ci170110"
+            },
+            "code": {
+              "id": "CI170110",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI1702",
+        "name": {
+          "local": "Katiola",
+          "en": "Katiola",
+          "slug": "katiola-ci1702"
+        },
+        "code": {
+          "id": "CI1702",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI170202",
+            "name": {
+              "local": "Fronan",
+              "en": "Fronan",
+              "slug": "fronan-ci170202"
+            },
+            "code": {
+              "id": "CI170202",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI170201",
+            "name": {
+              "local": "Katiola",
+              "en": "Katiola",
+              "slug": "katiola-ci170201"
+            },
+            "code": {
+              "id": "CI170201",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI170203",
+            "name": {
+              "local": "Timbé",
+              "en": "Timbé",
+              "slug": "timb-ci170203"
+            },
+            "code": {
+              "id": "CI170203",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI1703",
+        "name": {
+          "local": "Niakaramandougou",
+          "en": "Niakaramandougou",
+          "slug": "niakaramandougou-ci1703"
+        },
+        "code": {
+          "id": "CI1703",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI170302",
+            "name": {
+              "local": "Arikokaha",
+              "en": "Arikokaha",
+              "slug": "arikokaha-ci170302"
+            },
+            "code": {
+              "id": "CI170302",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI170303",
+            "name": {
+              "local": "Badikaha",
+              "en": "Badikaha",
+              "slug": "badikaha-ci170303"
+            },
+            "code": {
+              "id": "CI170303",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI170301",
+            "name": {
+              "local": "Niakaramandougou",
+              "en": "Niakaramandougou",
+              "slug": "niakaramandougou-ci170301"
+            },
+            "code": {
+              "id": "CI170301",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI170304",
+            "name": {
+              "local": "Niédiékaha",
+              "en": "Niédiékaha",
+              "slug": "nidikaha-ci170304"
+            },
+            "code": {
+              "id": "CI170304",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI170305",
+            "name": {
+              "local": "Tafiré",
+              "en": "Tafiré",
+              "slug": "tafir-ci170305"
+            },
+            "code": {
+              "id": "CI170305",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI170306",
+            "name": {
+              "local": "Tortiya",
+              "en": "Tortiya",
+              "slug": "tortiya-ci170306"
+            },
+            "code": {
+              "id": "CI170306",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CI18",
+    "name": {
+      "local": "Haut-Sassandra",
+      "en": "Haut-Sassandra",
+      "slug": "haut-sassandra-ci18"
+    },
+    "code": {
+      "id": "CI18",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "CI1801",
+        "name": {
+          "local": "Daloa",
+          "en": "Daloa",
+          "slug": "daloa-ci1801"
+        },
+        "code": {
+          "id": "CI1801",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI180101",
+            "name": {
+              "local": "Bédiala",
+              "en": "Bédiala",
+              "slug": "bdiala-ci180101"
+            },
+            "code": {
+              "id": "CI180101",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI180102",
+            "name": {
+              "local": "Daloa",
+              "en": "Daloa",
+              "slug": "daloa-ci180102"
+            },
+            "code": {
+              "id": "CI180102",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI180103",
+            "name": {
+              "local": "Gadouan",
+              "en": "Gadouan",
+              "slug": "gadouan-ci180103"
+            },
+            "code": {
+              "id": "CI180103",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI180104",
+            "name": {
+              "local": "Gboguhé",
+              "en": "Gboguhé",
+              "slug": "gboguh-ci180104"
+            },
+            "code": {
+              "id": "CI180104",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI180105",
+            "name": {
+              "local": "Gonaté",
+              "en": "Gonaté",
+              "slug": "gonat-ci180105"
+            },
+            "code": {
+              "id": "CI180105",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI180106",
+            "name": {
+              "local": "Zaibo",
+              "en": "Zaibo",
+              "slug": "zaibo-ci180106"
+            },
+            "code": {
+              "id": "CI180106",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI1802",
+        "name": {
+          "local": "Issia",
+          "en": "Issia",
+          "slug": "issia-ci1802"
+        },
+        "code": {
+          "id": "CI1802",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI180202",
+            "name": {
+              "local": "Boguédia",
+              "en": "Boguédia",
+              "slug": "bogudia-ci180202"
+            },
+            "code": {
+              "id": "CI180202",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI180203",
+            "name": {
+              "local": "Iboguhé",
+              "en": "Iboguhé",
+              "slug": "iboguh-ci180203"
+            },
+            "code": {
+              "id": "CI180203",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI180201",
+            "name": {
+              "local": "Issia",
+              "en": "Issia",
+              "slug": "issia-ci180201"
+            },
+            "code": {
+              "id": "CI180201",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI180204",
+            "name": {
+              "local": "Nahio",
+              "en": "Nahio",
+              "slug": "nahio-ci180204"
+            },
+            "code": {
+              "id": "CI180204",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI180205",
+            "name": {
+              "local": "Namané",
+              "en": "Namané",
+              "slug": "naman-ci180205"
+            },
+            "code": {
+              "id": "CI180205",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI180206",
+            "name": {
+              "local": "Saïoua",
+              "en": "Saïoua",
+              "slug": "saoua-ci180206"
+            },
+            "code": {
+              "id": "CI180206",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI180207",
+            "name": {
+              "local": "Tapéguia",
+              "en": "Tapéguia",
+              "slug": "tapguia-ci180207"
+            },
+            "code": {
+              "id": "CI180207",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI1803",
+        "name": {
+          "local": "Vavoua",
+          "en": "Vavoua",
+          "slug": "vavoua-ci1803"
+        },
+        "code": {
+          "id": "CI1803",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI180302",
+            "name": {
+              "local": "Bazra-Nattis",
+              "en": "Bazra-Nattis",
+              "slug": "bazra-nattis-ci180302"
+            },
+            "code": {
+              "id": "CI180302",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI180303",
+            "name": {
+              "local": "Dananon",
+              "en": "Dananon",
+              "slug": "dananon-ci180303"
+            },
+            "code": {
+              "id": "CI180303",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI180304",
+            "name": {
+              "local": "Dania",
+              "en": "Dania",
+              "slug": "dania-ci180304"
+            },
+            "code": {
+              "id": "CI180304",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI180305",
+            "name": {
+              "local": "Kétro-Bassam",
+              "en": "Kétro-Bassam",
+              "slug": "ktro-bassam-ci180305"
+            },
+            "code": {
+              "id": "CI180305",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI180306",
+            "name": {
+              "local": "Seitifla",
+              "en": "Seitifla",
+              "slug": "seitifla-ci180306"
+            },
+            "code": {
+              "id": "CI180306",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI180301",
+            "name": {
+              "local": "Vavoua",
+              "en": "Vavoua",
+              "slug": "vavoua-ci180301"
+            },
+            "code": {
+              "id": "CI180301",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI1804",
+        "name": {
+          "local": "Zoukougbeu",
+          "en": "Zoukougbeu",
+          "slug": "zoukougbeu-ci1804"
+        },
+        "code": {
+          "id": "CI1804",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI180402",
+            "name": {
+              "local": "Domangbeu",
+              "en": "Domangbeu",
+              "slug": "domangbeu-ci180402"
+            },
+            "code": {
+              "id": "CI180402",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI180403",
+            "name": {
+              "local": "Grégbeu",
+              "en": "Grégbeu",
+              "slug": "grgbeu-ci180403"
+            },
+            "code": {
+              "id": "CI180403",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI180404",
+            "name": {
+              "local": "Guéssabo",
+              "en": "Guéssabo",
+              "slug": "gussabo-ci180404"
+            },
+            "code": {
+              "id": "CI180404",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI180401",
+            "name": {
+              "local": "Zoukougbeu",
+              "en": "Zoukougbeu",
+              "slug": "zoukougbeu-ci180401"
+            },
+            "code": {
+              "id": "CI180401",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CI19",
+    "name": {
+      "local": "Iffou",
+      "en": "Iffou",
+      "slug": "iffou-ci19"
+    },
+    "code": {
+      "id": "CI19",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "CI1901",
+        "name": {
+          "local": "Daoukro",
+          "en": "Daoukro",
+          "slug": "daoukro-ci1901"
+        },
+        "code": {
+          "id": "CI1901",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI190101",
+            "name": {
+              "local": "Akpassanou",
+              "en": "Akpassanou",
+              "slug": "akpassanou-ci190101"
+            },
+            "code": {
+              "id": "CI190101",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI190102",
+            "name": {
+              "local": "Ananda",
+              "en": "Ananda",
+              "slug": "ananda-ci190102"
+            },
+            "code": {
+              "id": "CI190102",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI190103",
+            "name": {
+              "local": "Daoukro",
+              "en": "Daoukro",
+              "slug": "daoukro-ci190103"
+            },
+            "code": {
+              "id": "CI190103",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI190104",
+            "name": {
+              "local": "Ettrokro",
+              "en": "Ettrokro",
+              "slug": "ettrokro-ci190104"
+            },
+            "code": {
+              "id": "CI190104",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI190105",
+            "name": {
+              "local": "N'Gattakro",
+              "en": "N'Gattakro",
+              "slug": "ngattakro-ci190105"
+            },
+            "code": {
+              "id": "CI190105",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI190106",
+            "name": {
+              "local": "Ouellé",
+              "en": "Ouellé",
+              "slug": "ouell-ci190106"
+            },
+            "code": {
+              "id": "CI190106",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI190107",
+            "name": {
+              "local": "Samanza",
+              "en": "Samanza",
+              "slug": "samanza-ci190107"
+            },
+            "code": {
+              "id": "CI190107",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI1902",
+        "name": {
+          "local": "M'Bahiakro",
+          "en": "M'Bahiakro",
+          "slug": "mbahiakro-ci1902"
+        },
+        "code": {
+          "id": "CI1902",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI190202",
+            "name": {
+              "local": "Bonguéra",
+              "en": "Bonguéra",
+              "slug": "bongura-ci190202"
+            },
+            "code": {
+              "id": "CI190202",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI190203",
+            "name": {
+              "local": "Kondossou",
+              "en": "Kondossou",
+              "slug": "kondossou-ci190203"
+            },
+            "code": {
+              "id": "CI190203",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI190201",
+            "name": {
+              "local": "M'Bahiakro",
+              "en": "M'Bahiakro",
+              "slug": "mbahiakro-ci190201"
+            },
+            "code": {
+              "id": "CI190201",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI1903",
+        "name": {
+          "local": "Prikro",
+          "en": "Prikro",
+          "slug": "prikro-ci1903"
+        },
+        "code": {
+          "id": "CI1903",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI190302",
+            "name": {
+              "local": "Anianou",
+              "en": "Anianou",
+              "slug": "anianou-ci190302"
+            },
+            "code": {
+              "id": "CI190302",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI190303",
+            "name": {
+              "local": "Famienkro",
+              "en": "Famienkro",
+              "slug": "famienkro-ci190303"
+            },
+            "code": {
+              "id": "CI190303",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI190304",
+            "name": {
+              "local": "Koffi-Amonkro",
+              "en": "Koffi-Amonkro",
+              "slug": "koffi-amonkro-ci190304"
+            },
+            "code": {
+              "id": "CI190304",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI190305",
+            "name": {
+              "local": "Nafana",
+              "en": "Nafana",
+              "slug": "nafana-ci190305"
+            },
+            "code": {
+              "id": "CI190305",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI190301",
+            "name": {
+              "local": "Prikro",
+              "en": "Prikro",
+              "slug": "prikro-ci190301"
+            },
+            "code": {
+              "id": "CI190301",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CI20",
+    "name": {
+      "local": "Indenie-Djuablin",
+      "en": "Indenie-Djuablin",
+      "slug": "indenie-djuablin-ci20"
+    },
+    "code": {
+      "id": "CI20",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "CI2001",
+        "name": {
+          "local": "Abengourou",
+          "en": "Abengourou",
+          "slug": "abengourou-ci2001"
+        },
+        "code": {
+          "id": "CI2001",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI200101",
+            "name": {
+              "local": "Abengourou",
+              "en": "Abengourou",
+              "slug": "abengourou-ci200101"
+            },
+            "code": {
+              "id": "CI200101",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI200102",
+            "name": {
+              "local": "Amélékia",
+              "en": "Amélékia",
+              "slug": "amlkia-ci200102"
+            },
+            "code": {
+              "id": "CI200102",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI200103",
+            "name": {
+              "local": "Aniassué",
+              "en": "Aniassué",
+              "slug": "aniassu-ci200103"
+            },
+            "code": {
+              "id": "CI200103",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI200104",
+            "name": {
+              "local": "Ebilassokro",
+              "en": "Ebilassokro",
+              "slug": "ebilassokro-ci200104"
+            },
+            "code": {
+              "id": "CI200104",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI200105",
+            "name": {
+              "local": "Niable",
+              "en": "Niable",
+              "slug": "niable-ci200105"
+            },
+            "code": {
+              "id": "CI200105",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI200106",
+            "name": {
+              "local": "Yakasse-Féyassé",
+              "en": "Yakasse-Féyassé",
+              "slug": "yakasse-fyass-ci200106"
+            },
+            "code": {
+              "id": "CI200106",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI200107",
+            "name": {
+              "local": "Zaranou",
+              "en": "Zaranou",
+              "slug": "zaranou-ci200107"
+            },
+            "code": {
+              "id": "CI200107",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI2002",
+        "name": {
+          "local": "Agnibilékrou",
+          "en": "Agnibilékrou",
+          "slug": "agnibilkrou-ci2002"
+        },
+        "code": {
+          "id": "CI2002",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI200201",
+            "name": {
+              "local": "Agnibilekrou",
+              "en": "Agnibilekrou",
+              "slug": "agnibilekrou-ci200201"
+            },
+            "code": {
+              "id": "CI200201",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI200202",
+            "name": {
+              "local": "Akoboissué",
+              "en": "Akoboissué",
+              "slug": "akoboissu-ci200202"
+            },
+            "code": {
+              "id": "CI200202",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI200203",
+            "name": {
+              "local": "Damé",
+              "en": "Damé",
+              "slug": "dam-ci200203"
+            },
+            "code": {
+              "id": "CI200203",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI200204",
+            "name": {
+              "local": "Duffrebo",
+              "en": "Duffrebo",
+              "slug": "duffrebo-ci200204"
+            },
+            "code": {
+              "id": "CI200204",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI200205",
+            "name": {
+              "local": "Tanguélan",
+              "en": "Tanguélan",
+              "slug": "tangulan-ci200205"
+            },
+            "code": {
+              "id": "CI200205",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI2003",
+        "name": {
+          "local": "Béttié",
+          "en": "Béttié",
+          "slug": "btti-ci2003"
+        },
+        "code": {
+          "id": "CI2003",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI200301",
+            "name": {
+              "local": "Bettié",
+              "en": "Bettié",
+              "slug": "betti-ci200301"
+            },
+            "code": {
+              "id": "CI200301",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI200302",
+            "name": {
+              "local": "Diamarakro",
+              "en": "Diamarakro",
+              "slug": "diamarakro-ci200302"
+            },
+            "code": {
+              "id": "CI200302",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CI21",
+    "name": {
+      "local": "Kabadougou",
+      "en": "Kabadougou",
+      "slug": "kabadougou-ci21"
+    },
+    "code": {
+      "id": "CI21",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "CI2101",
+        "name": {
+          "local": "Gbeleban",
+          "en": "Gbeleban",
+          "slug": "gbeleban-ci2101"
+        },
+        "code": {
+          "id": "CI2101",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI210101",
+            "name": {
+              "local": "Gbéléban",
+              "en": "Gbéléban",
+              "slug": "gblban-ci210101"
+            },
+            "code": {
+              "id": "CI210101",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI210102",
+            "name": {
+              "local": "Samango",
+              "en": "Samango",
+              "slug": "samango-ci210102"
+            },
+            "code": {
+              "id": "CI210102",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI210103",
+            "name": {
+              "local": "Seydougou",
+              "en": "Seydougou",
+              "slug": "seydougou-ci210103"
+            },
+            "code": {
+              "id": "CI210103",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI2102",
+        "name": {
+          "local": "Madinani",
+          "en": "Madinani",
+          "slug": "madinani-ci2102"
+        },
+        "code": {
+          "id": "CI2102",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI210202",
+            "name": {
+              "local": "Fengolo",
+              "en": "Fengolo",
+              "slug": "fengolo-ci210202"
+            },
+            "code": {
+              "id": "CI210202",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI210201",
+            "name": {
+              "local": "Madinani",
+              "en": "Madinani",
+              "slug": "madinani-ci210201"
+            },
+            "code": {
+              "id": "CI210201",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI210203",
+            "name": {
+              "local": "N'Goloblasso",
+              "en": "N'Goloblasso",
+              "slug": "ngoloblasso-ci210203"
+            },
+            "code": {
+              "id": "CI210203",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI2103",
+        "name": {
+          "local": "Odienne",
+          "en": "Odienne",
+          "slug": "odienne-ci2103"
+        },
+        "code": {
+          "id": "CI2103",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI210302",
+            "name": {
+              "local": "Bako",
+              "en": "Bako",
+              "slug": "bako-ci210302"
+            },
+            "code": {
+              "id": "CI210302",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI210303",
+            "name": {
+              "local": "Bougousso",
+              "en": "Bougousso",
+              "slug": "bougousso-ci210303"
+            },
+            "code": {
+              "id": "CI210303",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI210304",
+            "name": {
+              "local": "Dioulatiedougou",
+              "en": "Dioulatiedougou",
+              "slug": "dioulatiedougou-ci210304"
+            },
+            "code": {
+              "id": "CI210304",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI210301",
+            "name": {
+              "local": "Odienné",
+              "en": "Odienné",
+              "slug": "odienn-ci210301"
+            },
+            "code": {
+              "id": "CI210301",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI210305",
+            "name": {
+              "local": "Tiémé",
+              "en": "Tiémé",
+              "slug": "tim-ci210305"
+            },
+            "code": {
+              "id": "CI210305",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI2104",
+        "name": {
+          "local": "Samatiguila",
+          "en": "Samatiguila",
+          "slug": "samatiguila-ci2104"
+        },
+        "code": {
+          "id": "CI2104",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI210402",
+            "name": {
+              "local": "Kimbirila Sud",
+              "en": "Kimbirila Sud",
+              "slug": "kimbirila-sud-ci210402"
+            },
+            "code": {
+              "id": "CI210402",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI210401",
+            "name": {
+              "local": "Samatiguila",
+              "en": "Samatiguila",
+              "slug": "samatiguila-ci210401"
+            },
+            "code": {
+              "id": "CI210401",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI2105",
+        "name": {
+          "local": "Séguélon",
+          "en": "Séguélon",
+          "slug": "sgulon-ci2105"
+        },
+        "code": {
+          "id": "CI2105",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI210502",
+            "name": {
+              "local": "Gbongaha",
+              "en": "Gbongaha",
+              "slug": "gbongaha-ci210502"
+            },
+            "code": {
+              "id": "CI210502",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI210501",
+            "name": {
+              "local": "Séguélon",
+              "en": "Séguélon",
+              "slug": "sgulon-ci210501"
+            },
+            "code": {
+              "id": "CI210501",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CI22",
+    "name": {
+      "local": "Loh-Djiboua",
+      "en": "Loh-Djiboua",
+      "slug": "loh-djiboua-ci22"
+    },
+    "code": {
+      "id": "CI22",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "CI2201",
+        "name": {
+          "local": "Divo",
+          "en": "Divo",
+          "slug": "divo-ci2201"
+        },
+        "code": {
+          "id": "CI2201",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI220101",
+            "name": {
+              "local": "Chiépo",
+              "en": "Chiépo",
+              "slug": "chipo-ci220101"
+            },
+            "code": {
+              "id": "CI220101",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI220102",
+            "name": {
+              "local": "Didoko",
+              "en": "Didoko",
+              "slug": "didoko-ci220102"
+            },
+            "code": {
+              "id": "CI220102",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI220103",
+            "name": {
+              "local": "Divo",
+              "en": "Divo",
+              "slug": "divo-ci220103"
+            },
+            "code": {
+              "id": "CI220103",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI220104",
+            "name": {
+              "local": "Hiré",
+              "en": "Hiré",
+              "slug": "hir-ci220104"
+            },
+            "code": {
+              "id": "CI220104",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI220105",
+            "name": {
+              "local": "Nébo",
+              "en": "Nébo",
+              "slug": "nbo-ci220105"
+            },
+            "code": {
+              "id": "CI220105",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI220106",
+            "name": {
+              "local": "Ogoudou",
+              "en": "Ogoudou",
+              "slug": "ogoudou-ci220106"
+            },
+            "code": {
+              "id": "CI220106",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI220107",
+            "name": {
+              "local": "Zégo",
+              "en": "Zégo",
+              "slug": "zgo-ci220107"
+            },
+            "code": {
+              "id": "CI220107",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI2202",
+        "name": {
+          "local": "Guitry",
+          "en": "Guitry",
+          "slug": "guitry-ci2202"
+        },
+        "code": {
+          "id": "CI2202",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI220202",
+            "name": {
+              "local": "Dairo Didizo",
+              "en": "Dairo Didizo",
+              "slug": "dairo-didizo-ci220202"
+            },
+            "code": {
+              "id": "CI220202",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI220201",
+            "name": {
+              "local": "Guitry",
+              "en": "Guitry",
+              "slug": "guitry-ci220201"
+            },
+            "code": {
+              "id": "CI220201",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI220203",
+            "name": {
+              "local": "Lauzoua",
+              "en": "Lauzoua",
+              "slug": "lauzoua-ci220203"
+            },
+            "code": {
+              "id": "CI220203",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI220204",
+            "name": {
+              "local": "Yocoboué",
+              "en": "Yocoboué",
+              "slug": "yocobou-ci220204"
+            },
+            "code": {
+              "id": "CI220204",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI2203",
+        "name": {
+          "local": "Lakota",
+          "en": "Lakota",
+          "slug": "lakota-ci2203"
+        },
+        "code": {
+          "id": "CI2203",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI220302",
+            "name": {
+              "local": "Djidji",
+              "en": "Djidji",
+              "slug": "djidji-ci220302"
+            },
+            "code": {
+              "id": "CI220302",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI220303",
+            "name": {
+              "local": "Goudouko",
+              "en": "Goudouko",
+              "slug": "goudouko-ci220303"
+            },
+            "code": {
+              "id": "CI220303",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI220304",
+            "name": {
+              "local": "Kadéko",
+              "en": "Kadéko",
+              "slug": "kadko-ci220304"
+            },
+            "code": {
+              "id": "CI220304",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI220301",
+            "name": {
+              "local": "Lakota",
+              "en": "Lakota",
+              "slug": "lakota-ci220301"
+            },
+            "code": {
+              "id": "CI220301",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI220305",
+            "name": {
+              "local": "Niambézaria",
+              "en": "Niambézaria",
+              "slug": "niambzaria-ci220305"
+            },
+            "code": {
+              "id": "CI220305",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI220306",
+            "name": {
+              "local": "Zikisso",
+              "en": "Zikisso",
+              "slug": "zikisso-ci220306"
+            },
+            "code": {
+              "id": "CI220306",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CI23",
+    "name": {
+      "local": "Marahoue",
+      "en": "Marahoue",
+      "slug": "marahoue-ci23"
+    },
+    "code": {
+      "id": "CI23",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "CI2301",
+        "name": {
+          "local": "Bouaflé",
+          "en": "Bouaflé",
+          "slug": "bouafl-ci2301"
+        },
+        "code": {
+          "id": "CI2301",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI230101",
+            "name": {
+              "local": "Bégbéssou",
+              "en": "Bégbéssou",
+              "slug": "bgbssou-ci230101"
+            },
+            "code": {
+              "id": "CI230101",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI230102",
+            "name": {
+              "local": "Bonon",
+              "en": "Bonon",
+              "slug": "bonon-ci230102"
+            },
+            "code": {
+              "id": "CI230102",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI230103",
+            "name": {
+              "local": "Bouaflé",
+              "en": "Bouaflé",
+              "slug": "bouafl-ci230103"
+            },
+            "code": {
+              "id": "CI230103",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI230104",
+            "name": {
+              "local": "N'Douffoukankro",
+              "en": "N'Douffoukankro",
+              "slug": "ndouffoukankro-ci230104"
+            },
+            "code": {
+              "id": "CI230104",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI230105",
+            "name": {
+              "local": "Pakouabo",
+              "en": "Pakouabo",
+              "slug": "pakouabo-ci230105"
+            },
+            "code": {
+              "id": "CI230105",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI230106",
+            "name": {
+              "local": "Tibéita",
+              "en": "Tibéita",
+              "slug": "tibita-ci230106"
+            },
+            "code": {
+              "id": "CI230106",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI230107",
+            "name": {
+              "local": "Zaguiéta",
+              "en": "Zaguiéta",
+              "slug": "zaguita-ci230107"
+            },
+            "code": {
+              "id": "CI230107",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI2302",
+        "name": {
+          "local": "Sinfra",
+          "en": "Sinfra",
+          "slug": "sinfra-ci2302"
+        },
+        "code": {
+          "id": "CI2302",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI230202",
+            "name": {
+              "local": "Bazré",
+              "en": "Bazré",
+              "slug": "bazr-ci230202"
+            },
+            "code": {
+              "id": "CI230202",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI230203",
+            "name": {
+              "local": "Kononfla",
+              "en": "Kononfla",
+              "slug": "kononfla-ci230203"
+            },
+            "code": {
+              "id": "CI230203",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI230204",
+            "name": {
+              "local": "Kouétinfla",
+              "en": "Kouétinfla",
+              "slug": "koutinfla-ci230204"
+            },
+            "code": {
+              "id": "CI230204",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI230201",
+            "name": {
+              "local": "Sinfra",
+              "en": "Sinfra",
+              "slug": "sinfra-ci230201"
+            },
+            "code": {
+              "id": "CI230201",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI2303",
+        "name": {
+          "local": "Zuénoula",
+          "en": "Zuénoula",
+          "slug": "zunoula-ci2303"
+        },
+        "code": {
+          "id": "CI2303",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI230302",
+            "name": {
+              "local": "Gohitafla",
+              "en": "Gohitafla",
+              "slug": "gohitafla-ci230302"
+            },
+            "code": {
+              "id": "CI230302",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI230303",
+            "name": {
+              "local": "Iriéfla",
+              "en": "Iriéfla",
+              "slug": "irifla-ci230303"
+            },
+            "code": {
+              "id": "CI230303",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI230304",
+            "name": {
+              "local": "Kanzra",
+              "en": "Kanzra",
+              "slug": "kanzra-ci230304"
+            },
+            "code": {
+              "id": "CI230304",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI230305",
+            "name": {
+              "local": "Maminigui",
+              "en": "Maminigui",
+              "slug": "maminigui-ci230305"
+            },
+            "code": {
+              "id": "CI230305",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI230306",
+            "name": {
+              "local": "Voueboufla",
+              "en": "Voueboufla",
+              "slug": "voueboufla-ci230306"
+            },
+            "code": {
+              "id": "CI230306",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI230307",
+            "name": {
+              "local": "Zanzra",
+              "en": "Zanzra",
+              "slug": "zanzra-ci230307"
+            },
+            "code": {
+              "id": "CI230307",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI230301",
+            "name": {
+              "local": "Zuénoula",
+              "en": "Zuénoula",
+              "slug": "zunoula-ci230301"
+            },
+            "code": {
+              "id": "CI230301",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CI24",
+    "name": {
+      "local": "Me",
+      "en": "Me",
+      "slug": "me-ci24"
+    },
+    "code": {
+      "id": "CI24",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "CI2401",
+        "name": {
+          "local": "Adzopé",
+          "en": "Adzopé",
+          "slug": "adzop-ci2401"
+        },
+        "code": {
+          "id": "CI2401",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI240101",
+            "name": {
+              "local": "Adzopé",
+              "en": "Adzopé",
+              "slug": "adzop-ci240101"
+            },
+            "code": {
+              "id": "CI240101",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI240102",
+            "name": {
+              "local": "Agou",
+              "en": "Agou",
+              "slug": "agou-ci240102"
+            },
+            "code": {
+              "id": "CI240102",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI240103",
+            "name": {
+              "local": "Annepé",
+              "en": "Annepé",
+              "slug": "annep-ci240103"
+            },
+            "code": {
+              "id": "CI240103",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI240104",
+            "name": {
+              "local": "Assikoi",
+              "en": "Assikoi",
+              "slug": "assikoi-ci240104"
+            },
+            "code": {
+              "id": "CI240104",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI240105",
+            "name": {
+              "local": "Bécédi-Brignan",
+              "en": "Bécédi-Brignan",
+              "slug": "bcdi-brignan-ci240105"
+            },
+            "code": {
+              "id": "CI240105",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI240106",
+            "name": {
+              "local": "Yakassé-Mé",
+              "en": "Yakassé-Mé",
+              "slug": "yakass-m-ci240106"
+            },
+            "code": {
+              "id": "CI240106",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI2402",
+        "name": {
+          "local": "Akoupé",
+          "en": "Akoupé",
+          "slug": "akoup-ci2402"
+        },
+        "code": {
+          "id": "CI2402",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI240201",
+            "name": {
+              "local": "Afféry",
+              "en": "Afféry",
+              "slug": "affry-ci240201"
+            },
+            "code": {
+              "id": "CI240201",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI240202",
+            "name": {
+              "local": "Akoupé",
+              "en": "Akoupé",
+              "slug": "akoup-ci240202"
+            },
+            "code": {
+              "id": "CI240202",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI240203",
+            "name": {
+              "local": "Bécouéfin",
+              "en": "Bécouéfin",
+              "slug": "bcoufin-ci240203"
+            },
+            "code": {
+              "id": "CI240203",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI2403",
+        "name": {
+          "local": "Alépé",
+          "en": "Alépé",
+          "slug": "alp-ci2403"
+        },
+        "code": {
+          "id": "CI2403",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI240301",
+            "name": {
+              "local": "Aboisso-Comoé",
+              "en": "Aboisso-Comoé",
+              "slug": "aboisso-como-ci240301"
+            },
+            "code": {
+              "id": "CI240301",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI240302",
+            "name": {
+              "local": "Alépé",
+              "en": "Alépé",
+              "slug": "alp-ci240302"
+            },
+            "code": {
+              "id": "CI240302",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI240303",
+            "name": {
+              "local": "Allosso",
+              "en": "Allosso",
+              "slug": "allosso-ci240303"
+            },
+            "code": {
+              "id": "CI240303",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI240304",
+            "name": {
+              "local": "Danguira",
+              "en": "Danguira",
+              "slug": "danguira-ci240304"
+            },
+            "code": {
+              "id": "CI240304",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI240305",
+            "name": {
+              "local": "Oghlwapo",
+              "en": "Oghlwapo",
+              "slug": "oghlwapo-ci240305"
+            },
+            "code": {
+              "id": "CI240305",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI2404",
+        "name": {
+          "local": "Yakassé-Attobrou",
+          "en": "Yakassé-Attobrou",
+          "slug": "yakass-attobrou-ci2404"
+        },
+        "code": {
+          "id": "CI2404",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI240402",
+            "name": {
+              "local": "Abongoua",
+              "en": "Abongoua",
+              "slug": "abongoua-ci240402"
+            },
+            "code": {
+              "id": "CI240402",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI240403",
+            "name": {
+              "local": "Biéby",
+              "en": "Biéby",
+              "slug": "biby-ci240403"
+            },
+            "code": {
+              "id": "CI240403",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI240401",
+            "name": {
+              "local": "Yakasse-Attobrou",
+              "en": "Yakasse-Attobrou",
+              "slug": "yakasse-attobrou-ci240401"
+            },
+            "code": {
+              "id": "CI240401",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CI25",
+    "name": {
+      "local": "Moronou",
+      "en": "Moronou",
+      "slug": "moronou-ci25"
+    },
+    "code": {
+      "id": "CI25",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "CI2501",
+        "name": {
+          "local": "Arrah",
+          "en": "Arrah",
+          "slug": "arrah-ci2501"
+        },
+        "code": {
+          "id": "CI2501",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI250101",
+            "name": {
+              "local": "Arrah",
+              "en": "Arrah",
+              "slug": "arrah-ci250101"
+            },
+            "code": {
+              "id": "CI250101",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI250102",
+            "name": {
+              "local": "Kotobi",
+              "en": "Kotobi",
+              "slug": "kotobi-ci250102"
+            },
+            "code": {
+              "id": "CI250102",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI250103",
+            "name": {
+              "local": "Krégbé",
+              "en": "Krégbé",
+              "slug": "krgb-ci250103"
+            },
+            "code": {
+              "id": "CI250103",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI2502",
+        "name": {
+          "local": "Bongouanou",
+          "en": "Bongouanou",
+          "slug": "bongouanou-ci2502"
+        },
+        "code": {
+          "id": "CI2502",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI250201",
+            "name": {
+              "local": "Andé",
+              "en": "Andé",
+              "slug": "and-ci250201"
+            },
+            "code": {
+              "id": "CI250201",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI250202",
+            "name": {
+              "local": "Assié-Koumassi",
+              "en": "Assié-Koumassi",
+              "slug": "assi-koumassi-ci250202"
+            },
+            "code": {
+              "id": "CI250202",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI250203",
+            "name": {
+              "local": "Bongouanou",
+              "en": "Bongouanou",
+              "slug": "bongouanou-ci250203"
+            },
+            "code": {
+              "id": "CI250203",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI250204",
+            "name": {
+              "local": "N'Guessankro",
+              "en": "N'Guessankro",
+              "slug": "nguessankro-ci250204"
+            },
+            "code": {
+              "id": "CI250204",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI2503",
+        "name": {
+          "local": "M'Batto",
+          "en": "M'Batto",
+          "slug": "mbatto-ci2503"
+        },
+        "code": {
+          "id": "CI2503",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI250302",
+            "name": {
+              "local": "Anoumaba",
+              "en": "Anoumaba",
+              "slug": "anoumaba-ci250302"
+            },
+            "code": {
+              "id": "CI250302",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI250303",
+            "name": {
+              "local": "Assahara",
+              "en": "Assahara",
+              "slug": "assahara-ci250303"
+            },
+            "code": {
+              "id": "CI250303",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI250301",
+            "name": {
+              "local": "M'Batto",
+              "en": "M'Batto",
+              "slug": "mbatto-ci250301"
+            },
+            "code": {
+              "id": "CI250301",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI250304",
+            "name": {
+              "local": "Tiémélékro",
+              "en": "Tiémélékro",
+              "slug": "timlkro-ci250304"
+            },
+            "code": {
+              "id": "CI250304",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CI27",
+    "name": {
+      "local": "N'Zi",
+      "en": "N'Zi",
+      "slug": "nzi-ci27"
+    },
+    "code": {
+      "id": "CI27",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "CI2701",
+        "name": {
+          "local": "Bocanda",
+          "en": "Bocanda",
+          "slug": "bocanda-ci2701"
+        },
+        "code": {
+          "id": "CI2701",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI270101",
+            "name": {
+              "local": "Bengassou",
+              "en": "Bengassou",
+              "slug": "bengassou-ci270101"
+            },
+            "code": {
+              "id": "CI270101",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI270102",
+            "name": {
+              "local": "Bocanda",
+              "en": "Bocanda",
+              "slug": "bocanda-ci270102"
+            },
+            "code": {
+              "id": "CI270102",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI270103",
+            "name": {
+              "local": "Kouadioblékro",
+              "en": "Kouadioblékro",
+              "slug": "kouadioblkro-ci270103"
+            },
+            "code": {
+              "id": "CI270103",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI270104",
+            "name": {
+              "local": "N'Zécrezessou",
+              "en": "N'Zécrezessou",
+              "slug": "nzcrezessou-ci270104"
+            },
+            "code": {
+              "id": "CI270104",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI2702",
+        "name": {
+          "local": "Dimbokro",
+          "en": "Dimbokro",
+          "slug": "dimbokro-ci2702"
+        },
+        "code": {
+          "id": "CI2702",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI270201",
+            "name": {
+              "local": "Abigui",
+              "en": "Abigui",
+              "slug": "abigui-ci270201"
+            },
+            "code": {
+              "id": "CI270201",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI270202",
+            "name": {
+              "local": "Diangokro",
+              "en": "Diangokro",
+              "slug": "diangokro-ci270202"
+            },
+            "code": {
+              "id": "CI270202",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI270203",
+            "name": {
+              "local": "Dimbokro",
+              "en": "Dimbokro",
+              "slug": "dimbokro-ci270203"
+            },
+            "code": {
+              "id": "CI270203",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI270204",
+            "name": {
+              "local": "Nofou",
+              "en": "Nofou",
+              "slug": "nofou-ci270204"
+            },
+            "code": {
+              "id": "CI270204",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI2703",
+        "name": {
+          "local": "Kouassi-Kouassikro",
+          "en": "Kouassi-Kouassikro",
+          "slug": "kouassi-kouassikro-ci2703"
+        },
+        "code": {
+          "id": "CI2703",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI270301",
+            "name": {
+              "local": "Kouassi-Kouassikro",
+              "en": "Kouassi-Kouassikro",
+              "slug": "kouassi-kouassikro-ci270301"
+            },
+            "code": {
+              "id": "CI270301",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI270302",
+            "name": {
+              "local": "Mékro",
+              "en": "Mékro",
+              "slug": "mkro-ci270302"
+            },
+            "code": {
+              "id": "CI270302",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CI26",
+    "name": {
+      "local": "Nawa",
+      "en": "Nawa",
+      "slug": "nawa-ci26"
+    },
+    "code": {
+      "id": "CI26",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "CI2601",
+        "name": {
+          "local": "Buyo",
+          "en": "Buyo",
+          "slug": "buyo-ci2601"
+        },
+        "code": {
+          "id": "CI2601",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI260101",
+            "name": {
+              "local": "Buyo",
+              "en": "Buyo",
+              "slug": "buyo-ci260101"
+            },
+            "code": {
+              "id": "CI260101",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI260102",
+            "name": {
+              "local": "Dapéoua",
+              "en": "Dapéoua",
+              "slug": "dapoua-ci260102"
+            },
+            "code": {
+              "id": "CI260102",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI2602",
+        "name": {
+          "local": "Guéyo",
+          "en": "Guéyo",
+          "slug": "guyo-ci2602"
+        },
+        "code": {
+          "id": "CI2602",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI260202",
+            "name": {
+              "local": "Dabouyo",
+              "en": "Dabouyo",
+              "slug": "dabouyo-ci260202"
+            },
+            "code": {
+              "id": "CI260202",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI260201",
+            "name": {
+              "local": "Guéyo",
+              "en": "Guéyo",
+              "slug": "guyo-ci260201"
+            },
+            "code": {
+              "id": "CI260201",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI2603",
+        "name": {
+          "local": "Méagui",
+          "en": "Méagui",
+          "slug": "magui-ci2603"
+        },
+        "code": {
+          "id": "CI2603",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI260301",
+            "name": {
+              "local": "Méagui",
+              "en": "Méagui",
+              "slug": "magui-ci260301"
+            },
+            "code": {
+              "id": "CI260301",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI260302",
+            "name": {
+              "local": "Oupoyo",
+              "en": "Oupoyo",
+              "slug": "oupoyo-ci260302"
+            },
+            "code": {
+              "id": "CI260302",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI2604",
+        "name": {
+          "local": "Soubré",
+          "en": "Soubré",
+          "slug": "soubr-ci2604"
+        },
+        "code": {
+          "id": "CI2604",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI260402",
+            "name": {
+              "local": "Gnanmangui",
+              "en": "Gnanmangui",
+              "slug": "gnanmangui-ci260402"
+            },
+            "code": {
+              "id": "CI260402",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI260403",
+            "name": {
+              "local": "Grand-Zatry",
+              "en": "Grand-Zatry",
+              "slug": "grand-zatry-ci260403"
+            },
+            "code": {
+              "id": "CI260403",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI260404",
+            "name": {
+              "local": "Liliyo",
+              "en": "Liliyo",
+              "slug": "liliyo-ci260404"
+            },
+            "code": {
+              "id": "CI260404",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI260405",
+            "name": {
+              "local": "Okrouyo",
+              "en": "Okrouyo",
+              "slug": "okrouyo-ci260405"
+            },
+            "code": {
+              "id": "CI260405",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI260401",
+            "name": {
+              "local": "Soubre",
+              "en": "Soubre",
+              "slug": "soubre-ci260401"
+            },
+            "code": {
+              "id": "CI260401",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CI28",
+    "name": {
+      "local": "Poro",
+      "en": "Poro",
+      "slug": "poro-ci28"
+    },
+    "code": {
+      "id": "CI28",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "CI2801",
+        "name": {
+          "local": "Dikodougou",
+          "en": "Dikodougou",
+          "slug": "dikodougou-ci2801"
+        },
+        "code": {
+          "id": "CI2801",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI280101",
+            "name": {
+              "local": "Boron",
+              "en": "Boron",
+              "slug": "boron-ci280101"
+            },
+            "code": {
+              "id": "CI280101",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI280102",
+            "name": {
+              "local": "Dikodougou",
+              "en": "Dikodougou",
+              "slug": "dikodougou-ci280102"
+            },
+            "code": {
+              "id": "CI280102",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI280103",
+            "name": {
+              "local": "Guiembé",
+              "en": "Guiembé",
+              "slug": "guiemb-ci280103"
+            },
+            "code": {
+              "id": "CI280103",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI2802",
+        "name": {
+          "local": "Korhogo",
+          "en": "Korhogo",
+          "slug": "korhogo-ci2802"
+        },
+        "code": {
+          "id": "CI2802",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI280202",
+            "name": {
+              "local": "Dassoungboho",
+              "en": "Dassoungboho",
+              "slug": "dassoungboho-ci280202"
+            },
+            "code": {
+              "id": "CI280202",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI280203",
+            "name": {
+              "local": "Kanoroba",
+              "en": "Kanoroba",
+              "slug": "kanoroba-ci280203"
+            },
+            "code": {
+              "id": "CI280203",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI280204",
+            "name": {
+              "local": "Karakoro",
+              "en": "Karakoro",
+              "slug": "karakoro-ci280204"
+            },
+            "code": {
+              "id": "CI280204",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI280205",
+            "name": {
+              "local": "Kiémou",
+              "en": "Kiémou",
+              "slug": "kimou-ci280205"
+            },
+            "code": {
+              "id": "CI280205",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI280206",
+            "name": {
+              "local": "Kombolokoura",
+              "en": "Kombolokoura",
+              "slug": "kombolokoura-ci280206"
+            },
+            "code": {
+              "id": "CI280206",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI280207",
+            "name": {
+              "local": "Komborodougou",
+              "en": "Komborodougou",
+              "slug": "komborodougou-ci280207"
+            },
+            "code": {
+              "id": "CI280207",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI280208",
+            "name": {
+              "local": "Koni",
+              "en": "Koni",
+              "slug": "koni-ci280208"
+            },
+            "code": {
+              "id": "CI280208",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI280201",
+            "name": {
+              "local": "Korhogo",
+              "en": "Korhogo",
+              "slug": "korhogo-ci280201"
+            },
+            "code": {
+              "id": "CI280201",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI280209",
+            "name": {
+              "local": "Lataha",
+              "en": "Lataha",
+              "slug": "lataha-ci280209"
+            },
+            "code": {
+              "id": "CI280209",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI280210",
+            "name": {
+              "local": "N'Ganon",
+              "en": "N'Ganon",
+              "slug": "nganon-ci280210"
+            },
+            "code": {
+              "id": "CI280210",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI280211",
+            "name": {
+              "local": "Nafoun",
+              "en": "Nafoun",
+              "slug": "nafoun-ci280211"
+            },
+            "code": {
+              "id": "CI280211",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI280212",
+            "name": {
+              "local": "Napiéléodougou",
+              "en": "Napiéléodougou",
+              "slug": "napilodougou-ci280212"
+            },
+            "code": {
+              "id": "CI280212",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI280213",
+            "name": {
+              "local": "Niofoin",
+              "en": "Niofoin",
+              "slug": "niofoin-ci280213"
+            },
+            "code": {
+              "id": "CI280213",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI280214",
+            "name": {
+              "local": "Sirasso",
+              "en": "Sirasso",
+              "slug": "sirasso-ci280214"
+            },
+            "code": {
+              "id": "CI280214",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI280215",
+            "name": {
+              "local": "Sohouo",
+              "en": "Sohouo",
+              "slug": "sohouo-ci280215"
+            },
+            "code": {
+              "id": "CI280215",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI280216",
+            "name": {
+              "local": "Tioroniaradougou",
+              "en": "Tioroniaradougou",
+              "slug": "tioroniaradougou-ci280216"
+            },
+            "code": {
+              "id": "CI280216",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI2803",
+        "name": {
+          "local": "M'Bengué",
+          "en": "M'Bengué",
+          "slug": "mbengu-ci2803"
+        },
+        "code": {
+          "id": "CI2803",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI280302",
+            "name": {
+              "local": "Bougou",
+              "en": "Bougou",
+              "slug": "bougou-ci280302"
+            },
+            "code": {
+              "id": "CI280302",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI280303",
+            "name": {
+              "local": "Katiali",
+              "en": "Katiali",
+              "slug": "katiali-ci280303"
+            },
+            "code": {
+              "id": "CI280303",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI280304",
+            "name": {
+              "local": "Katogo",
+              "en": "Katogo",
+              "slug": "katogo-ci280304"
+            },
+            "code": {
+              "id": "CI280304",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI280301",
+            "name": {
+              "local": "M'Bengué",
+              "en": "M'Bengué",
+              "slug": "mbengu-ci280301"
+            },
+            "code": {
+              "id": "CI280301",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI2804",
+        "name": {
+          "local": "Sinématiali",
+          "en": "Sinématiali",
+          "slug": "sinmatiali-ci2804"
+        },
+        "code": {
+          "id": "CI2804",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI280402",
+            "name": {
+              "local": "Bahouakaha",
+              "en": "Bahouakaha",
+              "slug": "bahouakaha-ci280402"
+            },
+            "code": {
+              "id": "CI280402",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI280403",
+            "name": {
+              "local": "Kagbolodougou",
+              "en": "Kagbolodougou",
+              "slug": "kagbolodougou-ci280403"
+            },
+            "code": {
+              "id": "CI280403",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI280404",
+            "name": {
+              "local": "Sédiogo",
+              "en": "Sédiogo",
+              "slug": "sdiogo-ci280404"
+            },
+            "code": {
+              "id": "CI280404",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI280401",
+            "name": {
+              "local": "Sinématiali",
+              "en": "Sinématiali",
+              "slug": "sinmatiali-ci280401"
+            },
+            "code": {
+              "id": "CI280401",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CI29",
+    "name": {
+      "local": "San Pedro",
+      "en": "San Pedro",
+      "slug": "san-pedro-ci29"
+    },
+    "code": {
+      "id": "CI29",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "CI2901",
+        "name": {
+          "local": "San Pédro",
+          "en": "San Pédro",
+          "slug": "san-pdro-ci2901"
+        },
+        "code": {
+          "id": "CI2901",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI290102",
+            "name": {
+              "local": "Doba",
+              "en": "Doba",
+              "slug": "doba-ci290102"
+            },
+            "code": {
+              "id": "CI290102",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI290103",
+            "name": {
+              "local": "Dogbo",
+              "en": "Dogbo",
+              "slug": "dogbo-ci290103"
+            },
+            "code": {
+              "id": "CI290103",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI290104",
+            "name": {
+              "local": "Gabiadji",
+              "en": "Gabiadji",
+              "slug": "gabiadji-ci290104"
+            },
+            "code": {
+              "id": "CI290104",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI290105",
+            "name": {
+              "local": "Grand-Béréby",
+              "en": "Grand-Béréby",
+              "slug": "grand-brby-ci290105"
+            },
+            "code": {
+              "id": "CI290105",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI290101",
+            "name": {
+              "local": "San-Pédro",
+              "en": "San-Pédro",
+              "slug": "san-pdro-ci290101"
+            },
+            "code": {
+              "id": "CI290101",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI2902",
+        "name": {
+          "local": "Tabou",
+          "en": "Tabou",
+          "slug": "tabou-ci2902"
+        },
+        "code": {
+          "id": "CI2902",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI290202",
+            "name": {
+              "local": "Dapo-Iboké",
+              "en": "Dapo-Iboké",
+              "slug": "dapo-ibok-ci290202"
+            },
+            "code": {
+              "id": "CI290202",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI290203",
+            "name": {
+              "local": "Djamandioké",
+              "en": "Djamandioké",
+              "slug": "djamandiok-ci290203"
+            },
+            "code": {
+              "id": "CI290203",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI290204",
+            "name": {
+              "local": "Djouroutou",
+              "en": "Djouroutou",
+              "slug": "djouroutou-ci290204"
+            },
+            "code": {
+              "id": "CI290204",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI290205",
+            "name": {
+              "local": "Grabo",
+              "en": "Grabo",
+              "slug": "grabo-ci290205"
+            },
+            "code": {
+              "id": "CI290205",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI290206",
+            "name": {
+              "local": "Olodio",
+              "en": "Olodio",
+              "slug": "olodio-ci290206"
+            },
+            "code": {
+              "id": "CI290206",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI290201",
+            "name": {
+              "local": "Tabou",
+              "en": "Tabou",
+              "slug": "tabou-ci290201"
+            },
+            "code": {
+              "id": "CI290201",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CI30",
+    "name": {
+      "local": "Sud-Comoe",
+      "en": "Sud-Comoe",
+      "slug": "sud-comoe-ci30"
+    },
+    "code": {
+      "id": "CI30",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "CI3001",
+        "name": {
+          "local": "Aboisso",
+          "en": "Aboisso",
+          "slug": "aboisso-ci3001"
+        },
+        "code": {
+          "id": "CI3001",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI300101",
+            "name": {
+              "local": "Aboisso",
+              "en": "Aboisso",
+              "slug": "aboisso-ci300101"
+            },
+            "code": {
+              "id": "CI300101",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI300102",
+            "name": {
+              "local": "Adaou",
+              "en": "Adaou",
+              "slug": "adaou-ci300102"
+            },
+            "code": {
+              "id": "CI300102",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI300103",
+            "name": {
+              "local": "Adjouan",
+              "en": "Adjouan",
+              "slug": "adjouan-ci300103"
+            },
+            "code": {
+              "id": "CI300103",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI300104",
+            "name": {
+              "local": "Ayamé",
+              "en": "Ayamé",
+              "slug": "ayam-ci300104"
+            },
+            "code": {
+              "id": "CI300104",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI300105",
+            "name": {
+              "local": "Bianouan",
+              "en": "Bianouan",
+              "slug": "bianouan-ci300105"
+            },
+            "code": {
+              "id": "CI300105",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI300106",
+            "name": {
+              "local": "Kouakro",
+              "en": "Kouakro",
+              "slug": "kouakro-ci300106"
+            },
+            "code": {
+              "id": "CI300106",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI300107",
+            "name": {
+              "local": "Maféré",
+              "en": "Maféré",
+              "slug": "mafr-ci300107"
+            },
+            "code": {
+              "id": "CI300107",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI300108",
+            "name": {
+              "local": "Yaou",
+              "en": "Yaou",
+              "slug": "yaou-ci300108"
+            },
+            "code": {
+              "id": "CI300108",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI3002",
+        "name": {
+          "local": "Adiaké",
+          "en": "Adiaké",
+          "slug": "adiak-ci3002"
+        },
+        "code": {
+          "id": "CI3002",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI300201",
+            "name": {
+              "local": "Adiake",
+              "en": "Adiake",
+              "slug": "adiake-ci300201"
+            },
+            "code": {
+              "id": "CI300201",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI300202",
+            "name": {
+              "local": "Assinie-Mafia",
+              "en": "Assinie-Mafia",
+              "slug": "assinie-mafia-ci300202"
+            },
+            "code": {
+              "id": "CI300202",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI300203",
+            "name": {
+              "local": "Etuéboué",
+              "en": "Etuéboué",
+              "slug": "etubou-ci300203"
+            },
+            "code": {
+              "id": "CI300203",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI3003",
+        "name": {
+          "local": "Grand-Bassam",
+          "en": "Grand-Bassam",
+          "slug": "grand-bassam-ci3003"
+        },
+        "code": {
+          "id": "CI3003",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI300301",
+            "name": {
+              "local": "Bongo",
+              "en": "Bongo",
+              "slug": "bongo-ci300301"
+            },
+            "code": {
+              "id": "CI300301",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI300302",
+            "name": {
+              "local": "Bonoua",
+              "en": "Bonoua",
+              "slug": "bonoua-ci300302"
+            },
+            "code": {
+              "id": "CI300302",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI300303",
+            "name": {
+              "local": "Grand-Bassam",
+              "en": "Grand-Bassam",
+              "slug": "grand-bassam-ci300303"
+            },
+            "code": {
+              "id": "CI300303",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI3004",
+        "name": {
+          "local": "Tiapoum",
+          "en": "Tiapoum",
+          "slug": "tiapoum-ci3004"
+        },
+        "code": {
+          "id": "CI3004",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI300402",
+            "name": {
+              "local": "Noé",
+              "en": "Noé",
+              "slug": "no-ci300402"
+            },
+            "code": {
+              "id": "CI300402",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI300403",
+            "name": {
+              "local": "Nouamou",
+              "en": "Nouamou",
+              "slug": "nouamou-ci300403"
+            },
+            "code": {
+              "id": "CI300403",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI300401",
+            "name": {
+              "local": "Tiapoum",
+              "en": "Tiapoum",
+              "slug": "tiapoum-ci300401"
+            },
+            "code": {
+              "id": "CI300401",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CI31",
+    "name": {
+      "local": "Tchologo",
+      "en": "Tchologo",
+      "slug": "tchologo-ci31"
+    },
+    "code": {
+      "id": "CI31",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "CI3101",
+        "name": {
+          "local": "Ferkessédougou",
+          "en": "Ferkessédougou",
+          "slug": "ferkessdougou-ci3101"
+        },
+        "code": {
+          "id": "CI3101",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI310101",
+            "name": {
+              "local": "Ferkéssédougou",
+              "en": "Ferkéssédougou",
+              "slug": "ferkssdougou-ci310101"
+            },
+            "code": {
+              "id": "CI310101",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI310102",
+            "name": {
+              "local": "Koumbala",
+              "en": "Koumbala",
+              "slug": "koumbala-ci310102"
+            },
+            "code": {
+              "id": "CI310102",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI310103",
+            "name": {
+              "local": "Togoniéré",
+              "en": "Togoniéré",
+              "slug": "togonir-ci310103"
+            },
+            "code": {
+              "id": "CI310103",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI3102",
+        "name": {
+          "local": "Kong",
+          "en": "Kong",
+          "slug": "kong-ci3102"
+        },
+        "code": {
+          "id": "CI3102",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI310202",
+            "name": {
+              "local": "Bilimono",
+              "en": "Bilimono",
+              "slug": "bilimono-ci310202"
+            },
+            "code": {
+              "id": "CI310202",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI310201",
+            "name": {
+              "local": "Kong",
+              "en": "Kong",
+              "slug": "kong-ci310201"
+            },
+            "code": {
+              "id": "CI310201",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI310203",
+            "name": {
+              "local": "Nafana",
+              "en": "Nafana",
+              "slug": "nafana-ci310203"
+            },
+            "code": {
+              "id": "CI310203",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI310204",
+            "name": {
+              "local": "Sikolo",
+              "en": "Sikolo",
+              "slug": "sikolo-ci310204"
+            },
+            "code": {
+              "id": "CI310204",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI3103",
+        "name": {
+          "local": "Ouangolodougou",
+          "en": "Ouangolodougou",
+          "slug": "ouangolodougou-ci3103"
+        },
+        "code": {
+          "id": "CI3103",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI310302",
+            "name": {
+              "local": "Diawala",
+              "en": "Diawala",
+              "slug": "diawala-ci310302"
+            },
+            "code": {
+              "id": "CI310302",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI310303",
+            "name": {
+              "local": "Kaouara",
+              "en": "Kaouara",
+              "slug": "kaouara-ci310303"
+            },
+            "code": {
+              "id": "CI310303",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI310304",
+            "name": {
+              "local": "Niellé",
+              "en": "Niellé",
+              "slug": "niell-ci310304"
+            },
+            "code": {
+              "id": "CI310304",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI310301",
+            "name": {
+              "local": "Ouangolodougou",
+              "en": "Ouangolodougou",
+              "slug": "ouangolodougou-ci310301"
+            },
+            "code": {
+              "id": "CI310301",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI310305",
+            "name": {
+              "local": "Toumoukoro",
+              "en": "Toumoukoro",
+              "slug": "toumoukoro-ci310305"
+            },
+            "code": {
+              "id": "CI310305",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CI32",
+    "name": {
+      "local": "Tonkpi",
+      "en": "Tonkpi",
+      "slug": "tonkpi-ci32"
+    },
+    "code": {
+      "id": "CI32",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "CI3201",
+        "name": {
+          "local": "Biankouma",
+          "en": "Biankouma",
+          "slug": "biankouma-ci3201"
+        },
+        "code": {
+          "id": "CI3201",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI320101",
+            "name": {
+              "local": "Biankouma",
+              "en": "Biankouma",
+              "slug": "biankouma-ci320101"
+            },
+            "code": {
+              "id": "CI320101",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI320102",
+            "name": {
+              "local": "Blapleu",
+              "en": "Blapleu",
+              "slug": "blapleu-ci320102"
+            },
+            "code": {
+              "id": "CI320102",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI320103",
+            "name": {
+              "local": "Gbangbégouiné",
+              "en": "Gbangbégouiné",
+              "slug": "gbangbgouin-ci320103"
+            },
+            "code": {
+              "id": "CI320103",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI320104",
+            "name": {
+              "local": "Gbonné",
+              "en": "Gbonné",
+              "slug": "gbonn-ci320104"
+            },
+            "code": {
+              "id": "CI320104",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI320105",
+            "name": {
+              "local": "Gouiné",
+              "en": "Gouiné",
+              "slug": "gouin-ci320105"
+            },
+            "code": {
+              "id": "CI320105",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI320106",
+            "name": {
+              "local": "Kpata",
+              "en": "Kpata",
+              "slug": "kpata-ci320106"
+            },
+            "code": {
+              "id": "CI320106",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI320107",
+            "name": {
+              "local": "Santa",
+              "en": "Santa",
+              "slug": "santa-ci320107"
+            },
+            "code": {
+              "id": "CI320107",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI3202",
+        "name": {
+          "local": "Danané",
+          "en": "Danané",
+          "slug": "danan-ci3202"
+        },
+        "code": {
+          "id": "CI3202",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI320201",
+            "name": {
+              "local": "Daleu",
+              "en": "Daleu",
+              "slug": "daleu-ci320201"
+            },
+            "code": {
+              "id": "CI320201",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI320202",
+            "name": {
+              "local": "Danané",
+              "en": "Danané",
+              "slug": "danan-ci320202"
+            },
+            "code": {
+              "id": "CI320202",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI320203",
+            "name": {
+              "local": "Gbon-Houyé",
+              "en": "Gbon-Houyé",
+              "slug": "gbon-houy-ci320203"
+            },
+            "code": {
+              "id": "CI320203",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI320204",
+            "name": {
+              "local": "Kouan-Houlé",
+              "en": "Kouan-Houlé",
+              "slug": "kouan-houl-ci320204"
+            },
+            "code": {
+              "id": "CI320204",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI320205",
+            "name": {
+              "local": "Mahapleu",
+              "en": "Mahapleu",
+              "slug": "mahapleu-ci320205"
+            },
+            "code": {
+              "id": "CI320205",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI320206",
+            "name": {
+              "local": "Seileu",
+              "en": "Seileu",
+              "slug": "seileu-ci320206"
+            },
+            "code": {
+              "id": "CI320206",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI320207",
+            "name": {
+              "local": "Zonneu",
+              "en": "Zonneu",
+              "slug": "zonneu-ci320207"
+            },
+            "code": {
+              "id": "CI320207",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI3203",
+        "name": {
+          "local": "Man",
+          "en": "Man",
+          "slug": "man-ci3203"
+        },
+        "code": {
+          "id": "CI3203",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI320302",
+            "name": {
+              "local": "Bogouiné",
+              "en": "Bogouiné",
+              "slug": "bogouin-ci320302"
+            },
+            "code": {
+              "id": "CI320302",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI320303",
+            "name": {
+              "local": "Fagnampleu",
+              "en": "Fagnampleu",
+              "slug": "fagnampleu-ci320303"
+            },
+            "code": {
+              "id": "CI320303",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI320304",
+            "name": {
+              "local": "Gbangbegouiné-Yati",
+              "en": "Gbangbegouiné-Yati",
+              "slug": "gbangbegouin-yati-ci320304"
+            },
+            "code": {
+              "id": "CI320304",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI320305",
+            "name": {
+              "local": "Logoualé",
+              "en": "Logoualé",
+              "slug": "logoual-ci320305"
+            },
+            "code": {
+              "id": "CI320305",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI320301",
+            "name": {
+              "local": "Man",
+              "en": "Man",
+              "slug": "man-ci320301"
+            },
+            "code": {
+              "id": "CI320301",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI320306",
+            "name": {
+              "local": "Podiagouiné",
+              "en": "Podiagouiné",
+              "slug": "podiagouin-ci320306"
+            },
+            "code": {
+              "id": "CI320306",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI320307",
+            "name": {
+              "local": "Sandougou-Soba",
+              "en": "Sandougou-Soba",
+              "slug": "sandougou-soba-ci320307"
+            },
+            "code": {
+              "id": "CI320307",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI320308",
+            "name": {
+              "local": "Sangouiné",
+              "en": "Sangouiné",
+              "slug": "sangouin-ci320308"
+            },
+            "code": {
+              "id": "CI320308",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI320309",
+            "name": {
+              "local": "Yapleu",
+              "en": "Yapleu",
+              "slug": "yapleu-ci320309"
+            },
+            "code": {
+              "id": "CI320309",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI320310",
+            "name": {
+              "local": "Zagoué",
+              "en": "Zagoué",
+              "slug": "zagou-ci320310"
+            },
+            "code": {
+              "id": "CI320310",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI320311",
+            "name": {
+              "local": "Ziogouiné",
+              "en": "Ziogouiné",
+              "slug": "ziogouin-ci320311"
+            },
+            "code": {
+              "id": "CI320311",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI3204",
+        "name": {
+          "local": "Sipilou",
+          "en": "Sipilou",
+          "slug": "sipilou-ci3204"
+        },
+        "code": {
+          "id": "CI3204",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI320401",
+            "name": {
+              "local": "Sipilou",
+              "en": "Sipilou",
+              "slug": "sipilou-ci320401"
+            },
+            "code": {
+              "id": "CI320401",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI320402",
+            "name": {
+              "local": "Yorodougou",
+              "en": "Yorodougou",
+              "slug": "yorodougou-ci320402"
+            },
+            "code": {
+              "id": "CI320402",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI3205",
+        "name": {
+          "local": "Zouan-Hounien",
+          "en": "Zouan-Hounien",
+          "slug": "zouan-hounien-ci3205"
+        },
+        "code": {
+          "id": "CI3205",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI320502",
+            "name": {
+              "local": "Banneu",
+              "en": "Banneu",
+              "slug": "banneu-ci320502"
+            },
+            "code": {
+              "id": "CI320502",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI320503",
+            "name": {
+              "local": "Bin-Houyé",
+              "en": "Bin-Houyé",
+              "slug": "bin-houy-ci320503"
+            },
+            "code": {
+              "id": "CI320503",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI320504",
+            "name": {
+              "local": "Goulaleu",
+              "en": "Goulaleu",
+              "slug": "goulaleu-ci320504"
+            },
+            "code": {
+              "id": "CI320504",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI320505",
+            "name": {
+              "local": "Téapleu",
+              "en": "Téapleu",
+              "slug": "tapleu-ci320505"
+            },
+            "code": {
+              "id": "CI320505",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI320506",
+            "name": {
+              "local": "Yelleu",
+              "en": "Yelleu",
+              "slug": "yelleu-ci320506"
+            },
+            "code": {
+              "id": "CI320506",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI320501",
+            "name": {
+              "local": "Zouan Hounien",
+              "en": "Zouan Hounien",
+              "slug": "zouan-hounien-ci320501"
+            },
+            "code": {
+              "id": "CI320501",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CI33",
+    "name": {
+      "local": "Worodougou",
+      "en": "Worodougou",
+      "slug": "worodougou-ci33"
+    },
+    "code": {
+      "id": "CI33",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "CI3301",
+        "name": {
+          "local": "Kani",
+          "en": "Kani",
+          "slug": "kani-ci3301"
+        },
+        "code": {
+          "id": "CI3301",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI330102",
+            "name": {
+              "local": "Djibrosso",
+              "en": "Djibrosso",
+              "slug": "djibrosso-ci330102"
+            },
+            "code": {
+              "id": "CI330102",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI330103",
+            "name": {
+              "local": "Fadiadougou",
+              "en": "Fadiadougou",
+              "slug": "fadiadougou-ci330103"
+            },
+            "code": {
+              "id": "CI330103",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI330101",
+            "name": {
+              "local": "Kani",
+              "en": "Kani",
+              "slug": "kani-ci330101"
+            },
+            "code": {
+              "id": "CI330101",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI330104",
+            "name": {
+              "local": "Morondo",
+              "en": "Morondo",
+              "slug": "morondo-ci330104"
+            },
+            "code": {
+              "id": "CI330104",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "CI3302",
+        "name": {
+          "local": "Séguéla",
+          "en": "Séguéla",
+          "slug": "sgula-ci3302"
+        },
+        "code": {
+          "id": "CI3302",
+          "iso": null
+        },
+        "sub_prefecture": [
+          {
+            "id": "CI330202",
+            "name": {
+              "local": "Bobi-Diarabana",
+              "en": "Bobi-Diarabana",
+              "slug": "bobi-diarabana-ci330202"
+            },
+            "code": {
+              "id": "CI330202",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI330203",
+            "name": {
+              "local": "Dualla",
+              "en": "Dualla",
+              "slug": "dualla-ci330203"
+            },
+            "code": {
+              "id": "CI330203",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI330204",
+            "name": {
+              "local": "Kamalo",
+              "en": "Kamalo",
+              "slug": "kamalo-ci330204"
+            },
+            "code": {
+              "id": "CI330204",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI330205",
+            "name": {
+              "local": "Massala",
+              "en": "Massala",
+              "slug": "massala-ci330205"
+            },
+            "code": {
+              "id": "CI330205",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI330201",
+            "name": {
+              "local": "Séguéla",
+              "en": "Séguéla",
+              "slug": "sgula-ci330201"
+            },
+            "code": {
+              "id": "CI330201",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI330206",
+            "name": {
+              "local": "Sifié",
+              "en": "Sifié",
+              "slug": "sifi-ci330206"
+            },
+            "code": {
+              "id": "CI330206",
+              "iso": null
+            }
+          },
+          {
+            "id": "CI330207",
+            "name": {
+              "local": "Worofla",
+              "en": "Worofla",
+              "slug": "worofla-ci330207"
+            },
+            "code": {
+              "id": "CI330207",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

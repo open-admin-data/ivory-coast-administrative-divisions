@@ -1,0 +1,47 @@
+{
+  "id": "CI0401",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Koro",
+    "en": "Koro",
+    "slug": "koro-ci0401"
+  },
+  "code": {
+    "id": "CI0401",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI04",
+    "level": 1,
+    "name": {
+      "local": "Bafing",
+      "en": "Bafing",
+      "slug": "bafing-ci04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI04",
+      "level": 1,
+      "name": {
+        "local": "Bafing",
+        "en": "Bafing",
+        "slug": "bafing-ci04"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.713",
+    "lon": "-7.552"
+  },
+  "metadata": {},
+  "source": {}
+}

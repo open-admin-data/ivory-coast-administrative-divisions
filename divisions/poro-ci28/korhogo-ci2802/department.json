@@ -1,0 +1,47 @@
+{
+  "id": "CI2802",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Korhogo",
+    "en": "Korhogo",
+    "slug": "korhogo-ci2802"
+  },
+  "code": {
+    "id": "CI2802",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI28",
+    "level": 1,
+    "name": {
+      "local": "Poro",
+      "en": "Poro",
+      "slug": "poro-ci28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI28",
+      "level": 1,
+      "name": {
+        "local": "Poro",
+        "en": "Poro",
+        "slug": "poro-ci28"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.308",
+    "lon": "-5.55"
+  },
+  "metadata": {},
+  "source": {}
+}

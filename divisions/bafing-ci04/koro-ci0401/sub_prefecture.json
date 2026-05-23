@@ -1,0 +1,272 @@
+[
+  {
+    "id": "CI040102",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Booko",
+      "en": "Booko",
+      "slug": "booko-ci040102"
+    },
+    "code": {
+      "id": "CI040102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0401",
+      "level": 2,
+      "name": {
+        "local": "Koro",
+        "en": "Koro",
+        "slug": "koro-ci0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI04",
+        "level": 1,
+        "name": {
+          "local": "Bafing",
+          "en": "Bafing",
+          "slug": "bafing-ci04"
+        }
+      },
+      {
+        "id": "CI0401",
+        "level": 2,
+        "name": {
+          "local": "Koro",
+          "en": "Koro",
+          "slug": "koro-ci0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.898",
+      "lon": "-7.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI040103",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Borotou",
+      "en": "Borotou",
+      "slug": "borotou-ci040103"
+    },
+    "code": {
+      "id": "CI040103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0401",
+      "level": 2,
+      "name": {
+        "local": "Koro",
+        "en": "Koro",
+        "slug": "koro-ci0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI04",
+        "level": 1,
+        "name": {
+          "local": "Bafing",
+          "en": "Bafing",
+          "slug": "bafing-ci04"
+        }
+      },
+      {
+        "id": "CI0401",
+        "level": 2,
+        "name": {
+          "local": "Koro",
+          "en": "Koro",
+          "slug": "koro-ci0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.759",
+      "lon": "-7.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI040101",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Koro",
+      "en": "Koro",
+      "slug": "koro-ci040101"
+    },
+    "code": {
+      "id": "CI040101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0401",
+      "level": 2,
+      "name": {
+        "local": "Koro",
+        "en": "Koro",
+        "slug": "koro-ci0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI04",
+        "level": 1,
+        "name": {
+          "local": "Bafing",
+          "en": "Bafing",
+          "slug": "bafing-ci04"
+        }
+      },
+      {
+        "id": "CI0401",
+        "level": 2,
+        "name": {
+          "local": "Koro",
+          "en": "Koro",
+          "slug": "koro-ci0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.519",
+      "lon": "-7.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI040104",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mahandougou",
+      "en": "Mahandougou",
+      "slug": "mahandougou-ci040104"
+    },
+    "code": {
+      "id": "CI040104",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0401",
+      "level": 2,
+      "name": {
+        "local": "Koro",
+        "en": "Koro",
+        "slug": "koro-ci0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI04",
+        "level": 1,
+        "name": {
+          "local": "Bafing",
+          "en": "Bafing",
+          "slug": "bafing-ci04"
+        }
+      },
+      {
+        "id": "CI0401",
+        "level": 2,
+        "name": {
+          "local": "Koro",
+          "en": "Koro",
+          "slug": "koro-ci0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.006",
+      "lon": "-7.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI040105",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Niokosso",
+      "en": "Niokosso",
+      "slug": "niokosso-ci040105"
+    },
+    "code": {
+      "id": "CI040105",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0401",
+      "level": 2,
+      "name": {
+        "local": "Koro",
+        "en": "Koro",
+        "slug": "koro-ci0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI04",
+        "level": 1,
+        "name": {
+          "local": "Bafing",
+          "en": "Bafing",
+          "slug": "bafing-ci04"
+        }
+      },
+      {
+        "id": "CI0401",
+        "level": 2,
+        "name": {
+          "local": "Koro",
+          "en": "Koro",
+          "slug": "koro-ci0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.614",
+      "lon": "-7.591"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

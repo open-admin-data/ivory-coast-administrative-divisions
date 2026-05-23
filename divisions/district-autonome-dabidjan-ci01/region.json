@@ -1,0 +1,30 @@
+{
+  "id": "CI01",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "District Autonome D'Abidjan",
+    "en": "District Autonome D'Abidjan",
+    "slug": "district-autonome-dabidjan-ci01"
+  },
+  "code": {
+    "id": "CI01",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 1,
+    "sub_prefecture": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.412",
+    "lon": "-4.069"
+  },
+  "metadata": {},
+  "source": {}
+}

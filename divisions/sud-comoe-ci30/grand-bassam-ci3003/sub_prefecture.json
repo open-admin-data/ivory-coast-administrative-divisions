@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CI300301",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bongo",
+      "en": "Bongo",
+      "slug": "bongo-ci300301"
+    },
+    "code": {
+      "id": "CI300301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3003",
+      "level": 2,
+      "name": {
+        "local": "Grand-Bassam",
+        "en": "Grand-Bassam",
+        "slug": "grand-bassam-ci3003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI30",
+        "level": 1,
+        "name": {
+          "local": "Sud-Comoe",
+          "en": "Sud-Comoe",
+          "slug": "sud-comoe-ci30"
+        }
+      },
+      {
+        "id": "CI3003",
+        "level": 2,
+        "name": {
+          "local": "Grand-Bassam",
+          "en": "Grand-Bassam",
+          "slug": "grand-bassam-ci3003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.476",
+      "lon": "-3.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI300302",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bonoua",
+      "en": "Bonoua",
+      "slug": "bonoua-ci300302"
+    },
+    "code": {
+      "id": "CI300302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3003",
+      "level": 2,
+      "name": {
+        "local": "Grand-Bassam",
+        "en": "Grand-Bassam",
+        "slug": "grand-bassam-ci3003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI30",
+        "level": 1,
+        "name": {
+          "local": "Sud-Comoe",
+          "en": "Sud-Comoe",
+          "slug": "sud-comoe-ci30"
+        }
+      },
+      {
+        "id": "CI3003",
+        "level": 2,
+        "name": {
+          "local": "Grand-Bassam",
+          "en": "Grand-Bassam",
+          "slug": "grand-bassam-ci3003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.291",
+      "lon": "-3.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI300303",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Grand-Bassam",
+      "en": "Grand-Bassam",
+      "slug": "grand-bassam-ci300303"
+    },
+    "code": {
+      "id": "CI300303",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3003",
+      "level": 2,
+      "name": {
+        "local": "Grand-Bassam",
+        "en": "Grand-Bassam",
+        "slug": "grand-bassam-ci3003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI30",
+        "level": 1,
+        "name": {
+          "local": "Sud-Comoe",
+          "en": "Sud-Comoe",
+          "slug": "sud-comoe-ci30"
+        }
+      },
+      {
+        "id": "CI3003",
+        "level": 2,
+        "name": {
+          "local": "Grand-Bassam",
+          "en": "Grand-Bassam",
+          "slug": "grand-bassam-ci3003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.234",
+      "lon": "-3.783"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

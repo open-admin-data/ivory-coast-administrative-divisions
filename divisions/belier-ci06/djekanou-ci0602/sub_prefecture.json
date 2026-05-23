@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CI060201",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bonikro",
+      "en": "Bonikro",
+      "slug": "bonikro-ci060201"
+    },
+    "code": {
+      "id": "CI060201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0602",
+      "level": 2,
+      "name": {
+        "local": "Djekanou",
+        "en": "Djekanou",
+        "slug": "djekanou-ci0602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI06",
+        "level": 1,
+        "name": {
+          "local": "Belier",
+          "en": "Belier",
+          "slug": "belier-ci06"
+        }
+      },
+      {
+        "id": "CI0602",
+        "level": 2,
+        "name": {
+          "local": "Djekanou",
+          "en": "Djekanou",
+          "slug": "djekanou-ci0602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.384",
+      "lon": "-5.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI060202",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Djékanou",
+      "en": "Djékanou",
+      "slug": "djkanou-ci060202"
+    },
+    "code": {
+      "id": "CI060202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0602",
+      "level": 2,
+      "name": {
+        "local": "Djekanou",
+        "en": "Djekanou",
+        "slug": "djekanou-ci0602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI06",
+        "level": 1,
+        "name": {
+          "local": "Belier",
+          "en": "Belier",
+          "slug": "belier-ci06"
+        }
+      },
+      {
+        "id": "CI0602",
+        "level": 2,
+        "name": {
+          "local": "Djekanou",
+          "en": "Djekanou",
+          "slug": "djekanou-ci0602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.443",
+      "lon": "-5.088"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "id": "CI22",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Loh-Djiboua",
+    "en": "Loh-Djiboua",
+    "slug": "loh-djiboua-ci22"
+  },
+  "code": {
+    "id": "CI22",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 3,
+    "sub_prefecture": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.714",
+    "lon": "-5.481"
+  },
+  "metadata": {},
+  "source": {}
+}

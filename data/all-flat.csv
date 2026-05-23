@@ -1,0 +1,142 @@
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.region,children_count.department,children_count.sub_prefecture,zip_codes,geo.lat,geo.lon
+CI01,1,Région,Region,District Autonome D'Abidjan,District Autonome D'Abidjan,district-autonome-dabidjan-ci01,CI01,,,,,,1,5,,5.412,-4.069
+CI0101,2,Département,Department,Abidjan,Abidjan,abidjan-ci0101,CI0101,,CI01,District Autonome D'Abidjan,District Autonome D'Abidjan,,,5,,5.412,-4.069
+CI02,1,Région,Region,District Autonome De Yamoussoukro,District Autonome De Yamoussoukro,district-autonome-de-yamoussoukro-ci02,CI02,,,,,,2,4,,6.815,-5.222
+CI0201,2,Département,Department,Attiégouakro,Attiégouakro,attigouakro-ci0201,CI0201,,CI02,District Autonome De Yamoussoukro,District Autonome De Yamoussoukro,,,2,,6.891,-5.118
+CI0202,2,Département,Department,Yamoussoukro,Yamoussoukro,yamoussoukro-ci0202,CI0202,,CI02,District Autonome De Yamoussoukro,District Autonome De Yamoussoukro,,,2,,6.808,-5.333
+CI03,1,Région,Region,Agneby-Tiassa,Agneby-Tiassa,agneby-tiassa-ci03,CI03,,,,,,4,19,,5.953,-4.538
+CI0301,2,Département,Department,Agboville,Agboville,agboville-ci0301,CI0301,,CI03,Agneby-Tiassa,Agneby-Tiassa,,,11,,5.922,-4.335
+CI0302,2,Département,Department,Sikensi,Sikensi,sikensi-ci0302,CI0302,,CI03,Agneby-Tiassa,Agneby-Tiassa,,,2,,5.672,-4.528
+CI0303,2,Département,Department,Taabo,Taabo,taabo-ci0303,CI0303,,CI03,Agneby-Tiassa,Agneby-Tiassa,,,2,,6.192,-4.994
+CI0304,2,Département,Department,Tiassalé,Tiassalé,tiassal-ci0304,CI0304,,CI03,Agneby-Tiassa,Agneby-Tiassa,,,4,,5.931,-4.796
+CI04,1,Région,Region,Bafing,Bafing,bafing-ci04,CI04,,,,,,3,15,,8.456,-7.417
+CI0401,2,Département,Department,Koro,Koro,koro-ci0401,CI0401,,CI04,Bafing,Bafing,,,5,,8.713,-7.552
+CI0402,2,Département,Department,Ouaninou,Ouaninou,ouaninou-ci0402,CI0402,,CI04,Bafing,Bafing,,,6,,8.22,-7.985
+CI0403,2,Département,Department,Touba,Touba,touba-ci0403,CI0403,,CI04,Bafing,Bafing,,,4,,8.164,-7.41
+CI05,1,Région,Region,Bagoue,Bagoue,bagoue-ci05,CI05,,,,,,3,14,,9.903,-6.453
+CI0501,2,Département,Department,Boundiali,Boundiali,boundiali-ci0501,CI0501,,CI05,Bagoue,Bagoue,,,5,,9.559,-6.465
+CI0502,2,Département,Department,Kouto,Kouto,kouto-ci0502,CI0502,,CI05,Bagoue,Bagoue,,,5,,9.905,-6.526
+CI0503,2,Département,Department,Tengrela,Tengrela,tengrela-ci0503,CI0503,,CI05,Bagoue,Bagoue,,,4,,10.477,-6.435
+CI06,1,Région,Region,Belier,Belier,belier-ci06,CI06,,,,,,4,15,,7.223,-5.201
+CI0601,2,Département,Department,Didievi,Didievi,didievi-ci0601,CI0601,,CI06,Belier,Belier,,,5,,7.239,-4.835
+CI0602,2,Département,Department,Djekanou,Djekanou,djekanou-ci0602,CI0602,,CI06,Belier,Belier,,,2,,6.413,-5.117
+CI0603,2,Département,Department,Tiébissou,Tiébissou,tibissou-ci0603,CI0603,,CI06,Belier,Belier,,,4,,7.121,-5.207
+CI0604,2,Département,Department,Toumodi,Toumodi,toumodi-ci0604,CI0604,,CI06,Belier,Belier,,,4,,6.51,-4.933
+CI07,1,Région,Region,Bere,Bere,bere-ci07,CI07,,,,,,3,9,,8.377,-5.932
+CI0701,2,Département,Department,Dianra,Dianra,dianra-ci0701,CI0701,,CI07,Bere,Bere,,,2,,8.813,-6.246
+CI0702,2,Département,Department,Kounahiri,Kounahiri,kounahiri-ci0702,CI0702,,CI07,Bere,Bere,,,2,,7.784,-5.971
+CI0703,2,Département,Department,Mankono,Mankono,mankono-ci0703,CI0703,,CI07,Bere,Bere,,,5,,8.201,-5.839
+CI08,1,Région,Region,Bounkani,Bounkani,bounkani-ci08,CI08,,,,,,4,17,,9.078,-3.307
+CI0801,2,Département,Department,Bouna,Bouna,bouna-ci0801,CI0801,,CI08,Bounkani,Bounkani,,,5,,9.062,-3.338
+CI0802,2,Département,Department,Doropo,Doropo,doropo-ci0802,CI0802,,CI08,Bounkani,Bounkani,,,4,,9.645,-3.233
+CI0803,2,Département,Department,Nassian,Nassian,nassian-ci0803,CI0803,,CI08,Bounkani,Bounkani,,,5,,8.468,-3.611
+CI0804,2,Département,Department,Téhini,Téhini,thini-ci0804,CI0804,,CI08,Bounkani,Bounkani,,,3,,9.752,-3.873
+CI09,1,Région,Region,Cavally,Cavally,cavally-ci09,CI09,,,,,,4,17,,6.299,-7.577
+CI0901,2,Département,Department,Bloléquin,Bloléquin,blolquin-ci0901,CI0901,,CI09,Cavally,Cavally,,,5,,6.626,-8.03
+CI0902,2,Département,Department,Guiglo,Guiglo,guiglo-ci0902,CI0902,,CI09,Cavally,Cavally,,,4,,6.521,-7.547
+CI0903,2,Département,Department,Taï,Taï,ta-ci0903,CI0903,,CI09,Cavally,Cavally,,,2,,6.01,-7.436
+CI0904,2,Département,Department,Toulepleu,Toulepleu,toulepleu-ci0904,CI0904,,CI09,Cavally,Cavally,,,6,,6.501,-8.347
+CI10,1,Région,Region,Folon,Folon,folon-ci10,CI10,,,,,,2,7,,10.085,-7.466
+CI1001,2,Département,Department,Kaniasso,Kaniasso,kaniasso-ci1001,CI1001,,CI10,Folon,Folon,,,3,,10.05,-7.14
+CI1002,2,Département,Department,Minignan,Minignan,minignan-ci1002,CI1002,,CI10,Folon,Folon,,,4,,10.161,-7.617
+CI11,1,Région,Region,Gbeke,Gbeke,gbeke-ci11,CI11,,,,,,4,20,,7.692,-5.099
+CI1101,2,Département,Department,Béoumi,Béoumi,boumi-ci1101,CI1101,,CI11,Gbeke,Gbeke,,,7,,7.775,-5.56
+CI1102,2,Département,Department,Botro,Botro,botro-ci1102,CI1102,,CI11,Gbeke,Gbeke,,,4,,7.883,-5.25
+CI1103,2,Département,Department,Bouaké,Bouaké,bouak-ci1103,CI1103,,CI11,Gbeke,Gbeke,,,5,,7.682,-4.839
+CI1104,2,Département,Department,Sakassou,Sakassou,sakassou-ci1104,CI1104,,CI11,Gbeke,Gbeke,,,4,,7.442,-5.33
+CI12,1,Région,Region,Gbokle,Gbokle,gbokle-ci12,CI12,,,,,,2,9,,5.243,-5.93
+CI1201,2,Département,Department,Fresco,Fresco,fresco-ci1201,CI1201,,CI12,Gbokle,Gbokle,,,3,,5.332,-5.591
+CI1202,2,Département,Department,Sassandra,Sassandra,sassandra-ci1202,CI1202,,CI12,Gbokle,Gbokle,,,6,,5.243,-6.057
+CI13,1,Région,Region,Goh,Goh,goh-ci13,CI13,,,,,,2,16,,6.152,-6.091
+CI1301,2,Département,Department,Gagnoa,Gagnoa,gagnoa-ci1301,CI1301,,CI13,Goh,Goh,,,12,,6.074,-6.073
+CI1302,2,Département,Department,Oumé,Oumé,oum-ci1302,CI1302,,CI13,Goh,Goh,,,4,,6.401,-5.53
+CI14,1,Région,Region,Gontougo,Gontougo,gontougo-ci14,CI14,,,,,,5,29,,7.921,-3.369
+CI1401,2,Département,Department,Bondoukou,Bondoukou,bondoukou-ci1401,CI1401,,CI14,Gontougo,Gontougo,,,12,,8.278,-2.963
+CI1402,2,Département,Department,Koun Fao,Koun Fao,koun-fao-ci1402,CI1402,,CI14,Gontougo,Gontougo,,,6,,7.509,-3.376
+CI1403,2,Département,Department,Sandegue,Sandegue,sandegue-ci1403,CI1403,,CI14,Gontougo,Gontougo,,,4,,8.117,-3.716
+CI1404,2,Département,Department,Tanda,Tanda,tanda-ci1404,CI1404,,CI14,Gontougo,Gontougo,,,4,,7.853,-3.153
+CI1405,2,Département,Department,Transua,Transua,transua-ci1405,CI1405,,CI14,Gontougo,Gontougo,,,3,,7.576,-3.043
+CI15,1,Région,Region,Grands Ponts,Grands Ponts,grands-ponts-ci15,CI15,,,,,,3,10,,5.455,-4.663
+CI1501,2,Département,Department,Dabou,Dabou,dabou-ci1501,CI1501,,CI15,Grands Ponts,Grands Ponts,,,3,,5.401,-4.534
+CI1502,2,Département,Department,Grand-Lahou,Grand-Lahou,grand-lahou-ci1502,CI1502,,CI15,Grands Ponts,Grands Ponts,,,5,,5.455,-4.895
+CI1503,2,Département,Department,Jacqueville,Jacqueville,jacqueville-ci1503,CI1503,,CI15,Grands Ponts,Grands Ponts,,,2,,5.246,-4.426
+CI16,1,Région,Region,Guemon,Guemon,guemon-ci16,CI16,,,,,,4,23,,7.029,-7.39
+CI1601,2,Département,Department,Bangolo,Bangolo,bangolo-ci1601,CI1601,,CI16,Guemon,Guemon,,,9,,7.056,-7.292
+CI1602,2,Département,Department,Duékoué,Duékoué,dukou-ci1602,CI1602,,CI16,Guemon,Guemon,,,5,,6.647,-7.246
+CI1603,2,Département,Department,Facobly,Facobly,facobly-ci1603,CI1603,,CI16,Guemon,Guemon,,,5,,7.523,-7.159
+CI1604,2,Département,Department,Kouibly,Kouibly,kouibly-ci1604,CI1604,,CI16,Guemon,Guemon,,,4,,7.327,-7.205
+CI17,1,Région,Region,Hambol,Hambol,hambol-ci17,CI17,,,,,,3,19,,8.622,-4.821
+CI1701,2,Département,Department,Dabakala,Dabakala,dabakala-ci1701,CI1701,,CI17,Hambol,Hambol,,,10,,8.373,-4.445
+CI1702,2,Département,Department,Katiola,Katiola,katiola-ci1702,CI1702,,CI17,Hambol,Hambol,,,3,,8.206,-5.103
+CI1703,2,Département,Department,Niakaramandougou,Niakaramandougou,niakaramandougou-ci1703,CI1703,,CI17,Hambol,Hambol,,,6,,8.881,-5.21
+CI18,1,Région,Region,Haut-Sassandra,Haut-Sassandra,haut-sassandra-ci18,CI18,,,,,,4,23,,7.033,-6.603
+CI1801,2,Département,Department,Daloa,Daloa,daloa-ci1801,CI1801,,CI18,Haut-Sassandra,Haut-Sassandra,,,6,,6.921,-6.443
+CI1802,2,Département,Department,Issia,Issia,issia-ci1802,CI1802,,CI18,Haut-Sassandra,Haut-Sassandra,,,7,,6.476,-6.521
+CI1803,2,Département,Department,Vavoua,Vavoua,vavoua-ci1803,CI1803,,CI18,Haut-Sassandra,Haut-Sassandra,,,6,,7.423,-6.695
+CI1804,2,Département,Department,Zoukougbeu,Zoukougbeu,zoukougbeu-ci1804,CI1804,,CI18,Haut-Sassandra,Haut-Sassandra,,,4,,6.847,-6.861
+CI19,1,Région,Region,Iffou,Iffou,iffou-ci19,CI19,,,,,,3,15,,7.498,-4.112
+CI1901,2,Département,Department,Daoukro,Daoukro,daoukro-ci1901,CI1901,,CI19,Iffou,Iffou,,,7,,7.23,-3.998
+CI1902,2,Département,Department,M'Bahiakro,M'Bahiakro,mbahiakro-ci1902,CI1902,,CI19,Iffou,Iffou,,,3,,7.631,-4.327
+CI1903,2,Département,Department,Prikro,Prikro,prikro-ci1903,CI1903,,CI19,Iffou,Iffou,,,5,,7.715,-3.939
+CI20,1,Région,Region,Indenie-Djuablin,Indenie-Djuablin,indenie-djuablin-ci20,CI20,,,,,,3,14,,6.624,-3.471
+CI2001,2,Département,Department,Abengourou,Abengourou,abengourou-ci2001,CI2001,,CI20,Indenie-Djuablin,Indenie-Djuablin,,,7,,6.668,-3.515
+CI2002,2,Département,Department,Agnibilékrou,Agnibilékrou,agnibilkrou-ci2002,CI2002,,CI20,Indenie-Djuablin,Indenie-Djuablin,,,5,,7.066,-3.333
+CI2003,2,Département,Department,Béttié,Béttié,btti-ci2003,CI2003,,CI20,Indenie-Djuablin,Indenie-Djuablin,,,2,,6.118,-3.314
+CI21,1,Région,Region,Kabadougou,Kabadougou,kabadougou-ci21,CI21,,,,,,5,15,,9.255,-7.318
+CI2101,2,Département,Department,Gbeleban,Gbeleban,gbeleban-ci2101,CI2101,,CI21,Kabadougou,Kabadougou,,,3,,9.644,-7.908
+CI2102,2,Département,Department,Madinani,Madinani,madinani-ci2102,CI2102,,CI21,Kabadougou,Kabadougou,,,3,,9.668,-7.039
+CI2103,2,Département,Department,Odienne,Odienne,odienne-ci2103,CI2103,,CI21,Kabadougou,Kabadougou,,,5,,9.119,-7.435
+CI2104,2,Département,Department,Samatiguila,Samatiguila,samatiguila-ci2104,CI2104,,CI21,Kabadougou,Kabadougou,,,2,,9.814,-7.66
+CI2105,2,Département,Department,Séguélon,Séguélon,sgulon-ci2105,CI2105,,CI21,Kabadougou,Kabadougou,,,2,,9.245,-6.959
+CI22,1,Région,Region,Loh-Djiboua,Loh-Djiboua,loh-djiboua-ci22,CI22,,,,,,3,17,,5.714,-5.481
+CI2201,2,Département,Department,Divo,Divo,divo-ci2201,CI2201,,CI22,Loh-Djiboua,Loh-Djiboua,,,7,,5.925,-5.257
+CI2202,2,Département,Department,Guitry,Guitry,guitry-ci2202,CI2202,,CI22,Loh-Djiboua,Loh-Djiboua,,,4,,5.432,-5.231
+CI2203,2,Département,Department,Lakota,Lakota,lakota-ci2203,CI2203,,CI22,Loh-Djiboua,Loh-Djiboua,,,6,,5.862,-5.704
+CI23,1,Région,Region,Marahoue,Marahoue,marahoue-ci23,CI23,,,,,,3,18,,7.128,-5.744
+CI2301,2,Département,Department,Bouaflé,Bouaflé,bouafl-ci2301,CI2301,,CI23,Marahoue,Marahoue,,,7,,7.071,-5.79
+CI2302,2,Département,Department,Sinfra,Sinfra,sinfra-ci2302,CI2302,,CI23,Marahoue,Marahoue,,,4,,6.651,-5.762
+CI2303,2,Département,Department,Zuénoula,Zuénoula,zunoula-ci2303,CI2303,,CI23,Marahoue,Marahoue,,,7,,7.461,-6.057
+CI24,1,Région,Region,Me,Me,me-ci24,CI24,,,,,,4,17,,5.937,-3.761
+CI2401,2,Département,Department,Adzopé,Adzopé,adzop-ci2401,CI2401,,CI24,Me,Me,,,6,,6.098,-3.855
+CI2402,2,Département,Department,Akoupé,Akoupé,akoup-ci2402,CI2402,,CI24,Me,Me,,,3,,6.411,-3.916
+CI2403,2,Département,Department,Alépé,Alépé,alp-ci2403,CI2403,,CI24,Me,Me,,,5,,5.569,-3.708
+CI2404,2,Département,Department,Yakassé-Attobrou,Yakassé-Attobrou,yakass-attobrou-ci2404,CI2404,,CI24,Me,Me,,,3,,6.102,-3.552
+CI25,1,Région,Region,Moronou,Moronou,moronou-ci25,CI25,,,,,,3,11,,6.594,-4.174
+CI2501,2,Département,Department,Arrah,Arrah,arrah-ci2501,CI2501,,CI25,Moronou,Moronou,,,3,,6.767,-3.939
+CI2502,2,Département,Department,Bongouanou,Bongouanou,bongouanou-ci2502,CI2502,,CI25,Moronou,Moronou,,,4,,6.733,-4.268
+CI2503,2,Département,Department,M'Batto,M'Batto,mbatto-ci2503,CI2503,,CI25,Moronou,Moronou,,,4,,6.464,-4.435
+CI26,1,Région,Region,Nawa,Nawa,nawa-ci26,CI26,,,,,,4,11,,5.911,-6.69
+CI2601,2,Département,Department,Buyo,Buyo,buyo-ci2601,CI2601,,CI26,Nawa,Nawa,,,2,,6.189,-6.945
+CI2602,2,Département,Department,Guéyo,Guéyo,guyo-ci2602,CI2602,,CI26,Nawa,Nawa,,,2,,5.561,-6.108
+CI2603,2,Département,Department,Méagui,Méagui,magui-ci2603,CI2603,,CI26,Nawa,Nawa,,,2,,5.504,-6.745
+CI2604,2,Département,Department,Soubré,Soubré,soubr-ci2604,CI2604,,CI26,Nawa,Nawa,,,5,,5.926,-6.59
+CI27,1,Région,Region,N'Zi,N'Zi,nzi-ci27,CI27,,,,,,3,10,,7.021,-4.452
+CI2701,2,Département,Department,Bocanda,Bocanda,bocanda-ci2701,CI2701,,CI27,N'Zi,N'Zi,,,4,,6.971,-4.381
+CI2702,2,Département,Department,Dimbokro,Dimbokro,dimbokro-ci2702,CI2702,,CI27,N'Zi,N'Zi,,,4,,6.807,-4.746
+CI2703,2,Département,Department,Kouassi-Kouassikro,Kouassi-Kouassikro,kouassi-kouassikro-ci2703,CI2703,,CI27,N'Zi,N'Zi,,,2,,7.295,-4.633
+CI28,1,Région,Region,Poro,Poro,poro-ci28,CI28,,,,,,4,27,,9.476,-5.735
+CI2801,2,Département,Department,Dikodougou,Dikodougou,dikodougou-ci2801,CI2801,,CI28,Poro,Poro,,,3,,8.949,-5.863
+CI2802,2,Département,Department,Korhogo,Korhogo,korhogo-ci2802,CI2802,,CI28,Poro,Poro,,,16,,9.308,-5.55
+CI2803,2,Département,Department,M'Bengué,M'Bengué,mbengu-ci2803,CI2803,,CI28,Poro,Poro,,,4,,10.06,-6.002
+CI2804,2,Département,Department,Sinématiali,Sinématiali,sinmatiali-ci2804,CI2804,,CI28,Poro,Poro,,,4,,9.538,-5.396
+CI29,1,Région,Region,San Pedro,San Pedro,san-pedro-ci29,CI29,,,,,,2,11,,5.017,-6.954
+CI2901,2,Département,Department,San Pédro,San Pédro,san-pdro-ci2901,CI2901,,CI29,San Pedro,San Pedro,,,5,,4.987,-6.776
+CI2902,2,Département,Department,Tabou,Tabou,tabou-ci2902,CI2902,,CI29,San Pedro,San Pedro,,,6,,5.019,-7.394
+CI30,1,Région,Region,Sud-Comoe,Sud-Comoe,sud-comoe-ci30,CI30,,,,,,4,17,,5.661,-3.143
+CI3001,2,Département,Department,Aboisso,Aboisso,aboisso-ci3001,CI3001,,CI30,Sud-Comoe,Sud-Comoe,,,8,,5.712,-3.149
+CI3002,2,Département,Department,Adiaké,Adiaké,adiak-ci3002,CI3002,,CI30,Sud-Comoe,Sud-Comoe,,,3,,5.233,-3.26
+CI3003,2,Département,Department,Grand-Bassam,Grand-Bassam,grand-bassam-ci3003,CI3003,,CI30,Sud-Comoe,Sud-Comoe,,,3,,5.379,-3.518
+CI3004,2,Département,Department,Tiapoum,Tiapoum,tiapoum-ci3004,CI3004,,CI30,Sud-Comoe,Sud-Comoe,,,3,,5.245,-2.871
+CI31,1,Région,Region,Tchologo,Tchologo,tchologo-ci31,CI31,,,,,,3,12,,9.548,-4.783
+CI3101,2,Département,Department,Ferkessédougou,Ferkessédougou,ferkessdougou-ci3101,CI3101,,CI31,Tchologo,Tchologo,,,3,,9.578,-5.039
+CI3102,2,Département,Department,Kong,Kong,kong-ci3102,CI3102,,CI31,Tchologo,Tchologo,,,4,,9.192,-4.465
+CI3103,2,Département,Department,Ouangolodougou,Ouangolodougou,ouangolodougou-ci3103,CI3103,,CI31,Tchologo,Tchologo,,,5,,10.092,-5.39
+CI32,1,Région,Region,Tonkpi,Tonkpi,tonkpi-ci32,CI32,,,,,,5,33,,7.367,-7.944
+CI3201,2,Département,Department,Biankouma,Biankouma,biankouma-ci3201,CI3201,,CI32,Tonkpi,Tonkpi,,,7,,7.762,-7.445
+CI3202,2,Département,Department,Danané,Danané,danan-ci3202,CI3202,,CI32,Tonkpi,Tonkpi,,,7,,7.37,-8.181
+CI3203,2,Département,Department,Man,Man,man-ci3203,CI3203,,CI32,Tonkpi,Tonkpi,,,11,,7.336,-7.71
+CI3204,2,Département,Department,Sipilou,Sipilou,sipilou-ci3204,CI3204,,CI32,Tonkpi,Tonkpi,,,2,,7.868,-7.949
+CI3205,2,Département,Department,Zouan-Hounien,Zouan-Hounien,zouan-hounien-ci3205,CI3205,,CI32,Tonkpi,Tonkpi,,,6,,6.856,-8.206
+CI33,1,Région,Region,Worodougou,Worodougou,worodougou-ci33,CI33,,,,,,2,11,,8.428,-6.781
+CI3301,2,Département,Department,Kani,Kani,kani-ci3301,CI3301,,CI33,Worodougou,Worodougou,,,4,,8.716,-6.821
+CI3302,2,Département,Department,Séguéla,Séguéla,sgula-ci3302,CI3302,,CI33,Worodougou,Worodougou,,,7,,8.156,-6.709

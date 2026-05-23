@@ -1,0 +1,326 @@
+[
+  {
+    "id": "CI180302",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bazra-Nattis",
+      "en": "Bazra-Nattis",
+      "slug": "bazra-nattis-ci180302"
+    },
+    "code": {
+      "id": "CI180302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1803",
+      "level": 2,
+      "name": {
+        "local": "Vavoua",
+        "en": "Vavoua",
+        "slug": "vavoua-ci1803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI18",
+        "level": 1,
+        "name": {
+          "local": "Haut-Sassandra",
+          "en": "Haut-Sassandra",
+          "slug": "haut-sassandra-ci18"
+        }
+      },
+      {
+        "id": "CI1803",
+        "level": 2,
+        "name": {
+          "local": "Vavoua",
+          "en": "Vavoua",
+          "slug": "vavoua-ci1803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.64",
+      "lon": "-6.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI180303",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dananon",
+      "en": "Dananon",
+      "slug": "dananon-ci180303"
+    },
+    "code": {
+      "id": "CI180303",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1803",
+      "level": 2,
+      "name": {
+        "local": "Vavoua",
+        "en": "Vavoua",
+        "slug": "vavoua-ci1803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI18",
+        "level": 1,
+        "name": {
+          "local": "Haut-Sassandra",
+          "en": "Haut-Sassandra",
+          "slug": "haut-sassandra-ci18"
+        }
+      },
+      {
+        "id": "CI1803",
+        "level": 2,
+        "name": {
+          "local": "Vavoua",
+          "en": "Vavoua",
+          "slug": "vavoua-ci1803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.581",
+      "lon": "-6.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI180304",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dania",
+      "en": "Dania",
+      "slug": "dania-ci180304"
+    },
+    "code": {
+      "id": "CI180304",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1803",
+      "level": 2,
+      "name": {
+        "local": "Vavoua",
+        "en": "Vavoua",
+        "slug": "vavoua-ci1803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI18",
+        "level": 1,
+        "name": {
+          "local": "Haut-Sassandra",
+          "en": "Haut-Sassandra",
+          "slug": "haut-sassandra-ci18"
+        }
+      },
+      {
+        "id": "CI1803",
+        "level": 2,
+        "name": {
+          "local": "Vavoua",
+          "en": "Vavoua",
+          "slug": "vavoua-ci1803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.27",
+      "lon": "-6.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI180305",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kétro-Bassam",
+      "en": "Kétro-Bassam",
+      "slug": "ktro-bassam-ci180305"
+    },
+    "code": {
+      "id": "CI180305",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1803",
+      "level": 2,
+      "name": {
+        "local": "Vavoua",
+        "en": "Vavoua",
+        "slug": "vavoua-ci1803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI18",
+        "level": 1,
+        "name": {
+          "local": "Haut-Sassandra",
+          "en": "Haut-Sassandra",
+          "slug": "haut-sassandra-ci18"
+        }
+      },
+      {
+        "id": "CI1803",
+        "level": 2,
+        "name": {
+          "local": "Vavoua",
+          "en": "Vavoua",
+          "slug": "vavoua-ci1803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.214",
+      "lon": "-6.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI180306",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Seitifla",
+      "en": "Seitifla",
+      "slug": "seitifla-ci180306"
+    },
+    "code": {
+      "id": "CI180306",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1803",
+      "level": 2,
+      "name": {
+        "local": "Vavoua",
+        "en": "Vavoua",
+        "slug": "vavoua-ci1803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI18",
+        "level": 1,
+        "name": {
+          "local": "Haut-Sassandra",
+          "en": "Haut-Sassandra",
+          "slug": "haut-sassandra-ci18"
+        }
+      },
+      {
+        "id": "CI1803",
+        "level": 2,
+        "name": {
+          "local": "Vavoua",
+          "en": "Vavoua",
+          "slug": "vavoua-ci1803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.531",
+      "lon": "-6.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI180301",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Vavoua",
+      "en": "Vavoua",
+      "slug": "vavoua-ci180301"
+    },
+    "code": {
+      "id": "CI180301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1803",
+      "level": 2,
+      "name": {
+        "local": "Vavoua",
+        "en": "Vavoua",
+        "slug": "vavoua-ci1803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI18",
+        "level": 1,
+        "name": {
+          "local": "Haut-Sassandra",
+          "en": "Haut-Sassandra",
+          "slug": "haut-sassandra-ci18"
+        }
+      },
+      {
+        "id": "CI1803",
+        "level": 2,
+        "name": {
+          "local": "Vavoua",
+          "en": "Vavoua",
+          "slug": "vavoua-ci1803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.303",
+      "lon": "-6.503"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

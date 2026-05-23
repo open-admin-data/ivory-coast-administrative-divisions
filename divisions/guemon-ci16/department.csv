@@ -1,0 +1,5 @@
+id,name.local,name.en,name.slug,code.id,children_count.sub_prefecture,geo.lat,geo.lon
+CI1601,Bangolo,Bangolo,bangolo-ci1601,CI1601,9,7.056,-7.292
+CI1602,Duékoué,Duékoué,dukou-ci1602,CI1602,5,6.647,-7.246
+CI1603,Facobly,Facobly,facobly-ci1603,CI1603,5,7.523,-7.159
+CI1604,Kouibly,Kouibly,kouibly-ci1604,CI1604,4,7.327,-7.205

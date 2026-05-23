@@ -1,0 +1,326 @@
+[
+  {
+    "id": "CI320502",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Banneu",
+      "en": "Banneu",
+      "slug": "banneu-ci320502"
+    },
+    "code": {
+      "id": "CI320502",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3205",
+      "level": 2,
+      "name": {
+        "local": "Zouan-Hounien",
+        "en": "Zouan-Hounien",
+        "slug": "zouan-hounien-ci3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI32",
+        "level": 1,
+        "name": {
+          "local": "Tonkpi",
+          "en": "Tonkpi",
+          "slug": "tonkpi-ci32"
+        }
+      },
+      {
+        "id": "CI3205",
+        "level": 2,
+        "name": {
+          "local": "Zouan-Hounien",
+          "en": "Zouan-Hounien",
+          "slug": "zouan-hounien-ci3205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.055",
+      "lon": "-8.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI320503",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bin-Houyé",
+      "en": "Bin-Houyé",
+      "slug": "bin-houy-ci320503"
+    },
+    "code": {
+      "id": "CI320503",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3205",
+      "level": 2,
+      "name": {
+        "local": "Zouan-Hounien",
+        "en": "Zouan-Hounien",
+        "slug": "zouan-hounien-ci3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI32",
+        "level": 1,
+        "name": {
+          "local": "Tonkpi",
+          "en": "Tonkpi",
+          "slug": "tonkpi-ci32"
+        }
+      },
+      {
+        "id": "CI3205",
+        "level": 2,
+        "name": {
+          "local": "Zouan-Hounien",
+          "en": "Zouan-Hounien",
+          "slug": "zouan-hounien-ci3205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.779",
+      "lon": "-8.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI320504",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Goulaleu",
+      "en": "Goulaleu",
+      "slug": "goulaleu-ci320504"
+    },
+    "code": {
+      "id": "CI320504",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3205",
+      "level": 2,
+      "name": {
+        "local": "Zouan-Hounien",
+        "en": "Zouan-Hounien",
+        "slug": "zouan-hounien-ci3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI32",
+        "level": 1,
+        "name": {
+          "local": "Tonkpi",
+          "en": "Tonkpi",
+          "slug": "tonkpi-ci32"
+        }
+      },
+      {
+        "id": "CI3205",
+        "level": 2,
+        "name": {
+          "local": "Zouan-Hounien",
+          "en": "Zouan-Hounien",
+          "slug": "zouan-hounien-ci3205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.672",
+      "lon": "-8.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI320505",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Téapleu",
+      "en": "Téapleu",
+      "slug": "tapleu-ci320505"
+    },
+    "code": {
+      "id": "CI320505",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3205",
+      "level": 2,
+      "name": {
+        "local": "Zouan-Hounien",
+        "en": "Zouan-Hounien",
+        "slug": "zouan-hounien-ci3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI32",
+        "level": 1,
+        "name": {
+          "local": "Tonkpi",
+          "en": "Tonkpi",
+          "slug": "tonkpi-ci32"
+        }
+      },
+      {
+        "id": "CI3205",
+        "level": 2,
+        "name": {
+          "local": "Zouan-Hounien",
+          "en": "Zouan-Hounien",
+          "slug": "zouan-hounien-ci3205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.033",
+      "lon": "-8.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI320506",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Yelleu",
+      "en": "Yelleu",
+      "slug": "yelleu-ci320506"
+    },
+    "code": {
+      "id": "CI320506",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3205",
+      "level": 2,
+      "name": {
+        "local": "Zouan-Hounien",
+        "en": "Zouan-Hounien",
+        "slug": "zouan-hounien-ci3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI32",
+        "level": 1,
+        "name": {
+          "local": "Tonkpi",
+          "en": "Tonkpi",
+          "slug": "tonkpi-ci32"
+        }
+      },
+      {
+        "id": "CI3205",
+        "level": 2,
+        "name": {
+          "local": "Zouan-Hounien",
+          "en": "Zouan-Hounien",
+          "slug": "zouan-hounien-ci3205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.973",
+      "lon": "-8.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI320501",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Zouan Hounien",
+      "en": "Zouan Hounien",
+      "slug": "zouan-hounien-ci320501"
+    },
+    "code": {
+      "id": "CI320501",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3205",
+      "level": 2,
+      "name": {
+        "local": "Zouan-Hounien",
+        "en": "Zouan-Hounien",
+        "slug": "zouan-hounien-ci3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI32",
+        "level": 1,
+        "name": {
+          "local": "Tonkpi",
+          "en": "Tonkpi",
+          "slug": "tonkpi-ci32"
+        }
+      },
+      {
+        "id": "CI3205",
+        "level": 2,
+        "name": {
+          "local": "Zouan-Hounien",
+          "en": "Zouan-Hounien",
+          "slug": "zouan-hounien-ci3205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.89",
+      "lon": "-8.215"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "CI0902",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Guiglo",
+    "en": "Guiglo",
+    "slug": "guiglo-ci0902"
+  },
+  "code": {
+    "id": "CI0902",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI09",
+    "level": 1,
+    "name": {
+      "local": "Cavally",
+      "en": "Cavally",
+      "slug": "cavally-ci09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI09",
+      "level": 1,
+      "name": {
+        "local": "Cavally",
+        "en": "Cavally",
+        "slug": "cavally-ci09"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.521",
+    "lon": "-7.547"
+  },
+  "metadata": {},
+  "source": {}
+}

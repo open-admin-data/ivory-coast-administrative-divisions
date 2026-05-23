@@ -1,0 +1,30 @@
+{
+  "id": "CI17",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Hambol",
+    "en": "Hambol",
+    "slug": "hambol-ci17"
+  },
+  "code": {
+    "id": "CI17",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 3,
+    "sub_prefecture": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.622",
+    "lon": "-4.821"
+  },
+  "metadata": {},
+  "source": {}
+}

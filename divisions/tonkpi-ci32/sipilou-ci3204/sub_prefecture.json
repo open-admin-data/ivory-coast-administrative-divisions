@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CI320401",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sipilou",
+      "en": "Sipilou",
+      "slug": "sipilou-ci320401"
+    },
+    "code": {
+      "id": "CI320401",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3204",
+      "level": 2,
+      "name": {
+        "local": "Sipilou",
+        "en": "Sipilou",
+        "slug": "sipilou-ci3204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI32",
+        "level": 1,
+        "name": {
+          "local": "Tonkpi",
+          "en": "Tonkpi",
+          "slug": "tonkpi-ci32"
+        }
+      },
+      {
+        "id": "CI3204",
+        "level": 2,
+        "name": {
+          "local": "Sipilou",
+          "en": "Sipilou",
+          "slug": "sipilou-ci3204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.89",
+      "lon": "-8.021"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI320402",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Yorodougou",
+      "en": "Yorodougou",
+      "slug": "yorodougou-ci320402"
+    },
+    "code": {
+      "id": "CI320402",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3204",
+      "level": 2,
+      "name": {
+        "local": "Sipilou",
+        "en": "Sipilou",
+        "slug": "sipilou-ci3204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI32",
+        "level": 1,
+        "name": {
+          "local": "Tonkpi",
+          "en": "Tonkpi",
+          "slug": "tonkpi-ci32"
+        }
+      },
+      {
+        "id": "CI3204",
+        "level": 2,
+        "name": {
+          "local": "Sipilou",
+          "en": "Sipilou",
+          "slug": "sipilou-ci3204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.861",
+      "lon": "-7.845"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

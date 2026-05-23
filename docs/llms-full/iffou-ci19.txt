@@ -1,0 +1,84 @@
+# Iffou — Ivory Coast Administrative Divisions
+
+> 3 departments, 15 sub-prefectures
+> Code: CI19
+> Coordinates: 7.498, -4.112
+> Last updated: 2026-05-23. License: CC-BY-4.0.
+
+## Departments
+
+### Daoukro
+
+Code: CI1901, Coordinates: 7.23, -3.998
+Sub-prefectures: 7
+
+#### Akpassanou
+
+Code: CI190101, Coordinates: 7.341, -4.473
+
+#### Ananda
+
+Code: CI190102, Coordinates: 7.296, -4.299
+
+#### Daoukro
+
+Code: CI190103, Coordinates: 7.071, -3.952
+
+#### Ettrokro
+
+Code: CI190104, Coordinates: 7.254, -3.723
+
+#### N&#39;Gattakro
+
+Code: CI190105, Coordinates: 7.094, -3.691
+
+#### Ouellé
+
+Code: CI190106, Coordinates: 7.285, -4.028
+
+#### Samanza
+
+Code: CI190107, Coordinates: 7.419, -3.606
+
+### M&#39;Bahiakro
+
+Code: CI1902, Coordinates: 7.631, -4.327
+Sub-prefectures: 3
+
+#### Bonguéra
+
+Code: CI190202, Coordinates: 7.771, -4.256
+
+#### Kondossou
+
+Code: CI190203, Coordinates: 7.739, -4.429
+
+#### M&#39;Bahiakro
+
+Code: CI190201, Coordinates: 7.491, -4.333
+
+### Prikro
+
+Code: CI1903, Coordinates: 7.715, -3.939
+Sub-prefectures: 5
+
+#### Anianou
+
+Code: CI190302, Coordinates: 7.687, -3.814
+
+#### Famienkro
+
+Code: CI190303, Coordinates: 7.893, -4.065
+
+#### Koffi-Amonkro
+
+Code: CI190304, Coordinates: 7.516, -3.949
+
+#### Nafana
+
+Code: CI190305, Coordinates: 7.499, -3.699
+
+#### Prikro
+
+Code: CI190301, Coordinates: 7.669, -4.02
+

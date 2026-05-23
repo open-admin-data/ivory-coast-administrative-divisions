@@ -1,0 +1,992 @@
+[
+  {
+    "id": "CI03",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Agneby-Tiassa",
+      "en": "Agneby-Tiassa",
+      "slug": "agneby-tiassa-ci03"
+    },
+    "code": {
+      "id": "CI03",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 4,
+      "sub_prefecture": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.953",
+      "lon": "-4.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI04",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Bafing",
+      "en": "Bafing",
+      "slug": "bafing-ci04"
+    },
+    "code": {
+      "id": "CI04",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 3,
+      "sub_prefecture": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.456",
+      "lon": "-7.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI05",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Bagoue",
+      "en": "Bagoue",
+      "slug": "bagoue-ci05"
+    },
+    "code": {
+      "id": "CI05",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 3,
+      "sub_prefecture": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.903",
+      "lon": "-6.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI06",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Belier",
+      "en": "Belier",
+      "slug": "belier-ci06"
+    },
+    "code": {
+      "id": "CI06",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 4,
+      "sub_prefecture": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.223",
+      "lon": "-5.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI07",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Bere",
+      "en": "Bere",
+      "slug": "bere-ci07"
+    },
+    "code": {
+      "id": "CI07",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 3,
+      "sub_prefecture": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.377",
+      "lon": "-5.932"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI08",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Bounkani",
+      "en": "Bounkani",
+      "slug": "bounkani-ci08"
+    },
+    "code": {
+      "id": "CI08",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 4,
+      "sub_prefecture": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.078",
+      "lon": "-3.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI09",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Cavally",
+      "en": "Cavally",
+      "slug": "cavally-ci09"
+    },
+    "code": {
+      "id": "CI09",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 4,
+      "sub_prefecture": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.299",
+      "lon": "-7.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI01",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "District Autonome D'Abidjan",
+      "en": "District Autonome D'Abidjan",
+      "slug": "district-autonome-dabidjan-ci01"
+    },
+    "code": {
+      "id": "CI01",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 1,
+      "sub_prefecture": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.412",
+      "lon": "-4.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI02",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "District Autonome De Yamoussoukro",
+      "en": "District Autonome De Yamoussoukro",
+      "slug": "district-autonome-de-yamoussoukro-ci02"
+    },
+    "code": {
+      "id": "CI02",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 2,
+      "sub_prefecture": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.815",
+      "lon": "-5.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI10",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Folon",
+      "en": "Folon",
+      "slug": "folon-ci10"
+    },
+    "code": {
+      "id": "CI10",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 2,
+      "sub_prefecture": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.085",
+      "lon": "-7.466"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI11",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Gbeke",
+      "en": "Gbeke",
+      "slug": "gbeke-ci11"
+    },
+    "code": {
+      "id": "CI11",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 4,
+      "sub_prefecture": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.692",
+      "lon": "-5.099"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI12",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Gbokle",
+      "en": "Gbokle",
+      "slug": "gbokle-ci12"
+    },
+    "code": {
+      "id": "CI12",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 2,
+      "sub_prefecture": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.243",
+      "lon": "-5.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI13",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Goh",
+      "en": "Goh",
+      "slug": "goh-ci13"
+    },
+    "code": {
+      "id": "CI13",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 2,
+      "sub_prefecture": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.152",
+      "lon": "-6.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI14",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Gontougo",
+      "en": "Gontougo",
+      "slug": "gontougo-ci14"
+    },
+    "code": {
+      "id": "CI14",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 5,
+      "sub_prefecture": 29
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.921",
+      "lon": "-3.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI15",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Grands Ponts",
+      "en": "Grands Ponts",
+      "slug": "grands-ponts-ci15"
+    },
+    "code": {
+      "id": "CI15",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 3,
+      "sub_prefecture": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.455",
+      "lon": "-4.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI16",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Guemon",
+      "en": "Guemon",
+      "slug": "guemon-ci16"
+    },
+    "code": {
+      "id": "CI16",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 4,
+      "sub_prefecture": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.029",
+      "lon": "-7.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI17",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Hambol",
+      "en": "Hambol",
+      "slug": "hambol-ci17"
+    },
+    "code": {
+      "id": "CI17",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 3,
+      "sub_prefecture": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.622",
+      "lon": "-4.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI18",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Haut-Sassandra",
+      "en": "Haut-Sassandra",
+      "slug": "haut-sassandra-ci18"
+    },
+    "code": {
+      "id": "CI18",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 4,
+      "sub_prefecture": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.033",
+      "lon": "-6.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI19",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Iffou",
+      "en": "Iffou",
+      "slug": "iffou-ci19"
+    },
+    "code": {
+      "id": "CI19",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 3,
+      "sub_prefecture": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.498",
+      "lon": "-4.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI20",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Indenie-Djuablin",
+      "en": "Indenie-Djuablin",
+      "slug": "indenie-djuablin-ci20"
+    },
+    "code": {
+      "id": "CI20",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 3,
+      "sub_prefecture": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.624",
+      "lon": "-3.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI21",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Kabadougou",
+      "en": "Kabadougou",
+      "slug": "kabadougou-ci21"
+    },
+    "code": {
+      "id": "CI21",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 5,
+      "sub_prefecture": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.255",
+      "lon": "-7.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI22",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Loh-Djiboua",
+      "en": "Loh-Djiboua",
+      "slug": "loh-djiboua-ci22"
+    },
+    "code": {
+      "id": "CI22",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 3,
+      "sub_prefecture": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.714",
+      "lon": "-5.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI23",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Marahoue",
+      "en": "Marahoue",
+      "slug": "marahoue-ci23"
+    },
+    "code": {
+      "id": "CI23",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 3,
+      "sub_prefecture": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.128",
+      "lon": "-5.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI24",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Me",
+      "en": "Me",
+      "slug": "me-ci24"
+    },
+    "code": {
+      "id": "CI24",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 4,
+      "sub_prefecture": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.937",
+      "lon": "-3.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI25",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Moronou",
+      "en": "Moronou",
+      "slug": "moronou-ci25"
+    },
+    "code": {
+      "id": "CI25",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 3,
+      "sub_prefecture": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.594",
+      "lon": "-4.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI27",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "N'Zi",
+      "en": "N'Zi",
+      "slug": "nzi-ci27"
+    },
+    "code": {
+      "id": "CI27",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 3,
+      "sub_prefecture": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.021",
+      "lon": "-4.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI26",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Nawa",
+      "en": "Nawa",
+      "slug": "nawa-ci26"
+    },
+    "code": {
+      "id": "CI26",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 4,
+      "sub_prefecture": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.911",
+      "lon": "-6.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI28",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Poro",
+      "en": "Poro",
+      "slug": "poro-ci28"
+    },
+    "code": {
+      "id": "CI28",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 4,
+      "sub_prefecture": 27
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.476",
+      "lon": "-5.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI29",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "San Pedro",
+      "en": "San Pedro",
+      "slug": "san-pedro-ci29"
+    },
+    "code": {
+      "id": "CI29",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 2,
+      "sub_prefecture": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.017",
+      "lon": "-6.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI30",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Sud-Comoe",
+      "en": "Sud-Comoe",
+      "slug": "sud-comoe-ci30"
+    },
+    "code": {
+      "id": "CI30",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 4,
+      "sub_prefecture": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.661",
+      "lon": "-3.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI31",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Tchologo",
+      "en": "Tchologo",
+      "slug": "tchologo-ci31"
+    },
+    "code": {
+      "id": "CI31",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 3,
+      "sub_prefecture": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.548",
+      "lon": "-4.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI32",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Tonkpi",
+      "en": "Tonkpi",
+      "slug": "tonkpi-ci32"
+    },
+    "code": {
+      "id": "CI32",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 5,
+      "sub_prefecture": 33
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.367",
+      "lon": "-7.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI33",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Worodougou",
+      "en": "Worodougou",
+      "slug": "worodougou-ci33"
+    },
+    "code": {
+      "id": "CI33",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 2,
+      "sub_prefecture": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.428",
+      "lon": "-6.781"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

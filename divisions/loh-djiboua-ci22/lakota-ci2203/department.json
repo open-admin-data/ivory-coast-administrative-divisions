@@ -1,0 +1,47 @@
+{
+  "id": "CI2203",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Lakota",
+    "en": "Lakota",
+    "slug": "lakota-ci2203"
+  },
+  "code": {
+    "id": "CI2203",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI22",
+    "level": 1,
+    "name": {
+      "local": "Loh-Djiboua",
+      "en": "Loh-Djiboua",
+      "slug": "loh-djiboua-ci22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI22",
+      "level": 1,
+      "name": {
+        "local": "Loh-Djiboua",
+        "en": "Loh-Djiboua",
+        "slug": "loh-djiboua-ci22"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.862",
+    "lon": "-5.704"
+  },
+  "metadata": {},
+  "source": {}
+}

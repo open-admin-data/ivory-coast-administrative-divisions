@@ -1,0 +1,380 @@
+[
+  {
+    "id": "CI180202",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Boguédia",
+      "en": "Boguédia",
+      "slug": "bogudia-ci180202"
+    },
+    "code": {
+      "id": "CI180202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1802",
+      "level": 2,
+      "name": {
+        "local": "Issia",
+        "en": "Issia",
+        "slug": "issia-ci1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI18",
+        "level": 1,
+        "name": {
+          "local": "Haut-Sassandra",
+          "en": "Haut-Sassandra",
+          "slug": "haut-sassandra-ci18"
+        }
+      },
+      {
+        "id": "CI1802",
+        "level": 2,
+        "name": {
+          "local": "Issia",
+          "en": "Issia",
+          "slug": "issia-ci1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.627",
+      "lon": "-6.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI180203",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Iboguhé",
+      "en": "Iboguhé",
+      "slug": "iboguh-ci180203"
+    },
+    "code": {
+      "id": "CI180203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1802",
+      "level": 2,
+      "name": {
+        "local": "Issia",
+        "en": "Issia",
+        "slug": "issia-ci1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI18",
+        "level": 1,
+        "name": {
+          "local": "Haut-Sassandra",
+          "en": "Haut-Sassandra",
+          "slug": "haut-sassandra-ci18"
+        }
+      },
+      {
+        "id": "CI1802",
+        "level": 2,
+        "name": {
+          "local": "Issia",
+          "en": "Issia",
+          "slug": "issia-ci1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.505",
+      "lon": "-6.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI180201",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Issia",
+      "en": "Issia",
+      "slug": "issia-ci180201"
+    },
+    "code": {
+      "id": "CI180201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1802",
+      "level": 2,
+      "name": {
+        "local": "Issia",
+        "en": "Issia",
+        "slug": "issia-ci1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI18",
+        "level": 1,
+        "name": {
+          "local": "Haut-Sassandra",
+          "en": "Haut-Sassandra",
+          "slug": "haut-sassandra-ci18"
+        }
+      },
+      {
+        "id": "CI1802",
+        "level": 2,
+        "name": {
+          "local": "Issia",
+          "en": "Issia",
+          "slug": "issia-ci1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.504",
+      "lon": "-6.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI180204",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Nahio",
+      "en": "Nahio",
+      "slug": "nahio-ci180204"
+    },
+    "code": {
+      "id": "CI180204",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1802",
+      "level": 2,
+      "name": {
+        "local": "Issia",
+        "en": "Issia",
+        "slug": "issia-ci1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI18",
+        "level": 1,
+        "name": {
+          "local": "Haut-Sassandra",
+          "en": "Haut-Sassandra",
+          "slug": "haut-sassandra-ci18"
+        }
+      },
+      {
+        "id": "CI1802",
+        "level": 2,
+        "name": {
+          "local": "Issia",
+          "en": "Issia",
+          "slug": "issia-ci1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.394",
+      "lon": "-6.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI180205",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Namané",
+      "en": "Namané",
+      "slug": "naman-ci180205"
+    },
+    "code": {
+      "id": "CI180205",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1802",
+      "level": 2,
+      "name": {
+        "local": "Issia",
+        "en": "Issia",
+        "slug": "issia-ci1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI18",
+        "level": 1,
+        "name": {
+          "local": "Haut-Sassandra",
+          "en": "Haut-Sassandra",
+          "slug": "haut-sassandra-ci18"
+        }
+      },
+      {
+        "id": "CI1802",
+        "level": 2,
+        "name": {
+          "local": "Issia",
+          "en": "Issia",
+          "slug": "issia-ci1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.386",
+      "lon": "-6.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI180206",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Saïoua",
+      "en": "Saïoua",
+      "slug": "saoua-ci180206"
+    },
+    "code": {
+      "id": "CI180206",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1802",
+      "level": 2,
+      "name": {
+        "local": "Issia",
+        "en": "Issia",
+        "slug": "issia-ci1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI18",
+        "level": 1,
+        "name": {
+          "local": "Haut-Sassandra",
+          "en": "Haut-Sassandra",
+          "slug": "haut-sassandra-ci18"
+        }
+      },
+      {
+        "id": "CI1802",
+        "level": 2,
+        "name": {
+          "local": "Issia",
+          "en": "Issia",
+          "slug": "issia-ci1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.507",
+      "lon": "-6.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI180207",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tapéguia",
+      "en": "Tapéguia",
+      "slug": "tapguia-ci180207"
+    },
+    "code": {
+      "id": "CI180207",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1802",
+      "level": 2,
+      "name": {
+        "local": "Issia",
+        "en": "Issia",
+        "slug": "issia-ci1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI18",
+        "level": 1,
+        "name": {
+          "local": "Haut-Sassandra",
+          "en": "Haut-Sassandra",
+          "slug": "haut-sassandra-ci18"
+        }
+      },
+      {
+        "id": "CI1802",
+        "level": 2,
+        "name": {
+          "local": "Issia",
+          "en": "Issia",
+          "slug": "issia-ci1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.35",
+      "lon": "-6.464"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

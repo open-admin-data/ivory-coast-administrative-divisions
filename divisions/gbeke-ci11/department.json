@@ -1,0 +1,190 @@
+[
+  {
+    "id": "CI1101",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Béoumi",
+      "en": "Béoumi",
+      "slug": "boumi-ci1101"
+    },
+    "code": {
+      "id": "CI1101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI11",
+      "level": 1,
+      "name": {
+        "local": "Gbeke",
+        "en": "Gbeke",
+        "slug": "gbeke-ci11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI11",
+        "level": 1,
+        "name": {
+          "local": "Gbeke",
+          "en": "Gbeke",
+          "slug": "gbeke-ci11"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.775",
+      "lon": "-5.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI1102",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Botro",
+      "en": "Botro",
+      "slug": "botro-ci1102"
+    },
+    "code": {
+      "id": "CI1102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI11",
+      "level": 1,
+      "name": {
+        "local": "Gbeke",
+        "en": "Gbeke",
+        "slug": "gbeke-ci11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI11",
+        "level": 1,
+        "name": {
+          "local": "Gbeke",
+          "en": "Gbeke",
+          "slug": "gbeke-ci11"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.883",
+      "lon": "-5.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI1103",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Bouaké",
+      "en": "Bouaké",
+      "slug": "bouak-ci1103"
+    },
+    "code": {
+      "id": "CI1103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI11",
+      "level": 1,
+      "name": {
+        "local": "Gbeke",
+        "en": "Gbeke",
+        "slug": "gbeke-ci11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI11",
+        "level": 1,
+        "name": {
+          "local": "Gbeke",
+          "en": "Gbeke",
+          "slug": "gbeke-ci11"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.682",
+      "lon": "-4.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI1104",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Sakassou",
+      "en": "Sakassou",
+      "slug": "sakassou-ci1104"
+    },
+    "code": {
+      "id": "CI1104",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI11",
+      "level": 1,
+      "name": {
+        "local": "Gbeke",
+        "en": "Gbeke",
+        "slug": "gbeke-ci11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI11",
+        "level": 1,
+        "name": {
+          "local": "Gbeke",
+          "en": "Gbeke",
+          "slug": "gbeke-ci11"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.442",
+      "lon": "-5.33"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

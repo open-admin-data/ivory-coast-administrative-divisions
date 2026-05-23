@@ -1,0 +1,30 @@
+{
+  "id": "CI27",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "N'Zi",
+    "en": "N'Zi",
+    "slug": "nzi-ci27"
+  },
+  "code": {
+    "id": "CI27",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 3,
+    "sub_prefecture": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.021",
+    "lon": "-4.452"
+  },
+  "metadata": {},
+  "source": {}
+}

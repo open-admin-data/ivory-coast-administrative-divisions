@@ -1,0 +1,47 @@
+{
+  "id": "CI2105",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Séguélon",
+    "en": "Séguélon",
+    "slug": "sgulon-ci2105"
+  },
+  "code": {
+    "id": "CI2105",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI21",
+    "level": 1,
+    "name": {
+      "local": "Kabadougou",
+      "en": "Kabadougou",
+      "slug": "kabadougou-ci21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI21",
+      "level": 1,
+      "name": {
+        "local": "Kabadougou",
+        "en": "Kabadougou",
+        "slug": "kabadougou-ci21"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.245",
+    "lon": "-6.959"
+  },
+  "metadata": {},
+  "source": {}
+}

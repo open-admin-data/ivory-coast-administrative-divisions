@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CI150101",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dabou",
+      "en": "Dabou",
+      "slug": "dabou-ci150101"
+    },
+    "code": {
+      "id": "CI150101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1501",
+      "level": 2,
+      "name": {
+        "local": "Dabou",
+        "en": "Dabou",
+        "slug": "dabou-ci1501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI15",
+        "level": 1,
+        "name": {
+          "local": "Grands Ponts",
+          "en": "Grands Ponts",
+          "slug": "grands-ponts-ci15"
+        }
+      },
+      {
+        "id": "CI1501",
+        "level": 2,
+        "name": {
+          "local": "Dabou",
+          "en": "Dabou",
+          "slug": "dabou-ci1501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.379",
+      "lon": "-4.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI150102",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Lopou",
+      "en": "Lopou",
+      "slug": "lopou-ci150102"
+    },
+    "code": {
+      "id": "CI150102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1501",
+      "level": 2,
+      "name": {
+        "local": "Dabou",
+        "en": "Dabou",
+        "slug": "dabou-ci1501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI15",
+        "level": 1,
+        "name": {
+          "local": "Grands Ponts",
+          "en": "Grands Ponts",
+          "slug": "grands-ponts-ci15"
+        }
+      },
+      {
+        "id": "CI1501",
+        "level": 2,
+        "name": {
+          "local": "Dabou",
+          "en": "Dabou",
+          "slug": "dabou-ci1501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.457",
+      "lon": "-4.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI150103",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Toupah",
+      "en": "Toupah",
+      "slug": "toupah-ci150103"
+    },
+    "code": {
+      "id": "CI150103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1501",
+      "level": 2,
+      "name": {
+        "local": "Dabou",
+        "en": "Dabou",
+        "slug": "dabou-ci1501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI15",
+        "level": 1,
+        "name": {
+          "local": "Grands Ponts",
+          "en": "Grands Ponts",
+          "slug": "grands-ponts-ci15"
+        }
+      },
+      {
+        "id": "CI1501",
+        "level": 2,
+        "name": {
+          "local": "Dabou",
+          "en": "Dabou",
+          "slug": "dabou-ci1501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.401",
+      "lon": "-4.672"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

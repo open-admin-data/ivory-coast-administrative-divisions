@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CI040302",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dioman",
+      "en": "Dioman",
+      "slug": "dioman-ci040302"
+    },
+    "code": {
+      "id": "CI040302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0403",
+      "level": 2,
+      "name": {
+        "local": "Touba",
+        "en": "Touba",
+        "slug": "touba-ci0403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI04",
+        "level": 1,
+        "name": {
+          "local": "Bafing",
+          "en": "Bafing",
+          "slug": "bafing-ci04"
+        }
+      },
+      {
+        "id": "CI0403",
+        "level": 2,
+        "name": {
+          "local": "Touba",
+          "en": "Touba",
+          "slug": "touba-ci0403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.126",
+      "lon": "-7.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI040303",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Foungbesso",
+      "en": "Foungbesso",
+      "slug": "foungbesso-ci040303"
+    },
+    "code": {
+      "id": "CI040303",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0403",
+      "level": 2,
+      "name": {
+        "local": "Touba",
+        "en": "Touba",
+        "slug": "touba-ci0403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI04",
+        "level": 1,
+        "name": {
+          "local": "Bafing",
+          "en": "Bafing",
+          "slug": "bafing-ci04"
+        }
+      },
+      {
+        "id": "CI0403",
+        "level": 2,
+        "name": {
+          "local": "Touba",
+          "en": "Touba",
+          "slug": "touba-ci0403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.986",
+      "lon": "-7.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI040304",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Guintéguéla",
+      "en": "Guintéguéla",
+      "slug": "guintgula-ci040304"
+    },
+    "code": {
+      "id": "CI040304",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0403",
+      "level": 2,
+      "name": {
+        "local": "Touba",
+        "en": "Touba",
+        "slug": "touba-ci0403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI04",
+        "level": 1,
+        "name": {
+          "local": "Bafing",
+          "en": "Bafing",
+          "slug": "bafing-ci04"
+        }
+      },
+      {
+        "id": "CI0403",
+        "level": 2,
+        "name": {
+          "local": "Touba",
+          "en": "Touba",
+          "slug": "touba-ci0403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.232",
+      "lon": "-7.257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI040301",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Touba",
+      "en": "Touba",
+      "slug": "touba-ci040301"
+    },
+    "code": {
+      "id": "CI040301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0403",
+      "level": 2,
+      "name": {
+        "local": "Touba",
+        "en": "Touba",
+        "slug": "touba-ci0403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI04",
+        "level": 1,
+        "name": {
+          "local": "Bafing",
+          "en": "Bafing",
+          "slug": "bafing-ci04"
+        }
+      },
+      {
+        "id": "CI0403",
+        "level": 2,
+        "name": {
+          "local": "Touba",
+          "en": "Touba",
+          "slug": "touba-ci0403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.27",
+      "lon": "-7.572"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

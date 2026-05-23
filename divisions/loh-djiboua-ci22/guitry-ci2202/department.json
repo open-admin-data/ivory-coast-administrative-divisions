@@ -1,0 +1,47 @@
+{
+  "id": "CI2202",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Guitry",
+    "en": "Guitry",
+    "slug": "guitry-ci2202"
+  },
+  "code": {
+    "id": "CI2202",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI22",
+    "level": 1,
+    "name": {
+      "local": "Loh-Djiboua",
+      "en": "Loh-Djiboua",
+      "slug": "loh-djiboua-ci22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI22",
+      "level": 1,
+      "name": {
+        "local": "Loh-Djiboua",
+        "en": "Loh-Djiboua",
+        "slug": "loh-djiboua-ci22"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.432",
+    "lon": "-5.231"
+  },
+  "metadata": {},
+  "source": {}
+}

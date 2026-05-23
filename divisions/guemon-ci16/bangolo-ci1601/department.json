@@ -1,0 +1,47 @@
+{
+  "id": "CI1601",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Bangolo",
+    "en": "Bangolo",
+    "slug": "bangolo-ci1601"
+  },
+  "code": {
+    "id": "CI1601",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI16",
+    "level": 1,
+    "name": {
+      "local": "Guemon",
+      "en": "Guemon",
+      "slug": "guemon-ci16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI16",
+      "level": 1,
+      "name": {
+        "local": "Guemon",
+        "en": "Guemon",
+        "slug": "guemon-ci16"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.056",
+    "lon": "-7.292"
+  },
+  "metadata": {},
+  "source": {}
+}

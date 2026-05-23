@@ -1,0 +1,190 @@
+[
+  {
+    "id": "CI2801",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Dikodougou",
+      "en": "Dikodougou",
+      "slug": "dikodougou-ci2801"
+    },
+    "code": {
+      "id": "CI2801",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI28",
+      "level": 1,
+      "name": {
+        "local": "Poro",
+        "en": "Poro",
+        "slug": "poro-ci28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI28",
+        "level": 1,
+        "name": {
+          "local": "Poro",
+          "en": "Poro",
+          "slug": "poro-ci28"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.949",
+      "lon": "-5.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI2802",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Korhogo",
+      "en": "Korhogo",
+      "slug": "korhogo-ci2802"
+    },
+    "code": {
+      "id": "CI2802",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI28",
+      "level": 1,
+      "name": {
+        "local": "Poro",
+        "en": "Poro",
+        "slug": "poro-ci28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI28",
+        "level": 1,
+        "name": {
+          "local": "Poro",
+          "en": "Poro",
+          "slug": "poro-ci28"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.308",
+      "lon": "-5.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI2803",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "M'Bengué",
+      "en": "M'Bengué",
+      "slug": "mbengu-ci2803"
+    },
+    "code": {
+      "id": "CI2803",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI28",
+      "level": 1,
+      "name": {
+        "local": "Poro",
+        "en": "Poro",
+        "slug": "poro-ci28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI28",
+        "level": 1,
+        "name": {
+          "local": "Poro",
+          "en": "Poro",
+          "slug": "poro-ci28"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.06",
+      "lon": "-6.002"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI2804",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Sinématiali",
+      "en": "Sinématiali",
+      "slug": "sinmatiali-ci2804"
+    },
+    "code": {
+      "id": "CI2804",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI28",
+      "level": 1,
+      "name": {
+        "local": "Poro",
+        "en": "Poro",
+        "slug": "poro-ci28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI28",
+        "level": 1,
+        "name": {
+          "local": "Poro",
+          "en": "Poro",
+          "slug": "poro-ci28"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.538",
+      "lon": "-5.396"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "id": "CI050202",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Blességué",
+      "en": "Blességué",
+      "slug": "blessgu-ci050202"
+    },
+    "code": {
+      "id": "CI050202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0502",
+      "level": 2,
+      "name": {
+        "local": "Kouto",
+        "en": "Kouto",
+        "slug": "kouto-ci0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI05",
+        "level": 1,
+        "name": {
+          "local": "Bagoue",
+          "en": "Bagoue",
+          "slug": "bagoue-ci05"
+        }
+      },
+      {
+        "id": "CI0502",
+        "level": 2,
+        "name": {
+          "local": "Kouto",
+          "en": "Kouto",
+          "slug": "kouto-ci0502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.161",
+      "lon": "-6.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI050203",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gbon",
+      "en": "Gbon",
+      "slug": "gbon-ci050203"
+    },
+    "code": {
+      "id": "CI050203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0502",
+      "level": 2,
+      "name": {
+        "local": "Kouto",
+        "en": "Kouto",
+        "slug": "kouto-ci0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI05",
+        "level": 1,
+        "name": {
+          "local": "Bagoue",
+          "en": "Bagoue",
+          "slug": "bagoue-ci05"
+        }
+      },
+      {
+        "id": "CI0502",
+        "level": 2,
+        "name": {
+          "local": "Kouto",
+          "en": "Kouto",
+          "slug": "kouto-ci0502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.001",
+      "lon": "-6.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI050204",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kolia",
+      "en": "Kolia",
+      "slug": "kolia-ci050204"
+    },
+    "code": {
+      "id": "CI050204",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0502",
+      "level": 2,
+      "name": {
+        "local": "Kouto",
+        "en": "Kouto",
+        "slug": "kouto-ci0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI05",
+        "level": 1,
+        "name": {
+          "local": "Bagoue",
+          "en": "Bagoue",
+          "slug": "bagoue-ci05"
+        }
+      },
+      {
+        "id": "CI0502",
+        "level": 2,
+        "name": {
+          "local": "Kouto",
+          "en": "Kouto",
+          "slug": "kouto-ci0502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.74",
+      "lon": "-6.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI050201",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kouto",
+      "en": "Kouto",
+      "slug": "kouto-ci050201"
+    },
+    "code": {
+      "id": "CI050201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0502",
+      "level": 2,
+      "name": {
+        "local": "Kouto",
+        "en": "Kouto",
+        "slug": "kouto-ci0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI05",
+        "level": 1,
+        "name": {
+          "local": "Bagoue",
+          "en": "Bagoue",
+          "slug": "bagoue-ci05"
+        }
+      },
+      {
+        "id": "CI0502",
+        "level": 2,
+        "name": {
+          "local": "Kouto",
+          "en": "Kouto",
+          "slug": "kouto-ci0502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.991",
+      "lon": "-6.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI050205",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sianhala",
+      "en": "Sianhala",
+      "slug": "sianhala-ci050205"
+    },
+    "code": {
+      "id": "CI050205",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0502",
+      "level": 2,
+      "name": {
+        "local": "Kouto",
+        "en": "Kouto",
+        "slug": "kouto-ci0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI05",
+        "level": 1,
+        "name": {
+          "local": "Bagoue",
+          "en": "Bagoue",
+          "slug": "bagoue-ci05"
+        }
+      },
+      {
+        "id": "CI0502",
+        "level": 2,
+        "name": {
+          "local": "Kouto",
+          "en": "Kouto",
+          "slug": "kouto-ci0502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.992",
+      "lon": "-6.784"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

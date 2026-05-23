@@ -1,0 +1,150 @@
+# Gontougo — Ivory Coast Administrative Divisions
+
+> 5 departments, 29 sub-prefectures
+> Code: CI14
+> Coordinates: 7.921, -3.369
+> Last updated: 2026-05-23. License: CC-BY-4.0.
+
+## Departments
+
+### Bondoukou
+
+Code: CI1401, Coordinates: 8.278, -2.963
+Sub-prefectures: 12
+
+#### Appimadoum
+
+Code: CI140101, Coordinates: 7.869, -2.879
+
+#### Bondo
+
+Code: CI140102, Coordinates: 8.28, -3.277
+
+#### Bondoukou
+
+Code: CI140103, Coordinates: 8.065, -2.787
+
+#### Gouméré
+
+Code: CI140104, Coordinates: 7.959, -2.978
+
+#### Laoudi-Ba
+
+Code: CI140105, Coordinates: 8.438, -3.084
+
+#### Pinda-Boroko
+
+Code: CI140106, Coordinates: 7.907, -2.819
+
+#### Sapli-Sépingo
+
+Code: CI140107, Coordinates: 8.174, -3.044
+
+#### Sorobango
+
+Code: CI140108, Coordinates: 8.268, -2.699
+
+#### Tabagne
+
+Code: CI140109, Coordinates: 8.067, -3.073
+
+#### Tagadi
+
+Code: CI140110, Coordinates: 8.55, -2.724
+
+#### Taoudi
+
+Code: CI140111, Coordinates: 8.137, -3.344
+
+#### Yézimala
+
+Code: CI140112, Coordinates: 8.213, -2.966
+
+### Koun Fao
+
+Code: CI1402, Coordinates: 7.509, -3.376
+Sub-prefectures: 6
+
+#### Boahia
+
+Code: CI140202, Coordinates: 7.576, -3.489
+
+#### Kokomian
+
+Code: CI140203, Coordinates: 7.288, -3.041
+
+#### Kouassi-Datékro
+
+Code: CI140204, Coordinates: 7.789, -3.641
+
+#### Koun-Fao
+
+Code: CI140201, Coordinates: 7.518, -3.345
+
+#### Tankessé
+
+Code: CI140205, Coordinates: 7.295, -3.173
+
+#### Tienkoikro
+
+Code: CI140206, Coordinates: 7.157, -3.092
+
+### Sandegue
+
+Code: CI1403, Coordinates: 8.117, -3.716
+Sub-prefectures: 4
+
+#### Bandakagni-Tomora
+
+Code: CI140302, Coordinates: 7.97, -3.415
+
+#### Dimandougou
+
+Code: CI140303, Coordinates: 7.948, -3.787
+
+#### Sandégué
+
+Code: CI140301, Coordinates: 8.103, -3.58
+
+#### Yorobodi
+
+Code: CI140304, Coordinates: 8.197, -3.874
+
+### Tanda
+
+Code: CI1404, Coordinates: 7.853, -3.153
+Sub-prefectures: 4
+
+#### Amanvi
+
+Code: CI140402, Coordinates: 7.967, -3.147
+
+#### Diamba
+
+Code: CI140403, Coordinates: 7.757, -3.329
+
+#### Tanda
+
+Code: CI140401, Coordinates: 7.789, -3.123
+
+#### Tchèdio
+
+Code: CI140404, Coordinates: 7.944, -3.303
+
+### Transua
+
+Code: CI1405, Coordinates: 7.576, -3.043
+Sub-prefectures: 3
+
+#### Assuéfry
+
+Code: CI140502, Coordinates: 7.711, -2.958
+
+#### Kouassia-Niaguini
+
+Code: CI140503, Coordinates: 7.388, -3.023
+
+#### Transua
+
+Code: CI140501, Coordinates: 7.56, -3.04
+

@@ -1,0 +1,326 @@
+[
+  {
+    "id": "CI120202",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dakpadou",
+      "en": "Dakpadou",
+      "slug": "dakpadou-ci120202"
+    },
+    "code": {
+      "id": "CI120202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1202",
+      "level": 2,
+      "name": {
+        "local": "Sassandra",
+        "en": "Sassandra",
+        "slug": "sassandra-ci1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI12",
+        "level": 1,
+        "name": {
+          "local": "Gbokle",
+          "en": "Gbokle",
+          "slug": "gbokle-ci12"
+        }
+      },
+      {
+        "id": "CI1202",
+        "level": 2,
+        "name": {
+          "local": "Sassandra",
+          "en": "Sassandra",
+          "slug": "sassandra-ci1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.23",
+      "lon": "-6.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI120203",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Grihiri",
+      "en": "Grihiri",
+      "slug": "grihiri-ci120203"
+    },
+    "code": {
+      "id": "CI120203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1202",
+      "level": 2,
+      "name": {
+        "local": "Sassandra",
+        "en": "Sassandra",
+        "slug": "sassandra-ci1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI12",
+        "level": 1,
+        "name": {
+          "local": "Gbokle",
+          "en": "Gbokle",
+          "slug": "gbokle-ci12"
+        }
+      },
+      {
+        "id": "CI1202",
+        "level": 2,
+        "name": {
+          "local": "Sassandra",
+          "en": "Sassandra",
+          "slug": "sassandra-ci1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.458",
+      "lon": "-6.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI120204",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Lobakuya",
+      "en": "Lobakuya",
+      "slug": "lobakuya-ci120204"
+    },
+    "code": {
+      "id": "CI120204",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1202",
+      "level": 2,
+      "name": {
+        "local": "Sassandra",
+        "en": "Sassandra",
+        "slug": "sassandra-ci1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI12",
+        "level": 1,
+        "name": {
+          "local": "Gbokle",
+          "en": "Gbokle",
+          "slug": "gbokle-ci12"
+        }
+      },
+      {
+        "id": "CI1202",
+        "level": 2,
+        "name": {
+          "local": "Sassandra",
+          "en": "Sassandra",
+          "slug": "sassandra-ci1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.176",
+      "lon": "-6.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI120205",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Medon",
+      "en": "Medon",
+      "slug": "medon-ci120205"
+    },
+    "code": {
+      "id": "CI120205",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1202",
+      "level": 2,
+      "name": {
+        "local": "Sassandra",
+        "en": "Sassandra",
+        "slug": "sassandra-ci1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI12",
+        "level": 1,
+        "name": {
+          "local": "Gbokle",
+          "en": "Gbokle",
+          "slug": "gbokle-ci12"
+        }
+      },
+      {
+        "id": "CI1202",
+        "level": 2,
+        "name": {
+          "local": "Sassandra",
+          "en": "Sassandra",
+          "slug": "sassandra-ci1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.186",
+      "lon": "-6.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI120206",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sago",
+      "en": "Sago",
+      "slug": "sago-ci120206"
+    },
+    "code": {
+      "id": "CI120206",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1202",
+      "level": 2,
+      "name": {
+        "local": "Sassandra",
+        "en": "Sassandra",
+        "slug": "sassandra-ci1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI12",
+        "level": 1,
+        "name": {
+          "local": "Gbokle",
+          "en": "Gbokle",
+          "slug": "gbokle-ci12"
+        }
+      },
+      {
+        "id": "CI1202",
+        "level": 2,
+        "name": {
+          "local": "Sassandra",
+          "en": "Sassandra",
+          "slug": "sassandra-ci1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.323",
+      "lon": "-5.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI120201",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sassandra",
+      "en": "Sassandra",
+      "slug": "sassandra-ci120201"
+    },
+    "code": {
+      "id": "CI120201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1202",
+      "level": 2,
+      "name": {
+        "local": "Sassandra",
+        "en": "Sassandra",
+        "slug": "sassandra-ci1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI12",
+        "level": 1,
+        "name": {
+          "local": "Gbokle",
+          "en": "Gbokle",
+          "slug": "gbokle-ci12"
+        }
+      },
+      {
+        "id": "CI1202",
+        "level": 2,
+        "name": {
+          "local": "Sassandra",
+          "en": "Sassandra",
+          "slug": "sassandra-ci1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.992",
+      "lon": "-6.16"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

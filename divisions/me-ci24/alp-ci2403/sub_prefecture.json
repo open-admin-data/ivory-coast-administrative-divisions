@@ -1,0 +1,272 @@
+[
+  {
+    "id": "CI240301",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Aboisso-Comoé",
+      "en": "Aboisso-Comoé",
+      "slug": "aboisso-como-ci240301"
+    },
+    "code": {
+      "id": "CI240301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2403",
+      "level": 2,
+      "name": {
+        "local": "Alépé",
+        "en": "Alépé",
+        "slug": "alp-ci2403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI24",
+        "level": 1,
+        "name": {
+          "local": "Me",
+          "en": "Me",
+          "slug": "me-ci24"
+        }
+      },
+      {
+        "id": "CI2403",
+        "level": 2,
+        "name": {
+          "local": "Alépé",
+          "en": "Alépé",
+          "slug": "alp-ci2403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.684",
+      "lon": "-3.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI240302",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Alépé",
+      "en": "Alépé",
+      "slug": "alp-ci240302"
+    },
+    "code": {
+      "id": "CI240302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2403",
+      "level": 2,
+      "name": {
+        "local": "Alépé",
+        "en": "Alépé",
+        "slug": "alp-ci2403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI24",
+        "level": 1,
+        "name": {
+          "local": "Me",
+          "en": "Me",
+          "slug": "me-ci24"
+        }
+      },
+      {
+        "id": "CI2403",
+        "level": 2,
+        "name": {
+          "local": "Alépé",
+          "en": "Alépé",
+          "slug": "alp-ci2403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.531",
+      "lon": "-3.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI240303",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Allosso",
+      "en": "Allosso",
+      "slug": "allosso-ci240303"
+    },
+    "code": {
+      "id": "CI240303",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2403",
+      "level": 2,
+      "name": {
+        "local": "Alépé",
+        "en": "Alépé",
+        "slug": "alp-ci2403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI24",
+        "level": 1,
+        "name": {
+          "local": "Me",
+          "en": "Me",
+          "slug": "me-ci24"
+        }
+      },
+      {
+        "id": "CI2403",
+        "level": 2,
+        "name": {
+          "local": "Alépé",
+          "en": "Alépé",
+          "slug": "alp-ci2403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.6",
+      "lon": "-3.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI240304",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Danguira",
+      "en": "Danguira",
+      "slug": "danguira-ci240304"
+    },
+    "code": {
+      "id": "CI240304",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2403",
+      "level": 2,
+      "name": {
+        "local": "Alépé",
+        "en": "Alépé",
+        "slug": "alp-ci2403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI24",
+        "level": 1,
+        "name": {
+          "local": "Me",
+          "en": "Me",
+          "slug": "me-ci24"
+        }
+      },
+      {
+        "id": "CI2403",
+        "level": 2,
+        "name": {
+          "local": "Alépé",
+          "en": "Alépé",
+          "slug": "alp-ci2403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.704",
+      "lon": "-3.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI240305",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Oghlwapo",
+      "en": "Oghlwapo",
+      "slug": "oghlwapo-ci240305"
+    },
+    "code": {
+      "id": "CI240305",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2403",
+      "level": 2,
+      "name": {
+        "local": "Alépé",
+        "en": "Alépé",
+        "slug": "alp-ci2403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI24",
+        "level": 1,
+        "name": {
+          "local": "Me",
+          "en": "Me",
+          "slug": "me-ci24"
+        }
+      },
+      {
+        "id": "CI2403",
+        "level": 2,
+        "name": {
+          "local": "Alépé",
+          "en": "Alépé",
+          "slug": "alp-ci2403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.365",
+      "lon": "-3.675"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

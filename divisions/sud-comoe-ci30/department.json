@@ -1,0 +1,190 @@
+[
+  {
+    "id": "CI3001",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Aboisso",
+      "en": "Aboisso",
+      "slug": "aboisso-ci3001"
+    },
+    "code": {
+      "id": "CI3001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI30",
+      "level": 1,
+      "name": {
+        "local": "Sud-Comoe",
+        "en": "Sud-Comoe",
+        "slug": "sud-comoe-ci30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI30",
+        "level": 1,
+        "name": {
+          "local": "Sud-Comoe",
+          "en": "Sud-Comoe",
+          "slug": "sud-comoe-ci30"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.712",
+      "lon": "-3.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI3002",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Adiaké",
+      "en": "Adiaké",
+      "slug": "adiak-ci3002"
+    },
+    "code": {
+      "id": "CI3002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI30",
+      "level": 1,
+      "name": {
+        "local": "Sud-Comoe",
+        "en": "Sud-Comoe",
+        "slug": "sud-comoe-ci30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI30",
+        "level": 1,
+        "name": {
+          "local": "Sud-Comoe",
+          "en": "Sud-Comoe",
+          "slug": "sud-comoe-ci30"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.233",
+      "lon": "-3.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI3003",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Grand-Bassam",
+      "en": "Grand-Bassam",
+      "slug": "grand-bassam-ci3003"
+    },
+    "code": {
+      "id": "CI3003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI30",
+      "level": 1,
+      "name": {
+        "local": "Sud-Comoe",
+        "en": "Sud-Comoe",
+        "slug": "sud-comoe-ci30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI30",
+        "level": 1,
+        "name": {
+          "local": "Sud-Comoe",
+          "en": "Sud-Comoe",
+          "slug": "sud-comoe-ci30"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.379",
+      "lon": "-3.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI3004",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Tiapoum",
+      "en": "Tiapoum",
+      "slug": "tiapoum-ci3004"
+    },
+    "code": {
+      "id": "CI3004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI30",
+      "level": 1,
+      "name": {
+        "local": "Sud-Comoe",
+        "en": "Sud-Comoe",
+        "slug": "sud-comoe-ci30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI30",
+        "level": 1,
+        "name": {
+          "local": "Sud-Comoe",
+          "en": "Sud-Comoe",
+          "slug": "sud-comoe-ci30"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.245",
+      "lon": "-2.871"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

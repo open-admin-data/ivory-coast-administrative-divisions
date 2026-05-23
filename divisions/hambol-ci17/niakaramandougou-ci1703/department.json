@@ -1,0 +1,47 @@
+{
+  "id": "CI1703",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Niakaramandougou",
+    "en": "Niakaramandougou",
+    "slug": "niakaramandougou-ci1703"
+  },
+  "code": {
+    "id": "CI1703",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI17",
+    "level": 1,
+    "name": {
+      "local": "Hambol",
+      "en": "Hambol",
+      "slug": "hambol-ci17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI17",
+      "level": 1,
+      "name": {
+        "local": "Hambol",
+        "en": "Hambol",
+        "slug": "hambol-ci17"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.881",
+    "lon": "-5.21"
+  },
+  "metadata": {},
+  "source": {}
+}

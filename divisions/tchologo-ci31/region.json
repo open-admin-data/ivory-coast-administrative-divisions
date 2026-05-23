@@ -1,0 +1,30 @@
+{
+  "id": "CI31",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Tchologo",
+    "en": "Tchologo",
+    "slug": "tchologo-ci31"
+  },
+  "code": {
+    "id": "CI31",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 3,
+    "sub_prefecture": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.548",
+    "lon": "-4.783"
+  },
+  "metadata": {},
+  "source": {}
+}

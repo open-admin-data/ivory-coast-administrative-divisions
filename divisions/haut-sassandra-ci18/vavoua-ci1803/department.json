@@ -1,0 +1,47 @@
+{
+  "id": "CI1803",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Vavoua",
+    "en": "Vavoua",
+    "slug": "vavoua-ci1803"
+  },
+  "code": {
+    "id": "CI1803",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI18",
+    "level": 1,
+    "name": {
+      "local": "Haut-Sassandra",
+      "en": "Haut-Sassandra",
+      "slug": "haut-sassandra-ci18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI18",
+      "level": 1,
+      "name": {
+        "local": "Haut-Sassandra",
+        "en": "Haut-Sassandra",
+        "slug": "haut-sassandra-ci18"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.423",
+    "lon": "-6.695"
+  },
+  "metadata": {},
+  "source": {}
+}

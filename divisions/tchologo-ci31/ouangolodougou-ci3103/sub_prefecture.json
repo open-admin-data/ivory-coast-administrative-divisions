@@ -1,0 +1,272 @@
+[
+  {
+    "id": "CI310302",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Diawala",
+      "en": "Diawala",
+      "slug": "diawala-ci310302"
+    },
+    "code": {
+      "id": "CI310302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3103",
+      "level": 2,
+      "name": {
+        "local": "Ouangolodougou",
+        "en": "Ouangolodougou",
+        "slug": "ouangolodougou-ci3103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI31",
+        "level": 1,
+        "name": {
+          "local": "Tchologo",
+          "en": "Tchologo",
+          "slug": "tchologo-ci31"
+        }
+      },
+      {
+        "id": "CI3103",
+        "level": 2,
+        "name": {
+          "local": "Ouangolodougou",
+          "en": "Ouangolodougou",
+          "slug": "ouangolodougou-ci3103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.047",
+      "lon": "-5.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI310303",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kaouara",
+      "en": "Kaouara",
+      "slug": "kaouara-ci310303"
+    },
+    "code": {
+      "id": "CI310303",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3103",
+      "level": 2,
+      "name": {
+        "local": "Ouangolodougou",
+        "en": "Ouangolodougou",
+        "slug": "ouangolodougou-ci3103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI31",
+        "level": 1,
+        "name": {
+          "local": "Tchologo",
+          "en": "Tchologo",
+          "slug": "tchologo-ci31"
+        }
+      },
+      {
+        "id": "CI3103",
+        "level": 2,
+        "name": {
+          "local": "Ouangolodougou",
+          "en": "Ouangolodougou",
+          "slug": "ouangolodougou-ci3103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.19",
+      "lon": "-5.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI310304",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Niellé",
+      "en": "Niellé",
+      "slug": "niell-ci310304"
+    },
+    "code": {
+      "id": "CI310304",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3103",
+      "level": 2,
+      "name": {
+        "local": "Ouangolodougou",
+        "en": "Ouangolodougou",
+        "slug": "ouangolodougou-ci3103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI31",
+        "level": 1,
+        "name": {
+          "local": "Tchologo",
+          "en": "Tchologo",
+          "slug": "tchologo-ci31"
+        }
+      },
+      {
+        "id": "CI3103",
+        "level": 2,
+        "name": {
+          "local": "Ouangolodougou",
+          "en": "Ouangolodougou",
+          "slug": "ouangolodougou-ci3103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.206",
+      "lon": "-5.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI310301",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ouangolodougou",
+      "en": "Ouangolodougou",
+      "slug": "ouangolodougou-ci310301"
+    },
+    "code": {
+      "id": "CI310301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3103",
+      "level": 2,
+      "name": {
+        "local": "Ouangolodougou",
+        "en": "Ouangolodougou",
+        "slug": "ouangolodougou-ci3103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI31",
+        "level": 1,
+        "name": {
+          "local": "Tchologo",
+          "en": "Tchologo",
+          "slug": "tchologo-ci31"
+        }
+      },
+      {
+        "id": "CI3103",
+        "level": 2,
+        "name": {
+          "local": "Ouangolodougou",
+          "en": "Ouangolodougou",
+          "slug": "ouangolodougou-ci3103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.996",
+      "lon": "-5.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI310305",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Toumoukoro",
+      "en": "Toumoukoro",
+      "slug": "toumoukoro-ci310305"
+    },
+    "code": {
+      "id": "CI310305",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3103",
+      "level": 2,
+      "name": {
+        "local": "Ouangolodougou",
+        "en": "Ouangolodougou",
+        "slug": "ouangolodougou-ci3103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI31",
+        "level": 1,
+        "name": {
+          "local": "Tchologo",
+          "en": "Tchologo",
+          "slug": "tchologo-ci31"
+        }
+      },
+      {
+        "id": "CI3103",
+        "level": 2,
+        "name": {
+          "local": "Ouangolodougou",
+          "en": "Ouangolodougou",
+          "slug": "ouangolodougou-ci3103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.356",
+      "lon": "-5.662"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,4 @@
+id,name.local,name.en,name.slug,code.id,children_count.sub_prefecture,geo.lat,geo.lon
+CI0401,Koro,Koro,koro-ci0401,CI0401,5,8.713,-7.552
+CI0402,Ouaninou,Ouaninou,ouaninou-ci0402,CI0402,6,8.22,-7.985
+CI0403,Touba,Touba,touba-ci0403,CI0403,4,8.164,-7.41

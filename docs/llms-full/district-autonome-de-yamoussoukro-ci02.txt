@@ -1,0 +1,35 @@
+# District Autonome De Yamoussoukro — Ivory Coast Administrative Divisions
+
+> 2 departments, 4 sub-prefectures
+> Code: CI02
+> Coordinates: 6.815, -5.222
+> Last updated: 2026-05-23. License: CC-BY-4.0.
+
+## Departments
+
+### Attiégouakro
+
+Code: CI0201, Coordinates: 6.891, -5.118
+Sub-prefectures: 2
+
+#### Attiégouakro
+
+Code: CI020101, Coordinates: 6.805, -5.073
+
+#### Lolobo
+
+Code: CI020102, Coordinates: 6.966, -5.161
+
+### Yamoussoukro
+
+Code: CI0202, Coordinates: 6.808, -5.333
+Sub-prefectures: 2
+
+#### Kossou
+
+Code: CI020202, Coordinates: 6.928, -5.427
+
+#### Yamoussoukro
+
+Code: CI020201, Coordinates: 6.757, -5.31
+

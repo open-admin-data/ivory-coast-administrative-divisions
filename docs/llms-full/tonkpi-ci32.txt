@@ -1,0 +1,166 @@
+# Tonkpi — Ivory Coast Administrative Divisions
+
+> 5 departments, 33 sub-prefectures
+> Code: CI32
+> Coordinates: 7.367, -7.944
+> Last updated: 2026-05-23. License: CC-BY-4.0.
+
+## Departments
+
+### Biankouma
+
+Code: CI3201, Coordinates: 7.762, -7.445
+Sub-prefectures: 7
+
+#### Biankouma
+
+Code: CI320101, Coordinates: 7.718, -7.681
+
+#### Blapleu
+
+Code: CI320102, Coordinates: 7.596, -7.74
+
+#### Gbangbégouiné
+
+Code: CI320103, Coordinates: 7.674, -7.492
+
+#### Gbonné
+
+Code: CI320104, Coordinates: 7.658, -7.338
+
+#### Gouiné
+
+Code: CI320105, Coordinates: 7.925, -7.29
+
+#### Kpata
+
+Code: CI320106, Coordinates: 7.783, -7.518
+
+#### Santa
+
+Code: CI320107, Coordinates: 7.553, -7.9
+
+### Danané
+
+Code: CI3202, Coordinates: 7.37, -8.181
+Sub-prefectures: 7
+
+#### Daleu
+
+Code: CI320201, Coordinates: 7.576, -8.072
+
+#### Danané
+
+Code: CI320202, Coordinates: 7.303, -8.164
+
+#### Gbon-Houyé
+
+Code: CI320203, Coordinates: 7.453, -8.372
+
+#### Kouan-Houlé
+
+Code: CI320204, Coordinates: 7.432, -8.25
+
+#### Mahapleu
+
+Code: CI320205, Coordinates: 7.207, -7.904
+
+#### Seileu
+
+Code: CI320206, Coordinates: 7.127, -8.193
+
+#### Zonneu
+
+Code: CI320207, Coordinates: 7.1, -8.015
+
+### Man
+
+Code: CI3203, Coordinates: 7.336, -7.71
+Sub-prefectures: 11
+
+#### Bogouiné
+
+Code: CI320302, Coordinates: 7.243, -7.606
+
+#### Fagnampleu
+
+Code: CI320303, Coordinates: 7.458, -7.445
+
+#### Gbangbegouiné-Yati
+
+Code: CI320304, Coordinates: 7.386, -7.694
+
+#### Logoualé
+
+Code: CI320305, Coordinates: 7.131, -7.543
+
+#### Man
+
+Code: CI320301, Coordinates: 7.43, -7.549
+
+#### Podiagouiné
+
+Code: CI320306, Coordinates: 7.125, -7.793
+
+#### Sandougou-Soba
+
+Code: CI320307, Coordinates: 7.584, -7.525
+
+#### Sangouiné
+
+Code: CI320308, Coordinates: 7.37, -7.857
+
+#### Yapleu
+
+Code: CI320309, Coordinates: 7.082, -7.706
+
+#### Zagoué
+
+Code: CI320310, Coordinates: 7.488, -7.507
+
+#### Ziogouiné
+
+Code: CI320311, Coordinates: 7.155, -7.657
+
+### Sipilou
+
+Code: CI3204, Coordinates: 7.868, -7.949
+Sub-prefectures: 2
+
+#### Sipilou
+
+Code: CI320401, Coordinates: 7.89, -8.021
+
+#### Yorodougou
+
+Code: CI320402, Coordinates: 7.861, -7.845
+
+### Zouan-Hounien
+
+Code: CI3205, Coordinates: 6.856, -8.206
+Sub-prefectures: 6
+
+#### Banneu
+
+Code: CI320502, Coordinates: 7.055, -8.249
+
+#### Bin-Houyé
+
+Code: CI320503, Coordinates: 6.779, -8.252
+
+#### Goulaleu
+
+Code: CI320504, Coordinates: 6.672, -8.332
+
+#### Téapleu
+
+Code: CI320505, Coordinates: 7.033, -8.133
+
+#### Yelleu
+
+Code: CI320506, Coordinates: 6.973, -8.048
+
+#### Zouan Hounien
+
+Code: CI320501, Coordinates: 6.89, -8.215
+

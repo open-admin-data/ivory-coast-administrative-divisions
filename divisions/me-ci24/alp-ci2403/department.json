@@ -1,0 +1,47 @@
+{
+  "id": "CI2403",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Alépé",
+    "en": "Alépé",
+    "slug": "alp-ci2403"
+  },
+  "code": {
+    "id": "CI2403",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI24",
+    "level": 1,
+    "name": {
+      "local": "Me",
+      "en": "Me",
+      "slug": "me-ci24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI24",
+      "level": 1,
+      "name": {
+        "local": "Me",
+        "en": "Me",
+        "slug": "me-ci24"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.569",
+    "lon": "-3.708"
+  },
+  "metadata": {},
+  "source": {}
+}

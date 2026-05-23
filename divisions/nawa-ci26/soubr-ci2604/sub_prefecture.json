@@ -1,0 +1,272 @@
+[
+  {
+    "id": "CI260402",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gnanmangui",
+      "en": "Gnanmangui",
+      "slug": "gnanmangui-ci260402"
+    },
+    "code": {
+      "id": "CI260402",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2604",
+      "level": 2,
+      "name": {
+        "local": "Soubré",
+        "en": "Soubré",
+        "slug": "soubr-ci2604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI26",
+        "level": 1,
+        "name": {
+          "local": "Nawa",
+          "en": "Nawa",
+          "slug": "nawa-ci26"
+        }
+      },
+      {
+        "id": "CI2604",
+        "level": 2,
+        "name": {
+          "local": "Soubré",
+          "en": "Soubré",
+          "slug": "soubr-ci2604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.765",
+      "lon": "-6.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI260403",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Grand-Zatry",
+      "en": "Grand-Zatry",
+      "slug": "grand-zatry-ci260403"
+    },
+    "code": {
+      "id": "CI260403",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2604",
+      "level": 2,
+      "name": {
+        "local": "Soubré",
+        "en": "Soubré",
+        "slug": "soubr-ci2604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI26",
+        "level": 1,
+        "name": {
+          "local": "Nawa",
+          "en": "Nawa",
+          "slug": "nawa-ci26"
+        }
+      },
+      {
+        "id": "CI2604",
+        "level": 2,
+        "name": {
+          "local": "Soubré",
+          "en": "Soubré",
+          "slug": "soubr-ci2604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.142",
+      "lon": "-6.565"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI260404",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Liliyo",
+      "en": "Liliyo",
+      "slug": "liliyo-ci260404"
+    },
+    "code": {
+      "id": "CI260404",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2604",
+      "level": 2,
+      "name": {
+        "local": "Soubré",
+        "en": "Soubré",
+        "slug": "soubr-ci2604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI26",
+        "level": 1,
+        "name": {
+          "local": "Nawa",
+          "en": "Nawa",
+          "slug": "nawa-ci26"
+        }
+      },
+      {
+        "id": "CI2604",
+        "level": 2,
+        "name": {
+          "local": "Soubré",
+          "en": "Soubré",
+          "slug": "soubr-ci2604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.945",
+      "lon": "-6.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI260405",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Okrouyo",
+      "en": "Okrouyo",
+      "slug": "okrouyo-ci260405"
+    },
+    "code": {
+      "id": "CI260405",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2604",
+      "level": 2,
+      "name": {
+        "local": "Soubré",
+        "en": "Soubré",
+        "slug": "soubr-ci2604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI26",
+        "level": 1,
+        "name": {
+          "local": "Nawa",
+          "en": "Nawa",
+          "slug": "nawa-ci26"
+        }
+      },
+      {
+        "id": "CI2604",
+        "level": 2,
+        "name": {
+          "local": "Soubré",
+          "en": "Soubré",
+          "slug": "soubr-ci2604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.707",
+      "lon": "-6.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI260401",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Soubre",
+      "en": "Soubre",
+      "slug": "soubre-ci260401"
+    },
+    "code": {
+      "id": "CI260401",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2604",
+      "level": 2,
+      "name": {
+        "local": "Soubré",
+        "en": "Soubré",
+        "slug": "soubr-ci2604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI26",
+        "level": 1,
+        "name": {
+          "local": "Nawa",
+          "en": "Nawa",
+          "slug": "nawa-ci26"
+        }
+      },
+      {
+        "id": "CI2604",
+        "level": 2,
+        "name": {
+          "local": "Soubré",
+          "en": "Soubré",
+          "slug": "soubr-ci2604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.87",
+      "lon": "-6.618"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CI080402",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gogo",
+      "en": "Gogo",
+      "slug": "gogo-ci080402"
+    },
+    "code": {
+      "id": "CI080402",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0804",
+      "level": 2,
+      "name": {
+        "local": "Téhini",
+        "en": "Téhini",
+        "slug": "thini-ci0804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI08",
+        "level": 1,
+        "name": {
+          "local": "Bounkani",
+          "en": "Bounkani",
+          "slug": "bounkani-ci08"
+        }
+      },
+      {
+        "id": "CI0804",
+        "level": 2,
+        "name": {
+          "local": "Téhini",
+          "en": "Téhini",
+          "slug": "thini-ci0804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.846",
+      "lon": "-3.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI080401",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Téhini",
+      "en": "Téhini",
+      "slug": "thini-ci080401"
+    },
+    "code": {
+      "id": "CI080401",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0804",
+      "level": 2,
+      "name": {
+        "local": "Téhini",
+        "en": "Téhini",
+        "slug": "thini-ci0804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI08",
+        "level": 1,
+        "name": {
+          "local": "Bounkani",
+          "en": "Bounkani",
+          "slug": "bounkani-ci08"
+        }
+      },
+      {
+        "id": "CI0804",
+        "level": 2,
+        "name": {
+          "local": "Téhini",
+          "en": "Téhini",
+          "slug": "thini-ci0804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.726",
+      "lon": "-3.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI080403",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tougbo",
+      "en": "Tougbo",
+      "slug": "tougbo-ci080403"
+    },
+    "code": {
+      "id": "CI080403",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0804",
+      "level": 2,
+      "name": {
+        "local": "Téhini",
+        "en": "Téhini",
+        "slug": "thini-ci0804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI08",
+        "level": 1,
+        "name": {
+          "local": "Bounkani",
+          "en": "Bounkani",
+          "slug": "bounkani-ci08"
+        }
+      },
+      {
+        "id": "CI0804",
+        "level": 2,
+        "name": {
+          "local": "Téhini",
+          "en": "Téhini",
+          "slug": "thini-ci0804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.722",
+      "lon": "-4.054"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

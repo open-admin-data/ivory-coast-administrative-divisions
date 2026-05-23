@@ -1,0 +1,47 @@
+{
+  "id": "CI1901",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Daoukro",
+    "en": "Daoukro",
+    "slug": "daoukro-ci1901"
+  },
+  "code": {
+    "id": "CI1901",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI19",
+    "level": 1,
+    "name": {
+      "local": "Iffou",
+      "en": "Iffou",
+      "slug": "iffou-ci19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI19",
+      "level": 1,
+      "name": {
+        "local": "Iffou",
+        "en": "Iffou",
+        "slug": "iffou-ci19"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.23",
+    "lon": "-3.998"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CI200301",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bettié",
+      "en": "Bettié",
+      "slug": "betti-ci200301"
+    },
+    "code": {
+      "id": "CI200301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2003",
+      "level": 2,
+      "name": {
+        "local": "Béttié",
+        "en": "Béttié",
+        "slug": "btti-ci2003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI20",
+        "level": 1,
+        "name": {
+          "local": "Indenie-Djuablin",
+          "en": "Indenie-Djuablin",
+          "slug": "indenie-djuablin-ci20"
+        }
+      },
+      {
+        "id": "CI2003",
+        "level": 2,
+        "name": {
+          "local": "Béttié",
+          "en": "Béttié",
+          "slug": "btti-ci2003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.068",
+      "lon": "-3.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI200302",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Diamarakro",
+      "en": "Diamarakro",
+      "slug": "diamarakro-ci200302"
+    },
+    "code": {
+      "id": "CI200302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2003",
+      "level": 2,
+      "name": {
+        "local": "Béttié",
+        "en": "Béttié",
+        "slug": "btti-ci2003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI20",
+        "level": 1,
+        "name": {
+          "local": "Indenie-Djuablin",
+          "en": "Indenie-Djuablin",
+          "slug": "indenie-djuablin-ci20"
+        }
+      },
+      {
+        "id": "CI2003",
+        "level": 2,
+        "name": {
+          "local": "Béttié",
+          "en": "Béttié",
+          "slug": "btti-ci2003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.232",
+      "lon": "-3.274"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

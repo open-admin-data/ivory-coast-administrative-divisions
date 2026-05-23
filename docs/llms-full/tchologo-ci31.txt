@@ -1,0 +1,72 @@
+# Tchologo — Ivory Coast Administrative Divisions
+
+> 3 departments, 12 sub-prefectures
+> Code: CI31
+> Coordinates: 9.548, -4.783
+> Last updated: 2026-05-23. License: CC-BY-4.0.
+
+## Departments
+
+### Ferkessédougou
+
+Code: CI3101, Coordinates: 9.578, -5.039
+Sub-prefectures: 3
+
+#### Ferkéssédougou
+
+Code: CI310101, Coordinates: 9.664, -5.178
+
+#### Koumbala
+
+Code: CI310102, Coordinates: 9.38, -5.057
+
+#### Togoniéré
+
+Code: CI310103, Coordinates: 9.626, -4.879
+
+### Kong
+
+Code: CI3102, Coordinates: 9.192, -4.465
+Sub-prefectures: 4
+
+#### Bilimono
+
+Code: CI310202, Coordinates: 8.948, -4.179
+
+#### Kong
+
+Code: CI310201, Coordinates: 9.13, -4.47
+
+#### Nafana
+
+Code: CI310203, Coordinates: 9.217, -4.833
+
+#### Sikolo
+
+Code: CI310204, Coordinates: 9.505, -4.531
+
+### Ouangolodougou
+
+Code: CI3103, Coordinates: 10.092, -5.39
+Sub-prefectures: 5
+
+#### Diawala
+
+Code: CI310302, Coordinates: 10.047, -5.542
+
+#### Kaouara
+
+Code: CI310303, Coordinates: 10.19, -5.224
+
+#### Niellé
+
+Code: CI310304, Coordinates: 10.206, -5.653
+
+#### Ouangolodougou
+
+Code: CI310301, Coordinates: 9.996, -5.164
+
+#### Toumoukoro
+
+Code: CI310305, Coordinates: 10.356, -5.662
+

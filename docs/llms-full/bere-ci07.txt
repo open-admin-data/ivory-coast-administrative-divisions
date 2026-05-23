@@ -1,0 +1,60 @@
+# Bere — Ivory Coast Administrative Divisions
+
+> 3 departments, 9 sub-prefectures
+> Code: CI07
+> Coordinates: 8.377, -5.932
+> Last updated: 2026-05-23. License: CC-BY-4.0.
+
+## Departments
+
+### Dianra
+
+Code: CI0701, Coordinates: 8.813, -6.246
+Sub-prefectures: 2
+
+#### Dianra
+
+Code: CI070101, Coordinates: 9.002, -6.477
+
+#### Dianra-Village
+
+Code: CI070102, Coordinates: 8.652, -6.253
+
+### Kounahiri
+
+Code: CI0702, Coordinates: 7.784, -5.971
+Sub-prefectures: 2
+
+#### Kongasso
+
+Code: CI070202, Coordinates: 7.818, -6.05
+
+#### Kounahiri
+
+Code: CI070201, Coordinates: 7.783, -5.859
+
+### Mankono
+
+Code: CI0703, Coordinates: 8.201, -5.839
+Sub-prefectures: 5
+
+#### Bouandougou
+
+Code: CI070302, Coordinates: 8.237, -5.555
+
+#### Mankono
+
+Code: CI070301, Coordinates: 8.049, -6.078
+
+#### Marandallah
+
+Code: CI070303, Coordinates: 8.473, -5.756
+
+#### Sarhala
+
+Code: CI070304, Coordinates: 8.472, -6.145
+
+#### Tiéningboué
+
+Code: CI070305, Coordinates: 8.156, -5.85
+

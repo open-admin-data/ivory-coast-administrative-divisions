@@ -1,0 +1,30 @@
+{
+  "id": "CI02",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "District Autonome De Yamoussoukro",
+    "en": "District Autonome De Yamoussoukro",
+    "slug": "district-autonome-de-yamoussoukro-ci02"
+  },
+  "code": {
+    "id": "CI02",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 2,
+    "sub_prefecture": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.815",
+    "lon": "-5.222"
+  },
+  "metadata": {},
+  "source": {}
+}

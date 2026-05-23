@@ -1,0 +1,47 @@
+{
+  "id": "CI1802",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Issia",
+    "en": "Issia",
+    "slug": "issia-ci1802"
+  },
+  "code": {
+    "id": "CI1802",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI18",
+    "level": 1,
+    "name": {
+      "local": "Haut-Sassandra",
+      "en": "Haut-Sassandra",
+      "slug": "haut-sassandra-ci18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI18",
+      "level": 1,
+      "name": {
+        "local": "Haut-Sassandra",
+        "en": "Haut-Sassandra",
+        "slug": "haut-sassandra-ci18"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.476",
+    "lon": "-6.521"
+  },
+  "metadata": {},
+  "source": {}
+}

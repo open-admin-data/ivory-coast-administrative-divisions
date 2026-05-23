@@ -1,0 +1,47 @@
+{
+  "id": "CI0503",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Tengrela",
+    "en": "Tengrela",
+    "slug": "tengrela-ci0503"
+  },
+  "code": {
+    "id": "CI0503",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI05",
+    "level": 1,
+    "name": {
+      "local": "Bagoue",
+      "en": "Bagoue",
+      "slug": "bagoue-ci05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI05",
+      "level": 1,
+      "name": {
+        "local": "Bagoue",
+        "en": "Bagoue",
+        "slug": "bagoue-ci05"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.477",
+    "lon": "-6.435"
+  },
+  "metadata": {},
+  "source": {}
+}

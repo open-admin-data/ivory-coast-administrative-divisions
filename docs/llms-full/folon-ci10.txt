@@ -1,0 +1,47 @@
+# Folon — Ivory Coast Administrative Divisions
+
+> 2 departments, 7 sub-prefectures
+> Code: CI10
+> Coordinates: 10.085, -7.466
+> Last updated: 2026-05-23. License: CC-BY-4.0.
+
+## Departments
+
+### Kaniasso
+
+Code: CI1001, Coordinates: 10.05, -7.14
+Sub-prefectures: 3
+
+#### Goulia
+
+Code: CI100101, Coordinates: 10.006, -7.21
+
+#### Kaniasso
+
+Code: CI100102, Coordinates: 9.904, -7.489
+
+#### Mahandiana-Sokourani
+
+Code: CI100103, Coordinates: 10.239, -6.814
+
+### Minignan
+
+Code: CI1002, Coordinates: 10.161, -7.617
+Sub-prefectures: 4
+
+#### Kimbirila-Nord
+
+Code: CI100202, Coordinates: 10.341, -7.611
+
+#### Minignan
+
+Code: CI100201, Coordinates: 9.993, -7.916
+
+#### Sokoro
+
+Code: CI100203, Coordinates: 10.178, -7.727
+
+#### Tienko
+
+Code: CI100204, Coordinates: 10.196, -7.442
+

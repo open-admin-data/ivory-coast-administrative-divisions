@@ -1,0 +1,84 @@
+# Bafing — Ivory Coast Administrative Divisions
+
+> 3 departments, 15 sub-prefectures
+> Code: CI04
+> Coordinates: 8.456, -7.417
+> Last updated: 2026-05-23. License: CC-BY-4.0.
+
+## Departments
+
+### Koro
+
+Code: CI0401, Coordinates: 8.713, -7.552
+Sub-prefectures: 5
+
+#### Booko
+
+Code: CI040102, Coordinates: 8.898, -7.741
+
+#### Borotou
+
+Code: CI040103, Coordinates: 8.759, -7.517
+
+#### Koro
+
+Code: CI040101, Coordinates: 8.519, -7.376
+
+#### Mahandougou
+
+Code: CI040104, Coordinates: 9.006, -7.848
+
+#### Niokosso
+
+Code: CI040105, Coordinates: 8.614, -7.591
+
+### Ouaninou
+
+Code: CI0402, Coordinates: 8.22, -7.985
+Sub-prefectures: 6
+
+#### Gbèlo
+
+Code: CI040202, Coordinates: 8.154, -7.772
+
+#### Gouékan
+
+Code: CI040203, Coordinates: 8.029, -7.85
+
+#### Koonan
+
+Code: CI040204, Coordinates: 8.38, -7.961
+
+#### Ouaninou
+
+Code: CI040201, Coordinates: 8.268, -7.857
+
+#### Saboudougou
+
+Code: CI040205, Coordinates: 8.396, -8.134
+
+#### Santa
+
+Code: CI040206, Coordinates: 8.259, -8.1
+
+### Touba
+
+Code: CI0403, Coordinates: 8.164, -7.41
+Sub-prefectures: 4
+
+#### Dioman
+
+Code: CI040302, Coordinates: 8.126, -7.541
+
+#### Foungbesso
+
+Code: CI040303, Coordinates: 7.986, -7.639
+
+#### Guintéguéla
+
+Code: CI040304, Coordinates: 8.232, -7.257
+
+#### Touba
+
+Code: CI040301, Coordinates: 8.27, -7.572
+

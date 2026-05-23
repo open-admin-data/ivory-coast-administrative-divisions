@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CI140502",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Assuéfry",
+      "en": "Assuéfry",
+      "slug": "assufry-ci140502"
+    },
+    "code": {
+      "id": "CI140502",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1405",
+      "level": 2,
+      "name": {
+        "local": "Transua",
+        "en": "Transua",
+        "slug": "transua-ci1405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI14",
+        "level": 1,
+        "name": {
+          "local": "Gontougo",
+          "en": "Gontougo",
+          "slug": "gontougo-ci14"
+        }
+      },
+      {
+        "id": "CI1405",
+        "level": 2,
+        "name": {
+          "local": "Transua",
+          "en": "Transua",
+          "slug": "transua-ci1405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.711",
+      "lon": "-2.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI140503",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kouassia-Niaguini",
+      "en": "Kouassia-Niaguini",
+      "slug": "kouassia-niaguini-ci140503"
+    },
+    "code": {
+      "id": "CI140503",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1405",
+      "level": 2,
+      "name": {
+        "local": "Transua",
+        "en": "Transua",
+        "slug": "transua-ci1405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI14",
+        "level": 1,
+        "name": {
+          "local": "Gontougo",
+          "en": "Gontougo",
+          "slug": "gontougo-ci14"
+        }
+      },
+      {
+        "id": "CI1405",
+        "level": 2,
+        "name": {
+          "local": "Transua",
+          "en": "Transua",
+          "slug": "transua-ci1405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.388",
+      "lon": "-3.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI140501",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Transua",
+      "en": "Transua",
+      "slug": "transua-ci140501"
+    },
+    "code": {
+      "id": "CI140501",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1405",
+      "level": 2,
+      "name": {
+        "local": "Transua",
+        "en": "Transua",
+        "slug": "transua-ci1405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI14",
+        "level": 1,
+        "name": {
+          "local": "Gontougo",
+          "en": "Gontougo",
+          "slug": "gontougo-ci14"
+        }
+      },
+      {
+        "id": "CI1405",
+        "level": 2,
+        "name": {
+          "local": "Transua",
+          "en": "Transua",
+          "slug": "transua-ci1405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.56",
+      "lon": "-3.04"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "CI1301",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Gagnoa",
+    "en": "Gagnoa",
+    "slug": "gagnoa-ci1301"
+  },
+  "code": {
+    "id": "CI1301",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI13",
+    "level": 1,
+    "name": {
+      "local": "Goh",
+      "en": "Goh",
+      "slug": "goh-ci13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI13",
+      "level": 1,
+      "name": {
+        "local": "Goh",
+        "en": "Goh",
+        "slug": "goh-ci13"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.074",
+    "lon": "-6.073"
+  },
+  "metadata": {},
+  "source": {}
+}

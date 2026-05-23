@@ -1,0 +1,596 @@
+[
+  {
+    "id": "CI030101",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Aboudé",
+      "en": "Aboudé",
+      "slug": "aboud-ci030101"
+    },
+    "code": {
+      "id": "CI030101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0301",
+      "level": 2,
+      "name": {
+        "local": "Agboville",
+        "en": "Agboville",
+        "slug": "agboville-ci0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI03",
+        "level": 1,
+        "name": {
+          "local": "Agneby-Tiassa",
+          "en": "Agneby-Tiassa",
+          "slug": "agneby-tiassa-ci03"
+        }
+      },
+      {
+        "id": "CI0301",
+        "level": 2,
+        "name": {
+          "local": "Agboville",
+          "en": "Agboville",
+          "slug": "agboville-ci0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.905",
+      "lon": "-4.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI030102",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Agboville",
+      "en": "Agboville",
+      "slug": "agboville-ci030102"
+    },
+    "code": {
+      "id": "CI030102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0301",
+      "level": 2,
+      "name": {
+        "local": "Agboville",
+        "en": "Agboville",
+        "slug": "agboville-ci0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI03",
+        "level": 1,
+        "name": {
+          "local": "Agneby-Tiassa",
+          "en": "Agneby-Tiassa",
+          "slug": "agneby-tiassa-ci03"
+        }
+      },
+      {
+        "id": "CI0301",
+        "level": 2,
+        "name": {
+          "local": "Agboville",
+          "en": "Agboville",
+          "slug": "agboville-ci0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.858",
+      "lon": "-4.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI030103",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ananguié",
+      "en": "Ananguié",
+      "slug": "anangui-ci030103"
+    },
+    "code": {
+      "id": "CI030103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0301",
+      "level": 2,
+      "name": {
+        "local": "Agboville",
+        "en": "Agboville",
+        "slug": "agboville-ci0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI03",
+        "level": 1,
+        "name": {
+          "local": "Agneby-Tiassa",
+          "en": "Agneby-Tiassa",
+          "slug": "agneby-tiassa-ci03"
+        }
+      },
+      {
+        "id": "CI0301",
+        "level": 2,
+        "name": {
+          "local": "Agboville",
+          "en": "Agboville",
+          "slug": "agboville-ci0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.05",
+      "lon": "-4.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI030104",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Attobrou",
+      "en": "Attobrou",
+      "slug": "attobrou-ci030104"
+    },
+    "code": {
+      "id": "CI030104",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0301",
+      "level": 2,
+      "name": {
+        "local": "Agboville",
+        "en": "Agboville",
+        "slug": "agboville-ci0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI03",
+        "level": 1,
+        "name": {
+          "local": "Agneby-Tiassa",
+          "en": "Agneby-Tiassa",
+          "slug": "agneby-tiassa-ci03"
+        }
+      },
+      {
+        "id": "CI0301",
+        "level": 2,
+        "name": {
+          "local": "Agboville",
+          "en": "Agboville",
+          "slug": "agboville-ci0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.132",
+      "lon": "-4.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI030105",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Azaguié",
+      "en": "Azaguié",
+      "slug": "azagui-ci030105"
+    },
+    "code": {
+      "id": "CI030105",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0301",
+      "level": 2,
+      "name": {
+        "local": "Agboville",
+        "en": "Agboville",
+        "slug": "agboville-ci0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI03",
+        "level": 1,
+        "name": {
+          "local": "Agneby-Tiassa",
+          "en": "Agneby-Tiassa",
+          "slug": "agneby-tiassa-ci03"
+        }
+      },
+      {
+        "id": "CI0301",
+        "level": 2,
+        "name": {
+          "local": "Agboville",
+          "en": "Agboville",
+          "slug": "agboville-ci0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.663",
+      "lon": "-4.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI030106",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Cechi",
+      "en": "Cechi",
+      "slug": "cechi-ci030106"
+    },
+    "code": {
+      "id": "CI030106",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0301",
+      "level": 2,
+      "name": {
+        "local": "Agboville",
+        "en": "Agboville",
+        "slug": "agboville-ci0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI03",
+        "level": 1,
+        "name": {
+          "local": "Agneby-Tiassa",
+          "en": "Agneby-Tiassa",
+          "slug": "agneby-tiassa-ci03"
+        }
+      },
+      {
+        "id": "CI0301",
+        "level": 2,
+        "name": {
+          "local": "Agboville",
+          "en": "Agboville",
+          "slug": "agboville-ci0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.192",
+      "lon": "-4.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI030107",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Grand-Morié",
+      "en": "Grand-Morié",
+      "slug": "grand-mori-ci030107"
+    },
+    "code": {
+      "id": "CI030107",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0301",
+      "level": 2,
+      "name": {
+        "local": "Agboville",
+        "en": "Agboville",
+        "slug": "agboville-ci0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI03",
+        "level": 1,
+        "name": {
+          "local": "Agneby-Tiassa",
+          "en": "Agneby-Tiassa",
+          "slug": "agneby-tiassa-ci03"
+        }
+      },
+      {
+        "id": "CI0301",
+        "level": 2,
+        "name": {
+          "local": "Agboville",
+          "en": "Agboville",
+          "slug": "agboville-ci0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.994",
+      "lon": "-4.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI030108",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Guessiguié",
+      "en": "Guessiguié",
+      "slug": "guessigui-ci030108"
+    },
+    "code": {
+      "id": "CI030108",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0301",
+      "level": 2,
+      "name": {
+        "local": "Agboville",
+        "en": "Agboville",
+        "slug": "agboville-ci0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI03",
+        "level": 1,
+        "name": {
+          "local": "Agneby-Tiassa",
+          "en": "Agneby-Tiassa",
+          "slug": "agneby-tiassa-ci03"
+        }
+      },
+      {
+        "id": "CI0301",
+        "level": 2,
+        "name": {
+          "local": "Agboville",
+          "en": "Agboville",
+          "slug": "agboville-ci0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.689",
+      "lon": "-4.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI030109",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Loviguié",
+      "en": "Loviguié",
+      "slug": "lovigui-ci030109"
+    },
+    "code": {
+      "id": "CI030109",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0301",
+      "level": 2,
+      "name": {
+        "local": "Agboville",
+        "en": "Agboville",
+        "slug": "agboville-ci0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI03",
+        "level": 1,
+        "name": {
+          "local": "Agneby-Tiassa",
+          "en": "Agneby-Tiassa",
+          "slug": "agneby-tiassa-ci03"
+        }
+      },
+      {
+        "id": "CI0301",
+        "level": 2,
+        "name": {
+          "local": "Agboville",
+          "en": "Agboville",
+          "slug": "agboville-ci0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.816",
+      "lon": "-4.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI030110",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Oress-Krobou",
+      "en": "Oress-Krobou",
+      "slug": "oress-krobou-ci030110"
+    },
+    "code": {
+      "id": "CI030110",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0301",
+      "level": 2,
+      "name": {
+        "local": "Agboville",
+        "en": "Agboville",
+        "slug": "agboville-ci0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI03",
+        "level": 1,
+        "name": {
+          "local": "Agneby-Tiassa",
+          "en": "Agneby-Tiassa",
+          "slug": "agneby-tiassa-ci03"
+        }
+      },
+      {
+        "id": "CI0301",
+        "level": 2,
+        "name": {
+          "local": "Agboville",
+          "en": "Agboville",
+          "slug": "agboville-ci0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.726",
+      "lon": "-4.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI030111",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Rubino",
+      "en": "Rubino",
+      "slug": "rubino-ci030111"
+    },
+    "code": {
+      "id": "CI030111",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0301",
+      "level": 2,
+      "name": {
+        "local": "Agboville",
+        "en": "Agboville",
+        "slug": "agboville-ci0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI03",
+        "level": 1,
+        "name": {
+          "local": "Agneby-Tiassa",
+          "en": "Agneby-Tiassa",
+          "slug": "agneby-tiassa-ci03"
+        }
+      },
+      {
+        "id": "CI0301",
+        "level": 2,
+        "name": {
+          "local": "Agboville",
+          "en": "Agboville",
+          "slug": "agboville-ci0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.109",
+      "lon": "-4.298"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

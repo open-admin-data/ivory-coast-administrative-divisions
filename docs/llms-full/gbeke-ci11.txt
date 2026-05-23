@@ -1,0 +1,109 @@
+# Gbeke — Ivory Coast Administrative Divisions
+
+> 4 departments, 20 sub-prefectures
+> Code: CI11
+> Coordinates: 7.692, -5.099
+> Last updated: 2026-05-23. License: CC-BY-4.0.
+
+## Departments
+
+### Béoumi
+
+Code: CI1101, Coordinates: 7.775, -5.56
+Sub-prefectures: 7
+
+#### Ando-Kékrénou
+
+Code: CI110101, Coordinates: 7.506, -5.622
+
+#### Béoumi
+
+Code: CI110102, Coordinates: 7.752, -5.57
+
+#### Bodokro
+
+Code: CI110103, Coordinates: 7.9, -5.513
+
+#### Kondrobo
+
+Code: CI110104, Coordinates: 7.844, -5.727
+
+#### Lolobo
+
+Code: CI110105, Coordinates: 7.717, -5.4
+
+#### Marabadiassa
+
+Code: CI110106, Coordinates: 8.08, -5.422
+
+#### N&#39;Guéssankro
+
+Code: CI110107, Coordinates: 7.997, -5.461
+
+### Botro
+
+Code: CI1102, Coordinates: 7.883, -5.25
+Sub-prefectures: 4
+
+#### Botro
+
+Code: CI110201, Coordinates: 7.871, -5.327
+
+#### Diabo
+
+Code: CI110202, Coordinates: 7.841, -5.163
+
+#### Krofoinsou
+
+Code: CI110203, Coordinates: 8.034, -5.297
+
+#### Languibonou
+
+Code: CI110204, Coordinates: 7.706, -5.27
+
+### Bouaké
+
+Code: CI1103, Coordinates: 7.682, -4.839
+Sub-prefectures: 5
+
+#### Bouaké
+
+Code: CI110301, Coordinates: 7.761, -5.002
+
+#### Bounda
+
+Code: CI110302, Coordinates: 7.608, -4.681
+
+#### Brobo
+
+Code: CI110303, Coordinates: 7.64, -4.847
+
+#### Djébonoua
+
+Code: CI110304, Coordinates: 7.445, -5.094
+
+#### Mamini
+
+Code: CI110305, Coordinates: 7.789, -4.7
+
+### Sakassou
+
+Code: CI1104, Coordinates: 7.442, -5.33
+Sub-prefectures: 4
+
+#### Ayaou-Sran
+
+Code: CI110402, Coordinates: 7.355, -5.632
+
+#### Dibri-Assirikro
+
+Code: CI110403, Coordinates: 7.559, -5.185
+
+#### Sakassou
+
+Code: CI110401, Coordinates: 7.442, -5.33
+
+#### Toumodi-Sakassou
+
+Code: CI110404, Coordinates: 7.355, -5.527
+

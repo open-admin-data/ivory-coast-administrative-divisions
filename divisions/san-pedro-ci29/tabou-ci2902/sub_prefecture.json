@@ -1,0 +1,326 @@
+[
+  {
+    "id": "CI290202",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dapo-Iboké",
+      "en": "Dapo-Iboké",
+      "slug": "dapo-ibok-ci290202"
+    },
+    "code": {
+      "id": "CI290202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2902",
+      "level": 2,
+      "name": {
+        "local": "Tabou",
+        "en": "Tabou",
+        "slug": "tabou-ci2902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI29",
+        "level": 1,
+        "name": {
+          "local": "San Pedro",
+          "en": "San Pedro",
+          "slug": "san-pedro-ci29"
+        }
+      },
+      {
+        "id": "CI2902",
+        "level": 2,
+        "name": {
+          "local": "Tabou",
+          "en": "Tabou",
+          "slug": "tabou-ci2902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.692",
+      "lon": "-7.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI290203",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Djamandioké",
+      "en": "Djamandioké",
+      "slug": "djamandiok-ci290203"
+    },
+    "code": {
+      "id": "CI290203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2902",
+      "level": 2,
+      "name": {
+        "local": "Tabou",
+        "en": "Tabou",
+        "slug": "tabou-ci2902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI29",
+        "level": 1,
+        "name": {
+          "local": "San Pedro",
+          "en": "San Pedro",
+          "slug": "san-pedro-ci29"
+        }
+      },
+      {
+        "id": "CI2902",
+        "level": 2,
+        "name": {
+          "local": "Tabou",
+          "en": "Tabou",
+          "slug": "tabou-ci2902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.539",
+      "lon": "-7.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI290204",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Djouroutou",
+      "en": "Djouroutou",
+      "slug": "djouroutou-ci290204"
+    },
+    "code": {
+      "id": "CI290204",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2902",
+      "level": 2,
+      "name": {
+        "local": "Tabou",
+        "en": "Tabou",
+        "slug": "tabou-ci2902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI29",
+        "level": 1,
+        "name": {
+          "local": "San Pedro",
+          "en": "San Pedro",
+          "slug": "san-pedro-ci29"
+        }
+      },
+      {
+        "id": "CI2902",
+        "level": 2,
+        "name": {
+          "local": "Tabou",
+          "en": "Tabou",
+          "slug": "tabou-ci2902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.37",
+      "lon": "-7.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI290205",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Grabo",
+      "en": "Grabo",
+      "slug": "grabo-ci290205"
+    },
+    "code": {
+      "id": "CI290205",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2902",
+      "level": 2,
+      "name": {
+        "local": "Tabou",
+        "en": "Tabou",
+        "slug": "tabou-ci2902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI29",
+        "level": 1,
+        "name": {
+          "local": "San Pedro",
+          "en": "San Pedro",
+          "slug": "san-pedro-ci29"
+        }
+      },
+      {
+        "id": "CI2902",
+        "level": 2,
+        "name": {
+          "local": "Tabou",
+          "en": "Tabou",
+          "slug": "tabou-ci2902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.916",
+      "lon": "-7.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI290206",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Olodio",
+      "en": "Olodio",
+      "slug": "olodio-ci290206"
+    },
+    "code": {
+      "id": "CI290206",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2902",
+      "level": 2,
+      "name": {
+        "local": "Tabou",
+        "en": "Tabou",
+        "slug": "tabou-ci2902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI29",
+        "level": 1,
+        "name": {
+          "local": "San Pedro",
+          "en": "San Pedro",
+          "slug": "san-pedro-ci29"
+        }
+      },
+      {
+        "id": "CI2902",
+        "level": 2,
+        "name": {
+          "local": "Tabou",
+          "en": "Tabou",
+          "slug": "tabou-ci2902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.654",
+      "lon": "-7.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI290201",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tabou",
+      "en": "Tabou",
+      "slug": "tabou-ci290201"
+    },
+    "code": {
+      "id": "CI290201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2902",
+      "level": 2,
+      "name": {
+        "local": "Tabou",
+        "en": "Tabou",
+        "slug": "tabou-ci2902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI29",
+        "level": 1,
+        "name": {
+          "local": "San Pedro",
+          "en": "San Pedro",
+          "slug": "san-pedro-ci29"
+        }
+      },
+      {
+        "id": "CI2902",
+        "level": 2,
+        "name": {
+          "local": "Tabou",
+          "en": "Tabou",
+          "slug": "tabou-ci2902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.559",
+      "lon": "-7.307"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

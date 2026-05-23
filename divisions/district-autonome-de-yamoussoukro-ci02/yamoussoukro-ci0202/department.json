@@ -1,0 +1,47 @@
+{
+  "id": "CI0202",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Yamoussoukro",
+    "en": "Yamoussoukro",
+    "slug": "yamoussoukro-ci0202"
+  },
+  "code": {
+    "id": "CI0202",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI02",
+    "level": 1,
+    "name": {
+      "local": "District Autonome De Yamoussoukro",
+      "en": "District Autonome De Yamoussoukro",
+      "slug": "district-autonome-de-yamoussoukro-ci02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI02",
+      "level": 1,
+      "name": {
+        "local": "District Autonome De Yamoussoukro",
+        "en": "District Autonome De Yamoussoukro",
+        "slug": "district-autonome-de-yamoussoukro-ci02"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.808",
+    "lon": "-5.333"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CI170202",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Fronan",
+      "en": "Fronan",
+      "slug": "fronan-ci170202"
+    },
+    "code": {
+      "id": "CI170202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1702",
+      "level": 2,
+      "name": {
+        "local": "Katiola",
+        "en": "Katiola",
+        "slug": "katiola-ci1702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI17",
+        "level": 1,
+        "name": {
+          "local": "Hambol",
+          "en": "Hambol",
+          "slug": "hambol-ci17"
+        }
+      },
+      {
+        "id": "CI1702",
+        "level": 2,
+        "name": {
+          "local": "Katiola",
+          "en": "Katiola",
+          "slug": "katiola-ci1702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.301",
+      "lon": "-5.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI170201",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Katiola",
+      "en": "Katiola",
+      "slug": "katiola-ci170201"
+    },
+    "code": {
+      "id": "CI170201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1702",
+      "level": 2,
+      "name": {
+        "local": "Katiola",
+        "en": "Katiola",
+        "slug": "katiola-ci1702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI17",
+        "level": 1,
+        "name": {
+          "local": "Hambol",
+          "en": "Hambol",
+          "slug": "hambol-ci17"
+        }
+      },
+      {
+        "id": "CI1702",
+        "level": 2,
+        "name": {
+          "local": "Katiola",
+          "en": "Katiola",
+          "slug": "katiola-ci1702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.089",
+      "lon": "-5.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI170203",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Timbé",
+      "en": "Timbé",
+      "slug": "timb-ci170203"
+    },
+    "code": {
+      "id": "CI170203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1702",
+      "level": 2,
+      "name": {
+        "local": "Katiola",
+        "en": "Katiola",
+        "slug": "katiola-ci1702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI17",
+        "level": 1,
+        "name": {
+          "local": "Hambol",
+          "en": "Hambol",
+          "slug": "hambol-ci17"
+        }
+      },
+      {
+        "id": "CI1702",
+        "level": 2,
+        "name": {
+          "local": "Katiola",
+          "en": "Katiola",
+          "slug": "katiola-ci1702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.124",
+      "lon": "-4.894"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

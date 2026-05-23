@@ -1,0 +1,30 @@
+{
+  "id": "CI30",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Sud-Comoe",
+    "en": "Sud-Comoe",
+    "slug": "sud-comoe-ci30"
+  },
+  "code": {
+    "id": "CI30",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 4,
+    "sub_prefecture": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.661",
+    "lon": "-3.143"
+  },
+  "metadata": {},
+  "source": {}
+}

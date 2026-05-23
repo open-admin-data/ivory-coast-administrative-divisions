@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CI160401",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kouibly",
+      "en": "Kouibly",
+      "slug": "kouibly-ci160401"
+    },
+    "code": {
+      "id": "CI160401",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1604",
+      "level": 2,
+      "name": {
+        "local": "Kouibly",
+        "en": "Kouibly",
+        "slug": "kouibly-ci1604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI16",
+        "level": 1,
+        "name": {
+          "local": "Guemon",
+          "en": "Guemon",
+          "slug": "guemon-ci16"
+        }
+      },
+      {
+        "id": "CI1604",
+        "level": 2,
+        "name": {
+          "local": "Kouibly",
+          "en": "Kouibly",
+          "slug": "kouibly-ci1604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.263",
+      "lon": "-7.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI160402",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Nidrou",
+      "en": "Nidrou",
+      "slug": "nidrou-ci160402"
+    },
+    "code": {
+      "id": "CI160402",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1604",
+      "level": 2,
+      "name": {
+        "local": "Kouibly",
+        "en": "Kouibly",
+        "slug": "kouibly-ci1604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI16",
+        "level": 1,
+        "name": {
+          "local": "Guemon",
+          "en": "Guemon",
+          "slug": "guemon-ci16"
+        }
+      },
+      {
+        "id": "CI1604",
+        "level": 2,
+        "name": {
+          "local": "Kouibly",
+          "en": "Kouibly",
+          "slug": "kouibly-ci1604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.27",
+      "lon": "-7.473"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI160403",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ouyably-Gnondrou",
+      "en": "Ouyably-Gnondrou",
+      "slug": "ouyably-gnondrou-ci160403"
+    },
+    "code": {
+      "id": "CI160403",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1604",
+      "level": 2,
+      "name": {
+        "local": "Kouibly",
+        "en": "Kouibly",
+        "slug": "kouibly-ci1604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI16",
+        "level": 1,
+        "name": {
+          "local": "Guemon",
+          "en": "Guemon",
+          "slug": "guemon-ci16"
+        }
+      },
+      {
+        "id": "CI1604",
+        "level": 2,
+        "name": {
+          "local": "Kouibly",
+          "en": "Kouibly",
+          "slug": "kouibly-ci1604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.331",
+      "lon": "-7.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI160404",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Totrodrou",
+      "en": "Totrodrou",
+      "slug": "totrodrou-ci160404"
+    },
+    "code": {
+      "id": "CI160404",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1604",
+      "level": 2,
+      "name": {
+        "local": "Kouibly",
+        "en": "Kouibly",
+        "slug": "kouibly-ci1604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI16",
+        "level": 1,
+        "name": {
+          "local": "Guemon",
+          "en": "Guemon",
+          "slug": "guemon-ci16"
+        }
+      },
+      {
+        "id": "CI1604",
+        "level": 2,
+        "name": {
+          "local": "Kouibly",
+          "en": "Kouibly",
+          "slug": "kouibly-ci1604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.248",
+      "lon": "-7.415"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

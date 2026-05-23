@@ -1,0 +1,137 @@
+# Poro — Ivory Coast Administrative Divisions
+
+> 4 departments, 27 sub-prefectures
+> Code: CI28
+> Coordinates: 9.476, -5.735
+> Last updated: 2026-05-23. License: CC-BY-4.0.
+
+## Departments
+
+### Dikodougou
+
+Code: CI2801, Coordinates: 8.949, -5.863
+Sub-prefectures: 3
+
+#### Boron
+
+Code: CI280101, Coordinates: 8.678, -5.842
+
+#### Dikodougou
+
+Code: CI280102, Coordinates: 8.963, -5.864
+
+#### Guiembé
+
+Code: CI280103, Coordinates: 9.245, -5.795
+
+### Korhogo
+
+Code: CI2802, Coordinates: 9.308, -5.55
+Sub-prefectures: 16
+
+#### Dassoungboho
+
+Code: CI280202, Coordinates: 9.374, -5.792
+
+#### Kanoroba
+
+Code: CI280203, Coordinates: 8.994, -6.127
+
+#### Karakoro
+
+Code: CI280204, Coordinates: 9.453, -5.512
+
+#### Kiémou
+
+Code: CI280205, Coordinates: 9.01, -5.573
+
+#### Kombolokoura
+
+Code: CI280206, Coordinates: 9.36, -5.91
+
+#### Komborodougou
+
+Code: CI280207, Coordinates: 9.288, -5.424
+
+#### Koni
+
+Code: CI280208, Coordinates: 9.665, -5.77
+
+#### Korhogo
+
+Code: CI280201, Coordinates: 9.511, -5.713
+
+#### Lataha
+
+Code: CI280209, Coordinates: 9.645, -5.524
+
+#### N&#39;Ganon
+
+Code: CI280210, Coordinates: 9.709, -5.95
+
+#### Nafoun
+
+Code: CI280211, Coordinates: 9.324, -6.194
+
+#### Napiéléodougou
+
+Code: CI280212, Coordinates: 9.252, -5.56
+
+#### Niofoin
+
+Code: CI280213, Coordinates: 9.518, -6.018
+
+#### Sirasso
+
+Code: CI280214, Coordinates: 9.242, -6.075
+
+#### Sohouo
+
+Code: CI280215, Coordinates: 9.659, -5.65
+
+#### Tioroniaradougou
+
+Code: CI280216, Coordinates: 9.328, -5.684
+
+### M&#39;Bengué
+
+Code: CI2803, Coordinates: 10.06, -6.002
+Sub-prefectures: 4
+
+#### Bougou
+
+Code: CI280302, Coordinates: 10.261, -5.842
+
+#### Katiali
+
+Code: CI280303, Coordinates: 9.811, -5.94
+
+#### Katogo
+
+Code: CI280304, Coordinates: 10.136, -6.122
+
+#### M&#39;Bengué
+
+Code: CI280301, Coordinates: 9.929, -5.945
+
+### Sinématiali
+
+Code: CI2804, Coordinates: 9.538, -5.396
+Sub-prefectures: 4
+
+#### Bahouakaha
+
+Code: CI280402, Coordinates: 9.507, -5.43
+
+#### Kagbolodougou
+
+Code: CI280403, Coordinates: 9.43, -5.37
+
+#### Sédiogo
+
+Code: CI280404, Coordinates: 9.534, -5.476
+
+#### Sinématiali
+
+Code: CI280401, Coordinates: 9.579, -5.389
+

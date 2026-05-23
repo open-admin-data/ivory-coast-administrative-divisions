@@ -1,0 +1,30 @@
+{
+  "id": "CI06",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Belier",
+    "en": "Belier",
+    "slug": "belier-ci06"
+  },
+  "code": {
+    "id": "CI06",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 4,
+    "sub_prefecture": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.223",
+    "lon": "-5.201"
+  },
+  "metadata": {},
+  "source": {}
+}

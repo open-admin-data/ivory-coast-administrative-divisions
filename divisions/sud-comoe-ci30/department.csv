@@ -1,0 +1,5 @@
+id,name.local,name.en,name.slug,code.id,children_count.sub_prefecture,geo.lat,geo.lon
+CI3001,Aboisso,Aboisso,aboisso-ci3001,CI3001,8,5.712,-3.149
+CI3002,Adiaké,Adiaké,adiak-ci3002,CI3002,3,5.233,-3.26
+CI3003,Grand-Bassam,Grand-Bassam,grand-bassam-ci3003,CI3003,3,5.379,-3.518
+CI3004,Tiapoum,Tiapoum,tiapoum-ci3004,CI3004,3,5.245,-2.871

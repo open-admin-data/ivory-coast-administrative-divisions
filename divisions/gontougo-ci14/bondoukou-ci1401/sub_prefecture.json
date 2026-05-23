@@ -1,0 +1,650 @@
+[
+  {
+    "id": "CI140101",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Appimadoum",
+      "en": "Appimadoum",
+      "slug": "appimadoum-ci140101"
+    },
+    "code": {
+      "id": "CI140101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1401",
+      "level": 2,
+      "name": {
+        "local": "Bondoukou",
+        "en": "Bondoukou",
+        "slug": "bondoukou-ci1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI14",
+        "level": 1,
+        "name": {
+          "local": "Gontougo",
+          "en": "Gontougo",
+          "slug": "gontougo-ci14"
+        }
+      },
+      {
+        "id": "CI1401",
+        "level": 2,
+        "name": {
+          "local": "Bondoukou",
+          "en": "Bondoukou",
+          "slug": "bondoukou-ci1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.869",
+      "lon": "-2.879"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI140102",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bondo",
+      "en": "Bondo",
+      "slug": "bondo-ci140102"
+    },
+    "code": {
+      "id": "CI140102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1401",
+      "level": 2,
+      "name": {
+        "local": "Bondoukou",
+        "en": "Bondoukou",
+        "slug": "bondoukou-ci1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI14",
+        "level": 1,
+        "name": {
+          "local": "Gontougo",
+          "en": "Gontougo",
+          "slug": "gontougo-ci14"
+        }
+      },
+      {
+        "id": "CI1401",
+        "level": 2,
+        "name": {
+          "local": "Bondoukou",
+          "en": "Bondoukou",
+          "slug": "bondoukou-ci1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.28",
+      "lon": "-3.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI140103",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bondoukou",
+      "en": "Bondoukou",
+      "slug": "bondoukou-ci140103"
+    },
+    "code": {
+      "id": "CI140103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1401",
+      "level": 2,
+      "name": {
+        "local": "Bondoukou",
+        "en": "Bondoukou",
+        "slug": "bondoukou-ci1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI14",
+        "level": 1,
+        "name": {
+          "local": "Gontougo",
+          "en": "Gontougo",
+          "slug": "gontougo-ci14"
+        }
+      },
+      {
+        "id": "CI1401",
+        "level": 2,
+        "name": {
+          "local": "Bondoukou",
+          "en": "Bondoukou",
+          "slug": "bondoukou-ci1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.065",
+      "lon": "-2.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI140104",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gouméré",
+      "en": "Gouméré",
+      "slug": "goumr-ci140104"
+    },
+    "code": {
+      "id": "CI140104",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1401",
+      "level": 2,
+      "name": {
+        "local": "Bondoukou",
+        "en": "Bondoukou",
+        "slug": "bondoukou-ci1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI14",
+        "level": 1,
+        "name": {
+          "local": "Gontougo",
+          "en": "Gontougo",
+          "slug": "gontougo-ci14"
+        }
+      },
+      {
+        "id": "CI1401",
+        "level": 2,
+        "name": {
+          "local": "Bondoukou",
+          "en": "Bondoukou",
+          "slug": "bondoukou-ci1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.959",
+      "lon": "-2.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI140105",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Laoudi-Ba",
+      "en": "Laoudi-Ba",
+      "slug": "laoudi-ba-ci140105"
+    },
+    "code": {
+      "id": "CI140105",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1401",
+      "level": 2,
+      "name": {
+        "local": "Bondoukou",
+        "en": "Bondoukou",
+        "slug": "bondoukou-ci1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI14",
+        "level": 1,
+        "name": {
+          "local": "Gontougo",
+          "en": "Gontougo",
+          "slug": "gontougo-ci14"
+        }
+      },
+      {
+        "id": "CI1401",
+        "level": 2,
+        "name": {
+          "local": "Bondoukou",
+          "en": "Bondoukou",
+          "slug": "bondoukou-ci1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.438",
+      "lon": "-3.084"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI140106",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Pinda-Boroko",
+      "en": "Pinda-Boroko",
+      "slug": "pinda-boroko-ci140106"
+    },
+    "code": {
+      "id": "CI140106",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1401",
+      "level": 2,
+      "name": {
+        "local": "Bondoukou",
+        "en": "Bondoukou",
+        "slug": "bondoukou-ci1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI14",
+        "level": 1,
+        "name": {
+          "local": "Gontougo",
+          "en": "Gontougo",
+          "slug": "gontougo-ci14"
+        }
+      },
+      {
+        "id": "CI1401",
+        "level": 2,
+        "name": {
+          "local": "Bondoukou",
+          "en": "Bondoukou",
+          "slug": "bondoukou-ci1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.907",
+      "lon": "-2.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI140107",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sapli-Sépingo",
+      "en": "Sapli-Sépingo",
+      "slug": "sapli-spingo-ci140107"
+    },
+    "code": {
+      "id": "CI140107",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1401",
+      "level": 2,
+      "name": {
+        "local": "Bondoukou",
+        "en": "Bondoukou",
+        "slug": "bondoukou-ci1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI14",
+        "level": 1,
+        "name": {
+          "local": "Gontougo",
+          "en": "Gontougo",
+          "slug": "gontougo-ci14"
+        }
+      },
+      {
+        "id": "CI1401",
+        "level": 2,
+        "name": {
+          "local": "Bondoukou",
+          "en": "Bondoukou",
+          "slug": "bondoukou-ci1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.174",
+      "lon": "-3.044"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI140108",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sorobango",
+      "en": "Sorobango",
+      "slug": "sorobango-ci140108"
+    },
+    "code": {
+      "id": "CI140108",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1401",
+      "level": 2,
+      "name": {
+        "local": "Bondoukou",
+        "en": "Bondoukou",
+        "slug": "bondoukou-ci1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI14",
+        "level": 1,
+        "name": {
+          "local": "Gontougo",
+          "en": "Gontougo",
+          "slug": "gontougo-ci14"
+        }
+      },
+      {
+        "id": "CI1401",
+        "level": 2,
+        "name": {
+          "local": "Bondoukou",
+          "en": "Bondoukou",
+          "slug": "bondoukou-ci1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.268",
+      "lon": "-2.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI140109",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tabagne",
+      "en": "Tabagne",
+      "slug": "tabagne-ci140109"
+    },
+    "code": {
+      "id": "CI140109",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1401",
+      "level": 2,
+      "name": {
+        "local": "Bondoukou",
+        "en": "Bondoukou",
+        "slug": "bondoukou-ci1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI14",
+        "level": 1,
+        "name": {
+          "local": "Gontougo",
+          "en": "Gontougo",
+          "slug": "gontougo-ci14"
+        }
+      },
+      {
+        "id": "CI1401",
+        "level": 2,
+        "name": {
+          "local": "Bondoukou",
+          "en": "Bondoukou",
+          "slug": "bondoukou-ci1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.067",
+      "lon": "-3.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI140110",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tagadi",
+      "en": "Tagadi",
+      "slug": "tagadi-ci140110"
+    },
+    "code": {
+      "id": "CI140110",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1401",
+      "level": 2,
+      "name": {
+        "local": "Bondoukou",
+        "en": "Bondoukou",
+        "slug": "bondoukou-ci1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI14",
+        "level": 1,
+        "name": {
+          "local": "Gontougo",
+          "en": "Gontougo",
+          "slug": "gontougo-ci14"
+        }
+      },
+      {
+        "id": "CI1401",
+        "level": 2,
+        "name": {
+          "local": "Bondoukou",
+          "en": "Bondoukou",
+          "slug": "bondoukou-ci1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.55",
+      "lon": "-2.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI140111",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Taoudi",
+      "en": "Taoudi",
+      "slug": "taoudi-ci140111"
+    },
+    "code": {
+      "id": "CI140111",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1401",
+      "level": 2,
+      "name": {
+        "local": "Bondoukou",
+        "en": "Bondoukou",
+        "slug": "bondoukou-ci1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI14",
+        "level": 1,
+        "name": {
+          "local": "Gontougo",
+          "en": "Gontougo",
+          "slug": "gontougo-ci14"
+        }
+      },
+      {
+        "id": "CI1401",
+        "level": 2,
+        "name": {
+          "local": "Bondoukou",
+          "en": "Bondoukou",
+          "slug": "bondoukou-ci1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.137",
+      "lon": "-3.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI140112",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Yézimala",
+      "en": "Yézimala",
+      "slug": "yzimala-ci140112"
+    },
+    "code": {
+      "id": "CI140112",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1401",
+      "level": 2,
+      "name": {
+        "local": "Bondoukou",
+        "en": "Bondoukou",
+        "slug": "bondoukou-ci1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI14",
+        "level": 1,
+        "name": {
+          "local": "Gontougo",
+          "en": "Gontougo",
+          "slug": "gontougo-ci14"
+        }
+      },
+      {
+        "id": "CI1401",
+        "level": 2,
+        "name": {
+          "local": "Bondoukou",
+          "en": "Bondoukou",
+          "slug": "bondoukou-ci1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.213",
+      "lon": "-2.966"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

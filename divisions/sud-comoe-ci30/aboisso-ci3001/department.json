@@ -1,0 +1,47 @@
+{
+  "id": "CI3001",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Aboisso",
+    "en": "Aboisso",
+    "slug": "aboisso-ci3001"
+  },
+  "code": {
+    "id": "CI3001",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI30",
+    "level": 1,
+    "name": {
+      "local": "Sud-Comoe",
+      "en": "Sud-Comoe",
+      "slug": "sud-comoe-ci30"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI30",
+      "level": 1,
+      "name": {
+        "local": "Sud-Comoe",
+        "en": "Sud-Comoe",
+        "slug": "sud-comoe-ci30"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.712",
+    "lon": "-3.149"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CI330102",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Djibrosso",
+      "en": "Djibrosso",
+      "slug": "djibrosso-ci330102"
+    },
+    "code": {
+      "id": "CI330102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3301",
+      "level": 2,
+      "name": {
+        "local": "Kani",
+        "en": "Kani",
+        "slug": "kani-ci3301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI33",
+        "level": 1,
+        "name": {
+          "local": "Worodougou",
+          "en": "Worodougou",
+          "slug": "worodougou-ci33"
+        }
+      },
+      {
+        "id": "CI3301",
+        "level": 2,
+        "name": {
+          "local": "Kani",
+          "en": "Kani",
+          "slug": "kani-ci3301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.796",
+      "lon": "-7.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI330103",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Fadiadougou",
+      "en": "Fadiadougou",
+      "slug": "fadiadougou-ci330103"
+    },
+    "code": {
+      "id": "CI330103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3301",
+      "level": 2,
+      "name": {
+        "local": "Kani",
+        "en": "Kani",
+        "slug": "kani-ci3301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI33",
+        "level": 1,
+        "name": {
+          "local": "Worodougou",
+          "en": "Worodougou",
+          "slug": "worodougou-ci33"
+        }
+      },
+      {
+        "id": "CI3301",
+        "level": 2,
+        "name": {
+          "local": "Kani",
+          "en": "Kani",
+          "slug": "kani-ci3301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.76",
+      "lon": "-6.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI330101",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kani",
+      "en": "Kani",
+      "slug": "kani-ci330101"
+    },
+    "code": {
+      "id": "CI330101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3301",
+      "level": 2,
+      "name": {
+        "local": "Kani",
+        "en": "Kani",
+        "slug": "kani-ci3301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI33",
+        "level": 1,
+        "name": {
+          "local": "Worodougou",
+          "en": "Worodougou",
+          "slug": "worodougou-ci33"
+        }
+      },
+      {
+        "id": "CI3301",
+        "level": 2,
+        "name": {
+          "local": "Kani",
+          "en": "Kani",
+          "slug": "kani-ci3301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.509",
+      "lon": "-6.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI330104",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Morondo",
+      "en": "Morondo",
+      "slug": "morondo-ci330104"
+    },
+    "code": {
+      "id": "CI330104",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3301",
+      "level": 2,
+      "name": {
+        "local": "Kani",
+        "en": "Kani",
+        "slug": "kani-ci3301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI33",
+        "level": 1,
+        "name": {
+          "local": "Worodougou",
+          "en": "Worodougou",
+          "slug": "worodougou-ci33"
+        }
+      },
+      {
+        "id": "CI3301",
+        "level": 2,
+        "name": {
+          "local": "Kani",
+          "en": "Kani",
+          "slug": "kani-ci3301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.938",
+      "lon": "-6.802"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

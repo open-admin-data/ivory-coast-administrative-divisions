@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CI270301",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kouassi-Kouassikro",
+      "en": "Kouassi-Kouassikro",
+      "slug": "kouassi-kouassikro-ci270301"
+    },
+    "code": {
+      "id": "CI270301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2703",
+      "level": 2,
+      "name": {
+        "local": "Kouassi-Kouassikro",
+        "en": "Kouassi-Kouassikro",
+        "slug": "kouassi-kouassikro-ci2703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI27",
+        "level": 1,
+        "name": {
+          "local": "N'Zi",
+          "en": "N'Zi",
+          "slug": "nzi-ci27"
+        }
+      },
+      {
+        "id": "CI2703",
+        "level": 2,
+        "name": {
+          "local": "Kouassi-Kouassikro",
+          "en": "Kouassi-Kouassikro",
+          "slug": "kouassi-kouassikro-ci2703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.354",
+      "lon": "-4.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI270302",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mékro",
+      "en": "Mékro",
+      "slug": "mkro-ci270302"
+    },
+    "code": {
+      "id": "CI270302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2703",
+      "level": 2,
+      "name": {
+        "local": "Kouassi-Kouassikro",
+        "en": "Kouassi-Kouassikro",
+        "slug": "kouassi-kouassikro-ci2703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI27",
+        "level": 1,
+        "name": {
+          "local": "N'Zi",
+          "en": "N'Zi",
+          "slug": "nzi-ci27"
+        }
+      },
+      {
+        "id": "CI2703",
+        "level": 2,
+        "name": {
+          "local": "Kouassi-Kouassikro",
+          "en": "Kouassi-Kouassikro",
+          "slug": "kouassi-kouassikro-ci2703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.198",
+      "lon": "-4.657"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CI260202",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dabouyo",
+      "en": "Dabouyo",
+      "slug": "dabouyo-ci260202"
+    },
+    "code": {
+      "id": "CI260202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2602",
+      "level": 2,
+      "name": {
+        "local": "Guéyo",
+        "en": "Guéyo",
+        "slug": "guyo-ci2602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI26",
+        "level": 1,
+        "name": {
+          "local": "Nawa",
+          "en": "Nawa",
+          "slug": "nawa-ci26"
+        }
+      },
+      {
+        "id": "CI2602",
+        "level": 2,
+        "name": {
+          "local": "Guéyo",
+          "en": "Guéyo",
+          "slug": "guyo-ci2602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.495",
+      "lon": "-6.084"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI260201",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Guéyo",
+      "en": "Guéyo",
+      "slug": "guyo-ci260201"
+    },
+    "code": {
+      "id": "CI260201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2602",
+      "level": 2,
+      "name": {
+        "local": "Guéyo",
+        "en": "Guéyo",
+        "slug": "guyo-ci2602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI26",
+        "level": 1,
+        "name": {
+          "local": "Nawa",
+          "en": "Nawa",
+          "slug": "nawa-ci26"
+        }
+      },
+      {
+        "id": "CI2602",
+        "level": 2,
+        "name": {
+          "local": "Guéyo",
+          "en": "Guéyo",
+          "slug": "guyo-ci2602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.687",
+      "lon": "-6.143"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

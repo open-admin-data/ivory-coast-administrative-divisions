@@ -1,0 +1,326 @@
+[
+  {
+    "id": "CI240101",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Adzopé",
+      "en": "Adzopé",
+      "slug": "adzop-ci240101"
+    },
+    "code": {
+      "id": "CI240101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2401",
+      "level": 2,
+      "name": {
+        "local": "Adzopé",
+        "en": "Adzopé",
+        "slug": "adzop-ci2401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI24",
+        "level": 1,
+        "name": {
+          "local": "Me",
+          "en": "Me",
+          "slug": "me-ci24"
+        }
+      },
+      {
+        "id": "CI2401",
+        "level": 2,
+        "name": {
+          "local": "Adzopé",
+          "en": "Adzopé",
+          "slug": "adzop-ci2401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.217",
+      "lon": "-3.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI240102",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Agou",
+      "en": "Agou",
+      "slug": "agou-ci240102"
+    },
+    "code": {
+      "id": "CI240102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2401",
+      "level": 2,
+      "name": {
+        "local": "Adzopé",
+        "en": "Adzopé",
+        "slug": "adzop-ci2401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI24",
+        "level": 1,
+        "name": {
+          "local": "Me",
+          "en": "Me",
+          "slug": "me-ci24"
+        }
+      },
+      {
+        "id": "CI2401",
+        "level": 2,
+        "name": {
+          "local": "Adzopé",
+          "en": "Adzopé",
+          "slug": "adzop-ci2401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6",
+      "lon": "-3.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI240103",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Annepé",
+      "en": "Annepé",
+      "slug": "annep-ci240103"
+    },
+    "code": {
+      "id": "CI240103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2401",
+      "level": 2,
+      "name": {
+        "local": "Adzopé",
+        "en": "Adzopé",
+        "slug": "adzop-ci2401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI24",
+        "level": 1,
+        "name": {
+          "local": "Me",
+          "en": "Me",
+          "slug": "me-ci24"
+        }
+      },
+      {
+        "id": "CI2401",
+        "level": 2,
+        "name": {
+          "local": "Adzopé",
+          "en": "Adzopé",
+          "slug": "adzop-ci2401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.924",
+      "lon": "-3.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI240104",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Assikoi",
+      "en": "Assikoi",
+      "slug": "assikoi-ci240104"
+    },
+    "code": {
+      "id": "CI240104",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2401",
+      "level": 2,
+      "name": {
+        "local": "Adzopé",
+        "en": "Adzopé",
+        "slug": "adzop-ci2401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI24",
+        "level": 1,
+        "name": {
+          "local": "Me",
+          "en": "Me",
+          "slug": "me-ci24"
+        }
+      },
+      {
+        "id": "CI2401",
+        "level": 2,
+        "name": {
+          "local": "Adzopé",
+          "en": "Adzopé",
+          "slug": "adzop-ci2401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.969",
+      "lon": "-3.826"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI240105",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bécédi-Brignan",
+      "en": "Bécédi-Brignan",
+      "slug": "bcdi-brignan-ci240105"
+    },
+    "code": {
+      "id": "CI240105",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2401",
+      "level": 2,
+      "name": {
+        "local": "Adzopé",
+        "en": "Adzopé",
+        "slug": "adzop-ci2401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI24",
+        "level": 1,
+        "name": {
+          "local": "Me",
+          "en": "Me",
+          "slug": "me-ci24"
+        }
+      },
+      {
+        "id": "CI2401",
+        "level": 2,
+        "name": {
+          "local": "Adzopé",
+          "en": "Adzopé",
+          "slug": "adzop-ci2401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.869",
+      "lon": "-4.021"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI240106",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Yakassé-Mé",
+      "en": "Yakassé-Mé",
+      "slug": "yakass-m-ci240106"
+    },
+    "code": {
+      "id": "CI240106",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2401",
+      "level": 2,
+      "name": {
+        "local": "Adzopé",
+        "en": "Adzopé",
+        "slug": "adzop-ci2401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI24",
+        "level": 1,
+        "name": {
+          "local": "Me",
+          "en": "Me",
+          "slug": "me-ci24"
+        }
+      },
+      {
+        "id": "CI2401",
+        "level": 2,
+        "name": {
+          "local": "Adzopé",
+          "en": "Adzopé",
+          "slug": "adzop-ci2401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.831",
+      "lon": "-3.939"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

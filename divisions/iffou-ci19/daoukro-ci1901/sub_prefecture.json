@@ -1,0 +1,380 @@
+[
+  {
+    "id": "CI190101",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Akpassanou",
+      "en": "Akpassanou",
+      "slug": "akpassanou-ci190101"
+    },
+    "code": {
+      "id": "CI190101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1901",
+      "level": 2,
+      "name": {
+        "local": "Daoukro",
+        "en": "Daoukro",
+        "slug": "daoukro-ci1901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI19",
+        "level": 1,
+        "name": {
+          "local": "Iffou",
+          "en": "Iffou",
+          "slug": "iffou-ci19"
+        }
+      },
+      {
+        "id": "CI1901",
+        "level": 2,
+        "name": {
+          "local": "Daoukro",
+          "en": "Daoukro",
+          "slug": "daoukro-ci1901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.341",
+      "lon": "-4.473"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI190102",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ananda",
+      "en": "Ananda",
+      "slug": "ananda-ci190102"
+    },
+    "code": {
+      "id": "CI190102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1901",
+      "level": 2,
+      "name": {
+        "local": "Daoukro",
+        "en": "Daoukro",
+        "slug": "daoukro-ci1901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI19",
+        "level": 1,
+        "name": {
+          "local": "Iffou",
+          "en": "Iffou",
+          "slug": "iffou-ci19"
+        }
+      },
+      {
+        "id": "CI1901",
+        "level": 2,
+        "name": {
+          "local": "Daoukro",
+          "en": "Daoukro",
+          "slug": "daoukro-ci1901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.296",
+      "lon": "-4.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI190103",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Daoukro",
+      "en": "Daoukro",
+      "slug": "daoukro-ci190103"
+    },
+    "code": {
+      "id": "CI190103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1901",
+      "level": 2,
+      "name": {
+        "local": "Daoukro",
+        "en": "Daoukro",
+        "slug": "daoukro-ci1901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI19",
+        "level": 1,
+        "name": {
+          "local": "Iffou",
+          "en": "Iffou",
+          "slug": "iffou-ci19"
+        }
+      },
+      {
+        "id": "CI1901",
+        "level": 2,
+        "name": {
+          "local": "Daoukro",
+          "en": "Daoukro",
+          "slug": "daoukro-ci1901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.071",
+      "lon": "-3.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI190104",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ettrokro",
+      "en": "Ettrokro",
+      "slug": "ettrokro-ci190104"
+    },
+    "code": {
+      "id": "CI190104",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1901",
+      "level": 2,
+      "name": {
+        "local": "Daoukro",
+        "en": "Daoukro",
+        "slug": "daoukro-ci1901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI19",
+        "level": 1,
+        "name": {
+          "local": "Iffou",
+          "en": "Iffou",
+          "slug": "iffou-ci19"
+        }
+      },
+      {
+        "id": "CI1901",
+        "level": 2,
+        "name": {
+          "local": "Daoukro",
+          "en": "Daoukro",
+          "slug": "daoukro-ci1901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.254",
+      "lon": "-3.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI190105",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "N'Gattakro",
+      "en": "N'Gattakro",
+      "slug": "ngattakro-ci190105"
+    },
+    "code": {
+      "id": "CI190105",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1901",
+      "level": 2,
+      "name": {
+        "local": "Daoukro",
+        "en": "Daoukro",
+        "slug": "daoukro-ci1901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI19",
+        "level": 1,
+        "name": {
+          "local": "Iffou",
+          "en": "Iffou",
+          "slug": "iffou-ci19"
+        }
+      },
+      {
+        "id": "CI1901",
+        "level": 2,
+        "name": {
+          "local": "Daoukro",
+          "en": "Daoukro",
+          "slug": "daoukro-ci1901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.094",
+      "lon": "-3.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI190106",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ouellé",
+      "en": "Ouellé",
+      "slug": "ouell-ci190106"
+    },
+    "code": {
+      "id": "CI190106",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1901",
+      "level": 2,
+      "name": {
+        "local": "Daoukro",
+        "en": "Daoukro",
+        "slug": "daoukro-ci1901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI19",
+        "level": 1,
+        "name": {
+          "local": "Iffou",
+          "en": "Iffou",
+          "slug": "iffou-ci19"
+        }
+      },
+      {
+        "id": "CI1901",
+        "level": 2,
+        "name": {
+          "local": "Daoukro",
+          "en": "Daoukro",
+          "slug": "daoukro-ci1901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.285",
+      "lon": "-4.028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI190107",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Samanza",
+      "en": "Samanza",
+      "slug": "samanza-ci190107"
+    },
+    "code": {
+      "id": "CI190107",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1901",
+      "level": 2,
+      "name": {
+        "local": "Daoukro",
+        "en": "Daoukro",
+        "slug": "daoukro-ci1901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI19",
+        "level": 1,
+        "name": {
+          "local": "Iffou",
+          "en": "Iffou",
+          "slug": "iffou-ci19"
+        }
+      },
+      {
+        "id": "CI1901",
+        "level": 2,
+        "name": {
+          "local": "Daoukro",
+          "en": "Daoukro",
+          "slug": "daoukro-ci1901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.419",
+      "lon": "-3.606"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

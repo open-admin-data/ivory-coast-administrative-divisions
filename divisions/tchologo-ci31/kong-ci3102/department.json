@@ -1,0 +1,47 @@
+{
+  "id": "CI3102",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Kong",
+    "en": "Kong",
+    "slug": "kong-ci3102"
+  },
+  "code": {
+    "id": "CI3102",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI31",
+    "level": 1,
+    "name": {
+      "local": "Tchologo",
+      "en": "Tchologo",
+      "slug": "tchologo-ci31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI31",
+      "level": 1,
+      "name": {
+        "local": "Tchologo",
+        "en": "Tchologo",
+        "slug": "tchologo-ci31"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.192",
+    "lon": "-4.465"
+  },
+  "metadata": {},
+  "source": {}
+}

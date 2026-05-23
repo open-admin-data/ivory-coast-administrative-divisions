@@ -1,0 +1,30 @@
+{
+  "id": "CI04",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Bafing",
+    "en": "Bafing",
+    "slug": "bafing-ci04"
+  },
+  "code": {
+    "id": "CI04",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 3,
+    "sub_prefecture": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.456",
+    "lon": "-7.417"
+  },
+  "metadata": {},
+  "source": {}
+}

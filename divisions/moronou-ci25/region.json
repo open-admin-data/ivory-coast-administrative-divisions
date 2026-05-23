@@ -1,0 +1,30 @@
+{
+  "id": "CI25",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Moronou",
+    "en": "Moronou",
+    "slug": "moronou-ci25"
+  },
+  "code": {
+    "id": "CI25",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 3,
+    "sub_prefecture": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.594",
+    "lon": "-4.174"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,272 @@
+[
+  {
+    "id": "CI160201",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bagohouo",
+      "en": "Bagohouo",
+      "slug": "bagohouo-ci160201"
+    },
+    "code": {
+      "id": "CI160201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1602",
+      "level": 2,
+      "name": {
+        "local": "Duékoué",
+        "en": "Duékoué",
+        "slug": "dukou-ci1602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI16",
+        "level": 1,
+        "name": {
+          "local": "Guemon",
+          "en": "Guemon",
+          "slug": "guemon-ci16"
+        }
+      },
+      {
+        "id": "CI1602",
+        "level": 2,
+        "name": {
+          "local": "Duékoué",
+          "en": "Duékoué",
+          "slug": "dukou-ci1602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.875",
+      "lon": "-7.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI160202",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Duékoué",
+      "en": "Duékoué",
+      "slug": "dukou-ci160202"
+    },
+    "code": {
+      "id": "CI160202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1602",
+      "level": 2,
+      "name": {
+        "local": "Duékoué",
+        "en": "Duékoué",
+        "slug": "dukou-ci1602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI16",
+        "level": 1,
+        "name": {
+          "local": "Guemon",
+          "en": "Guemon",
+          "slug": "guemon-ci16"
+        }
+      },
+      {
+        "id": "CI1602",
+        "level": 2,
+        "name": {
+          "local": "Duékoué",
+          "en": "Duékoué",
+          "slug": "dukou-ci1602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.715",
+      "lon": "-7.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI160203",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gbapleu",
+      "en": "Gbapleu",
+      "slug": "gbapleu-ci160203"
+    },
+    "code": {
+      "id": "CI160203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1602",
+      "level": 2,
+      "name": {
+        "local": "Duékoué",
+        "en": "Duékoué",
+        "slug": "dukou-ci1602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI16",
+        "level": 1,
+        "name": {
+          "local": "Guemon",
+          "en": "Guemon",
+          "slug": "guemon-ci16"
+        }
+      },
+      {
+        "id": "CI1602",
+        "level": 2,
+        "name": {
+          "local": "Duékoué",
+          "en": "Duékoué",
+          "slug": "dukou-ci1602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.496",
+      "lon": "-7.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI160204",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Guéhiébly",
+      "en": "Guéhiébly",
+      "slug": "guhibly-ci160204"
+    },
+    "code": {
+      "id": "CI160204",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1602",
+      "level": 2,
+      "name": {
+        "local": "Duékoué",
+        "en": "Duékoué",
+        "slug": "dukou-ci1602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI16",
+        "level": 1,
+        "name": {
+          "local": "Guemon",
+          "en": "Guemon",
+          "slug": "guemon-ci16"
+        }
+      },
+      {
+        "id": "CI1602",
+        "level": 2,
+        "name": {
+          "local": "Duékoué",
+          "en": "Duékoué",
+          "slug": "dukou-ci1602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.879",
+      "lon": "-7.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI160205",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Guézon",
+      "en": "Guézon",
+      "slug": "guzon-ci160205"
+    },
+    "code": {
+      "id": "CI160205",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1602",
+      "level": 2,
+      "name": {
+        "local": "Duékoué",
+        "en": "Duékoué",
+        "slug": "dukou-ci1602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI16",
+        "level": 1,
+        "name": {
+          "local": "Guemon",
+          "en": "Guemon",
+          "slug": "guemon-ci16"
+        }
+      },
+      {
+        "id": "CI1602",
+        "level": 2,
+        "name": {
+          "local": "Duékoué",
+          "en": "Duékoué",
+          "slug": "dukou-ci1602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.691",
+      "lon": "-7.124"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

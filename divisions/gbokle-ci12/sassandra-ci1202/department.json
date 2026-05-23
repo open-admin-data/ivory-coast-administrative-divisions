@@ -1,0 +1,47 @@
+{
+  "id": "CI1202",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Sassandra",
+    "en": "Sassandra",
+    "slug": "sassandra-ci1202"
+  },
+  "code": {
+    "id": "CI1202",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI12",
+    "level": 1,
+    "name": {
+      "local": "Gbokle",
+      "en": "Gbokle",
+      "slug": "gbokle-ci12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI12",
+      "level": 1,
+      "name": {
+        "local": "Gbokle",
+        "en": "Gbokle",
+        "slug": "gbokle-ci12"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.243",
+    "lon": "-6.057"
+  },
+  "metadata": {},
+  "source": {}
+}

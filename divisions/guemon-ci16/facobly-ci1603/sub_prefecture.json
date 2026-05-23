@@ -1,0 +1,272 @@
+[
+  {
+    "id": "CI160301",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Facobly",
+      "en": "Facobly",
+      "slug": "facobly-ci160301"
+    },
+    "code": {
+      "id": "CI160301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1603",
+      "level": 2,
+      "name": {
+        "local": "Facobly",
+        "en": "Facobly",
+        "slug": "facobly-ci1603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI16",
+        "level": 1,
+        "name": {
+          "local": "Guemon",
+          "en": "Guemon",
+          "slug": "guemon-ci16"
+        }
+      },
+      {
+        "id": "CI1603",
+        "level": 2,
+        "name": {
+          "local": "Facobly",
+          "en": "Facobly",
+          "slug": "facobly-ci1603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.407",
+      "lon": "-7.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI160302",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Guézon",
+      "en": "Guézon",
+      "slug": "guzon-ci160302"
+    },
+    "code": {
+      "id": "CI160302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1603",
+      "level": 2,
+      "name": {
+        "local": "Facobly",
+        "en": "Facobly",
+        "slug": "facobly-ci1603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI16",
+        "level": 1,
+        "name": {
+          "local": "Guemon",
+          "en": "Guemon",
+          "slug": "guemon-ci16"
+        }
+      },
+      {
+        "id": "CI1603",
+        "level": 2,
+        "name": {
+          "local": "Facobly",
+          "en": "Facobly",
+          "slug": "facobly-ci1603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.413",
+      "lon": "-7.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI160303",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Koua",
+      "en": "Koua",
+      "slug": "koua-ci160303"
+    },
+    "code": {
+      "id": "CI160303",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1603",
+      "level": 2,
+      "name": {
+        "local": "Facobly",
+        "en": "Facobly",
+        "slug": "facobly-ci1603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI16",
+        "level": 1,
+        "name": {
+          "local": "Guemon",
+          "en": "Guemon",
+          "slug": "guemon-ci16"
+        }
+      },
+      {
+        "id": "CI1603",
+        "level": 2,
+        "name": {
+          "local": "Facobly",
+          "en": "Facobly",
+          "slug": "facobly-ci1603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.567",
+      "lon": "-7.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI160304",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sémien",
+      "en": "Sémien",
+      "slug": "smien-ci160304"
+    },
+    "code": {
+      "id": "CI160304",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1603",
+      "level": 2,
+      "name": {
+        "local": "Facobly",
+        "en": "Facobly",
+        "slug": "facobly-ci1603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI16",
+        "level": 1,
+        "name": {
+          "local": "Guemon",
+          "en": "Guemon",
+          "slug": "guemon-ci16"
+        }
+      },
+      {
+        "id": "CI1603",
+        "level": 2,
+        "name": {
+          "local": "Facobly",
+          "en": "Facobly",
+          "slug": "facobly-ci1603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.564",
+      "lon": "-7.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI160305",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tiény-Séably",
+      "en": "Tiény-Séably",
+      "slug": "tiny-sably-ci160305"
+    },
+    "code": {
+      "id": "CI160305",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1603",
+      "level": 2,
+      "name": {
+        "local": "Facobly",
+        "en": "Facobly",
+        "slug": "facobly-ci1603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI16",
+        "level": 1,
+        "name": {
+          "local": "Guemon",
+          "en": "Guemon",
+          "slug": "guemon-ci16"
+        }
+      },
+      {
+        "id": "CI1603",
+        "level": 2,
+        "name": {
+          "local": "Facobly",
+          "en": "Facobly",
+          "slug": "facobly-ci1603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.372",
+      "lon": "-7.447"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "CI1403",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Sandegue",
+    "en": "Sandegue",
+    "slug": "sandegue-ci1403"
+  },
+  "code": {
+    "id": "CI1403",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI14",
+    "level": 1,
+    "name": {
+      "local": "Gontougo",
+      "en": "Gontougo",
+      "slug": "gontougo-ci14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI14",
+      "level": 1,
+      "name": {
+        "local": "Gontougo",
+        "en": "Gontougo",
+        "slug": "gontougo-ci14"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.117",
+    "lon": "-3.716"
+  },
+  "metadata": {},
+  "source": {}
+}

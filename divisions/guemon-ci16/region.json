@@ -1,0 +1,30 @@
+{
+  "id": "CI16",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Guemon",
+    "en": "Guemon",
+    "slug": "guemon-ci16"
+  },
+  "code": {
+    "id": "CI16",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 4,
+    "sub_prefecture": 23
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.029",
+    "lon": "-7.39"
+  },
+  "metadata": {},
+  "source": {}
+}

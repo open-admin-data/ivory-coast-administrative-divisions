@@ -1,0 +1,380 @@
+[
+  {
+    "id": "CI320201",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Daleu",
+      "en": "Daleu",
+      "slug": "daleu-ci320201"
+    },
+    "code": {
+      "id": "CI320201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3202",
+      "level": 2,
+      "name": {
+        "local": "Danané",
+        "en": "Danané",
+        "slug": "danan-ci3202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI32",
+        "level": 1,
+        "name": {
+          "local": "Tonkpi",
+          "en": "Tonkpi",
+          "slug": "tonkpi-ci32"
+        }
+      },
+      {
+        "id": "CI3202",
+        "level": 2,
+        "name": {
+          "local": "Danané",
+          "en": "Danané",
+          "slug": "danan-ci3202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.576",
+      "lon": "-8.072"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI320202",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Danané",
+      "en": "Danané",
+      "slug": "danan-ci320202"
+    },
+    "code": {
+      "id": "CI320202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3202",
+      "level": 2,
+      "name": {
+        "local": "Danané",
+        "en": "Danané",
+        "slug": "danan-ci3202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI32",
+        "level": 1,
+        "name": {
+          "local": "Tonkpi",
+          "en": "Tonkpi",
+          "slug": "tonkpi-ci32"
+        }
+      },
+      {
+        "id": "CI3202",
+        "level": 2,
+        "name": {
+          "local": "Danané",
+          "en": "Danané",
+          "slug": "danan-ci3202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.303",
+      "lon": "-8.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI320203",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gbon-Houyé",
+      "en": "Gbon-Houyé",
+      "slug": "gbon-houy-ci320203"
+    },
+    "code": {
+      "id": "CI320203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3202",
+      "level": 2,
+      "name": {
+        "local": "Danané",
+        "en": "Danané",
+        "slug": "danan-ci3202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI32",
+        "level": 1,
+        "name": {
+          "local": "Tonkpi",
+          "en": "Tonkpi",
+          "slug": "tonkpi-ci32"
+        }
+      },
+      {
+        "id": "CI3202",
+        "level": 2,
+        "name": {
+          "local": "Danané",
+          "en": "Danané",
+          "slug": "danan-ci3202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.453",
+      "lon": "-8.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI320204",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kouan-Houlé",
+      "en": "Kouan-Houlé",
+      "slug": "kouan-houl-ci320204"
+    },
+    "code": {
+      "id": "CI320204",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3202",
+      "level": 2,
+      "name": {
+        "local": "Danané",
+        "en": "Danané",
+        "slug": "danan-ci3202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI32",
+        "level": 1,
+        "name": {
+          "local": "Tonkpi",
+          "en": "Tonkpi",
+          "slug": "tonkpi-ci32"
+        }
+      },
+      {
+        "id": "CI3202",
+        "level": 2,
+        "name": {
+          "local": "Danané",
+          "en": "Danané",
+          "slug": "danan-ci3202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.432",
+      "lon": "-8.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI320205",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mahapleu",
+      "en": "Mahapleu",
+      "slug": "mahapleu-ci320205"
+    },
+    "code": {
+      "id": "CI320205",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3202",
+      "level": 2,
+      "name": {
+        "local": "Danané",
+        "en": "Danané",
+        "slug": "danan-ci3202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI32",
+        "level": 1,
+        "name": {
+          "local": "Tonkpi",
+          "en": "Tonkpi",
+          "slug": "tonkpi-ci32"
+        }
+      },
+      {
+        "id": "CI3202",
+        "level": 2,
+        "name": {
+          "local": "Danané",
+          "en": "Danané",
+          "slug": "danan-ci3202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.207",
+      "lon": "-7.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI320206",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Seileu",
+      "en": "Seileu",
+      "slug": "seileu-ci320206"
+    },
+    "code": {
+      "id": "CI320206",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3202",
+      "level": 2,
+      "name": {
+        "local": "Danané",
+        "en": "Danané",
+        "slug": "danan-ci3202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI32",
+        "level": 1,
+        "name": {
+          "local": "Tonkpi",
+          "en": "Tonkpi",
+          "slug": "tonkpi-ci32"
+        }
+      },
+      {
+        "id": "CI3202",
+        "level": 2,
+        "name": {
+          "local": "Danané",
+          "en": "Danané",
+          "slug": "danan-ci3202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.127",
+      "lon": "-8.193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI320207",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Zonneu",
+      "en": "Zonneu",
+      "slug": "zonneu-ci320207"
+    },
+    "code": {
+      "id": "CI320207",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3202",
+      "level": 2,
+      "name": {
+        "local": "Danané",
+        "en": "Danané",
+        "slug": "danan-ci3202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI32",
+        "level": 1,
+        "name": {
+          "local": "Tonkpi",
+          "en": "Tonkpi",
+          "slug": "tonkpi-ci32"
+        }
+      },
+      {
+        "id": "CI3202",
+        "level": 2,
+        "name": {
+          "local": "Danané",
+          "en": "Danané",
+          "slug": "danan-ci3202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.1",
+      "lon": "-8.015"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

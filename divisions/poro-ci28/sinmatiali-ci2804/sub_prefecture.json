@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CI280402",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bahouakaha",
+      "en": "Bahouakaha",
+      "slug": "bahouakaha-ci280402"
+    },
+    "code": {
+      "id": "CI280402",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2804",
+      "level": 2,
+      "name": {
+        "local": "Sinématiali",
+        "en": "Sinématiali",
+        "slug": "sinmatiali-ci2804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI28",
+        "level": 1,
+        "name": {
+          "local": "Poro",
+          "en": "Poro",
+          "slug": "poro-ci28"
+        }
+      },
+      {
+        "id": "CI2804",
+        "level": 2,
+        "name": {
+          "local": "Sinématiali",
+          "en": "Sinématiali",
+          "slug": "sinmatiali-ci2804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.507",
+      "lon": "-5.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI280403",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kagbolodougou",
+      "en": "Kagbolodougou",
+      "slug": "kagbolodougou-ci280403"
+    },
+    "code": {
+      "id": "CI280403",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2804",
+      "level": 2,
+      "name": {
+        "local": "Sinématiali",
+        "en": "Sinématiali",
+        "slug": "sinmatiali-ci2804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI28",
+        "level": 1,
+        "name": {
+          "local": "Poro",
+          "en": "Poro",
+          "slug": "poro-ci28"
+        }
+      },
+      {
+        "id": "CI2804",
+        "level": 2,
+        "name": {
+          "local": "Sinématiali",
+          "en": "Sinématiali",
+          "slug": "sinmatiali-ci2804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.43",
+      "lon": "-5.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI280404",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sédiogo",
+      "en": "Sédiogo",
+      "slug": "sdiogo-ci280404"
+    },
+    "code": {
+      "id": "CI280404",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2804",
+      "level": 2,
+      "name": {
+        "local": "Sinématiali",
+        "en": "Sinématiali",
+        "slug": "sinmatiali-ci2804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI28",
+        "level": 1,
+        "name": {
+          "local": "Poro",
+          "en": "Poro",
+          "slug": "poro-ci28"
+        }
+      },
+      {
+        "id": "CI2804",
+        "level": 2,
+        "name": {
+          "local": "Sinématiali",
+          "en": "Sinématiali",
+          "slug": "sinmatiali-ci2804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.534",
+      "lon": "-5.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI280401",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sinématiali",
+      "en": "Sinématiali",
+      "slug": "sinmatiali-ci280401"
+    },
+    "code": {
+      "id": "CI280401",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2804",
+      "level": 2,
+      "name": {
+        "local": "Sinématiali",
+        "en": "Sinématiali",
+        "slug": "sinmatiali-ci2804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI28",
+        "level": 1,
+        "name": {
+          "local": "Poro",
+          "en": "Poro",
+          "slug": "poro-ci28"
+        }
+      },
+      {
+        "id": "CI2804",
+        "level": 2,
+        "name": {
+          "local": "Sinématiali",
+          "en": "Sinématiali",
+          "slug": "sinmatiali-ci2804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.579",
+      "lon": "-5.389"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

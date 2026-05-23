@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CI280302",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bougou",
+      "en": "Bougou",
+      "slug": "bougou-ci280302"
+    },
+    "code": {
+      "id": "CI280302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2803",
+      "level": 2,
+      "name": {
+        "local": "M'Bengué",
+        "en": "M'Bengué",
+        "slug": "mbengu-ci2803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI28",
+        "level": 1,
+        "name": {
+          "local": "Poro",
+          "en": "Poro",
+          "slug": "poro-ci28"
+        }
+      },
+      {
+        "id": "CI2803",
+        "level": 2,
+        "name": {
+          "local": "M'Bengué",
+          "en": "M'Bengué",
+          "slug": "mbengu-ci2803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.261",
+      "lon": "-5.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI280303",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Katiali",
+      "en": "Katiali",
+      "slug": "katiali-ci280303"
+    },
+    "code": {
+      "id": "CI280303",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2803",
+      "level": 2,
+      "name": {
+        "local": "M'Bengué",
+        "en": "M'Bengué",
+        "slug": "mbengu-ci2803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI28",
+        "level": 1,
+        "name": {
+          "local": "Poro",
+          "en": "Poro",
+          "slug": "poro-ci28"
+        }
+      },
+      {
+        "id": "CI2803",
+        "level": 2,
+        "name": {
+          "local": "M'Bengué",
+          "en": "M'Bengué",
+          "slug": "mbengu-ci2803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.811",
+      "lon": "-5.94"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI280304",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Katogo",
+      "en": "Katogo",
+      "slug": "katogo-ci280304"
+    },
+    "code": {
+      "id": "CI280304",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2803",
+      "level": 2,
+      "name": {
+        "local": "M'Bengué",
+        "en": "M'Bengué",
+        "slug": "mbengu-ci2803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI28",
+        "level": 1,
+        "name": {
+          "local": "Poro",
+          "en": "Poro",
+          "slug": "poro-ci28"
+        }
+      },
+      {
+        "id": "CI2803",
+        "level": 2,
+        "name": {
+          "local": "M'Bengué",
+          "en": "M'Bengué",
+          "slug": "mbengu-ci2803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.136",
+      "lon": "-6.122"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI280301",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "M'Bengué",
+      "en": "M'Bengué",
+      "slug": "mbengu-ci280301"
+    },
+    "code": {
+      "id": "CI280301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2803",
+      "level": 2,
+      "name": {
+        "local": "M'Bengué",
+        "en": "M'Bengué",
+        "slug": "mbengu-ci2803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI28",
+        "level": 1,
+        "name": {
+          "local": "Poro",
+          "en": "Poro",
+          "slug": "poro-ci28"
+        }
+      },
+      {
+        "id": "CI2803",
+        "level": 2,
+        "name": {
+          "local": "M'Bengué",
+          "en": "M'Bengué",
+          "slug": "mbengu-ci2803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.929",
+      "lon": "-5.945"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

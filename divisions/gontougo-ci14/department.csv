@@ -1,0 +1,6 @@
+id,name.local,name.en,name.slug,code.id,children_count.sub_prefecture,geo.lat,geo.lon
+CI1401,Bondoukou,Bondoukou,bondoukou-ci1401,CI1401,12,8.278,-2.963
+CI1402,Koun Fao,Koun Fao,koun-fao-ci1402,CI1402,6,7.509,-3.376
+CI1403,Sandegue,Sandegue,sandegue-ci1403,CI1403,4,8.117,-3.716
+CI1404,Tanda,Tanda,tanda-ci1404,CI1404,4,7.853,-3.153
+CI1405,Transua,Transua,transua-ci1405,CI1405,3,7.576,-3.043

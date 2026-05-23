@@ -1,0 +1,272 @@
+[
+  {
+    "id": "CI210302",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bako",
+      "en": "Bako",
+      "slug": "bako-ci210302"
+    },
+    "code": {
+      "id": "CI210302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2103",
+      "level": 2,
+      "name": {
+        "local": "Odienne",
+        "en": "Odienne",
+        "slug": "odienne-ci2103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI21",
+        "level": 1,
+        "name": {
+          "local": "Kabadougou",
+          "en": "Kabadougou",
+          "slug": "kabadougou-ci21"
+        }
+      },
+      {
+        "id": "CI2103",
+        "level": 2,
+        "name": {
+          "local": "Odienne",
+          "en": "Odienne",
+          "slug": "odienne-ci2103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.028",
+      "lon": "-7.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI210303",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bougousso",
+      "en": "Bougousso",
+      "slug": "bougousso-ci210303"
+    },
+    "code": {
+      "id": "CI210303",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2103",
+      "level": 2,
+      "name": {
+        "local": "Odienne",
+        "en": "Odienne",
+        "slug": "odienne-ci2103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI21",
+        "level": 1,
+        "name": {
+          "local": "Kabadougou",
+          "en": "Kabadougou",
+          "slug": "kabadougou-ci21"
+        }
+      },
+      {
+        "id": "CI2103",
+        "level": 2,
+        "name": {
+          "local": "Odienne",
+          "en": "Odienne",
+          "slug": "odienne-ci2103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.268",
+      "lon": "-7.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI210304",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dioulatiedougou",
+      "en": "Dioulatiedougou",
+      "slug": "dioulatiedougou-ci210304"
+    },
+    "code": {
+      "id": "CI210304",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2103",
+      "level": 2,
+      "name": {
+        "local": "Odienne",
+        "en": "Odienne",
+        "slug": "odienne-ci2103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI21",
+        "level": 1,
+        "name": {
+          "local": "Kabadougou",
+          "en": "Kabadougou",
+          "slug": "kabadougou-ci21"
+        }
+      },
+      {
+        "id": "CI2103",
+        "level": 2,
+        "name": {
+          "local": "Odienne",
+          "en": "Odienne",
+          "slug": "odienne-ci2103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.926",
+      "lon": "-7.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI210301",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Odienné",
+      "en": "Odienné",
+      "slug": "odienn-ci210301"
+    },
+    "code": {
+      "id": "CI210301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2103",
+      "level": 2,
+      "name": {
+        "local": "Odienne",
+        "en": "Odienne",
+        "slug": "odienne-ci2103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI21",
+        "level": 1,
+        "name": {
+          "local": "Kabadougou",
+          "en": "Kabadougou",
+          "slug": "kabadougou-ci21"
+        }
+      },
+      {
+        "id": "CI2103",
+        "level": 2,
+        "name": {
+          "local": "Odienne",
+          "en": "Odienne",
+          "slug": "odienne-ci2103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.532",
+      "lon": "-7.62"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI210305",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tiémé",
+      "en": "Tiémé",
+      "slug": "tim-ci210305"
+    },
+    "code": {
+      "id": "CI210305",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2103",
+      "level": 2,
+      "name": {
+        "local": "Odienne",
+        "en": "Odienne",
+        "slug": "odienne-ci2103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI21",
+        "level": 1,
+        "name": {
+          "local": "Kabadougou",
+          "en": "Kabadougou",
+          "slug": "kabadougou-ci21"
+        }
+      },
+      {
+        "id": "CI2103",
+        "level": 2,
+        "name": {
+          "local": "Odienne",
+          "en": "Odienne",
+          "slug": "odienne-ci2103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.532",
+      "lon": "-7.33"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

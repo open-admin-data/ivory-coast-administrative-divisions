@@ -1,0 +1,47 @@
+{
+  "id": "CI1903",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Prikro",
+    "en": "Prikro",
+    "slug": "prikro-ci1903"
+  },
+  "code": {
+    "id": "CI1903",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI19",
+    "level": 1,
+    "name": {
+      "local": "Iffou",
+      "en": "Iffou",
+      "slug": "iffou-ci19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI19",
+      "level": 1,
+      "name": {
+        "local": "Iffou",
+        "en": "Iffou",
+        "slug": "iffou-ci19"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.715",
+    "lon": "-3.939"
+  },
+  "metadata": {},
+  "source": {}
+}

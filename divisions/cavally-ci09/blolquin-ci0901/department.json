@@ -1,0 +1,47 @@
+{
+  "id": "CI0901",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Bloléquin",
+    "en": "Bloléquin",
+    "slug": "blolquin-ci0901"
+  },
+  "code": {
+    "id": "CI0901",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI09",
+    "level": 1,
+    "name": {
+      "local": "Cavally",
+      "en": "Cavally",
+      "slug": "cavally-ci09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI09",
+      "level": 1,
+      "name": {
+        "local": "Cavally",
+        "en": "Cavally",
+        "slug": "cavally-ci09"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.626",
+    "lon": "-8.03"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CI240201",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Afféry",
+      "en": "Afféry",
+      "slug": "affry-ci240201"
+    },
+    "code": {
+      "id": "CI240201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2402",
+      "level": 2,
+      "name": {
+        "local": "Akoupé",
+        "en": "Akoupé",
+        "slug": "akoup-ci2402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI24",
+        "level": 1,
+        "name": {
+          "local": "Me",
+          "en": "Me",
+          "slug": "me-ci24"
+        }
+      },
+      {
+        "id": "CI2402",
+        "level": 2,
+        "name": {
+          "local": "Akoupé",
+          "en": "Akoupé",
+          "slug": "akoup-ci2402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.335",
+      "lon": "-4.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI240202",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Akoupé",
+      "en": "Akoupé",
+      "slug": "akoup-ci240202"
+    },
+    "code": {
+      "id": "CI240202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2402",
+      "level": 2,
+      "name": {
+        "local": "Akoupé",
+        "en": "Akoupé",
+        "slug": "akoup-ci2402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI24",
+        "level": 1,
+        "name": {
+          "local": "Me",
+          "en": "Me",
+          "slug": "me-ci24"
+        }
+      },
+      {
+        "id": "CI2402",
+        "level": 2,
+        "name": {
+          "local": "Akoupé",
+          "en": "Akoupé",
+          "slug": "akoup-ci2402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.431",
+      "lon": "-3.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI240203",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bécouéfin",
+      "en": "Bécouéfin",
+      "slug": "bcoufin-ci240203"
+    },
+    "code": {
+      "id": "CI240203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2402",
+      "level": 2,
+      "name": {
+        "local": "Akoupé",
+        "en": "Akoupé",
+        "slug": "akoup-ci2402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI24",
+        "level": 1,
+        "name": {
+          "local": "Me",
+          "en": "Me",
+          "slug": "me-ci24"
+        }
+      },
+      {
+        "id": "CI2402",
+        "level": 2,
+        "name": {
+          "local": "Akoupé",
+          "en": "Akoupé",
+          "slug": "akoup-ci2402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.551",
+      "lon": "-3.752"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

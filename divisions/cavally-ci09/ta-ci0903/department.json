@@ -1,0 +1,47 @@
+{
+  "id": "CI0903",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Taï",
+    "en": "Taï",
+    "slug": "ta-ci0903"
+  },
+  "code": {
+    "id": "CI0903",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI09",
+    "level": 1,
+    "name": {
+      "local": "Cavally",
+      "en": "Cavally",
+      "slug": "cavally-ci09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI09",
+      "level": 1,
+      "name": {
+        "local": "Cavally",
+        "en": "Cavally",
+        "slug": "cavally-ci09"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.01",
+    "lon": "-7.436"
+  },
+  "metadata": {},
+  "source": {}
+}

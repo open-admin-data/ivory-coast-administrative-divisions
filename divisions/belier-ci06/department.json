@@ -1,0 +1,190 @@
+[
+  {
+    "id": "CI0601",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Didievi",
+      "en": "Didievi",
+      "slug": "didievi-ci0601"
+    },
+    "code": {
+      "id": "CI0601",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI06",
+      "level": 1,
+      "name": {
+        "local": "Belier",
+        "en": "Belier",
+        "slug": "belier-ci06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI06",
+        "level": 1,
+        "name": {
+          "local": "Belier",
+          "en": "Belier",
+          "slug": "belier-ci06"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.239",
+      "lon": "-4.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI0602",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Djekanou",
+      "en": "Djekanou",
+      "slug": "djekanou-ci0602"
+    },
+    "code": {
+      "id": "CI0602",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI06",
+      "level": 1,
+      "name": {
+        "local": "Belier",
+        "en": "Belier",
+        "slug": "belier-ci06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI06",
+        "level": 1,
+        "name": {
+          "local": "Belier",
+          "en": "Belier",
+          "slug": "belier-ci06"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.413",
+      "lon": "-5.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI0603",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Tiébissou",
+      "en": "Tiébissou",
+      "slug": "tibissou-ci0603"
+    },
+    "code": {
+      "id": "CI0603",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI06",
+      "level": 1,
+      "name": {
+        "local": "Belier",
+        "en": "Belier",
+        "slug": "belier-ci06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI06",
+        "level": 1,
+        "name": {
+          "local": "Belier",
+          "en": "Belier",
+          "slug": "belier-ci06"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.121",
+      "lon": "-5.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI0604",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Toumodi",
+      "en": "Toumodi",
+      "slug": "toumodi-ci0604"
+    },
+    "code": {
+      "id": "CI0604",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI06",
+      "level": 1,
+      "name": {
+        "local": "Belier",
+        "en": "Belier",
+        "slug": "belier-ci06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI06",
+        "level": 1,
+        "name": {
+          "local": "Belier",
+          "en": "Belier",
+          "slug": "belier-ci06"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.51",
+      "lon": "-4.933"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

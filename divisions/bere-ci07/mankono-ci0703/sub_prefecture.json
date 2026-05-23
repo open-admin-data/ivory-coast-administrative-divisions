@@ -1,0 +1,272 @@
+[
+  {
+    "id": "CI070302",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bouandougou",
+      "en": "Bouandougou",
+      "slug": "bouandougou-ci070302"
+    },
+    "code": {
+      "id": "CI070302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0703",
+      "level": 2,
+      "name": {
+        "local": "Mankono",
+        "en": "Mankono",
+        "slug": "mankono-ci0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI07",
+        "level": 1,
+        "name": {
+          "local": "Bere",
+          "en": "Bere",
+          "slug": "bere-ci07"
+        }
+      },
+      {
+        "id": "CI0703",
+        "level": 2,
+        "name": {
+          "local": "Mankono",
+          "en": "Mankono",
+          "slug": "mankono-ci0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.237",
+      "lon": "-5.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI070301",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mankono",
+      "en": "Mankono",
+      "slug": "mankono-ci070301"
+    },
+    "code": {
+      "id": "CI070301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0703",
+      "level": 2,
+      "name": {
+        "local": "Mankono",
+        "en": "Mankono",
+        "slug": "mankono-ci0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI07",
+        "level": 1,
+        "name": {
+          "local": "Bere",
+          "en": "Bere",
+          "slug": "bere-ci07"
+        }
+      },
+      {
+        "id": "CI0703",
+        "level": 2,
+        "name": {
+          "local": "Mankono",
+          "en": "Mankono",
+          "slug": "mankono-ci0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.049",
+      "lon": "-6.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI070303",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Marandallah",
+      "en": "Marandallah",
+      "slug": "marandallah-ci070303"
+    },
+    "code": {
+      "id": "CI070303",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0703",
+      "level": 2,
+      "name": {
+        "local": "Mankono",
+        "en": "Mankono",
+        "slug": "mankono-ci0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI07",
+        "level": 1,
+        "name": {
+          "local": "Bere",
+          "en": "Bere",
+          "slug": "bere-ci07"
+        }
+      },
+      {
+        "id": "CI0703",
+        "level": 2,
+        "name": {
+          "local": "Mankono",
+          "en": "Mankono",
+          "slug": "mankono-ci0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.473",
+      "lon": "-5.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI070304",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sarhala",
+      "en": "Sarhala",
+      "slug": "sarhala-ci070304"
+    },
+    "code": {
+      "id": "CI070304",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0703",
+      "level": 2,
+      "name": {
+        "local": "Mankono",
+        "en": "Mankono",
+        "slug": "mankono-ci0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI07",
+        "level": 1,
+        "name": {
+          "local": "Bere",
+          "en": "Bere",
+          "slug": "bere-ci07"
+        }
+      },
+      {
+        "id": "CI0703",
+        "level": 2,
+        "name": {
+          "local": "Mankono",
+          "en": "Mankono",
+          "slug": "mankono-ci0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.472",
+      "lon": "-6.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI070305",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tiéningboué",
+      "en": "Tiéningboué",
+      "slug": "tiningbou-ci070305"
+    },
+    "code": {
+      "id": "CI070305",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0703",
+      "level": 2,
+      "name": {
+        "local": "Mankono",
+        "en": "Mankono",
+        "slug": "mankono-ci0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI07",
+        "level": 1,
+        "name": {
+          "local": "Bere",
+          "en": "Bere",
+          "slug": "bere-ci07"
+        }
+      },
+      {
+        "id": "CI0703",
+        "level": 2,
+        "name": {
+          "local": "Mankono",
+          "en": "Mankono",
+          "slug": "mankono-ci0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.156",
+      "lon": "-5.85"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

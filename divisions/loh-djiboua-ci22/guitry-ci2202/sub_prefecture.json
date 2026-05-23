@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CI220202",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dairo Didizo",
+      "en": "Dairo Didizo",
+      "slug": "dairo-didizo-ci220202"
+    },
+    "code": {
+      "id": "CI220202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2202",
+      "level": 2,
+      "name": {
+        "local": "Guitry",
+        "en": "Guitry",
+        "slug": "guitry-ci2202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI22",
+        "level": 1,
+        "name": {
+          "local": "Loh-Djiboua",
+          "en": "Loh-Djiboua",
+          "slug": "loh-djiboua-ci22"
+        }
+      },
+      {
+        "id": "CI2202",
+        "level": 2,
+        "name": {
+          "local": "Guitry",
+          "en": "Guitry",
+          "slug": "guitry-ci2202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.558",
+      "lon": "-5.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI220201",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Guitry",
+      "en": "Guitry",
+      "slug": "guitry-ci220201"
+    },
+    "code": {
+      "id": "CI220201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2202",
+      "level": 2,
+      "name": {
+        "local": "Guitry",
+        "en": "Guitry",
+        "slug": "guitry-ci2202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI22",
+        "level": 1,
+        "name": {
+          "local": "Loh-Djiboua",
+          "en": "Loh-Djiboua",
+          "slug": "loh-djiboua-ci22"
+        }
+      },
+      {
+        "id": "CI2202",
+        "level": 2,
+        "name": {
+          "local": "Guitry",
+          "en": "Guitry",
+          "slug": "guitry-ci2202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.51",
+      "lon": "-5.155"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI220203",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Lauzoua",
+      "en": "Lauzoua",
+      "slug": "lauzoua-ci220203"
+    },
+    "code": {
+      "id": "CI220203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2202",
+      "level": 2,
+      "name": {
+        "local": "Guitry",
+        "en": "Guitry",
+        "slug": "guitry-ci2202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI22",
+        "level": 1,
+        "name": {
+          "local": "Loh-Djiboua",
+          "en": "Loh-Djiboua",
+          "slug": "loh-djiboua-ci22"
+        }
+      },
+      {
+        "id": "CI2202",
+        "level": 2,
+        "name": {
+          "local": "Guitry",
+          "en": "Guitry",
+          "slug": "guitry-ci2202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.301",
+      "lon": "-5.334"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI220204",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Yocoboué",
+      "en": "Yocoboué",
+      "slug": "yocobou-ci220204"
+    },
+    "code": {
+      "id": "CI220204",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2202",
+      "level": 2,
+      "name": {
+        "local": "Guitry",
+        "en": "Guitry",
+        "slug": "guitry-ci2202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI22",
+        "level": 1,
+        "name": {
+          "local": "Loh-Djiboua",
+          "en": "Loh-Djiboua",
+          "slug": "loh-djiboua-ci22"
+        }
+      },
+      {
+        "id": "CI2202",
+        "level": 2,
+        "name": {
+          "local": "Guitry",
+          "en": "Guitry",
+          "slug": "guitry-ci2202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.291",
+      "lon": "-5.129"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

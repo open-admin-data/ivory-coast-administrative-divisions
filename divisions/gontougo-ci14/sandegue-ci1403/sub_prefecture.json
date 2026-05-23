@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CI140302",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bandakagni-Tomora",
+      "en": "Bandakagni-Tomora",
+      "slug": "bandakagni-tomora-ci140302"
+    },
+    "code": {
+      "id": "CI140302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1403",
+      "level": 2,
+      "name": {
+        "local": "Sandegue",
+        "en": "Sandegue",
+        "slug": "sandegue-ci1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI14",
+        "level": 1,
+        "name": {
+          "local": "Gontougo",
+          "en": "Gontougo",
+          "slug": "gontougo-ci14"
+        }
+      },
+      {
+        "id": "CI1403",
+        "level": 2,
+        "name": {
+          "local": "Sandegue",
+          "en": "Sandegue",
+          "slug": "sandegue-ci1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.97",
+      "lon": "-3.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI140303",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dimandougou",
+      "en": "Dimandougou",
+      "slug": "dimandougou-ci140303"
+    },
+    "code": {
+      "id": "CI140303",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1403",
+      "level": 2,
+      "name": {
+        "local": "Sandegue",
+        "en": "Sandegue",
+        "slug": "sandegue-ci1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI14",
+        "level": 1,
+        "name": {
+          "local": "Gontougo",
+          "en": "Gontougo",
+          "slug": "gontougo-ci14"
+        }
+      },
+      {
+        "id": "CI1403",
+        "level": 2,
+        "name": {
+          "local": "Sandegue",
+          "en": "Sandegue",
+          "slug": "sandegue-ci1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.948",
+      "lon": "-3.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI140301",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sandégué",
+      "en": "Sandégué",
+      "slug": "sandgu-ci140301"
+    },
+    "code": {
+      "id": "CI140301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1403",
+      "level": 2,
+      "name": {
+        "local": "Sandegue",
+        "en": "Sandegue",
+        "slug": "sandegue-ci1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI14",
+        "level": 1,
+        "name": {
+          "local": "Gontougo",
+          "en": "Gontougo",
+          "slug": "gontougo-ci14"
+        }
+      },
+      {
+        "id": "CI1403",
+        "level": 2,
+        "name": {
+          "local": "Sandegue",
+          "en": "Sandegue",
+          "slug": "sandegue-ci1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.103",
+      "lon": "-3.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI140304",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Yorobodi",
+      "en": "Yorobodi",
+      "slug": "yorobodi-ci140304"
+    },
+    "code": {
+      "id": "CI140304",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1403",
+      "level": 2,
+      "name": {
+        "local": "Sandegue",
+        "en": "Sandegue",
+        "slug": "sandegue-ci1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI14",
+        "level": 1,
+        "name": {
+          "local": "Gontougo",
+          "en": "Gontougo",
+          "slug": "gontougo-ci14"
+        }
+      },
+      {
+        "id": "CI1403",
+        "level": 2,
+        "name": {
+          "local": "Sandegue",
+          "en": "Sandegue",
+          "slug": "sandegue-ci1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.197",
+      "lon": "-3.874"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

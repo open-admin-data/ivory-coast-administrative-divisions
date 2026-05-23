@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CI210202",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Fengolo",
+      "en": "Fengolo",
+      "slug": "fengolo-ci210202"
+    },
+    "code": {
+      "id": "CI210202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2102",
+      "level": 2,
+      "name": {
+        "local": "Madinani",
+        "en": "Madinani",
+        "slug": "madinani-ci2102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI21",
+        "level": 1,
+        "name": {
+          "local": "Kabadougou",
+          "en": "Kabadougou",
+          "slug": "kabadougou-ci21"
+        }
+      },
+      {
+        "id": "CI2102",
+        "level": 2,
+        "name": {
+          "local": "Madinani",
+          "en": "Madinani",
+          "slug": "madinani-ci2102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.838",
+      "lon": "-6.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI210201",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Madinani",
+      "en": "Madinani",
+      "slug": "madinani-ci210201"
+    },
+    "code": {
+      "id": "CI210201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2102",
+      "level": 2,
+      "name": {
+        "local": "Madinani",
+        "en": "Madinani",
+        "slug": "madinani-ci2102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI21",
+        "level": 1,
+        "name": {
+          "local": "Kabadougou",
+          "en": "Kabadougou",
+          "slug": "kabadougou-ci21"
+        }
+      },
+      {
+        "id": "CI2102",
+        "level": 2,
+        "name": {
+          "local": "Madinani",
+          "en": "Madinani",
+          "slug": "madinani-ci2102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.582",
+      "lon": "-6.996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI210203",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "N'Goloblasso",
+      "en": "N'Goloblasso",
+      "slug": "ngoloblasso-ci210203"
+    },
+    "code": {
+      "id": "CI210203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2102",
+      "level": 2,
+      "name": {
+        "local": "Madinani",
+        "en": "Madinani",
+        "slug": "madinani-ci2102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI21",
+        "level": 1,
+        "name": {
+          "local": "Kabadougou",
+          "en": "Kabadougou",
+          "slug": "kabadougou-ci21"
+        }
+      },
+      {
+        "id": "CI2102",
+        "level": 2,
+        "name": {
+          "local": "Madinani",
+          "en": "Madinani",
+          "slug": "madinani-ci2102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.756",
+      "lon": "-7.157"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

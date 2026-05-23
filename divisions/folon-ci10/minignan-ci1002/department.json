@@ -1,0 +1,47 @@
+{
+  "id": "CI1002",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Minignan",
+    "en": "Minignan",
+    "slug": "minignan-ci1002"
+  },
+  "code": {
+    "id": "CI1002",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI10",
+    "level": 1,
+    "name": {
+      "local": "Folon",
+      "en": "Folon",
+      "slug": "folon-ci10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI10",
+      "level": 1,
+      "name": {
+        "local": "Folon",
+        "en": "Folon",
+        "slug": "folon-ci10"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.161",
+    "lon": "-7.617"
+  },
+  "metadata": {},
+  "source": {}
+}

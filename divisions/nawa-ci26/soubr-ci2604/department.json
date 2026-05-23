@@ -1,0 +1,47 @@
+{
+  "id": "CI2604",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Soubré",
+    "en": "Soubré",
+    "slug": "soubr-ci2604"
+  },
+  "code": {
+    "id": "CI2604",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI26",
+    "level": 1,
+    "name": {
+      "local": "Nawa",
+      "en": "Nawa",
+      "slug": "nawa-ci26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI26",
+      "level": 1,
+      "name": {
+        "local": "Nawa",
+        "en": "Nawa",
+        "slug": "nawa-ci26"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.926",
+    "lon": "-6.59"
+  },
+  "metadata": {},
+  "source": {}
+}

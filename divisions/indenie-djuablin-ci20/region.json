@@ -1,0 +1,30 @@
+{
+  "id": "CI20",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Indenie-Djuablin",
+    "en": "Indenie-Djuablin",
+    "slug": "indenie-djuablin-ci20"
+  },
+  "code": {
+    "id": "CI20",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 3,
+    "sub_prefecture": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.624",
+    "lon": "-3.471"
+  },
+  "metadata": {},
+  "source": {}
+}

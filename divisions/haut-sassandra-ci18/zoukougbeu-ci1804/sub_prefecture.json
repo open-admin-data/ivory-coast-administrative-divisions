@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CI180402",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Domangbeu",
+      "en": "Domangbeu",
+      "slug": "domangbeu-ci180402"
+    },
+    "code": {
+      "id": "CI180402",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1804",
+      "level": 2,
+      "name": {
+        "local": "Zoukougbeu",
+        "en": "Zoukougbeu",
+        "slug": "zoukougbeu-ci1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI18",
+        "level": 1,
+        "name": {
+          "local": "Haut-Sassandra",
+          "en": "Haut-Sassandra",
+          "slug": "haut-sassandra-ci18"
+        }
+      },
+      {
+        "id": "CI1804",
+        "level": 2,
+        "name": {
+          "local": "Zoukougbeu",
+          "en": "Zoukougbeu",
+          "slug": "zoukougbeu-ci1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.951",
+      "lon": "-6.972"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI180403",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Grégbeu",
+      "en": "Grégbeu",
+      "slug": "grgbeu-ci180403"
+    },
+    "code": {
+      "id": "CI180403",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1804",
+      "level": 2,
+      "name": {
+        "local": "Zoukougbeu",
+        "en": "Zoukougbeu",
+        "slug": "zoukougbeu-ci1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI18",
+        "level": 1,
+        "name": {
+          "local": "Haut-Sassandra",
+          "en": "Haut-Sassandra",
+          "slug": "haut-sassandra-ci18"
+        }
+      },
+      {
+        "id": "CI1804",
+        "level": 2,
+        "name": {
+          "local": "Zoukougbeu",
+          "en": "Zoukougbeu",
+          "slug": "zoukougbeu-ci1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.834",
+      "lon": "-6.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI180404",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Guéssabo",
+      "en": "Guéssabo",
+      "slug": "gussabo-ci180404"
+    },
+    "code": {
+      "id": "CI180404",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1804",
+      "level": 2,
+      "name": {
+        "local": "Zoukougbeu",
+        "en": "Zoukougbeu",
+        "slug": "zoukougbeu-ci1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI18",
+        "level": 1,
+        "name": {
+          "local": "Haut-Sassandra",
+          "en": "Haut-Sassandra",
+          "slug": "haut-sassandra-ci18"
+        }
+      },
+      {
+        "id": "CI1804",
+        "level": 2,
+        "name": {
+          "local": "Zoukougbeu",
+          "en": "Zoukougbeu",
+          "slug": "zoukougbeu-ci1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.739",
+      "lon": "-6.945"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI180401",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Zoukougbeu",
+      "en": "Zoukougbeu",
+      "slug": "zoukougbeu-ci180401"
+    },
+    "code": {
+      "id": "CI180401",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1804",
+      "level": 2,
+      "name": {
+        "local": "Zoukougbeu",
+        "en": "Zoukougbeu",
+        "slug": "zoukougbeu-ci1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI18",
+        "level": 1,
+        "name": {
+          "local": "Haut-Sassandra",
+          "en": "Haut-Sassandra",
+          "slug": "haut-sassandra-ci18"
+        }
+      },
+      {
+        "id": "CI1804",
+        "level": 2,
+        "name": {
+          "local": "Zoukougbeu",
+          "en": "Zoukougbeu",
+          "slug": "zoukougbeu-ci1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.856",
+      "lon": "-6.874"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

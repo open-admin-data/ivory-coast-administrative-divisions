@@ -1,0 +1,47 @@
+{
+  "id": "CI2301",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Bouaflé",
+    "en": "Bouaflé",
+    "slug": "bouafl-ci2301"
+  },
+  "code": {
+    "id": "CI2301",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI23",
+    "level": 1,
+    "name": {
+      "local": "Marahoue",
+      "en": "Marahoue",
+      "slug": "marahoue-ci23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI23",
+      "level": 1,
+      "name": {
+        "local": "Marahoue",
+        "en": "Marahoue",
+        "slug": "marahoue-ci23"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.071",
+    "lon": "-5.79"
+  },
+  "metadata": {},
+  "source": {}
+}

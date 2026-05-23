@@ -1,0 +1,47 @@
+{
+  "id": "CI0304",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Tiassalé",
+    "en": "Tiassalé",
+    "slug": "tiassal-ci0304"
+  },
+  "code": {
+    "id": "CI0304",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI03",
+    "level": 1,
+    "name": {
+      "local": "Agneby-Tiassa",
+      "en": "Agneby-Tiassa",
+      "slug": "agneby-tiassa-ci03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI03",
+      "level": 1,
+      "name": {
+        "local": "Agneby-Tiassa",
+        "en": "Agneby-Tiassa",
+        "slug": "agneby-tiassa-ci03"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.931",
+    "lon": "-4.796"
+  },
+  "metadata": {},
+  "source": {}
+}

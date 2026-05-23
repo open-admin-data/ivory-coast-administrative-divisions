@@ -1,0 +1,121 @@
+# Guemon — Ivory Coast Administrative Divisions
+
+> 4 departments, 23 sub-prefectures
+> Code: CI16
+> Coordinates: 7.029, -7.39
+> Last updated: 2026-05-23. License: CC-BY-4.0.
+
+## Departments
+
+### Bangolo
+
+Code: CI1601, Coordinates: 7.056, -7.292
+Sub-prefectures: 9
+
+#### Bangolo
+
+Code: CI160101, Coordinates: 7.016, -7.479
+
+#### Béoué-Zibiao
+
+Code: CI160102, Coordinates: 7.162, -7.389
+
+#### Bléniméouin
+
+Code: CI160103, Coordinates: 7.122, -7.167
+
+#### Diéouzon
+
+Code: CI160104, Coordinates: 7.156, -7.297
+
+#### Gohouo-Zagna
+
+Code: CI160105, Coordinates: 7.03, -7.345
+
+#### Guinglo-Tahouaké
+
+Code: CI160106, Coordinates: 7.013, -7.172
+
+#### Kahin-Zarabaon
+
+Code: CI160107, Coordinates: 6.919, -7.731
+
+#### Zéo
+
+Code: CI160108, Coordinates: 7.122, -7.468
+
+#### Zou
+
+Code: CI160109, Coordinates: 7.019, -7.864
+
+### Duékoué
+
+Code: CI1602, Coordinates: 6.647, -7.246
+Sub-prefectures: 5
+
+#### Bagohouo
+
+Code: CI160201, Coordinates: 6.875, -7.187
+
+#### Duékoué
+
+Code: CI160202, Coordinates: 6.715, -7.423
+
+#### Gbapleu
+
+Code: CI160203, Coordinates: 6.496, -7.184
+
+#### Guéhiébly
+
+Code: CI160204, Coordinates: 6.879, -7.46
+
+#### Guézon
+
+Code: CI160205, Coordinates: 6.691, -7.124
+
+### Facobly
+
+Code: CI1603, Coordinates: 7.523, -7.159
+Sub-prefectures: 5
+
+#### Facobly
+
+Code: CI160301, Coordinates: 7.407, -7.388
+
+#### Guézon
+
+Code: CI160302, Coordinates: 7.413, -7.277
+
+#### Koua
+
+Code: CI160303, Coordinates: 7.567, -7.24
+
+#### Sémien
+
+Code: CI160304, Coordinates: 7.564, -7.091
+
+#### Tiény-Séably
+
+Code: CI160305, Coordinates: 7.372, -7.447
+
+### Kouibly
+
+Code: CI1604, Coordinates: 7.327, -7.205
+Sub-prefectures: 4
+
+#### Kouibly
+
+Code: CI160401, Coordinates: 7.263, -7.255
+
+#### Nidrou
+
+Code: CI160402, Coordinates: 7.27, -7.473
+
+#### Ouyably-Gnondrou
+
+Code: CI160403, Coordinates: 7.331, -7.159
+
+#### Totrodrou
+
+Code: CI160404, Coordinates: 7.248, -7.415
+

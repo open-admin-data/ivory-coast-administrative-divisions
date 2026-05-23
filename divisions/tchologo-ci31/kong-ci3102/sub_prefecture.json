@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CI310202",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bilimono",
+      "en": "Bilimono",
+      "slug": "bilimono-ci310202"
+    },
+    "code": {
+      "id": "CI310202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3102",
+      "level": 2,
+      "name": {
+        "local": "Kong",
+        "en": "Kong",
+        "slug": "kong-ci3102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI31",
+        "level": 1,
+        "name": {
+          "local": "Tchologo",
+          "en": "Tchologo",
+          "slug": "tchologo-ci31"
+        }
+      },
+      {
+        "id": "CI3102",
+        "level": 2,
+        "name": {
+          "local": "Kong",
+          "en": "Kong",
+          "slug": "kong-ci3102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.948",
+      "lon": "-4.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI310201",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kong",
+      "en": "Kong",
+      "slug": "kong-ci310201"
+    },
+    "code": {
+      "id": "CI310201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3102",
+      "level": 2,
+      "name": {
+        "local": "Kong",
+        "en": "Kong",
+        "slug": "kong-ci3102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI31",
+        "level": 1,
+        "name": {
+          "local": "Tchologo",
+          "en": "Tchologo",
+          "slug": "tchologo-ci31"
+        }
+      },
+      {
+        "id": "CI3102",
+        "level": 2,
+        "name": {
+          "local": "Kong",
+          "en": "Kong",
+          "slug": "kong-ci3102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.13",
+      "lon": "-4.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI310203",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Nafana",
+      "en": "Nafana",
+      "slug": "nafana-ci310203"
+    },
+    "code": {
+      "id": "CI310203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3102",
+      "level": 2,
+      "name": {
+        "local": "Kong",
+        "en": "Kong",
+        "slug": "kong-ci3102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI31",
+        "level": 1,
+        "name": {
+          "local": "Tchologo",
+          "en": "Tchologo",
+          "slug": "tchologo-ci31"
+        }
+      },
+      {
+        "id": "CI3102",
+        "level": 2,
+        "name": {
+          "local": "Kong",
+          "en": "Kong",
+          "slug": "kong-ci3102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.217",
+      "lon": "-4.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI310204",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sikolo",
+      "en": "Sikolo",
+      "slug": "sikolo-ci310204"
+    },
+    "code": {
+      "id": "CI310204",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3102",
+      "level": 2,
+      "name": {
+        "local": "Kong",
+        "en": "Kong",
+        "slug": "kong-ci3102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI31",
+        "level": 1,
+        "name": {
+          "local": "Tchologo",
+          "en": "Tchologo",
+          "slug": "tchologo-ci31"
+        }
+      },
+      {
+        "id": "CI3102",
+        "level": 2,
+        "name": {
+          "local": "Kong",
+          "en": "Kong",
+          "slug": "kong-ci3102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.505",
+      "lon": "-4.531"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

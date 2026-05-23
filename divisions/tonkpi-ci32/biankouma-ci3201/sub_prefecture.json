@@ -1,0 +1,380 @@
+[
+  {
+    "id": "CI320101",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Biankouma",
+      "en": "Biankouma",
+      "slug": "biankouma-ci320101"
+    },
+    "code": {
+      "id": "CI320101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3201",
+      "level": 2,
+      "name": {
+        "local": "Biankouma",
+        "en": "Biankouma",
+        "slug": "biankouma-ci3201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI32",
+        "level": 1,
+        "name": {
+          "local": "Tonkpi",
+          "en": "Tonkpi",
+          "slug": "tonkpi-ci32"
+        }
+      },
+      {
+        "id": "CI3201",
+        "level": 2,
+        "name": {
+          "local": "Biankouma",
+          "en": "Biankouma",
+          "slug": "biankouma-ci3201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.718",
+      "lon": "-7.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI320102",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Blapleu",
+      "en": "Blapleu",
+      "slug": "blapleu-ci320102"
+    },
+    "code": {
+      "id": "CI320102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3201",
+      "level": 2,
+      "name": {
+        "local": "Biankouma",
+        "en": "Biankouma",
+        "slug": "biankouma-ci3201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI32",
+        "level": 1,
+        "name": {
+          "local": "Tonkpi",
+          "en": "Tonkpi",
+          "slug": "tonkpi-ci32"
+        }
+      },
+      {
+        "id": "CI3201",
+        "level": 2,
+        "name": {
+          "local": "Biankouma",
+          "en": "Biankouma",
+          "slug": "biankouma-ci3201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.596",
+      "lon": "-7.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI320103",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gbangbégouiné",
+      "en": "Gbangbégouiné",
+      "slug": "gbangbgouin-ci320103"
+    },
+    "code": {
+      "id": "CI320103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3201",
+      "level": 2,
+      "name": {
+        "local": "Biankouma",
+        "en": "Biankouma",
+        "slug": "biankouma-ci3201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI32",
+        "level": 1,
+        "name": {
+          "local": "Tonkpi",
+          "en": "Tonkpi",
+          "slug": "tonkpi-ci32"
+        }
+      },
+      {
+        "id": "CI3201",
+        "level": 2,
+        "name": {
+          "local": "Biankouma",
+          "en": "Biankouma",
+          "slug": "biankouma-ci3201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.674",
+      "lon": "-7.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI320104",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gbonné",
+      "en": "Gbonné",
+      "slug": "gbonn-ci320104"
+    },
+    "code": {
+      "id": "CI320104",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3201",
+      "level": 2,
+      "name": {
+        "local": "Biankouma",
+        "en": "Biankouma",
+        "slug": "biankouma-ci3201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI32",
+        "level": 1,
+        "name": {
+          "local": "Tonkpi",
+          "en": "Tonkpi",
+          "slug": "tonkpi-ci32"
+        }
+      },
+      {
+        "id": "CI3201",
+        "level": 2,
+        "name": {
+          "local": "Biankouma",
+          "en": "Biankouma",
+          "slug": "biankouma-ci3201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.658",
+      "lon": "-7.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI320105",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gouiné",
+      "en": "Gouiné",
+      "slug": "gouin-ci320105"
+    },
+    "code": {
+      "id": "CI320105",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3201",
+      "level": 2,
+      "name": {
+        "local": "Biankouma",
+        "en": "Biankouma",
+        "slug": "biankouma-ci3201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI32",
+        "level": 1,
+        "name": {
+          "local": "Tonkpi",
+          "en": "Tonkpi",
+          "slug": "tonkpi-ci32"
+        }
+      },
+      {
+        "id": "CI3201",
+        "level": 2,
+        "name": {
+          "local": "Biankouma",
+          "en": "Biankouma",
+          "slug": "biankouma-ci3201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.925",
+      "lon": "-7.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI320106",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kpata",
+      "en": "Kpata",
+      "slug": "kpata-ci320106"
+    },
+    "code": {
+      "id": "CI320106",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3201",
+      "level": 2,
+      "name": {
+        "local": "Biankouma",
+        "en": "Biankouma",
+        "slug": "biankouma-ci3201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI32",
+        "level": 1,
+        "name": {
+          "local": "Tonkpi",
+          "en": "Tonkpi",
+          "slug": "tonkpi-ci32"
+        }
+      },
+      {
+        "id": "CI3201",
+        "level": 2,
+        "name": {
+          "local": "Biankouma",
+          "en": "Biankouma",
+          "slug": "biankouma-ci3201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.783",
+      "lon": "-7.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI320107",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Santa",
+      "en": "Santa",
+      "slug": "santa-ci320107"
+    },
+    "code": {
+      "id": "CI320107",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3201",
+      "level": 2,
+      "name": {
+        "local": "Biankouma",
+        "en": "Biankouma",
+        "slug": "biankouma-ci3201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI32",
+        "level": 1,
+        "name": {
+          "local": "Tonkpi",
+          "en": "Tonkpi",
+          "slug": "tonkpi-ci32"
+        }
+      },
+      {
+        "id": "CI3201",
+        "level": 2,
+        "name": {
+          "local": "Biankouma",
+          "en": "Biankouma",
+          "slug": "biankouma-ci3201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.553",
+      "lon": "-7.9"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

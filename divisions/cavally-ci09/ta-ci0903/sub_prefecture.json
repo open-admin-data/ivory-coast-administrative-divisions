@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CI090301",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Taï",
+      "en": "Taï",
+      "slug": "ta-ci090301"
+    },
+    "code": {
+      "id": "CI090301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0903",
+      "level": 2,
+      "name": {
+        "local": "Taï",
+        "en": "Taï",
+        "slug": "ta-ci0903"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI09",
+        "level": 1,
+        "name": {
+          "local": "Cavally",
+          "en": "Cavally",
+          "slug": "cavally-ci09"
+        }
+      },
+      {
+        "id": "CI0903",
+        "level": 2,
+        "name": {
+          "local": "Taï",
+          "en": "Taï",
+          "slug": "ta-ci0903"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.902",
+      "lon": "-7.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI090302",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Zagné",
+      "en": "Zagné",
+      "slug": "zagn-ci090302"
+    },
+    "code": {
+      "id": "CI090302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0903",
+      "level": 2,
+      "name": {
+        "local": "Taï",
+        "en": "Taï",
+        "slug": "ta-ci0903"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI09",
+        "level": 1,
+        "name": {
+          "local": "Cavally",
+          "en": "Cavally",
+          "slug": "cavally-ci09"
+        }
+      },
+      {
+        "id": "CI0903",
+        "level": 2,
+        "name": {
+          "local": "Taï",
+          "en": "Taï",
+          "slug": "ta-ci0903"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.114",
+      "lon": "-7.597"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,237 @@
+[
+  {
+    "id": "CI1401",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Bondoukou",
+      "en": "Bondoukou",
+      "slug": "bondoukou-ci1401"
+    },
+    "code": {
+      "id": "CI1401",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI14",
+      "level": 1,
+      "name": {
+        "local": "Gontougo",
+        "en": "Gontougo",
+        "slug": "gontougo-ci14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI14",
+        "level": 1,
+        "name": {
+          "local": "Gontougo",
+          "en": "Gontougo",
+          "slug": "gontougo-ci14"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.278",
+      "lon": "-2.963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI1402",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Koun Fao",
+      "en": "Koun Fao",
+      "slug": "koun-fao-ci1402"
+    },
+    "code": {
+      "id": "CI1402",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI14",
+      "level": 1,
+      "name": {
+        "local": "Gontougo",
+        "en": "Gontougo",
+        "slug": "gontougo-ci14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI14",
+        "level": 1,
+        "name": {
+          "local": "Gontougo",
+          "en": "Gontougo",
+          "slug": "gontougo-ci14"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.509",
+      "lon": "-3.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI1403",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Sandegue",
+      "en": "Sandegue",
+      "slug": "sandegue-ci1403"
+    },
+    "code": {
+      "id": "CI1403",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI14",
+      "level": 1,
+      "name": {
+        "local": "Gontougo",
+        "en": "Gontougo",
+        "slug": "gontougo-ci14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI14",
+        "level": 1,
+        "name": {
+          "local": "Gontougo",
+          "en": "Gontougo",
+          "slug": "gontougo-ci14"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.117",
+      "lon": "-3.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI1404",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Tanda",
+      "en": "Tanda",
+      "slug": "tanda-ci1404"
+    },
+    "code": {
+      "id": "CI1404",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI14",
+      "level": 1,
+      "name": {
+        "local": "Gontougo",
+        "en": "Gontougo",
+        "slug": "gontougo-ci14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI14",
+        "level": 1,
+        "name": {
+          "local": "Gontougo",
+          "en": "Gontougo",
+          "slug": "gontougo-ci14"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.853",
+      "lon": "-3.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI1405",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Transua",
+      "en": "Transua",
+      "slug": "transua-ci1405"
+    },
+    "code": {
+      "id": "CI1405",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI14",
+      "level": 1,
+      "name": {
+        "local": "Gontougo",
+        "en": "Gontougo",
+        "slug": "gontougo-ci14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI14",
+        "level": 1,
+        "name": {
+          "local": "Gontougo",
+          "en": "Gontougo",
+          "slug": "gontougo-ci14"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.576",
+      "lon": "-3.043"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

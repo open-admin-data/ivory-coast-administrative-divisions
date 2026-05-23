@@ -1,0 +1,47 @@
+{
+  "id": "CI0701",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Dianra",
+    "en": "Dianra",
+    "slug": "dianra-ci0701"
+  },
+  "code": {
+    "id": "CI0701",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI07",
+    "level": 1,
+    "name": {
+      "local": "Bere",
+      "en": "Bere",
+      "slug": "bere-ci07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI07",
+      "level": 1,
+      "name": {
+        "local": "Bere",
+        "en": "Bere",
+        "slug": "bere-ci07"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.813",
+    "lon": "-6.246"
+  },
+  "metadata": {},
+  "source": {}
+}

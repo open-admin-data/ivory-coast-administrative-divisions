@@ -1,0 +1,143 @@
+[
+  {
+    "id": "CI0501",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Boundiali",
+      "en": "Boundiali",
+      "slug": "boundiali-ci0501"
+    },
+    "code": {
+      "id": "CI0501",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI05",
+      "level": 1,
+      "name": {
+        "local": "Bagoue",
+        "en": "Bagoue",
+        "slug": "bagoue-ci05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI05",
+        "level": 1,
+        "name": {
+          "local": "Bagoue",
+          "en": "Bagoue",
+          "slug": "bagoue-ci05"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.559",
+      "lon": "-6.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI0502",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Kouto",
+      "en": "Kouto",
+      "slug": "kouto-ci0502"
+    },
+    "code": {
+      "id": "CI0502",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI05",
+      "level": 1,
+      "name": {
+        "local": "Bagoue",
+        "en": "Bagoue",
+        "slug": "bagoue-ci05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI05",
+        "level": 1,
+        "name": {
+          "local": "Bagoue",
+          "en": "Bagoue",
+          "slug": "bagoue-ci05"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.905",
+      "lon": "-6.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI0503",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Tengrela",
+      "en": "Tengrela",
+      "slug": "tengrela-ci0503"
+    },
+    "code": {
+      "id": "CI0503",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI05",
+      "level": 1,
+      "name": {
+        "local": "Bagoue",
+        "en": "Bagoue",
+        "slug": "bagoue-ci05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI05",
+        "level": 1,
+        "name": {
+          "local": "Bagoue",
+          "en": "Bagoue",
+          "slug": "bagoue-ci05"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.477",
+      "lon": "-6.435"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

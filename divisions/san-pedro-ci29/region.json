@@ -1,0 +1,30 @@
+{
+  "id": "CI29",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "San Pedro",
+    "en": "San Pedro",
+    "slug": "san-pedro-ci29"
+  },
+  "code": {
+    "id": "CI29",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 2,
+    "sub_prefecture": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.017",
+    "lon": "-6.954"
+  },
+  "metadata": {},
+  "source": {}
+}

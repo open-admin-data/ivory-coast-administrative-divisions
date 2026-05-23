@@ -1,0 +1,80 @@
+# Indenie-Djuablin — Ivory Coast Administrative Divisions
+
+> 3 departments, 14 sub-prefectures
+> Code: CI20
+> Coordinates: 6.624, -3.471
+> Last updated: 2026-05-23. License: CC-BY-4.0.
+
+## Departments
+
+### Abengourou
+
+Code: CI2001, Coordinates: 6.668, -3.515
+Sub-prefectures: 7
+
+#### Abengourou
+
+Code: CI200101, Coordinates: 6.672, -3.512
+
+#### Amélékia
+
+Code: CI200102, Coordinates: 6.89, -3.639
+
+#### Aniassué
+
+Code: CI200103, Coordinates: 6.647, -3.673
+
+#### Ebilassokro
+
+Code: CI200104, Coordinates: 6.364, -3.299
+
+#### Niable
+
+Code: CI200105, Coordinates: 6.658, -3.327
+
+#### Yakasse-Féyassé
+
+Code: CI200106, Coordinates: 6.923, -3.434
+
+#### Zaranou
+
+Code: CI200107, Coordinates: 6.391, -3.459
+
+### Agnibilékrou
+
+Code: CI2002, Coordinates: 7.066, -3.333
+Sub-prefectures: 5
+
+#### Agnibilekrou
+
+Code: CI200201, Coordinates: 7.161, -3.227
+
+#### Akoboissué
+
+Code: CI200202, Coordinates: 6.919, -3.229
+
+#### Damé
+
+Code: CI200203, Coordinates: 7.003, -3.171
+
+#### Duffrebo
+
+Code: CI200204, Coordinates: 7.184, -3.515
+
+#### Tanguélan
+
+Code: CI200205, Coordinates: 7.152, -3.366
+
+### Béttié
+
+Code: CI2003, Coordinates: 6.118, -3.314
+Sub-prefectures: 2
+
+#### Bettié
+
+Code: CI200301, Coordinates: 6.068, -3.329
+
+#### Diamarakro
+
+Code: CI200302, Coordinates: 6.232, -3.274
+

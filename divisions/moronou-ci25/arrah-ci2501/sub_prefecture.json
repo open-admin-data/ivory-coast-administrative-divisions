@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CI250101",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Arrah",
+      "en": "Arrah",
+      "slug": "arrah-ci250101"
+    },
+    "code": {
+      "id": "CI250101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2501",
+      "level": 2,
+      "name": {
+        "local": "Arrah",
+        "en": "Arrah",
+        "slug": "arrah-ci2501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI25",
+        "level": 1,
+        "name": {
+          "local": "Moronou",
+          "en": "Moronou",
+          "slug": "moronou-ci25"
+        }
+      },
+      {
+        "id": "CI2501",
+        "level": 2,
+        "name": {
+          "local": "Arrah",
+          "en": "Arrah",
+          "slug": "arrah-ci2501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.689",
+      "lon": "-3.907"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI250102",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kotobi",
+      "en": "Kotobi",
+      "slug": "kotobi-ci250102"
+    },
+    "code": {
+      "id": "CI250102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2501",
+      "level": 2,
+      "name": {
+        "local": "Arrah",
+        "en": "Arrah",
+        "slug": "arrah-ci2501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI25",
+        "level": 1,
+        "name": {
+          "local": "Moronou",
+          "en": "Moronou",
+          "slug": "moronou-ci25"
+        }
+      },
+      {
+        "id": "CI2501",
+        "level": 2,
+        "name": {
+          "local": "Arrah",
+          "en": "Arrah",
+          "slug": "arrah-ci2501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.708",
+      "lon": "-4.068"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI250103",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Krégbé",
+      "en": "Krégbé",
+      "slug": "krgb-ci250103"
+    },
+    "code": {
+      "id": "CI250103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2501",
+      "level": 2,
+      "name": {
+        "local": "Arrah",
+        "en": "Arrah",
+        "slug": "arrah-ci2501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI25",
+        "level": 1,
+        "name": {
+          "local": "Moronou",
+          "en": "Moronou",
+          "slug": "moronou-ci25"
+        }
+      },
+      {
+        "id": "CI2501",
+        "level": 2,
+        "name": {
+          "local": "Arrah",
+          "en": "Arrah",
+          "slug": "arrah-ci2501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.877",
+      "lon": "-3.908"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

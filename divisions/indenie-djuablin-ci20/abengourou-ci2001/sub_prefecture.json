@@ -1,0 +1,380 @@
+[
+  {
+    "id": "CI200101",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Abengourou",
+      "en": "Abengourou",
+      "slug": "abengourou-ci200101"
+    },
+    "code": {
+      "id": "CI200101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2001",
+      "level": 2,
+      "name": {
+        "local": "Abengourou",
+        "en": "Abengourou",
+        "slug": "abengourou-ci2001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI20",
+        "level": 1,
+        "name": {
+          "local": "Indenie-Djuablin",
+          "en": "Indenie-Djuablin",
+          "slug": "indenie-djuablin-ci20"
+        }
+      },
+      {
+        "id": "CI2001",
+        "level": 2,
+        "name": {
+          "local": "Abengourou",
+          "en": "Abengourou",
+          "slug": "abengourou-ci2001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.672",
+      "lon": "-3.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI200102",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Amélékia",
+      "en": "Amélékia",
+      "slug": "amlkia-ci200102"
+    },
+    "code": {
+      "id": "CI200102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2001",
+      "level": 2,
+      "name": {
+        "local": "Abengourou",
+        "en": "Abengourou",
+        "slug": "abengourou-ci2001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI20",
+        "level": 1,
+        "name": {
+          "local": "Indenie-Djuablin",
+          "en": "Indenie-Djuablin",
+          "slug": "indenie-djuablin-ci20"
+        }
+      },
+      {
+        "id": "CI2001",
+        "level": 2,
+        "name": {
+          "local": "Abengourou",
+          "en": "Abengourou",
+          "slug": "abengourou-ci2001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.89",
+      "lon": "-3.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI200103",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Aniassué",
+      "en": "Aniassué",
+      "slug": "aniassu-ci200103"
+    },
+    "code": {
+      "id": "CI200103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2001",
+      "level": 2,
+      "name": {
+        "local": "Abengourou",
+        "en": "Abengourou",
+        "slug": "abengourou-ci2001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI20",
+        "level": 1,
+        "name": {
+          "local": "Indenie-Djuablin",
+          "en": "Indenie-Djuablin",
+          "slug": "indenie-djuablin-ci20"
+        }
+      },
+      {
+        "id": "CI2001",
+        "level": 2,
+        "name": {
+          "local": "Abengourou",
+          "en": "Abengourou",
+          "slug": "abengourou-ci2001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.647",
+      "lon": "-3.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI200104",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ebilassokro",
+      "en": "Ebilassokro",
+      "slug": "ebilassokro-ci200104"
+    },
+    "code": {
+      "id": "CI200104",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2001",
+      "level": 2,
+      "name": {
+        "local": "Abengourou",
+        "en": "Abengourou",
+        "slug": "abengourou-ci2001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI20",
+        "level": 1,
+        "name": {
+          "local": "Indenie-Djuablin",
+          "en": "Indenie-Djuablin",
+          "slug": "indenie-djuablin-ci20"
+        }
+      },
+      {
+        "id": "CI2001",
+        "level": 2,
+        "name": {
+          "local": "Abengourou",
+          "en": "Abengourou",
+          "slug": "abengourou-ci2001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.364",
+      "lon": "-3.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI200105",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Niable",
+      "en": "Niable",
+      "slug": "niable-ci200105"
+    },
+    "code": {
+      "id": "CI200105",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2001",
+      "level": 2,
+      "name": {
+        "local": "Abengourou",
+        "en": "Abengourou",
+        "slug": "abengourou-ci2001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI20",
+        "level": 1,
+        "name": {
+          "local": "Indenie-Djuablin",
+          "en": "Indenie-Djuablin",
+          "slug": "indenie-djuablin-ci20"
+        }
+      },
+      {
+        "id": "CI2001",
+        "level": 2,
+        "name": {
+          "local": "Abengourou",
+          "en": "Abengourou",
+          "slug": "abengourou-ci2001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.658",
+      "lon": "-3.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI200106",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Yakasse-Féyassé",
+      "en": "Yakasse-Féyassé",
+      "slug": "yakasse-fyass-ci200106"
+    },
+    "code": {
+      "id": "CI200106",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2001",
+      "level": 2,
+      "name": {
+        "local": "Abengourou",
+        "en": "Abengourou",
+        "slug": "abengourou-ci2001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI20",
+        "level": 1,
+        "name": {
+          "local": "Indenie-Djuablin",
+          "en": "Indenie-Djuablin",
+          "slug": "indenie-djuablin-ci20"
+        }
+      },
+      {
+        "id": "CI2001",
+        "level": 2,
+        "name": {
+          "local": "Abengourou",
+          "en": "Abengourou",
+          "slug": "abengourou-ci2001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.923",
+      "lon": "-3.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI200107",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Zaranou",
+      "en": "Zaranou",
+      "slug": "zaranou-ci200107"
+    },
+    "code": {
+      "id": "CI200107",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2001",
+      "level": 2,
+      "name": {
+        "local": "Abengourou",
+        "en": "Abengourou",
+        "slug": "abengourou-ci2001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI20",
+        "level": 1,
+        "name": {
+          "local": "Indenie-Djuablin",
+          "en": "Indenie-Djuablin",
+          "slug": "indenie-djuablin-ci20"
+        }
+      },
+      {
+        "id": "CI2001",
+        "level": 2,
+        "name": {
+          "local": "Abengourou",
+          "en": "Abengourou",
+          "slug": "abengourou-ci2001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.391",
+      "lon": "-3.459"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

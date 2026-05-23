@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CI060402",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Angoda",
+      "en": "Angoda",
+      "slug": "angoda-ci060402"
+    },
+    "code": {
+      "id": "CI060402",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0604",
+      "level": 2,
+      "name": {
+        "local": "Toumodi",
+        "en": "Toumodi",
+        "slug": "toumodi-ci0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI06",
+        "level": 1,
+        "name": {
+          "local": "Belier",
+          "en": "Belier",
+          "slug": "belier-ci06"
+        }
+      },
+      {
+        "id": "CI0604",
+        "level": 2,
+        "name": {
+          "local": "Toumodi",
+          "en": "Toumodi",
+          "slug": "toumodi-ci0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.694",
+      "lon": "-5.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI060403",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kokoumbo",
+      "en": "Kokoumbo",
+      "slug": "kokoumbo-ci060403"
+    },
+    "code": {
+      "id": "CI060403",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0604",
+      "level": 2,
+      "name": {
+        "local": "Toumodi",
+        "en": "Toumodi",
+        "slug": "toumodi-ci0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI06",
+        "level": 1,
+        "name": {
+          "local": "Belier",
+          "en": "Belier",
+          "slug": "belier-ci06"
+        }
+      },
+      {
+        "id": "CI0604",
+        "level": 2,
+        "name": {
+          "local": "Toumodi",
+          "en": "Toumodi",
+          "slug": "toumodi-ci0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.493",
+      "lon": "-5.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI060404",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kpouèbo",
+      "en": "Kpouèbo",
+      "slug": "kpoubo-ci060404"
+    },
+    "code": {
+      "id": "CI060404",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0604",
+      "level": 2,
+      "name": {
+        "local": "Toumodi",
+        "en": "Toumodi",
+        "slug": "toumodi-ci0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI06",
+        "level": 1,
+        "name": {
+          "local": "Belier",
+          "en": "Belier",
+          "slug": "belier-ci06"
+        }
+      },
+      {
+        "id": "CI0604",
+        "level": 2,
+        "name": {
+          "local": "Toumodi",
+          "en": "Toumodi",
+          "slug": "toumodi-ci0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.369",
+      "lon": "-4.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI060401",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Toumodi",
+      "en": "Toumodi",
+      "slug": "toumodi-ci060401"
+    },
+    "code": {
+      "id": "CI060401",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0604",
+      "level": 2,
+      "name": {
+        "local": "Toumodi",
+        "en": "Toumodi",
+        "slug": "toumodi-ci0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI06",
+        "level": 1,
+        "name": {
+          "local": "Belier",
+          "en": "Belier",
+          "slug": "belier-ci06"
+        }
+      },
+      {
+        "id": "CI0604",
+        "level": 2,
+        "name": {
+          "local": "Toumodi",
+          "en": "Toumodi",
+          "slug": "toumodi-ci0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.533",
+      "lon": "-4.934"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "CI2201",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Divo",
+    "en": "Divo",
+    "slug": "divo-ci2201"
+  },
+  "code": {
+    "id": "CI2201",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI22",
+    "level": 1,
+    "name": {
+      "local": "Loh-Djiboua",
+      "en": "Loh-Djiboua",
+      "slug": "loh-djiboua-ci22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI22",
+      "level": 1,
+      "name": {
+        "local": "Loh-Djiboua",
+        "en": "Loh-Djiboua",
+        "slug": "loh-djiboua-ci22"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.925",
+    "lon": "-5.257"
+  },
+  "metadata": {},
+  "source": {}
+}

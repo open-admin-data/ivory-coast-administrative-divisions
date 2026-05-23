@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CI050302",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Débété",
+      "en": "Débété",
+      "slug": "dbt-ci050302"
+    },
+    "code": {
+      "id": "CI050302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0503",
+      "level": 2,
+      "name": {
+        "local": "Tengrela",
+        "en": "Tengrela",
+        "slug": "tengrela-ci0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI05",
+        "level": 1,
+        "name": {
+          "local": "Bagoue",
+          "en": "Bagoue",
+          "slug": "bagoue-ci05"
+        }
+      },
+      {
+        "id": "CI0503",
+        "level": 2,
+        "name": {
+          "local": "Tengrela",
+          "en": "Tengrela",
+          "slug": "tengrela-ci0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.52",
+      "lon": "-6.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI050303",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kanakono",
+      "en": "Kanakono",
+      "slug": "kanakono-ci050303"
+    },
+    "code": {
+      "id": "CI050303",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0503",
+      "level": 2,
+      "name": {
+        "local": "Tengrela",
+        "en": "Tengrela",
+        "slug": "tengrela-ci0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI05",
+        "level": 1,
+        "name": {
+          "local": "Bagoue",
+          "en": "Bagoue",
+          "slug": "bagoue-ci05"
+        }
+      },
+      {
+        "id": "CI0503",
+        "level": 2,
+        "name": {
+          "local": "Tengrela",
+          "en": "Tengrela",
+          "slug": "tengrela-ci0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.374",
+      "lon": "-6.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI050304",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Papara",
+      "en": "Papara",
+      "slug": "papara-ci050304"
+    },
+    "code": {
+      "id": "CI050304",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0503",
+      "level": 2,
+      "name": {
+        "local": "Tengrela",
+        "en": "Tengrela",
+        "slug": "tengrela-ci0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI05",
+        "level": 1,
+        "name": {
+          "local": "Bagoue",
+          "en": "Bagoue",
+          "slug": "bagoue-ci05"
+        }
+      },
+      {
+        "id": "CI0503",
+        "level": 2,
+        "name": {
+          "local": "Tengrela",
+          "en": "Tengrela",
+          "slug": "tengrela-ci0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.636",
+      "lon": "-6.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI050301",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tengrela",
+      "en": "Tengrela",
+      "slug": "tengrela-ci050301"
+    },
+    "code": {
+      "id": "CI050301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0503",
+      "level": 2,
+      "name": {
+        "local": "Tengrela",
+        "en": "Tengrela",
+        "slug": "tengrela-ci0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI05",
+        "level": 1,
+        "name": {
+          "local": "Bagoue",
+          "en": "Bagoue",
+          "slug": "bagoue-ci05"
+        }
+      },
+      {
+        "id": "CI0503",
+        "level": 2,
+        "name": {
+          "local": "Tengrela",
+          "en": "Tengrela",
+          "slug": "tengrela-ci0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.401",
+      "lon": "-6.454"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

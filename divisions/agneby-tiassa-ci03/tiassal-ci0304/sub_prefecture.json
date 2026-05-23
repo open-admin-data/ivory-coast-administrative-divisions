@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CI030402",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gbolouville",
+      "en": "Gbolouville",
+      "slug": "gbolouville-ci030402"
+    },
+    "code": {
+      "id": "CI030402",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0304",
+      "level": 2,
+      "name": {
+        "local": "Tiassalé",
+        "en": "Tiassalé",
+        "slug": "tiassal-ci0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI03",
+        "level": 1,
+        "name": {
+          "local": "Agneby-Tiassa",
+          "en": "Agneby-Tiassa",
+          "slug": "agneby-tiassa-ci03"
+        }
+      },
+      {
+        "id": "CI0304",
+        "level": 2,
+        "name": {
+          "local": "Tiassalé",
+          "en": "Tiassalé",
+          "slug": "tiassal-ci0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.702",
+      "lon": "-4.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI030403",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Morokro",
+      "en": "Morokro",
+      "slug": "morokro-ci030403"
+    },
+    "code": {
+      "id": "CI030403",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0304",
+      "level": 2,
+      "name": {
+        "local": "Tiassalé",
+        "en": "Tiassalé",
+        "slug": "tiassal-ci0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI03",
+        "level": 1,
+        "name": {
+          "local": "Agneby-Tiassa",
+          "en": "Agneby-Tiassa",
+          "slug": "agneby-tiassa-ci03"
+        }
+      },
+      {
+        "id": "CI0304",
+        "level": 2,
+        "name": {
+          "local": "Tiassalé",
+          "en": "Tiassalé",
+          "slug": "tiassal-ci0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.099",
+      "lon": "-4.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI030404",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "N'Douci",
+      "en": "N'Douci",
+      "slug": "ndouci-ci030404"
+    },
+    "code": {
+      "id": "CI030404",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0304",
+      "level": 2,
+      "name": {
+        "local": "Tiassalé",
+        "en": "Tiassalé",
+        "slug": "tiassal-ci0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI03",
+        "level": 1,
+        "name": {
+          "local": "Agneby-Tiassa",
+          "en": "Agneby-Tiassa",
+          "slug": "agneby-tiassa-ci03"
+        }
+      },
+      {
+        "id": "CI0304",
+        "level": 2,
+        "name": {
+          "local": "Tiassalé",
+          "en": "Tiassalé",
+          "slug": "tiassal-ci0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.873",
+      "lon": "-4.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI030401",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tiassalé",
+      "en": "Tiassalé",
+      "slug": "tiassal-ci030401"
+    },
+    "code": {
+      "id": "CI030401",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0304",
+      "level": 2,
+      "name": {
+        "local": "Tiassalé",
+        "en": "Tiassalé",
+        "slug": "tiassal-ci0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI03",
+        "level": 1,
+        "name": {
+          "local": "Agneby-Tiassa",
+          "en": "Agneby-Tiassa",
+          "slug": "agneby-tiassa-ci03"
+        }
+      },
+      {
+        "id": "CI0304",
+        "level": 2,
+        "name": {
+          "local": "Tiassalé",
+          "en": "Tiassalé",
+          "slug": "tiassal-ci0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.91",
+      "lon": "-4.898"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

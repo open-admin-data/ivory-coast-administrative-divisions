@@ -1,0 +1,47 @@
+{
+  "id": "CI0603",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Tiébissou",
+    "en": "Tiébissou",
+    "slug": "tibissou-ci0603"
+  },
+  "code": {
+    "id": "CI0603",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI06",
+    "level": 1,
+    "name": {
+      "local": "Belier",
+      "en": "Belier",
+      "slug": "belier-ci06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI06",
+      "level": 1,
+      "name": {
+        "local": "Belier",
+        "en": "Belier",
+        "slug": "belier-ci06"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.121",
+    "lon": "-5.207"
+  },
+  "metadata": {},
+  "source": {}
+}

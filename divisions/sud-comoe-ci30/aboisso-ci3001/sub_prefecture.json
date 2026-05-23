@@ -1,0 +1,434 @@
+[
+  {
+    "id": "CI300101",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Aboisso",
+      "en": "Aboisso",
+      "slug": "aboisso-ci300101"
+    },
+    "code": {
+      "id": "CI300101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3001",
+      "level": 2,
+      "name": {
+        "local": "Aboisso",
+        "en": "Aboisso",
+        "slug": "aboisso-ci3001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI30",
+        "level": 1,
+        "name": {
+          "local": "Sud-Comoe",
+          "en": "Sud-Comoe",
+          "slug": "sud-comoe-ci30"
+        }
+      },
+      {
+        "id": "CI3001",
+        "level": 2,
+        "name": {
+          "local": "Aboisso",
+          "en": "Aboisso",
+          "slug": "aboisso-ci3001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.493",
+      "lon": "-3.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI300102",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Adaou",
+      "en": "Adaou",
+      "slug": "adaou-ci300102"
+    },
+    "code": {
+      "id": "CI300102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3001",
+      "level": 2,
+      "name": {
+        "local": "Aboisso",
+        "en": "Aboisso",
+        "slug": "aboisso-ci3001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI30",
+        "level": 1,
+        "name": {
+          "local": "Sud-Comoe",
+          "en": "Sud-Comoe",
+          "slug": "sud-comoe-ci30"
+        }
+      },
+      {
+        "id": "CI3001",
+        "level": 2,
+        "name": {
+          "local": "Aboisso",
+          "en": "Aboisso",
+          "slug": "aboisso-ci3001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.457",
+      "lon": "-3.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI300103",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Adjouan",
+      "en": "Adjouan",
+      "slug": "adjouan-ci300103"
+    },
+    "code": {
+      "id": "CI300103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3001",
+      "level": 2,
+      "name": {
+        "local": "Aboisso",
+        "en": "Aboisso",
+        "slug": "aboisso-ci3001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI30",
+        "level": 1,
+        "name": {
+          "local": "Sud-Comoe",
+          "en": "Sud-Comoe",
+          "slug": "sud-comoe-ci30"
+        }
+      },
+      {
+        "id": "CI3001",
+        "level": 2,
+        "name": {
+          "local": "Aboisso",
+          "en": "Aboisso",
+          "slug": "aboisso-ci3001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.274",
+      "lon": "-3.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI300104",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ayamé",
+      "en": "Ayamé",
+      "slug": "ayam-ci300104"
+    },
+    "code": {
+      "id": "CI300104",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3001",
+      "level": 2,
+      "name": {
+        "local": "Aboisso",
+        "en": "Aboisso",
+        "slug": "aboisso-ci3001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI30",
+        "level": 1,
+        "name": {
+          "local": "Sud-Comoe",
+          "en": "Sud-Comoe",
+          "slug": "sud-comoe-ci30"
+        }
+      },
+      {
+        "id": "CI3001",
+        "level": 2,
+        "name": {
+          "local": "Aboisso",
+          "en": "Aboisso",
+          "slug": "aboisso-ci3001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.622",
+      "lon": "-3.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI300105",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bianouan",
+      "en": "Bianouan",
+      "slug": "bianouan-ci300105"
+    },
+    "code": {
+      "id": "CI300105",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3001",
+      "level": 2,
+      "name": {
+        "local": "Aboisso",
+        "en": "Aboisso",
+        "slug": "aboisso-ci3001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI30",
+        "level": 1,
+        "name": {
+          "local": "Sud-Comoe",
+          "en": "Sud-Comoe",
+          "slug": "sud-comoe-ci30"
+        }
+      },
+      {
+        "id": "CI3001",
+        "level": 2,
+        "name": {
+          "local": "Aboisso",
+          "en": "Aboisso",
+          "slug": "aboisso-ci3001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.063",
+      "lon": "-3.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI300106",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kouakro",
+      "en": "Kouakro",
+      "slug": "kouakro-ci300106"
+    },
+    "code": {
+      "id": "CI300106",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3001",
+      "level": 2,
+      "name": {
+        "local": "Aboisso",
+        "en": "Aboisso",
+        "slug": "aboisso-ci3001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI30",
+        "level": 1,
+        "name": {
+          "local": "Sud-Comoe",
+          "en": "Sud-Comoe",
+          "slug": "sud-comoe-ci30"
+        }
+      },
+      {
+        "id": "CI3001",
+        "level": 2,
+        "name": {
+          "local": "Aboisso",
+          "en": "Aboisso",
+          "slug": "aboisso-ci3001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.475",
+      "lon": "-2.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI300107",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Maféré",
+      "en": "Maféré",
+      "slug": "mafr-ci300107"
+    },
+    "code": {
+      "id": "CI300107",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3001",
+      "level": 2,
+      "name": {
+        "local": "Aboisso",
+        "en": "Aboisso",
+        "slug": "aboisso-ci3001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI30",
+        "level": 1,
+        "name": {
+          "local": "Sud-Comoe",
+          "en": "Sud-Comoe",
+          "slug": "sud-comoe-ci30"
+        }
+      },
+      {
+        "id": "CI3001",
+        "level": 2,
+        "name": {
+          "local": "Aboisso",
+          "en": "Aboisso",
+          "slug": "aboisso-ci3001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.488",
+      "lon": "-3.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI300108",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Yaou",
+      "en": "Yaou",
+      "slug": "yaou-ci300108"
+    },
+    "code": {
+      "id": "CI300108",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3001",
+      "level": 2,
+      "name": {
+        "local": "Aboisso",
+        "en": "Aboisso",
+        "slug": "aboisso-ci3001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI30",
+        "level": 1,
+        "name": {
+          "local": "Sud-Comoe",
+          "en": "Sud-Comoe",
+          "slug": "sud-comoe-ci30"
+        }
+      },
+      {
+        "id": "CI3001",
+        "level": 2,
+        "name": {
+          "local": "Aboisso",
+          "en": "Aboisso",
+          "slug": "aboisso-ci3001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.791",
+      "lon": "-3.231"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

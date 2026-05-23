@@ -1,0 +1,5 @@
+id,name.local,name.en,name.slug,code.id,children_count.sub_prefecture,geo.lat,geo.lon
+CI1801,Daloa,Daloa,daloa-ci1801,CI1801,6,6.921,-6.443
+CI1802,Issia,Issia,issia-ci1802,CI1802,7,6.476,-6.521
+CI1803,Vavoua,Vavoua,vavoua-ci1803,CI1803,6,7.423,-6.695
+CI1804,Zoukougbeu,Zoukougbeu,zoukougbeu-ci1804,CI1804,4,6.847,-6.861

@@ -1,0 +1,272 @@
+[
+  {
+    "id": "CI290102",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Doba",
+      "en": "Doba",
+      "slug": "doba-ci290102"
+    },
+    "code": {
+      "id": "CI290102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2901",
+      "level": 2,
+      "name": {
+        "local": "San Pédro",
+        "en": "San Pédro",
+        "slug": "san-pdro-ci2901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI29",
+        "level": 1,
+        "name": {
+          "local": "San Pedro",
+          "en": "San Pedro",
+          "slug": "san-pedro-ci29"
+        }
+      },
+      {
+        "id": "CI2901",
+        "level": 2,
+        "name": {
+          "local": "San Pédro",
+          "en": "San Pédro",
+          "slug": "san-pdro-ci2901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.16",
+      "lon": "-6.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI290103",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dogbo",
+      "en": "Dogbo",
+      "slug": "dogbo-ci290103"
+    },
+    "code": {
+      "id": "CI290103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2901",
+      "level": 2,
+      "name": {
+        "local": "San Pédro",
+        "en": "San Pédro",
+        "slug": "san-pdro-ci2901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI29",
+        "level": 1,
+        "name": {
+          "local": "San Pedro",
+          "en": "San Pedro",
+          "slug": "san-pedro-ci29"
+        }
+      },
+      {
+        "id": "CI2901",
+        "level": 2,
+        "name": {
+          "local": "San Pédro",
+          "en": "San Pédro",
+          "slug": "san-pdro-ci2901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.035",
+      "lon": "-7.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI290104",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gabiadji",
+      "en": "Gabiadji",
+      "slug": "gabiadji-ci290104"
+    },
+    "code": {
+      "id": "CI290104",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2901",
+      "level": 2,
+      "name": {
+        "local": "San Pédro",
+        "en": "San Pédro",
+        "slug": "san-pdro-ci2901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI29",
+        "level": 1,
+        "name": {
+          "local": "San Pedro",
+          "en": "San Pedro",
+          "slug": "san-pedro-ci29"
+        }
+      },
+      {
+        "id": "CI2901",
+        "level": 2,
+        "name": {
+          "local": "San Pédro",
+          "en": "San Pédro",
+          "slug": "san-pdro-ci2901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.106",
+      "lon": "-6.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI290105",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Grand-Béréby",
+      "en": "Grand-Béréby",
+      "slug": "grand-brby-ci290105"
+    },
+    "code": {
+      "id": "CI290105",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2901",
+      "level": 2,
+      "name": {
+        "local": "San Pédro",
+        "en": "San Pédro",
+        "slug": "san-pdro-ci2901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI29",
+        "level": 1,
+        "name": {
+          "local": "San Pedro",
+          "en": "San Pedro",
+          "slug": "san-pedro-ci29"
+        }
+      },
+      {
+        "id": "CI2901",
+        "level": 2,
+        "name": {
+          "local": "San Pédro",
+          "en": "San Pédro",
+          "slug": "san-pdro-ci2901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.707",
+      "lon": "-7.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI290101",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "San-Pédro",
+      "en": "San-Pédro",
+      "slug": "san-pdro-ci290101"
+    },
+    "code": {
+      "id": "CI290101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2901",
+      "level": 2,
+      "name": {
+        "local": "San Pédro",
+        "en": "San Pédro",
+        "slug": "san-pdro-ci2901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI29",
+        "level": 1,
+        "name": {
+          "local": "San Pedro",
+          "en": "San Pedro",
+          "slug": "san-pedro-ci29"
+        }
+      },
+      {
+        "id": "CI2901",
+        "level": 2,
+        "name": {
+          "local": "San Pédro",
+          "en": "San Pédro",
+          "slug": "san-pdro-ci2901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.82",
+      "lon": "-6.604"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

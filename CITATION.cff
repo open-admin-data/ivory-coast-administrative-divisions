@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite as below"
+type: dataset
+authors:
+  - name: "jakkrapongt"
+title: "Ivory Coast Administrative Divisions Dataset"
+version: "2026.05"
+date-released: "2026-05-23"
+url: "https://github.com/open-admin-data/ivory-coast-administrative-divisions"
+repository-code: "https://github.com/open-admin-data/ivory-coast-administrative-divisions"
+license: CC-BY-4.0
+keywords:
+  - ivory coast
+  - administrative-divisions
+  - geography
+  - open-data
+  - dataset
+  - multilingual
+abstract: >
+  Open dataset of Ivory Coast's administrative hierarchy:
+  33 regions, 108 departments, 510 sub-prefectures.
+  Bilingual with coordinates and postal codes where available.

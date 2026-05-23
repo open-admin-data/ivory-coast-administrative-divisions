@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CI090202",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bédi-Gaozon",
+      "en": "Bédi-Gaozon",
+      "slug": "bdi-gaozon-ci090202"
+    },
+    "code": {
+      "id": "CI090202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0902",
+      "level": 2,
+      "name": {
+        "local": "Guiglo",
+        "en": "Guiglo",
+        "slug": "guiglo-ci0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI09",
+        "level": 1,
+        "name": {
+          "local": "Cavally",
+          "en": "Cavally",
+          "slug": "cavally-ci09"
+        }
+      },
+      {
+        "id": "CI0902",
+        "level": 2,
+        "name": {
+          "local": "Guiglo",
+          "en": "Guiglo",
+          "slug": "guiglo-ci0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.651",
+      "lon": "-7.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI090201",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Guiglo",
+      "en": "Guiglo",
+      "slug": "guiglo-ci090201"
+    },
+    "code": {
+      "id": "CI090201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0902",
+      "level": 2,
+      "name": {
+        "local": "Guiglo",
+        "en": "Guiglo",
+        "slug": "guiglo-ci0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI09",
+        "level": 1,
+        "name": {
+          "local": "Cavally",
+          "en": "Cavally",
+          "slug": "cavally-ci09"
+        }
+      },
+      {
+        "id": "CI0902",
+        "level": 2,
+        "name": {
+          "local": "Guiglo",
+          "en": "Guiglo",
+          "slug": "guiglo-ci0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.423",
+      "lon": "-7.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI090203",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kaadé",
+      "en": "Kaadé",
+      "slug": "kaad-ci090203"
+    },
+    "code": {
+      "id": "CI090203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0902",
+      "level": 2,
+      "name": {
+        "local": "Guiglo",
+        "en": "Guiglo",
+        "slug": "guiglo-ci0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI09",
+        "level": 1,
+        "name": {
+          "local": "Cavally",
+          "en": "Cavally",
+          "slug": "cavally-ci09"
+        }
+      },
+      {
+        "id": "CI0902",
+        "level": 2,
+        "name": {
+          "local": "Guiglo",
+          "en": "Guiglo",
+          "slug": "guiglo-ci0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.647",
+      "lon": "-7.665"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI090204",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Nizahon",
+      "en": "Nizahon",
+      "slug": "nizahon-ci090204"
+    },
+    "code": {
+      "id": "CI090204",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0902",
+      "level": 2,
+      "name": {
+        "local": "Guiglo",
+        "en": "Guiglo",
+        "slug": "guiglo-ci0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI09",
+        "level": 1,
+        "name": {
+          "local": "Cavally",
+          "en": "Cavally",
+          "slug": "cavally-ci09"
+        }
+      },
+      {
+        "id": "CI0902",
+        "level": 2,
+        "name": {
+          "local": "Guiglo",
+          "en": "Guiglo",
+          "slug": "guiglo-ci0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.354",
+      "lon": "-7.405"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "id": "CI32",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Tonkpi",
+    "en": "Tonkpi",
+    "slug": "tonkpi-ci32"
+  },
+  "code": {
+    "id": "CI32",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 5,
+    "sub_prefecture": 33
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.367",
+    "lon": "-7.944"
+  },
+  "metadata": {},
+  "source": {}
+}

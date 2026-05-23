@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CI060302",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Lomokankro",
+      "en": "Lomokankro",
+      "slug": "lomokankro-ci060302"
+    },
+    "code": {
+      "id": "CI060302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0603",
+      "level": 2,
+      "name": {
+        "local": "Tiébissou",
+        "en": "Tiébissou",
+        "slug": "tibissou-ci0603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI06",
+        "level": 1,
+        "name": {
+          "local": "Belier",
+          "en": "Belier",
+          "slug": "belier-ci06"
+        }
+      },
+      {
+        "id": "CI0603",
+        "level": 2,
+        "name": {
+          "local": "Tiébissou",
+          "en": "Tiébissou",
+          "slug": "tibissou-ci0603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.054",
+      "lon": "-5.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI060303",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Molonou",
+      "en": "Molonou",
+      "slug": "molonou-ci060303"
+    },
+    "code": {
+      "id": "CI060303",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0603",
+      "level": 2,
+      "name": {
+        "local": "Tiébissou",
+        "en": "Tiébissou",
+        "slug": "tibissou-ci0603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI06",
+        "level": 1,
+        "name": {
+          "local": "Belier",
+          "en": "Belier",
+          "slug": "belier-ci06"
+        }
+      },
+      {
+        "id": "CI0603",
+        "level": 2,
+        "name": {
+          "local": "Tiébissou",
+          "en": "Tiébissou",
+          "slug": "tibissou-ci0603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.171",
+      "lon": "-5.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI060301",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tiébissou",
+      "en": "Tiébissou",
+      "slug": "tibissou-ci060301"
+    },
+    "code": {
+      "id": "CI060301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0603",
+      "level": 2,
+      "name": {
+        "local": "Tiébissou",
+        "en": "Tiébissou",
+        "slug": "tibissou-ci0603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI06",
+        "level": 1,
+        "name": {
+          "local": "Belier",
+          "en": "Belier",
+          "slug": "belier-ci06"
+        }
+      },
+      {
+        "id": "CI0603",
+        "level": 2,
+        "name": {
+          "local": "Tiébissou",
+          "en": "Tiébissou",
+          "slug": "tibissou-ci0603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.218",
+      "lon": "-5.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI060304",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Yakpabo-Sakassou",
+      "en": "Yakpabo-Sakassou",
+      "slug": "yakpabo-sakassou-ci060304"
+    },
+    "code": {
+      "id": "CI060304",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0603",
+      "level": 2,
+      "name": {
+        "local": "Tiébissou",
+        "en": "Tiébissou",
+        "slug": "tibissou-ci0603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI06",
+        "level": 1,
+        "name": {
+          "local": "Belier",
+          "en": "Belier",
+          "slug": "belier-ci06"
+        }
+      },
+      {
+        "id": "CI0603",
+        "level": 2,
+        "name": {
+          "local": "Tiébissou",
+          "en": "Tiébissou",
+          "slug": "tibissou-ci0603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.958",
+      "lon": "-4.95"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

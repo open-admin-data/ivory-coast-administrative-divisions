@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CI030202",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gomon",
+      "en": "Gomon",
+      "slug": "gomon-ci030202"
+    },
+    "code": {
+      "id": "CI030202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0302",
+      "level": 2,
+      "name": {
+        "local": "Sikensi",
+        "en": "Sikensi",
+        "slug": "sikensi-ci0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI03",
+        "level": 1,
+        "name": {
+          "local": "Agneby-Tiassa",
+          "en": "Agneby-Tiassa",
+          "slug": "agneby-tiassa-ci03"
+        }
+      },
+      {
+        "id": "CI0302",
+        "level": 2,
+        "name": {
+          "local": "Sikensi",
+          "en": "Sikensi",
+          "slug": "sikensi-ci0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.672",
+      "lon": "-4.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI030201",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sikensi",
+      "en": "Sikensi",
+      "slug": "sikensi-ci030201"
+    },
+    "code": {
+      "id": "CI030201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0302",
+      "level": 2,
+      "name": {
+        "local": "Sikensi",
+        "en": "Sikensi",
+        "slug": "sikensi-ci0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI03",
+        "level": 1,
+        "name": {
+          "local": "Agneby-Tiassa",
+          "en": "Agneby-Tiassa",
+          "slug": "agneby-tiassa-ci03"
+        }
+      },
+      {
+        "id": "CI0302",
+        "level": 2,
+        "name": {
+          "local": "Sikensi",
+          "en": "Sikensi",
+          "slug": "sikensi-ci0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.643",
+      "lon": "-4.595"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

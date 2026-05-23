@@ -1,0 +1,272 @@
+[
+  {
+    "id": "CI190302",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Anianou",
+      "en": "Anianou",
+      "slug": "anianou-ci190302"
+    },
+    "code": {
+      "id": "CI190302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1903",
+      "level": 2,
+      "name": {
+        "local": "Prikro",
+        "en": "Prikro",
+        "slug": "prikro-ci1903"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI19",
+        "level": 1,
+        "name": {
+          "local": "Iffou",
+          "en": "Iffou",
+          "slug": "iffou-ci19"
+        }
+      },
+      {
+        "id": "CI1903",
+        "level": 2,
+        "name": {
+          "local": "Prikro",
+          "en": "Prikro",
+          "slug": "prikro-ci1903"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.687",
+      "lon": "-3.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI190303",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Famienkro",
+      "en": "Famienkro",
+      "slug": "famienkro-ci190303"
+    },
+    "code": {
+      "id": "CI190303",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1903",
+      "level": 2,
+      "name": {
+        "local": "Prikro",
+        "en": "Prikro",
+        "slug": "prikro-ci1903"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI19",
+        "level": 1,
+        "name": {
+          "local": "Iffou",
+          "en": "Iffou",
+          "slug": "iffou-ci19"
+        }
+      },
+      {
+        "id": "CI1903",
+        "level": 2,
+        "name": {
+          "local": "Prikro",
+          "en": "Prikro",
+          "slug": "prikro-ci1903"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.893",
+      "lon": "-4.065"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI190304",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Koffi-Amonkro",
+      "en": "Koffi-Amonkro",
+      "slug": "koffi-amonkro-ci190304"
+    },
+    "code": {
+      "id": "CI190304",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1903",
+      "level": 2,
+      "name": {
+        "local": "Prikro",
+        "en": "Prikro",
+        "slug": "prikro-ci1903"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI19",
+        "level": 1,
+        "name": {
+          "local": "Iffou",
+          "en": "Iffou",
+          "slug": "iffou-ci19"
+        }
+      },
+      {
+        "id": "CI1903",
+        "level": 2,
+        "name": {
+          "local": "Prikro",
+          "en": "Prikro",
+          "slug": "prikro-ci1903"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.516",
+      "lon": "-3.949"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI190305",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Nafana",
+      "en": "Nafana",
+      "slug": "nafana-ci190305"
+    },
+    "code": {
+      "id": "CI190305",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1903",
+      "level": 2,
+      "name": {
+        "local": "Prikro",
+        "en": "Prikro",
+        "slug": "prikro-ci1903"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI19",
+        "level": 1,
+        "name": {
+          "local": "Iffou",
+          "en": "Iffou",
+          "slug": "iffou-ci19"
+        }
+      },
+      {
+        "id": "CI1903",
+        "level": 2,
+        "name": {
+          "local": "Prikro",
+          "en": "Prikro",
+          "slug": "prikro-ci1903"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.499",
+      "lon": "-3.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI190301",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Prikro",
+      "en": "Prikro",
+      "slug": "prikro-ci190301"
+    },
+    "code": {
+      "id": "CI190301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1903",
+      "level": 2,
+      "name": {
+        "local": "Prikro",
+        "en": "Prikro",
+        "slug": "prikro-ci1903"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI19",
+        "level": 1,
+        "name": {
+          "local": "Iffou",
+          "en": "Iffou",
+          "slug": "iffou-ci19"
+        }
+      },
+      {
+        "id": "CI1903",
+        "level": 2,
+        "name": {
+          "local": "Prikro",
+          "en": "Prikro",
+          "slug": "prikro-ci1903"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.669",
+      "lon": "-4.02"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

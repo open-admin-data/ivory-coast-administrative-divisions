@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CI150302",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Attoutou",
+      "en": "Attoutou",
+      "slug": "attoutou-ci150302"
+    },
+    "code": {
+      "id": "CI150302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1503",
+      "level": 2,
+      "name": {
+        "local": "Jacqueville",
+        "en": "Jacqueville",
+        "slug": "jacqueville-ci1503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI15",
+        "level": 1,
+        "name": {
+          "local": "Grands Ponts",
+          "en": "Grands Ponts",
+          "slug": "grands-ponts-ci15"
+        }
+      },
+      {
+        "id": "CI1503",
+        "level": 2,
+        "name": {
+          "local": "Jacqueville",
+          "en": "Jacqueville",
+          "slug": "jacqueville-ci1503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.242",
+      "lon": "-4.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI150301",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Jacqueville",
+      "en": "Jacqueville",
+      "slug": "jacqueville-ci150301"
+    },
+    "code": {
+      "id": "CI150301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1503",
+      "level": 2,
+      "name": {
+        "local": "Jacqueville",
+        "en": "Jacqueville",
+        "slug": "jacqueville-ci1503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI15",
+        "level": 1,
+        "name": {
+          "local": "Grands Ponts",
+          "en": "Grands Ponts",
+          "slug": "grands-ponts-ci15"
+        }
+      },
+      {
+        "id": "CI1503",
+        "level": 2,
+        "name": {
+          "local": "Jacqueville",
+          "en": "Jacqueville",
+          "slug": "jacqueville-ci1503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.246",
+      "lon": "-4.724"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

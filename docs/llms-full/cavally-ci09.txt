@@ -1,0 +1,97 @@
+# Cavally — Ivory Coast Administrative Divisions
+
+> 4 departments, 17 sub-prefectures
+> Code: CI09
+> Coordinates: 6.299, -7.577
+> Last updated: 2026-05-23. License: CC-BY-4.0.
+
+## Departments
+
+### Bloléquin
+
+Code: CI0901, Coordinates: 6.626, -8.03
+Sub-prefectures: 5
+
+#### Bloléquin
+
+Code: CI090101, Coordinates: 6.633, -7.986
+
+#### Diboké
+
+Code: CI090102, Coordinates: 6.387, -8.134
+
+#### Doké
+
+Code: CI090103, Coordinates: 6.631, -8.163
+
+#### Tinhou
+
+Code: CI090104, Coordinates: 6.42, -8.206
+
+#### Zéaglo
+
+Code: CI090105, Coordinates: 6.519, -7.855
+
+### Guiglo
+
+Code: CI0902, Coordinates: 6.521, -7.547
+Sub-prefectures: 4
+
+#### Bédi-Gaozon
+
+Code: CI090202, Coordinates: 6.651, -7.775
+
+#### Guiglo
+
+Code: CI090201, Coordinates: 6.423, -7.635
+
+#### Kaadé
+
+Code: CI090203, Coordinates: 6.647, -7.665
+
+#### Nizahon
+
+Code: CI090204, Coordinates: 6.354, -7.405
+
+### Taï
+
+Code: CI0903, Coordinates: 6.01, -7.436
+Sub-prefectures: 2
+
+#### Taï
+
+Code: CI090301, Coordinates: 5.902, -7.267
+
+#### Zagné
+
+Code: CI090302, Coordinates: 6.114, -7.597
+
+### Toulepleu
+
+Code: CI0904, Coordinates: 6.501, -8.347
+Sub-prefectures: 6
+
+#### Bakoubly
+
+Code: CI090402, Coordinates: 6.492, -8.402
+
+#### Méo
+
+Code: CI090403, Coordinates: 6.455, -8.318
+
+#### Nézobly
+
+Code: CI090404, Coordinates: 6.592, -8.485
+
+#### Péhé
+
+Code: CI090405, Coordinates: 6.553, -8.268
+
+#### Tiobly
+
+Code: CI090406, Coordinates: 6.505, -8.521
+
+#### Toulepleu
+
+Code: CI090401, Coordinates: 6.598, -8.392
+

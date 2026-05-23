@@ -1,0 +1,596 @@
+[
+  {
+    "id": "CI320302",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bogouiné",
+      "en": "Bogouiné",
+      "slug": "bogouin-ci320302"
+    },
+    "code": {
+      "id": "CI320302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3203",
+      "level": 2,
+      "name": {
+        "local": "Man",
+        "en": "Man",
+        "slug": "man-ci3203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI32",
+        "level": 1,
+        "name": {
+          "local": "Tonkpi",
+          "en": "Tonkpi",
+          "slug": "tonkpi-ci32"
+        }
+      },
+      {
+        "id": "CI3203",
+        "level": 2,
+        "name": {
+          "local": "Man",
+          "en": "Man",
+          "slug": "man-ci3203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.243",
+      "lon": "-7.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI320303",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Fagnampleu",
+      "en": "Fagnampleu",
+      "slug": "fagnampleu-ci320303"
+    },
+    "code": {
+      "id": "CI320303",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3203",
+      "level": 2,
+      "name": {
+        "local": "Man",
+        "en": "Man",
+        "slug": "man-ci3203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI32",
+        "level": 1,
+        "name": {
+          "local": "Tonkpi",
+          "en": "Tonkpi",
+          "slug": "tonkpi-ci32"
+        }
+      },
+      {
+        "id": "CI3203",
+        "level": 2,
+        "name": {
+          "local": "Man",
+          "en": "Man",
+          "slug": "man-ci3203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.458",
+      "lon": "-7.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI320304",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gbangbegouiné-Yati",
+      "en": "Gbangbegouiné-Yati",
+      "slug": "gbangbegouin-yati-ci320304"
+    },
+    "code": {
+      "id": "CI320304",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3203",
+      "level": 2,
+      "name": {
+        "local": "Man",
+        "en": "Man",
+        "slug": "man-ci3203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI32",
+        "level": 1,
+        "name": {
+          "local": "Tonkpi",
+          "en": "Tonkpi",
+          "slug": "tonkpi-ci32"
+        }
+      },
+      {
+        "id": "CI3203",
+        "level": 2,
+        "name": {
+          "local": "Man",
+          "en": "Man",
+          "slug": "man-ci3203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.386",
+      "lon": "-7.694"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI320305",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Logoualé",
+      "en": "Logoualé",
+      "slug": "logoual-ci320305"
+    },
+    "code": {
+      "id": "CI320305",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3203",
+      "level": 2,
+      "name": {
+        "local": "Man",
+        "en": "Man",
+        "slug": "man-ci3203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI32",
+        "level": 1,
+        "name": {
+          "local": "Tonkpi",
+          "en": "Tonkpi",
+          "slug": "tonkpi-ci32"
+        }
+      },
+      {
+        "id": "CI3203",
+        "level": 2,
+        "name": {
+          "local": "Man",
+          "en": "Man",
+          "slug": "man-ci3203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.131",
+      "lon": "-7.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI320301",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Man",
+      "en": "Man",
+      "slug": "man-ci320301"
+    },
+    "code": {
+      "id": "CI320301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3203",
+      "level": 2,
+      "name": {
+        "local": "Man",
+        "en": "Man",
+        "slug": "man-ci3203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI32",
+        "level": 1,
+        "name": {
+          "local": "Tonkpi",
+          "en": "Tonkpi",
+          "slug": "tonkpi-ci32"
+        }
+      },
+      {
+        "id": "CI3203",
+        "level": 2,
+        "name": {
+          "local": "Man",
+          "en": "Man",
+          "slug": "man-ci3203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.43",
+      "lon": "-7.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI320306",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Podiagouiné",
+      "en": "Podiagouiné",
+      "slug": "podiagouin-ci320306"
+    },
+    "code": {
+      "id": "CI320306",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3203",
+      "level": 2,
+      "name": {
+        "local": "Man",
+        "en": "Man",
+        "slug": "man-ci3203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI32",
+        "level": 1,
+        "name": {
+          "local": "Tonkpi",
+          "en": "Tonkpi",
+          "slug": "tonkpi-ci32"
+        }
+      },
+      {
+        "id": "CI3203",
+        "level": 2,
+        "name": {
+          "local": "Man",
+          "en": "Man",
+          "slug": "man-ci3203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.125",
+      "lon": "-7.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI320307",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sandougou-Soba",
+      "en": "Sandougou-Soba",
+      "slug": "sandougou-soba-ci320307"
+    },
+    "code": {
+      "id": "CI320307",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3203",
+      "level": 2,
+      "name": {
+        "local": "Man",
+        "en": "Man",
+        "slug": "man-ci3203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI32",
+        "level": 1,
+        "name": {
+          "local": "Tonkpi",
+          "en": "Tonkpi",
+          "slug": "tonkpi-ci32"
+        }
+      },
+      {
+        "id": "CI3203",
+        "level": 2,
+        "name": {
+          "local": "Man",
+          "en": "Man",
+          "slug": "man-ci3203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.584",
+      "lon": "-7.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI320308",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sangouiné",
+      "en": "Sangouiné",
+      "slug": "sangouin-ci320308"
+    },
+    "code": {
+      "id": "CI320308",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3203",
+      "level": 2,
+      "name": {
+        "local": "Man",
+        "en": "Man",
+        "slug": "man-ci3203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI32",
+        "level": 1,
+        "name": {
+          "local": "Tonkpi",
+          "en": "Tonkpi",
+          "slug": "tonkpi-ci32"
+        }
+      },
+      {
+        "id": "CI3203",
+        "level": 2,
+        "name": {
+          "local": "Man",
+          "en": "Man",
+          "slug": "man-ci3203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.37",
+      "lon": "-7.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI320309",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Yapleu",
+      "en": "Yapleu",
+      "slug": "yapleu-ci320309"
+    },
+    "code": {
+      "id": "CI320309",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3203",
+      "level": 2,
+      "name": {
+        "local": "Man",
+        "en": "Man",
+        "slug": "man-ci3203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI32",
+        "level": 1,
+        "name": {
+          "local": "Tonkpi",
+          "en": "Tonkpi",
+          "slug": "tonkpi-ci32"
+        }
+      },
+      {
+        "id": "CI3203",
+        "level": 2,
+        "name": {
+          "local": "Man",
+          "en": "Man",
+          "slug": "man-ci3203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.082",
+      "lon": "-7.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI320310",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Zagoué",
+      "en": "Zagoué",
+      "slug": "zagou-ci320310"
+    },
+    "code": {
+      "id": "CI320310",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3203",
+      "level": 2,
+      "name": {
+        "local": "Man",
+        "en": "Man",
+        "slug": "man-ci3203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI32",
+        "level": 1,
+        "name": {
+          "local": "Tonkpi",
+          "en": "Tonkpi",
+          "slug": "tonkpi-ci32"
+        }
+      },
+      {
+        "id": "CI3203",
+        "level": 2,
+        "name": {
+          "local": "Man",
+          "en": "Man",
+          "slug": "man-ci3203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.488",
+      "lon": "-7.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI320311",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ziogouiné",
+      "en": "Ziogouiné",
+      "slug": "ziogouin-ci320311"
+    },
+    "code": {
+      "id": "CI320311",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3203",
+      "level": 2,
+      "name": {
+        "local": "Man",
+        "en": "Man",
+        "slug": "man-ci3203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI32",
+        "level": 1,
+        "name": {
+          "local": "Tonkpi",
+          "en": "Tonkpi",
+          "slug": "tonkpi-ci32"
+        }
+      },
+      {
+        "id": "CI3203",
+        "level": 2,
+        "name": {
+          "local": "Man",
+          "en": "Man",
+          "slug": "man-ci3203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.155",
+      "lon": "-7.657"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

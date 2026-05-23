@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CI210502",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gbongaha",
+      "en": "Gbongaha",
+      "slug": "gbongaha-ci210502"
+    },
+    "code": {
+      "id": "CI210502",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2105",
+      "level": 2,
+      "name": {
+        "local": "Séguélon",
+        "en": "Séguélon",
+        "slug": "sgulon-ci2105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI21",
+        "level": 1,
+        "name": {
+          "local": "Kabadougou",
+          "en": "Kabadougou",
+          "slug": "kabadougou-ci21"
+        }
+      },
+      {
+        "id": "CI2105",
+        "level": 2,
+        "name": {
+          "local": "Séguélon",
+          "en": "Séguélon",
+          "slug": "sgulon-ci2105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.151",
+      "lon": "-6.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI210501",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Séguélon",
+      "en": "Séguélon",
+      "slug": "sgulon-ci210501"
+    },
+    "code": {
+      "id": "CI210501",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2105",
+      "level": 2,
+      "name": {
+        "local": "Séguélon",
+        "en": "Séguélon",
+        "slug": "sgulon-ci2105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI21",
+        "level": 1,
+        "name": {
+          "local": "Kabadougou",
+          "en": "Kabadougou",
+          "slug": "kabadougou-ci21"
+        }
+      },
+      {
+        "id": "CI2105",
+        "level": 2,
+        "name": {
+          "local": "Séguélon",
+          "en": "Séguélon",
+          "slug": "sgulon-ci2105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.371",
+      "lon": "-7.15"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

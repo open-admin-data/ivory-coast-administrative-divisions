@@ -1,0 +1,190 @@
+[
+  {
+    "id": "CI1601",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Bangolo",
+      "en": "Bangolo",
+      "slug": "bangolo-ci1601"
+    },
+    "code": {
+      "id": "CI1601",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI16",
+      "level": 1,
+      "name": {
+        "local": "Guemon",
+        "en": "Guemon",
+        "slug": "guemon-ci16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI16",
+        "level": 1,
+        "name": {
+          "local": "Guemon",
+          "en": "Guemon",
+          "slug": "guemon-ci16"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.056",
+      "lon": "-7.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI1602",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Duékoué",
+      "en": "Duékoué",
+      "slug": "dukou-ci1602"
+    },
+    "code": {
+      "id": "CI1602",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI16",
+      "level": 1,
+      "name": {
+        "local": "Guemon",
+        "en": "Guemon",
+        "slug": "guemon-ci16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI16",
+        "level": 1,
+        "name": {
+          "local": "Guemon",
+          "en": "Guemon",
+          "slug": "guemon-ci16"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.647",
+      "lon": "-7.246"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI1603",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Facobly",
+      "en": "Facobly",
+      "slug": "facobly-ci1603"
+    },
+    "code": {
+      "id": "CI1603",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI16",
+      "level": 1,
+      "name": {
+        "local": "Guemon",
+        "en": "Guemon",
+        "slug": "guemon-ci16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI16",
+        "level": 1,
+        "name": {
+          "local": "Guemon",
+          "en": "Guemon",
+          "slug": "guemon-ci16"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.523",
+      "lon": "-7.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI1604",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Kouibly",
+      "en": "Kouibly",
+      "slug": "kouibly-ci1604"
+    },
+    "code": {
+      "id": "CI1604",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI16",
+      "level": 1,
+      "name": {
+        "local": "Guemon",
+        "en": "Guemon",
+        "slug": "guemon-ci16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI16",
+        "level": 1,
+        "name": {
+          "local": "Guemon",
+          "en": "Guemon",
+          "slug": "guemon-ci16"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.327",
+      "lon": "-7.205"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CI100202",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kimbirila-Nord",
+      "en": "Kimbirila-Nord",
+      "slug": "kimbirila-nord-ci100202"
+    },
+    "code": {
+      "id": "CI100202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1002",
+      "level": 2,
+      "name": {
+        "local": "Minignan",
+        "en": "Minignan",
+        "slug": "minignan-ci1002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI10",
+        "level": 1,
+        "name": {
+          "local": "Folon",
+          "en": "Folon",
+          "slug": "folon-ci10"
+        }
+      },
+      {
+        "id": "CI1002",
+        "level": 2,
+        "name": {
+          "local": "Minignan",
+          "en": "Minignan",
+          "slug": "minignan-ci1002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.341",
+      "lon": "-7.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI100201",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Minignan",
+      "en": "Minignan",
+      "slug": "minignan-ci100201"
+    },
+    "code": {
+      "id": "CI100201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1002",
+      "level": 2,
+      "name": {
+        "local": "Minignan",
+        "en": "Minignan",
+        "slug": "minignan-ci1002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI10",
+        "level": 1,
+        "name": {
+          "local": "Folon",
+          "en": "Folon",
+          "slug": "folon-ci10"
+        }
+      },
+      {
+        "id": "CI1002",
+        "level": 2,
+        "name": {
+          "local": "Minignan",
+          "en": "Minignan",
+          "slug": "minignan-ci1002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.993",
+      "lon": "-7.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI100203",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sokoro",
+      "en": "Sokoro",
+      "slug": "sokoro-ci100203"
+    },
+    "code": {
+      "id": "CI100203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1002",
+      "level": 2,
+      "name": {
+        "local": "Minignan",
+        "en": "Minignan",
+        "slug": "minignan-ci1002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI10",
+        "level": 1,
+        "name": {
+          "local": "Folon",
+          "en": "Folon",
+          "slug": "folon-ci10"
+        }
+      },
+      {
+        "id": "CI1002",
+        "level": 2,
+        "name": {
+          "local": "Minignan",
+          "en": "Minignan",
+          "slug": "minignan-ci1002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.178",
+      "lon": "-7.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI100204",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tienko",
+      "en": "Tienko",
+      "slug": "tienko-ci100204"
+    },
+    "code": {
+      "id": "CI100204",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1002",
+      "level": 2,
+      "name": {
+        "local": "Minignan",
+        "en": "Minignan",
+        "slug": "minignan-ci1002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI10",
+        "level": 1,
+        "name": {
+          "local": "Folon",
+          "en": "Folon",
+          "slug": "folon-ci10"
+        }
+      },
+      {
+        "id": "CI1002",
+        "level": 2,
+        "name": {
+          "local": "Minignan",
+          "en": "Minignan",
+          "slug": "minignan-ci1002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.196",
+      "lon": "-7.442"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,4 @@
+id,name.local,name.en,name.slug,code.id,children_count.sub_prefecture,geo.lat,geo.lon
+CI2201,Divo,Divo,divo-ci2201,CI2201,7,5.925,-5.257
+CI2202,Guitry,Guitry,guitry-ci2202,CI2202,4,5.432,-5.231
+CI2203,Lakota,Lakota,lakota-ci2203,CI2203,6,5.862,-5.704

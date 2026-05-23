@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CI300201",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Adiake",
+      "en": "Adiake",
+      "slug": "adiake-ci300201"
+    },
+    "code": {
+      "id": "CI300201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3002",
+      "level": 2,
+      "name": {
+        "local": "Adiaké",
+        "en": "Adiaké",
+        "slug": "adiak-ci3002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI30",
+        "level": 1,
+        "name": {
+          "local": "Sud-Comoe",
+          "en": "Sud-Comoe",
+          "slug": "sud-comoe-ci30"
+        }
+      },
+      {
+        "id": "CI3002",
+        "level": 2,
+        "name": {
+          "local": "Adiaké",
+          "en": "Adiaké",
+          "slug": "adiak-ci3002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.272",
+      "lon": "-3.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI300202",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Assinie-Mafia",
+      "en": "Assinie-Mafia",
+      "slug": "assinie-mafia-ci300202"
+    },
+    "code": {
+      "id": "CI300202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3002",
+      "level": 2,
+      "name": {
+        "local": "Adiaké",
+        "en": "Adiaké",
+        "slug": "adiak-ci3002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI30",
+        "level": 1,
+        "name": {
+          "local": "Sud-Comoe",
+          "en": "Sud-Comoe",
+          "slug": "sud-comoe-ci30"
+        }
+      },
+      {
+        "id": "CI3002",
+        "level": 2,
+        "name": {
+          "local": "Adiaké",
+          "en": "Adiaké",
+          "slug": "adiak-ci3002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.156",
+      "lon": "-3.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI300203",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Etuéboué",
+      "en": "Etuéboué",
+      "slug": "etubou-ci300203"
+    },
+    "code": {
+      "id": "CI300203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3002",
+      "level": 2,
+      "name": {
+        "local": "Adiaké",
+        "en": "Adiaké",
+        "slug": "adiak-ci3002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI30",
+        "level": 1,
+        "name": {
+          "local": "Sud-Comoe",
+          "en": "Sud-Comoe",
+          "slug": "sud-comoe-ci30"
+        }
+      },
+      {
+        "id": "CI3002",
+        "level": 2,
+        "name": {
+          "local": "Adiaké",
+          "en": "Adiaké",
+          "slug": "adiak-ci3002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.205",
+      "lon": "-3.157"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

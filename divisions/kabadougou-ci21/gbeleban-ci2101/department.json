@@ -1,0 +1,47 @@
+{
+  "id": "CI2101",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Gbeleban",
+    "en": "Gbeleban",
+    "slug": "gbeleban-ci2101"
+  },
+  "code": {
+    "id": "CI2101",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI21",
+    "level": 1,
+    "name": {
+      "local": "Kabadougou",
+      "en": "Kabadougou",
+      "slug": "kabadougou-ci21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI21",
+      "level": 1,
+      "name": {
+        "local": "Kabadougou",
+        "en": "Kabadougou",
+        "slug": "kabadougou-ci21"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.644",
+    "lon": "-7.908"
+  },
+  "metadata": {},
+  "source": {}
+}

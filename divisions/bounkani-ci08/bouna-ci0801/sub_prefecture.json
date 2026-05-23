@@ -1,0 +1,272 @@
+[
+  {
+    "id": "CI080101",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bouko",
+      "en": "Bouko",
+      "slug": "bouko-ci080101"
+    },
+    "code": {
+      "id": "CI080101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0801",
+      "level": 2,
+      "name": {
+        "local": "Bouna",
+        "en": "Bouna",
+        "slug": "bouna-ci0801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI08",
+        "level": 1,
+        "name": {
+          "local": "Bounkani",
+          "en": "Bounkani",
+          "slug": "bounkani-ci08"
+        }
+      },
+      {
+        "id": "CI0801",
+        "level": 2,
+        "name": {
+          "local": "Bouna",
+          "en": "Bouna",
+          "slug": "bouna-ci0801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.502",
+      "lon": "-3.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI080102",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bouna",
+      "en": "Bouna",
+      "slug": "bouna-ci080102"
+    },
+    "code": {
+      "id": "CI080102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0801",
+      "level": 2,
+      "name": {
+        "local": "Bouna",
+        "en": "Bouna",
+        "slug": "bouna-ci0801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI08",
+        "level": 1,
+        "name": {
+          "local": "Bounkani",
+          "en": "Bounkani",
+          "slug": "bounkani-ci08"
+        }
+      },
+      {
+        "id": "CI0801",
+        "level": 2,
+        "name": {
+          "local": "Bouna",
+          "en": "Bouna",
+          "slug": "bouna-ci0801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.135",
+      "lon": "-3.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI080103",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ondéfidouo",
+      "en": "Ondéfidouo",
+      "slug": "ondfidouo-ci080103"
+    },
+    "code": {
+      "id": "CI080103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0801",
+      "level": 2,
+      "name": {
+        "local": "Bouna",
+        "en": "Bouna",
+        "slug": "bouna-ci0801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI08",
+        "level": 1,
+        "name": {
+          "local": "Bounkani",
+          "en": "Bounkani",
+          "slug": "bounkani-ci08"
+        }
+      },
+      {
+        "id": "CI0801",
+        "level": 2,
+        "name": {
+          "local": "Bouna",
+          "en": "Bouna",
+          "slug": "bouna-ci0801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.06",
+      "lon": "-2.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI080104",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Parc National de Bona",
+      "en": "Parc National de Bona",
+      "slug": "parc-national-de-bona-ci080104"
+    },
+    "code": {
+      "id": "CI080104",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0801",
+      "level": 2,
+      "name": {
+        "local": "Bouna",
+        "en": "Bouna",
+        "slug": "bouna-ci0801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI08",
+        "level": 1,
+        "name": {
+          "local": "Bounkani",
+          "en": "Bounkani",
+          "slug": "bounkani-ci08"
+        }
+      },
+      {
+        "id": "CI0801",
+        "level": 2,
+        "name": {
+          "local": "Bouna",
+          "en": "Bouna",
+          "slug": "bouna-ci0801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.062",
+      "lon": "-3.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI080105",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Youndouo",
+      "en": "Youndouo",
+      "slug": "youndouo-ci080105"
+    },
+    "code": {
+      "id": "CI080105",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0801",
+      "level": 2,
+      "name": {
+        "local": "Bouna",
+        "en": "Bouna",
+        "slug": "bouna-ci0801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI08",
+        "level": 1,
+        "name": {
+          "local": "Bounkani",
+          "en": "Bounkani",
+          "slug": "bounkani-ci08"
+        }
+      },
+      {
+        "id": "CI0801",
+        "level": 2,
+        "name": {
+          "local": "Bouna",
+          "en": "Bouna",
+          "slug": "bouna-ci0801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.832",
+      "lon": "-2.824"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

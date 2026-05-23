@@ -1,0 +1,118 @@
+# Ivory Coast Administrative Divisions
+
+> Open dataset of Ivory Coast's administrative hierarchy:
+> 33 regions, 108 departments, 510 sub-prefectures.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total regions: 33
+- Total departments: 108
+- Total sub-prefectures: 510
+- Coordinates: included (all levels)
+- Last updated: 2026-05-23
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All regions (JSON)](https://raw.githubusercontent.com/open-admin-data/ivory-coast-administrative-divisions/main/data/all-region.json)
+- [All departments (JSON)](https://raw.githubusercontent.com/open-admin-data/ivory-coast-administrative-divisions/main/data/all-department.json)
+- [All sub-prefectures (JSON)](https://raw.githubusercontent.com/open-admin-data/ivory-coast-administrative-divisions/main/data/all-sub_prefecture.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/ivory-coast-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/ivory-coast-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/ivory-coast-administrative-divisions/main/data/schema.json)
+
+## Browse by Region
+
+- [Agneby-Tiassa](https://github.com/open-admin-data/ivory-coast-administrative-divisions/tree/main/divisions/agneby-tiassa-ci03/) — 4 departments, 19 sub-prefectures
+- [Bafing](https://github.com/open-admin-data/ivory-coast-administrative-divisions/tree/main/divisions/bafing-ci04/) — 3 departments, 15 sub-prefectures
+- [Bagoue](https://github.com/open-admin-data/ivory-coast-administrative-divisions/tree/main/divisions/bagoue-ci05/) — 3 departments, 14 sub-prefectures
+- [Belier](https://github.com/open-admin-data/ivory-coast-administrative-divisions/tree/main/divisions/belier-ci06/) — 4 departments, 15 sub-prefectures
+- [Bere](https://github.com/open-admin-data/ivory-coast-administrative-divisions/tree/main/divisions/bere-ci07/) — 3 departments, 9 sub-prefectures
+- [Bounkani](https://github.com/open-admin-data/ivory-coast-administrative-divisions/tree/main/divisions/bounkani-ci08/) — 4 departments, 17 sub-prefectures
+- [Cavally](https://github.com/open-admin-data/ivory-coast-administrative-divisions/tree/main/divisions/cavally-ci09/) — 4 departments, 17 sub-prefectures
+- [District Autonome D&#39;Abidjan](https://github.com/open-admin-data/ivory-coast-administrative-divisions/tree/main/divisions/district-autonome-dabidjan-ci01/) — 1 departments, 5 sub-prefectures
+- [District Autonome De Yamoussoukro](https://github.com/open-admin-data/ivory-coast-administrative-divisions/tree/main/divisions/district-autonome-de-yamoussoukro-ci02/) — 2 departments, 4 sub-prefectures
+- [Folon](https://github.com/open-admin-data/ivory-coast-administrative-divisions/tree/main/divisions/folon-ci10/) — 2 departments, 7 sub-prefectures
+- [Gbeke](https://github.com/open-admin-data/ivory-coast-administrative-divisions/tree/main/divisions/gbeke-ci11/) — 4 departments, 20 sub-prefectures
+- [Gbokle](https://github.com/open-admin-data/ivory-coast-administrative-divisions/tree/main/divisions/gbokle-ci12/) — 2 departments, 9 sub-prefectures
+- [Goh](https://github.com/open-admin-data/ivory-coast-administrative-divisions/tree/main/divisions/goh-ci13/) — 2 departments, 16 sub-prefectures
+- [Gontougo](https://github.com/open-admin-data/ivory-coast-administrative-divisions/tree/main/divisions/gontougo-ci14/) — 5 departments, 29 sub-prefectures
+- [Grands Ponts](https://github.com/open-admin-data/ivory-coast-administrative-divisions/tree/main/divisions/grands-ponts-ci15/) — 3 departments, 10 sub-prefectures
+- [Guemon](https://github.com/open-admin-data/ivory-coast-administrative-divisions/tree/main/divisions/guemon-ci16/) — 4 departments, 23 sub-prefectures
+- [Hambol](https://github.com/open-admin-data/ivory-coast-administrative-divisions/tree/main/divisions/hambol-ci17/) — 3 departments, 19 sub-prefectures
+- [Haut-Sassandra](https://github.com/open-admin-data/ivory-coast-administrative-divisions/tree/main/divisions/haut-sassandra-ci18/) — 4 departments, 23 sub-prefectures
+- [Iffou](https://github.com/open-admin-data/ivory-coast-administrative-divisions/tree/main/divisions/iffou-ci19/) — 3 departments, 15 sub-prefectures
+- [Indenie-Djuablin](https://github.com/open-admin-data/ivory-coast-administrative-divisions/tree/main/divisions/indenie-djuablin-ci20/) — 3 departments, 14 sub-prefectures
+- [Kabadougou](https://github.com/open-admin-data/ivory-coast-administrative-divisions/tree/main/divisions/kabadougou-ci21/) — 5 departments, 15 sub-prefectures
+- [Loh-Djiboua](https://github.com/open-admin-data/ivory-coast-administrative-divisions/tree/main/divisions/loh-djiboua-ci22/) — 3 departments, 17 sub-prefectures
+- [Marahoue](https://github.com/open-admin-data/ivory-coast-administrative-divisions/tree/main/divisions/marahoue-ci23/) — 3 departments, 18 sub-prefectures
+- [Me](https://github.com/open-admin-data/ivory-coast-administrative-divisions/tree/main/divisions/me-ci24/) — 4 departments, 17 sub-prefectures
+- [Moronou](https://github.com/open-admin-data/ivory-coast-administrative-divisions/tree/main/divisions/moronou-ci25/) — 3 departments, 11 sub-prefectures
+- [N&#39;Zi](https://github.com/open-admin-data/ivory-coast-administrative-divisions/tree/main/divisions/nzi-ci27/) — 3 departments, 10 sub-prefectures
+- [Nawa](https://github.com/open-admin-data/ivory-coast-administrative-divisions/tree/main/divisions/nawa-ci26/) — 4 departments, 11 sub-prefectures
+- [Poro](https://github.com/open-admin-data/ivory-coast-administrative-divisions/tree/main/divisions/poro-ci28/) — 4 departments, 27 sub-prefectures
+- [San Pedro](https://github.com/open-admin-data/ivory-coast-administrative-divisions/tree/main/divisions/san-pedro-ci29/) — 2 departments, 11 sub-prefectures
+- [Sud-Comoe](https://github.com/open-admin-data/ivory-coast-administrative-divisions/tree/main/divisions/sud-comoe-ci30/) — 4 departments, 17 sub-prefectures
+- [Tchologo](https://github.com/open-admin-data/ivory-coast-administrative-divisions/tree/main/divisions/tchologo-ci31/) — 3 departments, 12 sub-prefectures
+- [Tonkpi](https://github.com/open-admin-data/ivory-coast-administrative-divisions/tree/main/divisions/tonkpi-ci32/) — 5 departments, 33 sub-prefectures
+- [Worodougou](https://github.com/open-admin-data/ivory-coast-administrative-divisions/tree/main/divisions/worodougou-ci33/) — 2 departments, 11 sub-prefectures
+
+## Per-Region Full Data
+
+- [Agneby-Tiassa](https://raw.githubusercontent.com/open-admin-data/ivory-coast-administrative-divisions/main/docs/llms-full/agneby-tiassa-ci03.txt)
+- [Bafing](https://raw.githubusercontent.com/open-admin-data/ivory-coast-administrative-divisions/main/docs/llms-full/bafing-ci04.txt)
+- [Bagoue](https://raw.githubusercontent.com/open-admin-data/ivory-coast-administrative-divisions/main/docs/llms-full/bagoue-ci05.txt)
+- [Belier](https://raw.githubusercontent.com/open-admin-data/ivory-coast-administrative-divisions/main/docs/llms-full/belier-ci06.txt)
+- [Bere](https://raw.githubusercontent.com/open-admin-data/ivory-coast-administrative-divisions/main/docs/llms-full/bere-ci07.txt)
+- [Bounkani](https://raw.githubusercontent.com/open-admin-data/ivory-coast-administrative-divisions/main/docs/llms-full/bounkani-ci08.txt)
+- [Cavally](https://raw.githubusercontent.com/open-admin-data/ivory-coast-administrative-divisions/main/docs/llms-full/cavally-ci09.txt)
+- [District Autonome D&#39;Abidjan](https://raw.githubusercontent.com/open-admin-data/ivory-coast-administrative-divisions/main/docs/llms-full/district-autonome-dabidjan-ci01.txt)
+- [District Autonome De Yamoussoukro](https://raw.githubusercontent.com/open-admin-data/ivory-coast-administrative-divisions/main/docs/llms-full/district-autonome-de-yamoussoukro-ci02.txt)
+- [Folon](https://raw.githubusercontent.com/open-admin-data/ivory-coast-administrative-divisions/main/docs/llms-full/folon-ci10.txt)
+- [Gbeke](https://raw.githubusercontent.com/open-admin-data/ivory-coast-administrative-divisions/main/docs/llms-full/gbeke-ci11.txt)
+- [Gbokle](https://raw.githubusercontent.com/open-admin-data/ivory-coast-administrative-divisions/main/docs/llms-full/gbokle-ci12.txt)
+- [Goh](https://raw.githubusercontent.com/open-admin-data/ivory-coast-administrative-divisions/main/docs/llms-full/goh-ci13.txt)
+- [Gontougo](https://raw.githubusercontent.com/open-admin-data/ivory-coast-administrative-divisions/main/docs/llms-full/gontougo-ci14.txt)
+- [Grands Ponts](https://raw.githubusercontent.com/open-admin-data/ivory-coast-administrative-divisions/main/docs/llms-full/grands-ponts-ci15.txt)
+- [Guemon](https://raw.githubusercontent.com/open-admin-data/ivory-coast-administrative-divisions/main/docs/llms-full/guemon-ci16.txt)
+- [Hambol](https://raw.githubusercontent.com/open-admin-data/ivory-coast-administrative-divisions/main/docs/llms-full/hambol-ci17.txt)
+- [Haut-Sassandra](https://raw.githubusercontent.com/open-admin-data/ivory-coast-administrative-divisions/main/docs/llms-full/haut-sassandra-ci18.txt)
+- [Iffou](https://raw.githubusercontent.com/open-admin-data/ivory-coast-administrative-divisions/main/docs/llms-full/iffou-ci19.txt)
+- [Indenie-Djuablin](https://raw.githubusercontent.com/open-admin-data/ivory-coast-administrative-divisions/main/docs/llms-full/indenie-djuablin-ci20.txt)
+- [Kabadougou](https://raw.githubusercontent.com/open-admin-data/ivory-coast-administrative-divisions/main/docs/llms-full/kabadougou-ci21.txt)
+- [Loh-Djiboua](https://raw.githubusercontent.com/open-admin-data/ivory-coast-administrative-divisions/main/docs/llms-full/loh-djiboua-ci22.txt)
+- [Marahoue](https://raw.githubusercontent.com/open-admin-data/ivory-coast-administrative-divisions/main/docs/llms-full/marahoue-ci23.txt)
+- [Me](https://raw.githubusercontent.com/open-admin-data/ivory-coast-administrative-divisions/main/docs/llms-full/me-ci24.txt)
+- [Moronou](https://raw.githubusercontent.com/open-admin-data/ivory-coast-administrative-divisions/main/docs/llms-full/moronou-ci25.txt)
+- [N&#39;Zi](https://raw.githubusercontent.com/open-admin-data/ivory-coast-administrative-divisions/main/docs/llms-full/nzi-ci27.txt)
+- [Nawa](https://raw.githubusercontent.com/open-admin-data/ivory-coast-administrative-divisions/main/docs/llms-full/nawa-ci26.txt)
+- [Poro](https://raw.githubusercontent.com/open-admin-data/ivory-coast-administrative-divisions/main/docs/llms-full/poro-ci28.txt)
+- [San Pedro](https://raw.githubusercontent.com/open-admin-data/ivory-coast-administrative-divisions/main/docs/llms-full/san-pedro-ci29.txt)
+- [Sud-Comoe](https://raw.githubusercontent.com/open-admin-data/ivory-coast-administrative-divisions/main/docs/llms-full/sud-comoe-ci30.txt)
+- [Tchologo](https://raw.githubusercontent.com/open-admin-data/ivory-coast-administrative-divisions/main/docs/llms-full/tchologo-ci31.txt)
+- [Tonkpi](https://raw.githubusercontent.com/open-admin-data/ivory-coast-administrative-divisions/main/docs/llms-full/tonkpi-ci32.txt)
+- [Worodougou](https://raw.githubusercontent.com/open-admin-data/ivory-coast-administrative-divisions/main/docs/llms-full/worodougou-ci33.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (region), 2 (department), 3 (sub-prefecture)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Ivory Coast Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/ivory-coast-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

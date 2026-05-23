@@ -1,0 +1,326 @@
+[
+  {
+    "id": "CI220302",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Djidji",
+      "en": "Djidji",
+      "slug": "djidji-ci220302"
+    },
+    "code": {
+      "id": "CI220302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2203",
+      "level": 2,
+      "name": {
+        "local": "Lakota",
+        "en": "Lakota",
+        "slug": "lakota-ci2203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI22",
+        "level": 1,
+        "name": {
+          "local": "Loh-Djiboua",
+          "en": "Loh-Djiboua",
+          "slug": "loh-djiboua-ci22"
+        }
+      },
+      {
+        "id": "CI2203",
+        "level": 2,
+        "name": {
+          "local": "Lakota",
+          "en": "Lakota",
+          "slug": "lakota-ci2203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.148",
+      "lon": "-5.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI220303",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Goudouko",
+      "en": "Goudouko",
+      "slug": "goudouko-ci220303"
+    },
+    "code": {
+      "id": "CI220303",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2203",
+      "level": 2,
+      "name": {
+        "local": "Lakota",
+        "en": "Lakota",
+        "slug": "lakota-ci2203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI22",
+        "level": 1,
+        "name": {
+          "local": "Loh-Djiboua",
+          "en": "Loh-Djiboua",
+          "slug": "loh-djiboua-ci22"
+        }
+      },
+      {
+        "id": "CI2203",
+        "level": 2,
+        "name": {
+          "local": "Lakota",
+          "en": "Lakota",
+          "slug": "lakota-ci2203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.674",
+      "lon": "-5.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI220304",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kadéko",
+      "en": "Kadéko",
+      "slug": "kadko-ci220304"
+    },
+    "code": {
+      "id": "CI220304",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2203",
+      "level": 2,
+      "name": {
+        "local": "Lakota",
+        "en": "Lakota",
+        "slug": "lakota-ci2203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI22",
+        "level": 1,
+        "name": {
+          "local": "Loh-Djiboua",
+          "en": "Loh-Djiboua",
+          "slug": "loh-djiboua-ci22"
+        }
+      },
+      {
+        "id": "CI2203",
+        "level": 2,
+        "name": {
+          "local": "Lakota",
+          "en": "Lakota",
+          "slug": "lakota-ci2203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.093",
+      "lon": "-5.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI220301",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Lakota",
+      "en": "Lakota",
+      "slug": "lakota-ci220301"
+    },
+    "code": {
+      "id": "CI220301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2203",
+      "level": 2,
+      "name": {
+        "local": "Lakota",
+        "en": "Lakota",
+        "slug": "lakota-ci2203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI22",
+        "level": 1,
+        "name": {
+          "local": "Loh-Djiboua",
+          "en": "Loh-Djiboua",
+          "slug": "loh-djiboua-ci22"
+        }
+      },
+      {
+        "id": "CI2203",
+        "level": 2,
+        "name": {
+          "local": "Lakota",
+          "en": "Lakota",
+          "slug": "lakota-ci2203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.905",
+      "lon": "-5.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI220305",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Niambézaria",
+      "en": "Niambézaria",
+      "slug": "niambzaria-ci220305"
+    },
+    "code": {
+      "id": "CI220305",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2203",
+      "level": 2,
+      "name": {
+        "local": "Lakota",
+        "en": "Lakota",
+        "slug": "lakota-ci2203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI22",
+        "level": 1,
+        "name": {
+          "local": "Loh-Djiboua",
+          "en": "Loh-Djiboua",
+          "slug": "loh-djiboua-ci22"
+        }
+      },
+      {
+        "id": "CI2203",
+        "level": 2,
+        "name": {
+          "local": "Lakota",
+          "en": "Lakota",
+          "slug": "lakota-ci2203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.676",
+      "lon": "-5.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI220306",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Zikisso",
+      "en": "Zikisso",
+      "slug": "zikisso-ci220306"
+    },
+    "code": {
+      "id": "CI220306",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2203",
+      "level": 2,
+      "name": {
+        "local": "Lakota",
+        "en": "Lakota",
+        "slug": "lakota-ci2203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI22",
+        "level": 1,
+        "name": {
+          "local": "Loh-Djiboua",
+          "en": "Loh-Djiboua",
+          "slug": "loh-djiboua-ci22"
+        }
+      },
+      {
+        "id": "CI2203",
+        "level": 2,
+        "name": {
+          "local": "Lakota",
+          "en": "Lakota",
+          "slug": "lakota-ci2203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.063",
+      "lon": "-5.704"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

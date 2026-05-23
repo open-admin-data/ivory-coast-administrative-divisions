@@ -1,0 +1,47 @@
+{
+  "id": "CI3103",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Ouangolodougou",
+    "en": "Ouangolodougou",
+    "slug": "ouangolodougou-ci3103"
+  },
+  "code": {
+    "id": "CI3103",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI31",
+    "level": 1,
+    "name": {
+      "local": "Tchologo",
+      "en": "Tchologo",
+      "slug": "tchologo-ci31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI31",
+      "level": 1,
+      "name": {
+        "local": "Tchologo",
+        "en": "Tchologo",
+        "slug": "tchologo-ci31"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.092",
+    "lon": "-5.39"
+  },
+  "metadata": {},
+  "source": {}
+}

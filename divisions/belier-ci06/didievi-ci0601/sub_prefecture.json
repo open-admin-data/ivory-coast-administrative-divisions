@@ -1,0 +1,272 @@
+[
+  {
+    "id": "CI060101",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Boli",
+      "en": "Boli",
+      "slug": "boli-ci060101"
+    },
+    "code": {
+      "id": "CI060101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0601",
+      "level": 2,
+      "name": {
+        "local": "Didievi",
+        "en": "Didievi",
+        "slug": "didievi-ci0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI06",
+        "level": 1,
+        "name": {
+          "local": "Belier",
+          "en": "Belier",
+          "slug": "belier-ci06"
+        }
+      },
+      {
+        "id": "CI0601",
+        "level": 2,
+        "name": {
+          "local": "Didievi",
+          "en": "Didievi",
+          "slug": "didievi-ci0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.277",
+      "lon": "-4.831"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI060102",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Didievi",
+      "en": "Didievi",
+      "slug": "didievi-ci060102"
+    },
+    "code": {
+      "id": "CI060102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0601",
+      "level": 2,
+      "name": {
+        "local": "Didievi",
+        "en": "Didievi",
+        "slug": "didievi-ci0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI06",
+        "level": 1,
+        "name": {
+          "local": "Belier",
+          "en": "Belier",
+          "slug": "belier-ci06"
+        }
+      },
+      {
+        "id": "CI0601",
+        "level": 2,
+        "name": {
+          "local": "Didievi",
+          "en": "Didievi",
+          "slug": "didievi-ci0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.057",
+      "lon": "-4.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI060103",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Molonou-Blé",
+      "en": "Molonou-Blé",
+      "slug": "molonou-bl-ci060103"
+    },
+    "code": {
+      "id": "CI060103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0601",
+      "level": 2,
+      "name": {
+        "local": "Didievi",
+        "en": "Didievi",
+        "slug": "didievi-ci0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI06",
+        "level": 1,
+        "name": {
+          "local": "Belier",
+          "en": "Belier",
+          "slug": "belier-ci06"
+        }
+      },
+      {
+        "id": "CI0601",
+        "level": 2,
+        "name": {
+          "local": "Didievi",
+          "en": "Didievi",
+          "slug": "didievi-ci0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.355",
+      "lon": "-4.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI060104",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Raviart",
+      "en": "Raviart",
+      "slug": "raviart-ci060104"
+    },
+    "code": {
+      "id": "CI060104",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0601",
+      "level": 2,
+      "name": {
+        "local": "Didievi",
+        "en": "Didievi",
+        "slug": "didievi-ci0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI06",
+        "level": 1,
+        "name": {
+          "local": "Belier",
+          "en": "Belier",
+          "slug": "belier-ci06"
+        }
+      },
+      {
+        "id": "CI0601",
+        "level": 2,
+        "name": {
+          "local": "Didievi",
+          "en": "Didievi",
+          "slug": "didievi-ci0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.476",
+      "lon": "-4.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI060105",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tie N'Diékro",
+      "en": "Tie N'Diékro",
+      "slug": "tie-ndikro-ci060105"
+    },
+    "code": {
+      "id": "CI060105",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0601",
+      "level": 2,
+      "name": {
+        "local": "Didievi",
+        "en": "Didievi",
+        "slug": "didievi-ci0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI06",
+        "level": 1,
+        "name": {
+          "local": "Belier",
+          "en": "Belier",
+          "slug": "belier-ci06"
+        }
+      },
+      {
+        "id": "CI0601",
+        "level": 2,
+        "name": {
+          "local": "Didievi",
+          "en": "Didievi",
+          "slug": "didievi-ci0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.44",
+      "lon": "-4.791"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "id": "CI13",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Goh",
+    "en": "Goh",
+    "slug": "goh-ci13"
+  },
+  "code": {
+    "id": "CI13",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 2,
+    "sub_prefecture": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.152",
+    "lon": "-6.091"
+  },
+  "metadata": {},
+  "source": {}
+}

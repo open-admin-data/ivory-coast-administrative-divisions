@@ -1,0 +1,47 @@
+{
+  "id": "CI1102",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Botro",
+    "en": "Botro",
+    "slug": "botro-ci1102"
+  },
+  "code": {
+    "id": "CI1102",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI11",
+    "level": 1,
+    "name": {
+      "local": "Gbeke",
+      "en": "Gbeke",
+      "slug": "gbeke-ci11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI11",
+      "level": 1,
+      "name": {
+        "local": "Gbeke",
+        "en": "Gbeke",
+        "slug": "gbeke-ci11"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.883",
+    "lon": "-5.25"
+  },
+  "metadata": {},
+  "source": {}
+}

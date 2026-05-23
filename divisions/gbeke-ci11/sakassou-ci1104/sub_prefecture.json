@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CI110402",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ayaou-Sran",
+      "en": "Ayaou-Sran",
+      "slug": "ayaou-sran-ci110402"
+    },
+    "code": {
+      "id": "CI110402",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1104",
+      "level": 2,
+      "name": {
+        "local": "Sakassou",
+        "en": "Sakassou",
+        "slug": "sakassou-ci1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI11",
+        "level": 1,
+        "name": {
+          "local": "Gbeke",
+          "en": "Gbeke",
+          "slug": "gbeke-ci11"
+        }
+      },
+      {
+        "id": "CI1104",
+        "level": 2,
+        "name": {
+          "local": "Sakassou",
+          "en": "Sakassou",
+          "slug": "sakassou-ci1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.355",
+      "lon": "-5.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI110403",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dibri-Assirikro",
+      "en": "Dibri-Assirikro",
+      "slug": "dibri-assirikro-ci110403"
+    },
+    "code": {
+      "id": "CI110403",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1104",
+      "level": 2,
+      "name": {
+        "local": "Sakassou",
+        "en": "Sakassou",
+        "slug": "sakassou-ci1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI11",
+        "level": 1,
+        "name": {
+          "local": "Gbeke",
+          "en": "Gbeke",
+          "slug": "gbeke-ci11"
+        }
+      },
+      {
+        "id": "CI1104",
+        "level": 2,
+        "name": {
+          "local": "Sakassou",
+          "en": "Sakassou",
+          "slug": "sakassou-ci1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.559",
+      "lon": "-5.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI110401",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sakassou",
+      "en": "Sakassou",
+      "slug": "sakassou-ci110401"
+    },
+    "code": {
+      "id": "CI110401",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1104",
+      "level": 2,
+      "name": {
+        "local": "Sakassou",
+        "en": "Sakassou",
+        "slug": "sakassou-ci1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI11",
+        "level": 1,
+        "name": {
+          "local": "Gbeke",
+          "en": "Gbeke",
+          "slug": "gbeke-ci11"
+        }
+      },
+      {
+        "id": "CI1104",
+        "level": 2,
+        "name": {
+          "local": "Sakassou",
+          "en": "Sakassou",
+          "slug": "sakassou-ci1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.442",
+      "lon": "-5.33"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI110404",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Toumodi-Sakassou",
+      "en": "Toumodi-Sakassou",
+      "slug": "toumodi-sakassou-ci110404"
+    },
+    "code": {
+      "id": "CI110404",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1104",
+      "level": 2,
+      "name": {
+        "local": "Sakassou",
+        "en": "Sakassou",
+        "slug": "sakassou-ci1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI11",
+        "level": 1,
+        "name": {
+          "local": "Gbeke",
+          "en": "Gbeke",
+          "slug": "gbeke-ci11"
+        }
+      },
+      {
+        "id": "CI1104",
+        "level": 2,
+        "name": {
+          "local": "Sakassou",
+          "en": "Sakassou",
+          "slug": "sakassou-ci1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.355",
+      "lon": "-5.527"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

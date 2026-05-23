@@ -1,0 +1,64 @@
+# N&#39;Zi — Ivory Coast Administrative Divisions
+
+> 3 departments, 10 sub-prefectures
+> Code: CI27
+> Coordinates: 7.021, -4.452
+> Last updated: 2026-05-23. License: CC-BY-4.0.
+
+## Departments
+
+### Bocanda
+
+Code: CI2701, Coordinates: 6.971, -4.381
+Sub-prefectures: 4
+
+#### Bengassou
+
+Code: CI270101, Coordinates: 6.798, -4.481
+
+#### Bocanda
+
+Code: CI270102, Coordinates: 7.064, -4.578
+
+#### Kouadioblékro
+
+Code: CI270103, Coordinates: 6.947, -4.268
+
+#### N&#39;Zécrezessou
+
+Code: CI270104, Coordinates: 7.099, -4.244
+
+### Dimbokro
+
+Code: CI2702, Coordinates: 6.807, -4.746
+Sub-prefectures: 4
+
+#### Abigui
+
+Code: CI270201, Coordinates: 6.739, -4.872
+
+#### Diangokro
+
+Code: CI270202, Coordinates: 6.758, -4.585
+
+#### Dimbokro
+
+Code: CI270203, Coordinates: 6.671, -4.708
+
+#### Nofou
+
+Code: CI270204, Coordinates: 6.908, -4.727
+
+### Kouassi-Kouassikro
+
+Code: CI2703, Coordinates: 7.295, -4.633
+Sub-prefectures: 2
+
+#### Kouassi-Kouassikro
+
+Code: CI270301, Coordinates: 7.354, -4.659
+
+#### Mékro
+
+Code: CI270302, Coordinates: 7.198, -4.657
+

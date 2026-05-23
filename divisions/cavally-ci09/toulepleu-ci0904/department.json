@@ -1,0 +1,47 @@
+{
+  "id": "CI0904",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Toulepleu",
+    "en": "Toulepleu",
+    "slug": "toulepleu-ci0904"
+  },
+  "code": {
+    "id": "CI0904",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI09",
+    "level": 1,
+    "name": {
+      "local": "Cavally",
+      "en": "Cavally",
+      "slug": "cavally-ci09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI09",
+      "level": 1,
+      "name": {
+        "local": "Cavally",
+        "en": "Cavally",
+        "slug": "cavally-ci09"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.501",
+    "lon": "-8.347"
+  },
+  "metadata": {},
+  "source": {}
+}

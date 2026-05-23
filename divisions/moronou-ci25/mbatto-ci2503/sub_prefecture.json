@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CI250302",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Anoumaba",
+      "en": "Anoumaba",
+      "slug": "anoumaba-ci250302"
+    },
+    "code": {
+      "id": "CI250302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2503",
+      "level": 2,
+      "name": {
+        "local": "M'Batto",
+        "en": "M'Batto",
+        "slug": "mbatto-ci2503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI25",
+        "level": 1,
+        "name": {
+          "local": "Moronou",
+          "en": "Moronou",
+          "slug": "moronou-ci25"
+        }
+      },
+      {
+        "id": "CI2503",
+        "level": 2,
+        "name": {
+          "local": "M'Batto",
+          "en": "M'Batto",
+          "slug": "mbatto-ci2503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.367",
+      "lon": "-4.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI250303",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Assahara",
+      "en": "Assahara",
+      "slug": "assahara-ci250303"
+    },
+    "code": {
+      "id": "CI250303",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2503",
+      "level": 2,
+      "name": {
+        "local": "M'Batto",
+        "en": "M'Batto",
+        "slug": "mbatto-ci2503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI25",
+        "level": 1,
+        "name": {
+          "local": "Moronou",
+          "en": "Moronou",
+          "slug": "moronou-ci25"
+        }
+      },
+      {
+        "id": "CI2503",
+        "level": 2,
+        "name": {
+          "local": "M'Batto",
+          "en": "M'Batto",
+          "slug": "mbatto-ci2503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.665",
+      "lon": "-4.473"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI250301",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "M'Batto",
+      "en": "M'Batto",
+      "slug": "mbatto-ci250301"
+    },
+    "code": {
+      "id": "CI250301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2503",
+      "level": 2,
+      "name": {
+        "local": "M'Batto",
+        "en": "M'Batto",
+        "slug": "mbatto-ci2503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI25",
+        "level": 1,
+        "name": {
+          "local": "Moronou",
+          "en": "Moronou",
+          "slug": "moronou-ci25"
+        }
+      },
+      {
+        "id": "CI2503",
+        "level": 2,
+        "name": {
+          "local": "M'Batto",
+          "en": "M'Batto",
+          "slug": "mbatto-ci2503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.391",
+      "lon": "-4.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI250304",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tiémélékro",
+      "en": "Tiémélékro",
+      "slug": "timlkro-ci250304"
+    },
+    "code": {
+      "id": "CI250304",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2503",
+      "level": 2,
+      "name": {
+        "local": "M'Batto",
+        "en": "M'Batto",
+        "slug": "mbatto-ci2503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI25",
+        "level": 1,
+        "name": {
+          "local": "Moronou",
+          "en": "Moronou",
+          "slug": "moronou-ci25"
+        }
+      },
+      {
+        "id": "CI2503",
+        "level": 2,
+        "name": {
+          "local": "M'Batto",
+          "en": "M'Batto",
+          "slug": "mbatto-ci2503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.457",
+      "lon": "-4.607"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "CI2402",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Akoupé",
+    "en": "Akoupé",
+    "slug": "akoup-ci2402"
+  },
+  "code": {
+    "id": "CI2402",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI24",
+    "level": 1,
+    "name": {
+      "local": "Me",
+      "en": "Me",
+      "slug": "me-ci24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI24",
+      "level": 1,
+      "name": {
+        "local": "Me",
+        "en": "Me",
+        "slug": "me-ci24"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.411",
+    "lon": "-3.916"
+  },
+  "metadata": {},
+  "source": {}
+}

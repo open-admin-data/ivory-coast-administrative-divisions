@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CI100101",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Goulia",
+      "en": "Goulia",
+      "slug": "goulia-ci100101"
+    },
+    "code": {
+      "id": "CI100101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1001",
+      "level": 2,
+      "name": {
+        "local": "Kaniasso",
+        "en": "Kaniasso",
+        "slug": "kaniasso-ci1001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI10",
+        "level": 1,
+        "name": {
+          "local": "Folon",
+          "en": "Folon",
+          "slug": "folon-ci10"
+        }
+      },
+      {
+        "id": "CI1001",
+        "level": 2,
+        "name": {
+          "local": "Kaniasso",
+          "en": "Kaniasso",
+          "slug": "kaniasso-ci1001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.006",
+      "lon": "-7.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI100102",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kaniasso",
+      "en": "Kaniasso",
+      "slug": "kaniasso-ci100102"
+    },
+    "code": {
+      "id": "CI100102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1001",
+      "level": 2,
+      "name": {
+        "local": "Kaniasso",
+        "en": "Kaniasso",
+        "slug": "kaniasso-ci1001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI10",
+        "level": 1,
+        "name": {
+          "local": "Folon",
+          "en": "Folon",
+          "slug": "folon-ci10"
+        }
+      },
+      {
+        "id": "CI1001",
+        "level": 2,
+        "name": {
+          "local": "Kaniasso",
+          "en": "Kaniasso",
+          "slug": "kaniasso-ci1001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.904",
+      "lon": "-7.489"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI100103",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mahandiana-Sokourani",
+      "en": "Mahandiana-Sokourani",
+      "slug": "mahandiana-sokourani-ci100103"
+    },
+    "code": {
+      "id": "CI100103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1001",
+      "level": 2,
+      "name": {
+        "local": "Kaniasso",
+        "en": "Kaniasso",
+        "slug": "kaniasso-ci1001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI10",
+        "level": 1,
+        "name": {
+          "local": "Folon",
+          "en": "Folon",
+          "slug": "folon-ci10"
+        }
+      },
+      {
+        "id": "CI1001",
+        "level": 2,
+        "name": {
+          "local": "Kaniasso",
+          "en": "Kaniasso",
+          "slug": "kaniasso-ci1001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.239",
+      "lon": "-6.814"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "CI0301",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Agboville",
+    "en": "Agboville",
+    "slug": "agboville-ci0301"
+  },
+  "code": {
+    "id": "CI0301",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI03",
+    "level": 1,
+    "name": {
+      "local": "Agneby-Tiassa",
+      "en": "Agneby-Tiassa",
+      "slug": "agneby-tiassa-ci03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI03",
+      "level": 1,
+      "name": {
+        "local": "Agneby-Tiassa",
+        "en": "Agneby-Tiassa",
+        "slug": "agneby-tiassa-ci03"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.922",
+    "lon": "-4.335"
+  },
+  "metadata": {},
+  "source": {}
+}

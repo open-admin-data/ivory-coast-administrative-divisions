@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CI270101",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bengassou",
+      "en": "Bengassou",
+      "slug": "bengassou-ci270101"
+    },
+    "code": {
+      "id": "CI270101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2701",
+      "level": 2,
+      "name": {
+        "local": "Bocanda",
+        "en": "Bocanda",
+        "slug": "bocanda-ci2701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI27",
+        "level": 1,
+        "name": {
+          "local": "N'Zi",
+          "en": "N'Zi",
+          "slug": "nzi-ci27"
+        }
+      },
+      {
+        "id": "CI2701",
+        "level": 2,
+        "name": {
+          "local": "Bocanda",
+          "en": "Bocanda",
+          "slug": "bocanda-ci2701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.798",
+      "lon": "-4.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI270102",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bocanda",
+      "en": "Bocanda",
+      "slug": "bocanda-ci270102"
+    },
+    "code": {
+      "id": "CI270102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2701",
+      "level": 2,
+      "name": {
+        "local": "Bocanda",
+        "en": "Bocanda",
+        "slug": "bocanda-ci2701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI27",
+        "level": 1,
+        "name": {
+          "local": "N'Zi",
+          "en": "N'Zi",
+          "slug": "nzi-ci27"
+        }
+      },
+      {
+        "id": "CI2701",
+        "level": 2,
+        "name": {
+          "local": "Bocanda",
+          "en": "Bocanda",
+          "slug": "bocanda-ci2701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.064",
+      "lon": "-4.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI270103",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kouadioblékro",
+      "en": "Kouadioblékro",
+      "slug": "kouadioblkro-ci270103"
+    },
+    "code": {
+      "id": "CI270103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2701",
+      "level": 2,
+      "name": {
+        "local": "Bocanda",
+        "en": "Bocanda",
+        "slug": "bocanda-ci2701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI27",
+        "level": 1,
+        "name": {
+          "local": "N'Zi",
+          "en": "N'Zi",
+          "slug": "nzi-ci27"
+        }
+      },
+      {
+        "id": "CI2701",
+        "level": 2,
+        "name": {
+          "local": "Bocanda",
+          "en": "Bocanda",
+          "slug": "bocanda-ci2701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.947",
+      "lon": "-4.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI270104",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "N'Zécrezessou",
+      "en": "N'Zécrezessou",
+      "slug": "nzcrezessou-ci270104"
+    },
+    "code": {
+      "id": "CI270104",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2701",
+      "level": 2,
+      "name": {
+        "local": "Bocanda",
+        "en": "Bocanda",
+        "slug": "bocanda-ci2701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI27",
+        "level": 1,
+        "name": {
+          "local": "N'Zi",
+          "en": "N'Zi",
+          "slug": "nzi-ci27"
+        }
+      },
+      {
+        "id": "CI2701",
+        "level": 2,
+        "name": {
+          "local": "Bocanda",
+          "en": "Bocanda",
+          "slug": "bocanda-ci2701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.099",
+      "lon": "-4.244"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

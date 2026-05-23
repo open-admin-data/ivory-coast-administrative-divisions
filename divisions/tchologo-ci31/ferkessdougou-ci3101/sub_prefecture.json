@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CI310101",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ferkéssédougou",
+      "en": "Ferkéssédougou",
+      "slug": "ferkssdougou-ci310101"
+    },
+    "code": {
+      "id": "CI310101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3101",
+      "level": 2,
+      "name": {
+        "local": "Ferkessédougou",
+        "en": "Ferkessédougou",
+        "slug": "ferkessdougou-ci3101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI31",
+        "level": 1,
+        "name": {
+          "local": "Tchologo",
+          "en": "Tchologo",
+          "slug": "tchologo-ci31"
+        }
+      },
+      {
+        "id": "CI3101",
+        "level": 2,
+        "name": {
+          "local": "Ferkessédougou",
+          "en": "Ferkessédougou",
+          "slug": "ferkessdougou-ci3101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.664",
+      "lon": "-5.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI310102",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Koumbala",
+      "en": "Koumbala",
+      "slug": "koumbala-ci310102"
+    },
+    "code": {
+      "id": "CI310102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3101",
+      "level": 2,
+      "name": {
+        "local": "Ferkessédougou",
+        "en": "Ferkessédougou",
+        "slug": "ferkessdougou-ci3101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI31",
+        "level": 1,
+        "name": {
+          "local": "Tchologo",
+          "en": "Tchologo",
+          "slug": "tchologo-ci31"
+        }
+      },
+      {
+        "id": "CI3101",
+        "level": 2,
+        "name": {
+          "local": "Ferkessédougou",
+          "en": "Ferkessédougou",
+          "slug": "ferkessdougou-ci3101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.38",
+      "lon": "-5.057"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI310103",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Togoniéré",
+      "en": "Togoniéré",
+      "slug": "togonir-ci310103"
+    },
+    "code": {
+      "id": "CI310103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3101",
+      "level": 2,
+      "name": {
+        "local": "Ferkessédougou",
+        "en": "Ferkessédougou",
+        "slug": "ferkessdougou-ci3101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI31",
+        "level": 1,
+        "name": {
+          "local": "Tchologo",
+          "en": "Tchologo",
+          "slug": "tchologo-ci31"
+        }
+      },
+      {
+        "id": "CI3101",
+        "level": 2,
+        "name": {
+          "local": "Ferkessédougou",
+          "en": "Ferkessédougou",
+          "slug": "ferkessdougou-ci3101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.626",
+      "lon": "-4.879"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

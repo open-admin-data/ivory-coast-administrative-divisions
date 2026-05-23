@@ -1,0 +1,380 @@
+[
+  {
+    "id": "CI110101",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ando-Kékrénou",
+      "en": "Ando-Kékrénou",
+      "slug": "ando-kkrnou-ci110101"
+    },
+    "code": {
+      "id": "CI110101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1101",
+      "level": 2,
+      "name": {
+        "local": "Béoumi",
+        "en": "Béoumi",
+        "slug": "boumi-ci1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI11",
+        "level": 1,
+        "name": {
+          "local": "Gbeke",
+          "en": "Gbeke",
+          "slug": "gbeke-ci11"
+        }
+      },
+      {
+        "id": "CI1101",
+        "level": 2,
+        "name": {
+          "local": "Béoumi",
+          "en": "Béoumi",
+          "slug": "boumi-ci1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.506",
+      "lon": "-5.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI110102",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Béoumi",
+      "en": "Béoumi",
+      "slug": "boumi-ci110102"
+    },
+    "code": {
+      "id": "CI110102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1101",
+      "level": 2,
+      "name": {
+        "local": "Béoumi",
+        "en": "Béoumi",
+        "slug": "boumi-ci1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI11",
+        "level": 1,
+        "name": {
+          "local": "Gbeke",
+          "en": "Gbeke",
+          "slug": "gbeke-ci11"
+        }
+      },
+      {
+        "id": "CI1101",
+        "level": 2,
+        "name": {
+          "local": "Béoumi",
+          "en": "Béoumi",
+          "slug": "boumi-ci1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.752",
+      "lon": "-5.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI110103",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bodokro",
+      "en": "Bodokro",
+      "slug": "bodokro-ci110103"
+    },
+    "code": {
+      "id": "CI110103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1101",
+      "level": 2,
+      "name": {
+        "local": "Béoumi",
+        "en": "Béoumi",
+        "slug": "boumi-ci1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI11",
+        "level": 1,
+        "name": {
+          "local": "Gbeke",
+          "en": "Gbeke",
+          "slug": "gbeke-ci11"
+        }
+      },
+      {
+        "id": "CI1101",
+        "level": 2,
+        "name": {
+          "local": "Béoumi",
+          "en": "Béoumi",
+          "slug": "boumi-ci1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.9",
+      "lon": "-5.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI110104",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kondrobo",
+      "en": "Kondrobo",
+      "slug": "kondrobo-ci110104"
+    },
+    "code": {
+      "id": "CI110104",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1101",
+      "level": 2,
+      "name": {
+        "local": "Béoumi",
+        "en": "Béoumi",
+        "slug": "boumi-ci1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI11",
+        "level": 1,
+        "name": {
+          "local": "Gbeke",
+          "en": "Gbeke",
+          "slug": "gbeke-ci11"
+        }
+      },
+      {
+        "id": "CI1101",
+        "level": 2,
+        "name": {
+          "local": "Béoumi",
+          "en": "Béoumi",
+          "slug": "boumi-ci1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.844",
+      "lon": "-5.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI110105",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Lolobo",
+      "en": "Lolobo",
+      "slug": "lolobo-ci110105"
+    },
+    "code": {
+      "id": "CI110105",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1101",
+      "level": 2,
+      "name": {
+        "local": "Béoumi",
+        "en": "Béoumi",
+        "slug": "boumi-ci1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI11",
+        "level": 1,
+        "name": {
+          "local": "Gbeke",
+          "en": "Gbeke",
+          "slug": "gbeke-ci11"
+        }
+      },
+      {
+        "id": "CI1101",
+        "level": 2,
+        "name": {
+          "local": "Béoumi",
+          "en": "Béoumi",
+          "slug": "boumi-ci1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.717",
+      "lon": "-5.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI110106",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Marabadiassa",
+      "en": "Marabadiassa",
+      "slug": "marabadiassa-ci110106"
+    },
+    "code": {
+      "id": "CI110106",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1101",
+      "level": 2,
+      "name": {
+        "local": "Béoumi",
+        "en": "Béoumi",
+        "slug": "boumi-ci1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI11",
+        "level": 1,
+        "name": {
+          "local": "Gbeke",
+          "en": "Gbeke",
+          "slug": "gbeke-ci11"
+        }
+      },
+      {
+        "id": "CI1101",
+        "level": 2,
+        "name": {
+          "local": "Béoumi",
+          "en": "Béoumi",
+          "slug": "boumi-ci1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.08",
+      "lon": "-5.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI110107",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "N'Guéssankro",
+      "en": "N'Guéssankro",
+      "slug": "ngussankro-ci110107"
+    },
+    "code": {
+      "id": "CI110107",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1101",
+      "level": 2,
+      "name": {
+        "local": "Béoumi",
+        "en": "Béoumi",
+        "slug": "boumi-ci1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI11",
+        "level": 1,
+        "name": {
+          "local": "Gbeke",
+          "en": "Gbeke",
+          "slug": "gbeke-ci11"
+        }
+      },
+      {
+        "id": "CI1101",
+        "level": 2,
+        "name": {
+          "local": "Béoumi",
+          "en": "Béoumi",
+          "slug": "boumi-ci1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.997",
+      "lon": "-5.461"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

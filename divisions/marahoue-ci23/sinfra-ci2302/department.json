@@ -1,0 +1,47 @@
+{
+  "id": "CI2302",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Sinfra",
+    "en": "Sinfra",
+    "slug": "sinfra-ci2302"
+  },
+  "code": {
+    "id": "CI2302",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI23",
+    "level": 1,
+    "name": {
+      "local": "Marahoue",
+      "en": "Marahoue",
+      "slug": "marahoue-ci23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI23",
+      "level": 1,
+      "name": {
+        "local": "Marahoue",
+        "en": "Marahoue",
+        "slug": "marahoue-ci23"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.651",
+    "lon": "-5.762"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "CI0604",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Toumodi",
+    "en": "Toumodi",
+    "slug": "toumodi-ci0604"
+  },
+  "code": {
+    "id": "CI0604",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI06",
+    "level": 1,
+    "name": {
+      "local": "Belier",
+      "en": "Belier",
+      "slug": "belier-ci06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI06",
+      "level": 1,
+      "name": {
+        "local": "Belier",
+        "en": "Belier",
+        "slug": "belier-ci06"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.51",
+    "lon": "-4.933"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "CI2703",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Kouassi-Kouassikro",
+    "en": "Kouassi-Kouassikro",
+    "slug": "kouassi-kouassikro-ci2703"
+  },
+  "code": {
+    "id": "CI2703",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI27",
+    "level": 1,
+    "name": {
+      "local": "N'Zi",
+      "en": "N'Zi",
+      "slug": "nzi-ci27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI27",
+      "level": 1,
+      "name": {
+        "local": "N'Zi",
+        "en": "N'Zi",
+        "slug": "nzi-ci27"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.295",
+    "lon": "-4.633"
+  },
+  "metadata": {},
+  "source": {}
+}

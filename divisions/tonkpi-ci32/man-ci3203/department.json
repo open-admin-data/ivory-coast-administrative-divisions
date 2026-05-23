@@ -1,0 +1,47 @@
+{
+  "id": "CI3203",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Man",
+    "en": "Man",
+    "slug": "man-ci3203"
+  },
+  "code": {
+    "id": "CI3203",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI32",
+    "level": 1,
+    "name": {
+      "local": "Tonkpi",
+      "en": "Tonkpi",
+      "slug": "tonkpi-ci32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI32",
+      "level": 1,
+      "name": {
+        "local": "Tonkpi",
+        "en": "Tonkpi",
+        "slug": "tonkpi-ci32"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.336",
+    "lon": "-7.71"
+  },
+  "metadata": {},
+  "source": {}
+}

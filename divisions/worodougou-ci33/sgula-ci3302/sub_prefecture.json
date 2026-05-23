@@ -1,0 +1,380 @@
+[
+  {
+    "id": "CI330202",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bobi-Diarabana",
+      "en": "Bobi-Diarabana",
+      "slug": "bobi-diarabana-ci330202"
+    },
+    "code": {
+      "id": "CI330202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3302",
+      "level": 2,
+      "name": {
+        "local": "Séguéla",
+        "en": "Séguéla",
+        "slug": "sgula-ci3302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI33",
+        "level": 1,
+        "name": {
+          "local": "Worodougou",
+          "en": "Worodougou",
+          "slug": "worodougou-ci33"
+        }
+      },
+      {
+        "id": "CI3302",
+        "level": 2,
+        "name": {
+          "local": "Séguéla",
+          "en": "Séguéla",
+          "slug": "sgula-ci3302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.172",
+      "lon": "-6.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI330203",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dualla",
+      "en": "Dualla",
+      "slug": "dualla-ci330203"
+    },
+    "code": {
+      "id": "CI330203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3302",
+      "level": 2,
+      "name": {
+        "local": "Séguéla",
+        "en": "Séguéla",
+        "slug": "sgula-ci3302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI33",
+        "level": 1,
+        "name": {
+          "local": "Worodougou",
+          "en": "Worodougou",
+          "slug": "worodougou-ci33"
+        }
+      },
+      {
+        "id": "CI3302",
+        "level": 2,
+        "name": {
+          "local": "Séguéla",
+          "en": "Séguéla",
+          "slug": "sgula-ci3302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.16",
+      "lon": "-6.411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI330204",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kamalo",
+      "en": "Kamalo",
+      "slug": "kamalo-ci330204"
+    },
+    "code": {
+      "id": "CI330204",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3302",
+      "level": 2,
+      "name": {
+        "local": "Séguéla",
+        "en": "Séguéla",
+        "slug": "sgula-ci3302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI33",
+        "level": 1,
+        "name": {
+          "local": "Worodougou",
+          "en": "Worodougou",
+          "slug": "worodougou-ci33"
+        }
+      },
+      {
+        "id": "CI3302",
+        "level": 2,
+        "name": {
+          "local": "Séguéla",
+          "en": "Séguéla",
+          "slug": "sgula-ci3302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.87",
+      "lon": "-6.972"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI330205",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Massala",
+      "en": "Massala",
+      "slug": "massala-ci330205"
+    },
+    "code": {
+      "id": "CI330205",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3302",
+      "level": 2,
+      "name": {
+        "local": "Séguéla",
+        "en": "Séguéla",
+        "slug": "sgula-ci3302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI33",
+        "level": 1,
+        "name": {
+          "local": "Worodougou",
+          "en": "Worodougou",
+          "slug": "worodougou-ci33"
+        }
+      },
+      {
+        "id": "CI3302",
+        "level": 2,
+        "name": {
+          "local": "Séguéla",
+          "en": "Séguéla",
+          "slug": "sgula-ci3302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.926",
+      "lon": "-6.398"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI330201",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Séguéla",
+      "en": "Séguéla",
+      "slug": "sgula-ci330201"
+    },
+    "code": {
+      "id": "CI330201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3302",
+      "level": 2,
+      "name": {
+        "local": "Séguéla",
+        "en": "Séguéla",
+        "slug": "sgula-ci3302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI33",
+        "level": 1,
+        "name": {
+          "local": "Worodougou",
+          "en": "Worodougou",
+          "slug": "worodougou-ci33"
+        }
+      },
+      {
+        "id": "CI3302",
+        "level": 2,
+        "name": {
+          "local": "Séguéla",
+          "en": "Séguéla",
+          "slug": "sgula-ci3302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.915",
+      "lon": "-6.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI330206",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sifié",
+      "en": "Sifié",
+      "slug": "sifi-ci330206"
+    },
+    "code": {
+      "id": "CI330206",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3302",
+      "level": 2,
+      "name": {
+        "local": "Séguéla",
+        "en": "Séguéla",
+        "slug": "sgula-ci3302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI33",
+        "level": 1,
+        "name": {
+          "local": "Worodougou",
+          "en": "Worodougou",
+          "slug": "worodougou-ci33"
+        }
+      },
+      {
+        "id": "CI3302",
+        "level": 2,
+        "name": {
+          "local": "Séguéla",
+          "en": "Séguéla",
+          "slug": "sgula-ci3302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.987",
+      "lon": "-6.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI330207",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Worofla",
+      "en": "Worofla",
+      "slug": "worofla-ci330207"
+    },
+    "code": {
+      "id": "CI330207",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI3302",
+      "level": 2,
+      "name": {
+        "local": "Séguéla",
+        "en": "Séguéla",
+        "slug": "sgula-ci3302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI33",
+        "level": 1,
+        "name": {
+          "local": "Worodougou",
+          "en": "Worodougou",
+          "slug": "worodougou-ci33"
+        }
+      },
+      {
+        "id": "CI3302",
+        "level": 2,
+        "name": {
+          "local": "Séguéla",
+          "en": "Séguéla",
+          "slug": "sgula-ci3302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.296",
+      "lon": "-6.92"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

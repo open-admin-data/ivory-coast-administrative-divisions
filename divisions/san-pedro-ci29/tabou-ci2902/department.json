@@ -1,0 +1,47 @@
+{
+  "id": "CI2902",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Tabou",
+    "en": "Tabou",
+    "slug": "tabou-ci2902"
+  },
+  "code": {
+    "id": "CI2902",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI29",
+    "level": 1,
+    "name": {
+      "local": "San Pedro",
+      "en": "San Pedro",
+      "slug": "san-pedro-ci29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI29",
+      "level": 1,
+      "name": {
+        "local": "San Pedro",
+        "en": "San Pedro",
+        "slug": "san-pedro-ci29"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.019",
+    "lon": "-7.394"
+  },
+  "metadata": {},
+  "source": {}
+}

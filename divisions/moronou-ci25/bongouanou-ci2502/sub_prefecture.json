@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CI250201",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Andé",
+      "en": "Andé",
+      "slug": "and-ci250201"
+    },
+    "code": {
+      "id": "CI250201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2502",
+      "level": 2,
+      "name": {
+        "local": "Bongouanou",
+        "en": "Bongouanou",
+        "slug": "bongouanou-ci2502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI25",
+        "level": 1,
+        "name": {
+          "local": "Moronou",
+          "en": "Moronou",
+          "slug": "moronou-ci25"
+        }
+      },
+      {
+        "id": "CI2502",
+        "level": 2,
+        "name": {
+          "local": "Bongouanou",
+          "en": "Bongouanou",
+          "slug": "bongouanou-ci2502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.865",
+      "lon": "-4.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI250202",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Assié-Koumassi",
+      "en": "Assié-Koumassi",
+      "slug": "assi-koumassi-ci250202"
+    },
+    "code": {
+      "id": "CI250202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2502",
+      "level": 2,
+      "name": {
+        "local": "Bongouanou",
+        "en": "Bongouanou",
+        "slug": "bongouanou-ci2502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI25",
+        "level": 1,
+        "name": {
+          "local": "Moronou",
+          "en": "Moronou",
+          "slug": "moronou-ci25"
+        }
+      },
+      {
+        "id": "CI2502",
+        "level": 2,
+        "name": {
+          "local": "Bongouanou",
+          "en": "Bongouanou",
+          "slug": "bongouanou-ci2502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.822",
+      "lon": "-4.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI250203",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bongouanou",
+      "en": "Bongouanou",
+      "slug": "bongouanou-ci250203"
+    },
+    "code": {
+      "id": "CI250203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2502",
+      "level": 2,
+      "name": {
+        "local": "Bongouanou",
+        "en": "Bongouanou",
+        "slug": "bongouanou-ci2502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI25",
+        "level": 1,
+        "name": {
+          "local": "Moronou",
+          "en": "Moronou",
+          "slug": "moronou-ci25"
+        }
+      },
+      {
+        "id": "CI2502",
+        "level": 2,
+        "name": {
+          "local": "Bongouanou",
+          "en": "Bongouanou",
+          "slug": "bongouanou-ci2502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.624",
+      "lon": "-4.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI250204",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "N'Guessankro",
+      "en": "N'Guessankro",
+      "slug": "nguessankro-ci250204"
+    },
+    "code": {
+      "id": "CI250204",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2502",
+      "level": 2,
+      "name": {
+        "local": "Bongouanou",
+        "en": "Bongouanou",
+        "slug": "bongouanou-ci2502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI25",
+        "level": 1,
+        "name": {
+          "local": "Moronou",
+          "en": "Moronou",
+          "slug": "moronou-ci25"
+        }
+      },
+      {
+        "id": "CI2502",
+        "level": 2,
+        "name": {
+          "local": "Bongouanou",
+          "en": "Bongouanou",
+          "slug": "bongouanou-ci2502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.64",
+      "lon": "-4.325"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

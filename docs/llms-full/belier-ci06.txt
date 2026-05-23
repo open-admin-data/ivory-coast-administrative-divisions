@@ -1,0 +1,89 @@
+# Belier — Ivory Coast Administrative Divisions
+
+> 4 departments, 15 sub-prefectures
+> Code: CI06
+> Coordinates: 7.223, -5.201
+> Last updated: 2026-05-23. License: CC-BY-4.0.
+
+## Departments
+
+### Didievi
+
+Code: CI0601, Coordinates: 7.239, -4.835
+Sub-prefectures: 5
+
+#### Boli
+
+Code: CI060101, Coordinates: 7.277, -4.831
+
+#### Didievi
+
+Code: CI060102, Coordinates: 7.057, -4.838
+
+#### Molonou-Blé
+
+Code: CI060103, Coordinates: 7.355, -4.985
+
+#### Raviart
+
+Code: CI060104, Coordinates: 7.476, -4.885
+
+#### Tie N&#39;Diékro
+
+Code: CI060105, Coordinates: 7.44, -4.791
+
+### Djekanou
+
+Code: CI0602, Coordinates: 6.413, -5.117
+Sub-prefectures: 2
+
+#### Bonikro
+
+Code: CI060201, Coordinates: 6.384, -5.16
+
+#### Djékanou
+
+Code: CI060202, Coordinates: 6.443, -5.088
+
+### Tiébissou
+
+Code: CI0603, Coordinates: 7.121, -5.207
+Sub-prefectures: 4
+
+#### Lomokankro
+
+Code: CI060302, Coordinates: 7.054, -5.051
+
+#### Molonou
+
+Code: CI060303, Coordinates: 7.171, -5.459
+
+#### Tiébissou
+
+Code: CI060301, Coordinates: 7.218, -5.147
+
+#### Yakpabo-Sakassou
+
+Code: CI060304, Coordinates: 6.958, -4.95
+
+### Toumodi
+
+Code: CI0604, Coordinates: 6.51, -4.933
+Sub-prefectures: 4
+
+#### Angoda
+
+Code: CI060402, Coordinates: 6.694, -5.022
+
+#### Kokoumbo
+
+Code: CI060403, Coordinates: 6.493, -5.23
+
+#### Kpouèbo
+
+Code: CI060404, Coordinates: 6.369, -4.833
+
+#### Toumodi
+
+Code: CI060401, Coordinates: 6.533, -4.934
+

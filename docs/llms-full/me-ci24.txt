@@ -1,0 +1,97 @@
+# Me — Ivory Coast Administrative Divisions
+
+> 4 departments, 17 sub-prefectures
+> Code: CI24
+> Coordinates: 5.937, -3.761
+> Last updated: 2026-05-23. License: CC-BY-4.0.
+
+## Departments
+
+### Adzopé
+
+Code: CI2401, Coordinates: 6.098, -3.855
+Sub-prefectures: 6
+
+#### Adzopé
+
+Code: CI240101, Coordinates: 6.217, -3.803
+
+#### Agou
+
+Code: CI240102, Coordinates: 6, -3.965
+
+#### Annepé
+
+Code: CI240103, Coordinates: 5.924, -3.772
+
+#### Assikoi
+
+Code: CI240104, Coordinates: 5.969, -3.826
+
+#### Bécédi-Brignan
+
+Code: CI240105, Coordinates: 5.869, -4.021
+
+#### Yakassé-Mé
+
+Code: CI240106, Coordinates: 5.831, -3.939
+
+### Akoupé
+
+Code: CI2402, Coordinates: 6.411, -3.916
+Sub-prefectures: 3
+
+#### Afféry
+
+Code: CI240201, Coordinates: 6.335, -4.045
+
+#### Akoupé
+
+Code: CI240202, Coordinates: 6.431, -3.847
+
+#### Bécouéfin
+
+Code: CI240203, Coordinates: 6.551, -3.752
+
+### Alépé
+
+Code: CI2403, Coordinates: 5.569, -3.708
+Sub-prefectures: 5
+
+#### Aboisso-Comoé
+
+Code: CI240301, Coordinates: 5.684, -3.422
+
+#### Alépé
+
+Code: CI240302, Coordinates: 5.531, -3.718
+
+#### Allosso
+
+Code: CI240303, Coordinates: 5.6, -3.514
+
+#### Danguira
+
+Code: CI240304, Coordinates: 5.704, -3.718
+
+#### Oghlwapo
+
+Code: CI240305, Coordinates: 5.365, -3.675
+
+### Yakassé-Attobrou
+
+Code: CI2404, Coordinates: 6.102, -3.552
+Sub-prefectures: 3
+
+#### Abongoua
+
+Code: CI240402, Coordinates: 6.275, -3.542
+
+#### Biéby
+
+Code: CI240403, Coordinates: 5.969, -3.571
+
+#### Yakasse-Attobrou
+
+Code: CI240401, Coordinates: 6.139, -3.558
+

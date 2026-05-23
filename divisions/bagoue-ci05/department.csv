@@ -1,0 +1,4 @@
+id,name.local,name.en,name.slug,code.id,children_count.sub_prefecture,geo.lat,geo.lon
+CI0501,Boundiali,Boundiali,boundiali-ci0501,CI0501,5,9.559,-6.465
+CI0502,Kouto,Kouto,kouto-ci0502,CI0502,5,9.905,-6.526
+CI0503,Tengrela,Tengrela,tengrela-ci0503,CI0503,4,10.477,-6.435

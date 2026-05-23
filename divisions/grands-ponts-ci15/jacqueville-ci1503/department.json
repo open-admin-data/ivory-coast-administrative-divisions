@@ -1,0 +1,47 @@
+{
+  "id": "CI1503",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Jacqueville",
+    "en": "Jacqueville",
+    "slug": "jacqueville-ci1503"
+  },
+  "code": {
+    "id": "CI1503",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI15",
+    "level": 1,
+    "name": {
+      "local": "Grands Ponts",
+      "en": "Grands Ponts",
+      "slug": "grands-ponts-ci15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI15",
+      "level": 1,
+      "name": {
+        "local": "Grands Ponts",
+        "en": "Grands Ponts",
+        "slug": "grands-ponts-ci15"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.246",
+    "lon": "-4.426"
+  },
+  "metadata": {},
+  "source": {}
+}

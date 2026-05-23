@@ -1,0 +1,190 @@
+[
+  {
+    "id": "CI0301",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Agboville",
+      "en": "Agboville",
+      "slug": "agboville-ci0301"
+    },
+    "code": {
+      "id": "CI0301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI03",
+      "level": 1,
+      "name": {
+        "local": "Agneby-Tiassa",
+        "en": "Agneby-Tiassa",
+        "slug": "agneby-tiassa-ci03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI03",
+        "level": 1,
+        "name": {
+          "local": "Agneby-Tiassa",
+          "en": "Agneby-Tiassa",
+          "slug": "agneby-tiassa-ci03"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.922",
+      "lon": "-4.335"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI0302",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Sikensi",
+      "en": "Sikensi",
+      "slug": "sikensi-ci0302"
+    },
+    "code": {
+      "id": "CI0302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI03",
+      "level": 1,
+      "name": {
+        "local": "Agneby-Tiassa",
+        "en": "Agneby-Tiassa",
+        "slug": "agneby-tiassa-ci03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI03",
+        "level": 1,
+        "name": {
+          "local": "Agneby-Tiassa",
+          "en": "Agneby-Tiassa",
+          "slug": "agneby-tiassa-ci03"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.672",
+      "lon": "-4.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI0303",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Taabo",
+      "en": "Taabo",
+      "slug": "taabo-ci0303"
+    },
+    "code": {
+      "id": "CI0303",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI03",
+      "level": 1,
+      "name": {
+        "local": "Agneby-Tiassa",
+        "en": "Agneby-Tiassa",
+        "slug": "agneby-tiassa-ci03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI03",
+        "level": 1,
+        "name": {
+          "local": "Agneby-Tiassa",
+          "en": "Agneby-Tiassa",
+          "slug": "agneby-tiassa-ci03"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.192",
+      "lon": "-4.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI0304",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Tiassalé",
+      "en": "Tiassalé",
+      "slug": "tiassal-ci0304"
+    },
+    "code": {
+      "id": "CI0304",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI03",
+      "level": 1,
+      "name": {
+        "local": "Agneby-Tiassa",
+        "en": "Agneby-Tiassa",
+        "slug": "agneby-tiassa-ci03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI03",
+        "level": 1,
+        "name": {
+          "local": "Agneby-Tiassa",
+          "en": "Agneby-Tiassa",
+          "slug": "agneby-tiassa-ci03"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.931",
+      "lon": "-4.796"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

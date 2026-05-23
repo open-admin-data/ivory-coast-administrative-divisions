@@ -1,0 +1,30 @@
+{
+  "id": "CI26",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Nawa",
+    "en": "Nawa",
+    "slug": "nawa-ci26"
+  },
+  "code": {
+    "id": "CI26",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 4,
+    "sub_prefecture": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.911",
+    "lon": "-6.69"
+  },
+  "metadata": {},
+  "source": {}
+}

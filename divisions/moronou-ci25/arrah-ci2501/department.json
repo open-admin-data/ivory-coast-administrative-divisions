@@ -1,0 +1,47 @@
+{
+  "id": "CI2501",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Arrah",
+    "en": "Arrah",
+    "slug": "arrah-ci2501"
+  },
+  "code": {
+    "id": "CI2501",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI25",
+    "level": 1,
+    "name": {
+      "local": "Moronou",
+      "en": "Moronou",
+      "slug": "moronou-ci25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI25",
+      "level": 1,
+      "name": {
+        "local": "Moronou",
+        "en": "Moronou",
+        "slug": "moronou-ci25"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.767",
+    "lon": "-3.939"
+  },
+  "metadata": {},
+  "source": {}
+}

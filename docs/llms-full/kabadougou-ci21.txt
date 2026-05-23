@@ -1,0 +1,94 @@
+# Kabadougou — Ivory Coast Administrative Divisions
+
+> 5 departments, 15 sub-prefectures
+> Code: CI21
+> Coordinates: 9.255, -7.318
+> Last updated: 2026-05-23. License: CC-BY-4.0.
+
+## Departments
+
+### Gbeleban
+
+Code: CI2101, Coordinates: 9.644, -7.908
+Sub-prefectures: 3
+
+#### Gbéléban
+
+Code: CI210101, Coordinates: 9.564, -8.067
+
+#### Samango
+
+Code: CI210102, Coordinates: 9.735, -7.916
+
+#### Seydougou
+
+Code: CI210103, Coordinates: 9.516, -7.926
+
+### Madinani
+
+Code: CI2102, Coordinates: 9.668, -7.039
+Sub-prefectures: 3
+
+#### Fengolo
+
+Code: CI210202, Coordinates: 9.838, -6.848
+
+#### Madinani
+
+Code: CI210201, Coordinates: 9.582, -6.996
+
+#### N&#39;Goloblasso
+
+Code: CI210203, Coordinates: 9.756, -7.157
+
+### Odienne
+
+Code: CI2103, Coordinates: 9.119, -7.435
+Sub-prefectures: 5
+
+#### Bako
+
+Code: CI210302, Coordinates: 9.028, -7.52
+
+#### Bougousso
+
+Code: CI210303, Coordinates: 9.268, -7.778
+
+#### Dioulatiedougou
+
+Code: CI210304, Coordinates: 8.926, -7.281
+
+#### Odienné
+
+Code: CI210301, Coordinates: 9.532, -7.62
+
+#### Tiémé
+
+Code: CI210305, Coordinates: 9.532, -7.33
+
+### Samatiguila
+
+Code: CI2104, Coordinates: 9.814, -7.66
+Sub-prefectures: 2
+
+#### Kimbirila Sud
+
+Code: CI210402, Coordinates: 9.815, -7.695
+
+#### Samatiguila
+
+Code: CI210401, Coordinates: 9.88, -7.609
+
+### Séguélon
+
+Code: CI2105, Coordinates: 9.245, -6.959
+Sub-prefectures: 2
+
+#### Gbongaha
+
+Code: CI210502, Coordinates: 9.151, -6.908
+
+#### Séguélon
+
+Code: CI210501, Coordinates: 9.371, -7.15
+

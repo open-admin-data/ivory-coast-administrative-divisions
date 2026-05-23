@@ -1,0 +1,30 @@
+{
+  "id": "CI07",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Bere",
+    "en": "Bere",
+    "slug": "bere-ci07"
+  },
+  "code": {
+    "id": "CI07",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 3,
+    "sub_prefecture": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.377",
+    "lon": "-5.932"
+  },
+  "metadata": {},
+  "source": {}
+}

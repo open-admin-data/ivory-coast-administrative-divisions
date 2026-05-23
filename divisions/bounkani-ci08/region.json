@@ -1,0 +1,30 @@
+{
+  "id": "CI08",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Bounkani",
+    "en": "Bounkani",
+    "slug": "bounkani-ci08"
+  },
+  "code": {
+    "id": "CI08",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 4,
+    "sub_prefecture": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.078",
+    "lon": "-3.307"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,5 @@
+id,name.local,name.en,name.slug,code.id,children_count.sub_prefecture,geo.lat,geo.lon
+CI1101,Béoumi,Béoumi,boumi-ci1101,CI1101,7,7.775,-5.56
+CI1102,Botro,Botro,botro-ci1102,CI1102,4,7.883,-5.25
+CI1103,Bouaké,Bouaké,bouak-ci1103,CI1103,5,7.682,-4.839
+CI1104,Sakassou,Sakassou,sakassou-ci1104,CI1104,4,7.442,-5.33

@@ -1,0 +1,97 @@
+# Bounkani — Ivory Coast Administrative Divisions
+
+> 4 departments, 17 sub-prefectures
+> Code: CI08
+> Coordinates: 9.078, -3.307
+> Last updated: 2026-05-23. License: CC-BY-4.0.
+
+## Departments
+
+### Bouna
+
+Code: CI0801, Coordinates: 9.062, -3.338
+Sub-prefectures: 5
+
+#### Bouko
+
+Code: CI080101, Coordinates: 9.502, -3.094
+
+#### Bouna
+
+Code: CI080102, Coordinates: 9.135, -3.108
+
+#### Ondéfidouo
+
+Code: CI080103, Coordinates: 9.06, -2.956
+
+#### Parc National de Bona
+
+Code: CI080104, Coordinates: 9.062, -3.534
+
+#### Youndouo
+
+Code: CI080105, Coordinates: 8.832, -2.824
+
+### Doropo
+
+Code: CI0802, Coordinates: 9.645, -3.233
+Sub-prefectures: 4
+
+#### Danoa
+
+Code: CI080201, Coordinates: 9.657, -3.056
+
+#### Doropo
+
+Code: CI080202, Coordinates: 9.733, -3.345
+
+#### Kalamon
+
+Code: CI080203, Coordinates: 9.801, -3.168
+
+#### Niamoué
+
+Code: CI080204, Coordinates: 9.555, -3.385
+
+### Nassian
+
+Code: CI0803, Coordinates: 8.468, -3.611
+Sub-prefectures: 5
+
+#### Bogofa
+
+Code: CI080302, Coordinates: 8.62, -3.117
+
+#### Kakpin
+
+Code: CI080303, Coordinates: 8.577, -3.749
+
+#### Koutouba
+
+Code: CI080304, Coordinates: 8.608, -3.214
+
+#### Nassian
+
+Code: CI080301, Coordinates: 8.394, -3.493
+
+#### Sominassé
+
+Code: CI080305, Coordinates: 8.4, -3.779
+
+### Téhini
+
+Code: CI0804, Coordinates: 9.752, -3.873
+Sub-prefectures: 3
+
+#### Gogo
+
+Code: CI080402, Coordinates: 9.846, -3.58
+
+#### Téhini
+
+Code: CI080401, Coordinates: 9.726, -3.734
+
+#### Tougbo
+
+Code: CI080403, Coordinates: 9.722, -4.054
+

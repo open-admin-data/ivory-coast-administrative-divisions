@@ -1,0 +1,47 @@
+{
+  "id": "CI3101",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Ferkessédougou",
+    "en": "Ferkessédougou",
+    "slug": "ferkessdougou-ci3101"
+  },
+  "code": {
+    "id": "CI3101",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI31",
+    "level": 1,
+    "name": {
+      "local": "Tchologo",
+      "en": "Tchologo",
+      "slug": "tchologo-ci31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI31",
+      "level": 1,
+      "name": {
+        "local": "Tchologo",
+        "en": "Tchologo",
+        "slug": "tchologo-ci31"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.578",
+    "lon": "-5.039"
+  },
+  "metadata": {},
+  "source": {}
+}

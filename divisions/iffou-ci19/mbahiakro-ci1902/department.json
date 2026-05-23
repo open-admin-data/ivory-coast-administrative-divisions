@@ -1,0 +1,47 @@
+{
+  "id": "CI1902",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "M'Bahiakro",
+    "en": "M'Bahiakro",
+    "slug": "mbahiakro-ci1902"
+  },
+  "code": {
+    "id": "CI1902",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI19",
+    "level": 1,
+    "name": {
+      "local": "Iffou",
+      "en": "Iffou",
+      "slug": "iffou-ci19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI19",
+      "level": 1,
+      "name": {
+        "local": "Iffou",
+        "en": "Iffou",
+        "slug": "iffou-ci19"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.631",
+    "lon": "-4.327"
+  },
+  "metadata": {},
+  "source": {}
+}

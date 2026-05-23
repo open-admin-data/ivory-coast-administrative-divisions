@@ -1,0 +1,650 @@
+[
+  {
+    "id": "CI130101",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bayota",
+      "en": "Bayota",
+      "slug": "bayota-ci130101"
+    },
+    "code": {
+      "id": "CI130101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1301",
+      "level": 2,
+      "name": {
+        "local": "Gagnoa",
+        "en": "Gagnoa",
+        "slug": "gagnoa-ci1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI13",
+        "level": 1,
+        "name": {
+          "local": "Goh",
+          "en": "Goh",
+          "slug": "goh-ci13"
+        }
+      },
+      {
+        "id": "CI1301",
+        "level": 2,
+        "name": {
+          "local": "Gagnoa",
+          "en": "Gagnoa",
+          "slug": "gagnoa-ci1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.455",
+      "lon": "-5.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI130102",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dahiépa-Kéhi",
+      "en": "Dahiépa-Kéhi",
+      "slug": "dahipa-khi-ci130102"
+    },
+    "code": {
+      "id": "CI130102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1301",
+      "level": 2,
+      "name": {
+        "local": "Gagnoa",
+        "en": "Gagnoa",
+        "slug": "gagnoa-ci1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI13",
+        "level": 1,
+        "name": {
+          "local": "Goh",
+          "en": "Goh",
+          "slug": "goh-ci13"
+        }
+      },
+      {
+        "id": "CI1301",
+        "level": 2,
+        "name": {
+          "local": "Gagnoa",
+          "en": "Gagnoa",
+          "slug": "gagnoa-ci1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.269",
+      "lon": "-5.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI130103",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dignago",
+      "en": "Dignago",
+      "slug": "dignago-ci130103"
+    },
+    "code": {
+      "id": "CI130103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1301",
+      "level": 2,
+      "name": {
+        "local": "Gagnoa",
+        "en": "Gagnoa",
+        "slug": "gagnoa-ci1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI13",
+        "level": 1,
+        "name": {
+          "local": "Goh",
+          "en": "Goh",
+          "slug": "goh-ci13"
+        }
+      },
+      {
+        "id": "CI1301",
+        "level": 2,
+        "name": {
+          "local": "Gagnoa",
+          "en": "Gagnoa",
+          "slug": "gagnoa-ci1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.213",
+      "lon": "-6.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI130104",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dougroupalégnoa",
+      "en": "Dougroupalégnoa",
+      "slug": "dougroupalgnoa-ci130104"
+    },
+    "code": {
+      "id": "CI130104",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1301",
+      "level": 2,
+      "name": {
+        "local": "Gagnoa",
+        "en": "Gagnoa",
+        "slug": "gagnoa-ci1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI13",
+        "level": 1,
+        "name": {
+          "local": "Goh",
+          "en": "Goh",
+          "slug": "goh-ci13"
+        }
+      },
+      {
+        "id": "CI1301",
+        "level": 2,
+        "name": {
+          "local": "Gagnoa",
+          "en": "Gagnoa",
+          "slug": "gagnoa-ci1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.984",
+      "lon": "-5.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI130105",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Doukouyo",
+      "en": "Doukouyo",
+      "slug": "doukouyo-ci130105"
+    },
+    "code": {
+      "id": "CI130105",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1301",
+      "level": 2,
+      "name": {
+        "local": "Gagnoa",
+        "en": "Gagnoa",
+        "slug": "gagnoa-ci1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI13",
+        "level": 1,
+        "name": {
+          "local": "Goh",
+          "en": "Goh",
+          "slug": "goh-ci13"
+        }
+      },
+      {
+        "id": "CI1301",
+        "level": 2,
+        "name": {
+          "local": "Gagnoa",
+          "en": "Gagnoa",
+          "slug": "gagnoa-ci1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.768",
+      "lon": "-6.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI130106",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gagnoa",
+      "en": "Gagnoa",
+      "slug": "gagnoa-ci130106"
+    },
+    "code": {
+      "id": "CI130106",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1301",
+      "level": 2,
+      "name": {
+        "local": "Gagnoa",
+        "en": "Gagnoa",
+        "slug": "gagnoa-ci1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI13",
+        "level": 1,
+        "name": {
+          "local": "Goh",
+          "en": "Goh",
+          "slug": "goh-ci13"
+        }
+      },
+      {
+        "id": "CI1301",
+        "level": 2,
+        "name": {
+          "local": "Gagnoa",
+          "en": "Gagnoa",
+          "slug": "gagnoa-ci1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.054",
+      "lon": "-6.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI130107",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Galébouo",
+      "en": "Galébouo",
+      "slug": "galbouo-ci130107"
+    },
+    "code": {
+      "id": "CI130107",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1301",
+      "level": 2,
+      "name": {
+        "local": "Gagnoa",
+        "en": "Gagnoa",
+        "slug": "gagnoa-ci1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI13",
+        "level": 1,
+        "name": {
+          "local": "Goh",
+          "en": "Goh",
+          "slug": "goh-ci13"
+        }
+      },
+      {
+        "id": "CI1301",
+        "level": 2,
+        "name": {
+          "local": "Gagnoa",
+          "en": "Gagnoa",
+          "slug": "gagnoa-ci1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.997",
+      "lon": "-6.243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI130108",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gnagbodougnoa",
+      "en": "Gnagbodougnoa",
+      "slug": "gnagbodougnoa-ci130108"
+    },
+    "code": {
+      "id": "CI130108",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1301",
+      "level": 2,
+      "name": {
+        "local": "Gagnoa",
+        "en": "Gagnoa",
+        "slug": "gagnoa-ci1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI13",
+        "level": 1,
+        "name": {
+          "local": "Goh",
+          "en": "Goh",
+          "slug": "goh-ci13"
+        }
+      },
+      {
+        "id": "CI1301",
+        "level": 2,
+        "name": {
+          "local": "Gagnoa",
+          "en": "Gagnoa",
+          "slug": "gagnoa-ci1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.931",
+      "lon": "-5.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI130109",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Guiberoua",
+      "en": "Guiberoua",
+      "slug": "guiberoua-ci130109"
+    },
+    "code": {
+      "id": "CI130109",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1301",
+      "level": 2,
+      "name": {
+        "local": "Gagnoa",
+        "en": "Gagnoa",
+        "slug": "gagnoa-ci1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI13",
+        "level": 1,
+        "name": {
+          "local": "Goh",
+          "en": "Goh",
+          "slug": "goh-ci13"
+        }
+      },
+      {
+        "id": "CI1301",
+        "level": 2,
+        "name": {
+          "local": "Gagnoa",
+          "en": "Gagnoa",
+          "slug": "gagnoa-ci1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.285",
+      "lon": "-6.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI130110",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ouragahio",
+      "en": "Ouragahio",
+      "slug": "ouragahio-ci130110"
+    },
+    "code": {
+      "id": "CI130110",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1301",
+      "level": 2,
+      "name": {
+        "local": "Gagnoa",
+        "en": "Gagnoa",
+        "slug": "gagnoa-ci1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI13",
+        "level": 1,
+        "name": {
+          "local": "Goh",
+          "en": "Goh",
+          "slug": "goh-ci13"
+        }
+      },
+      {
+        "id": "CI1301",
+        "level": 2,
+        "name": {
+          "local": "Gagnoa",
+          "en": "Gagnoa",
+          "slug": "gagnoa-ci1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.321",
+      "lon": "-5.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI130111",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sérihio",
+      "en": "Sérihio",
+      "slug": "srihio-ci130111"
+    },
+    "code": {
+      "id": "CI130111",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1301",
+      "level": 2,
+      "name": {
+        "local": "Gagnoa",
+        "en": "Gagnoa",
+        "slug": "gagnoa-ci1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI13",
+        "level": 1,
+        "name": {
+          "local": "Goh",
+          "en": "Goh",
+          "slug": "goh-ci13"
+        }
+      },
+      {
+        "id": "CI1301",
+        "level": 2,
+        "name": {
+          "local": "Gagnoa",
+          "en": "Gagnoa",
+          "slug": "gagnoa-ci1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.852",
+      "lon": "-6.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI130112",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Yopohue",
+      "en": "Yopohue",
+      "slug": "yopohue-ci130112"
+    },
+    "code": {
+      "id": "CI130112",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1301",
+      "level": 2,
+      "name": {
+        "local": "Gagnoa",
+        "en": "Gagnoa",
+        "slug": "gagnoa-ci1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI13",
+        "level": 1,
+        "name": {
+          "local": "Goh",
+          "en": "Goh",
+          "slug": "goh-ci13"
+        }
+      },
+      {
+        "id": "CI1301",
+        "level": 2,
+        "name": {
+          "local": "Gagnoa",
+          "en": "Gagnoa",
+          "slug": "gagnoa-ci1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.436",
+      "lon": "-5.819"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

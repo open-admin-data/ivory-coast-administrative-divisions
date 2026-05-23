@@ -1,0 +1,47 @@
+{
+  "id": "CI1804",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Zoukougbeu",
+    "en": "Zoukougbeu",
+    "slug": "zoukougbeu-ci1804"
+  },
+  "code": {
+    "id": "CI1804",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI18",
+    "level": 1,
+    "name": {
+      "local": "Haut-Sassandra",
+      "en": "Haut-Sassandra",
+      "slug": "haut-sassandra-ci18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI18",
+      "level": 1,
+      "name": {
+        "local": "Haut-Sassandra",
+        "en": "Haut-Sassandra",
+        "slug": "haut-sassandra-ci18"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.847",
+    "lon": "-6.861"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,30 @@
+{
+  "id": "CI24",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Me",
+    "en": "Me",
+    "slug": "me-ci24"
+  },
+  "code": {
+    "id": "CI24",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 4,
+    "sub_prefecture": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.937",
+    "lon": "-3.761"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "CI2103",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Odienne",
+    "en": "Odienne",
+    "slug": "odienne-ci2103"
+  },
+  "code": {
+    "id": "CI2103",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI21",
+    "level": 1,
+    "name": {
+      "local": "Kabadougou",
+      "en": "Kabadougou",
+      "slug": "kabadougou-ci21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI21",
+      "level": 1,
+      "name": {
+        "local": "Kabadougou",
+        "en": "Kabadougou",
+        "slug": "kabadougou-ci21"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.119",
+    "lon": "-7.435"
+  },
+  "metadata": {},
+  "source": {}
+}

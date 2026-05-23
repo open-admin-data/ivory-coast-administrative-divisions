@@ -1,0 +1,47 @@
+{
+  "id": "CI2702",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Dimbokro",
+    "en": "Dimbokro",
+    "slug": "dimbokro-ci2702"
+  },
+  "code": {
+    "id": "CI2702",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI27",
+    "level": 1,
+    "name": {
+      "local": "N'Zi",
+      "en": "N'Zi",
+      "slug": "nzi-ci27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI27",
+      "level": 1,
+      "name": {
+        "local": "N'Zi",
+        "en": "N'Zi",
+        "slug": "nzi-ci27"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.807",
+    "lon": "-4.746"
+  },
+  "metadata": {},
+  "source": {}
+}

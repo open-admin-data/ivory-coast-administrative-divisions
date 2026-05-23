@@ -1,0 +1,47 @@
+{
+  "id": "CI2502",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Bongouanou",
+    "en": "Bongouanou",
+    "slug": "bongouanou-ci2502"
+  },
+  "code": {
+    "id": "CI2502",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI25",
+    "level": 1,
+    "name": {
+      "local": "Moronou",
+      "en": "Moronou",
+      "slug": "moronou-ci25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI25",
+      "level": 1,
+      "name": {
+        "local": "Moronou",
+        "en": "Moronou",
+        "slug": "moronou-ci25"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.733",
+    "lon": "-4.268"
+  },
+  "metadata": {},
+  "source": {}
+}

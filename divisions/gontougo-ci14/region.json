@@ -1,0 +1,30 @@
+{
+  "id": "CI14",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Gontougo",
+    "en": "Gontougo",
+    "slug": "gontougo-ci14"
+  },
+  "code": {
+    "id": "CI14",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 5,
+    "sub_prefecture": 29
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.921",
+    "lon": "-3.369"
+  },
+  "metadata": {},
+  "source": {}
+}

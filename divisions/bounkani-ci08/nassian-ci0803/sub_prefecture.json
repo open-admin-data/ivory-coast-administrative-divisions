@@ -1,0 +1,272 @@
+[
+  {
+    "id": "CI080302",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bogofa",
+      "en": "Bogofa",
+      "slug": "bogofa-ci080302"
+    },
+    "code": {
+      "id": "CI080302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0803",
+      "level": 2,
+      "name": {
+        "local": "Nassian",
+        "en": "Nassian",
+        "slug": "nassian-ci0803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI08",
+        "level": 1,
+        "name": {
+          "local": "Bounkani",
+          "en": "Bounkani",
+          "slug": "bounkani-ci08"
+        }
+      },
+      {
+        "id": "CI0803",
+        "level": 2,
+        "name": {
+          "local": "Nassian",
+          "en": "Nassian",
+          "slug": "nassian-ci0803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.62",
+      "lon": "-3.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI080303",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kakpin",
+      "en": "Kakpin",
+      "slug": "kakpin-ci080303"
+    },
+    "code": {
+      "id": "CI080303",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0803",
+      "level": 2,
+      "name": {
+        "local": "Nassian",
+        "en": "Nassian",
+        "slug": "nassian-ci0803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI08",
+        "level": 1,
+        "name": {
+          "local": "Bounkani",
+          "en": "Bounkani",
+          "slug": "bounkani-ci08"
+        }
+      },
+      {
+        "id": "CI0803",
+        "level": 2,
+        "name": {
+          "local": "Nassian",
+          "en": "Nassian",
+          "slug": "nassian-ci0803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.577",
+      "lon": "-3.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI080304",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Koutouba",
+      "en": "Koutouba",
+      "slug": "koutouba-ci080304"
+    },
+    "code": {
+      "id": "CI080304",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0803",
+      "level": 2,
+      "name": {
+        "local": "Nassian",
+        "en": "Nassian",
+        "slug": "nassian-ci0803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI08",
+        "level": 1,
+        "name": {
+          "local": "Bounkani",
+          "en": "Bounkani",
+          "slug": "bounkani-ci08"
+        }
+      },
+      {
+        "id": "CI0803",
+        "level": 2,
+        "name": {
+          "local": "Nassian",
+          "en": "Nassian",
+          "slug": "nassian-ci0803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.608",
+      "lon": "-3.214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI080301",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Nassian",
+      "en": "Nassian",
+      "slug": "nassian-ci080301"
+    },
+    "code": {
+      "id": "CI080301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0803",
+      "level": 2,
+      "name": {
+        "local": "Nassian",
+        "en": "Nassian",
+        "slug": "nassian-ci0803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI08",
+        "level": 1,
+        "name": {
+          "local": "Bounkani",
+          "en": "Bounkani",
+          "slug": "bounkani-ci08"
+        }
+      },
+      {
+        "id": "CI0803",
+        "level": 2,
+        "name": {
+          "local": "Nassian",
+          "en": "Nassian",
+          "slug": "nassian-ci0803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.394",
+      "lon": "-3.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI080305",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sominassé",
+      "en": "Sominassé",
+      "slug": "sominass-ci080305"
+    },
+    "code": {
+      "id": "CI080305",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0803",
+      "level": 2,
+      "name": {
+        "local": "Nassian",
+        "en": "Nassian",
+        "slug": "nassian-ci0803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI08",
+        "level": 1,
+        "name": {
+          "local": "Bounkani",
+          "en": "Bounkani",
+          "slug": "bounkani-ci08"
+        }
+      },
+      {
+        "id": "CI0803",
+        "level": 2,
+        "name": {
+          "local": "Nassian",
+          "en": "Nassian",
+          "slug": "nassian-ci0803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.4",
+      "lon": "-3.779"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

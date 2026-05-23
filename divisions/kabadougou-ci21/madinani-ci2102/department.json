@@ -1,0 +1,47 @@
+{
+  "id": "CI2102",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Madinani",
+    "en": "Madinani",
+    "slug": "madinani-ci2102"
+  },
+  "code": {
+    "id": "CI2102",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI21",
+    "level": 1,
+    "name": {
+      "local": "Kabadougou",
+      "en": "Kabadougou",
+      "slug": "kabadougou-ci21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI21",
+      "level": 1,
+      "name": {
+        "local": "Kabadougou",
+        "en": "Kabadougou",
+        "slug": "kabadougou-ci21"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.668",
+    "lon": "-7.039"
+  },
+  "metadata": {},
+  "source": {}
+}

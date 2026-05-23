@@ -1,0 +1,5 @@
+id,name.local,name.en,name.slug,code.id,children_count.sub_prefecture,geo.lat,geo.lon
+CI2601,Buyo,Buyo,buyo-ci2601,CI2601,2,6.189,-6.945
+CI2602,Guéyo,Guéyo,guyo-ci2602,CI2602,2,5.561,-6.108
+CI2603,Méagui,Méagui,magui-ci2603,CI2603,2,5.504,-6.745
+CI2604,Soubré,Soubré,soubr-ci2604,CI2604,5,5.926,-6.59

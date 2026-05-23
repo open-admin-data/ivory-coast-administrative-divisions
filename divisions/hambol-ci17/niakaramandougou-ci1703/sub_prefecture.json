@@ -1,0 +1,326 @@
+[
+  {
+    "id": "CI170302",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Arikokaha",
+      "en": "Arikokaha",
+      "slug": "arikokaha-ci170302"
+    },
+    "code": {
+      "id": "CI170302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1703",
+      "level": 2,
+      "name": {
+        "local": "Niakaramandougou",
+        "en": "Niakaramandougou",
+        "slug": "niakaramandougou-ci1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI17",
+        "level": 1,
+        "name": {
+          "local": "Hambol",
+          "en": "Hambol",
+          "slug": "hambol-ci17"
+        }
+      },
+      {
+        "id": "CI1703",
+        "level": 2,
+        "name": {
+          "local": "Niakaramandougou",
+          "en": "Niakaramandougou",
+          "slug": "niakaramandougou-ci1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.754",
+      "lon": "-5.09"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI170303",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Badikaha",
+      "en": "Badikaha",
+      "slug": "badikaha-ci170303"
+    },
+    "code": {
+      "id": "CI170303",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1703",
+      "level": 2,
+      "name": {
+        "local": "Niakaramandougou",
+        "en": "Niakaramandougou",
+        "slug": "niakaramandougou-ci1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI17",
+        "level": 1,
+        "name": {
+          "local": "Hambol",
+          "en": "Hambol",
+          "slug": "hambol-ci17"
+        }
+      },
+      {
+        "id": "CI1703",
+        "level": 2,
+        "name": {
+          "local": "Niakaramandougou",
+          "en": "Niakaramandougou",
+          "slug": "niakaramandougou-ci1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.286",
+      "lon": "-5.193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI170301",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Niakaramandougou",
+      "en": "Niakaramandougou",
+      "slug": "niakaramandougou-ci170301"
+    },
+    "code": {
+      "id": "CI170301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1703",
+      "level": 2,
+      "name": {
+        "local": "Niakaramandougou",
+        "en": "Niakaramandougou",
+        "slug": "niakaramandougou-ci1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI17",
+        "level": 1,
+        "name": {
+          "local": "Hambol",
+          "en": "Hambol",
+          "slug": "hambol-ci17"
+        }
+      },
+      {
+        "id": "CI1703",
+        "level": 2,
+        "name": {
+          "local": "Niakaramandougou",
+          "en": "Niakaramandougou",
+          "slug": "niakaramandougou-ci1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.691",
+      "lon": "-5.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI170304",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Niédiékaha",
+      "en": "Niédiékaha",
+      "slug": "nidikaha-ci170304"
+    },
+    "code": {
+      "id": "CI170304",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1703",
+      "level": 2,
+      "name": {
+        "local": "Niakaramandougou",
+        "en": "Niakaramandougou",
+        "slug": "niakaramandougou-ci1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI17",
+        "level": 1,
+        "name": {
+          "local": "Hambol",
+          "en": "Hambol",
+          "slug": "hambol-ci17"
+        }
+      },
+      {
+        "id": "CI1703",
+        "level": 2,
+        "name": {
+          "local": "Niakaramandougou",
+          "en": "Niakaramandougou",
+          "slug": "niakaramandougou-ci1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.917",
+      "lon": "-5.124"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI170305",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tafiré",
+      "en": "Tafiré",
+      "slug": "tafir-ci170305"
+    },
+    "code": {
+      "id": "CI170305",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1703",
+      "level": 2,
+      "name": {
+        "local": "Niakaramandougou",
+        "en": "Niakaramandougou",
+        "slug": "niakaramandougou-ci1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI17",
+        "level": 1,
+        "name": {
+          "local": "Hambol",
+          "en": "Hambol",
+          "slug": "hambol-ci17"
+        }
+      },
+      {
+        "id": "CI1703",
+        "level": 2,
+        "name": {
+          "local": "Niakaramandougou",
+          "en": "Niakaramandougou",
+          "slug": "niakaramandougou-ci1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.081",
+      "lon": "-5.19"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI170306",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tortiya",
+      "en": "Tortiya",
+      "slug": "tortiya-ci170306"
+    },
+    "code": {
+      "id": "CI170306",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI1703",
+      "level": 2,
+      "name": {
+        "local": "Niakaramandougou",
+        "en": "Niakaramandougou",
+        "slug": "niakaramandougou-ci1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI17",
+        "level": 1,
+        "name": {
+          "local": "Hambol",
+          "en": "Hambol",
+          "slug": "hambol-ci17"
+        }
+      },
+      {
+        "id": "CI1703",
+        "level": 2,
+        "name": {
+          "local": "Niakaramandougou",
+          "en": "Niakaramandougou",
+          "slug": "niakaramandougou-ci1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.706",
+      "lon": "-5.607"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

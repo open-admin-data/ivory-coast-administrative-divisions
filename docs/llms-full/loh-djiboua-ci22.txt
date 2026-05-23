@@ -1,0 +1,92 @@
+# Loh-Djiboua — Ivory Coast Administrative Divisions
+
+> 3 departments, 17 sub-prefectures
+> Code: CI22
+> Coordinates: 5.714, -5.481
+> Last updated: 2026-05-23. License: CC-BY-4.0.
+
+## Departments
+
+### Divo
+
+Code: CI2201, Coordinates: 5.925, -5.257
+Sub-prefectures: 7
+
+#### Chiépo
+
+Code: CI220101, Coordinates: 5.731, -5.089
+
+#### Didoko
+
+Code: CI220102, Coordinates: 6.021, -5.265
+
+#### Divo
+
+Code: CI220103, Coordinates: 5.811, -5.359
+
+#### Hiré
+
+Code: CI220104, Coordinates: 6.149, -5.33
+
+#### Nébo
+
+Code: CI220105, Coordinates: 6.025, -5.426
+
+#### Ogoudou
+
+Code: CI220106, Coordinates: 5.925, -5.134
+
+#### Zégo
+
+Code: CI220107, Coordinates: 6.11, -5.127
+
+### Guitry
+
+Code: CI2202, Coordinates: 5.432, -5.231
+Sub-prefectures: 4
+
+#### Dairo Didizo
+
+Code: CI220202, Coordinates: 5.558, -5.429
+
+#### Guitry
+
+Code: CI220201, Coordinates: 5.51, -5.155
+
+#### Lauzoua
+
+Code: CI220203, Coordinates: 5.301, -5.334
+
+#### Yocoboué
+
+Code: CI220204, Coordinates: 5.291, -5.129
+
+### Lakota
+
+Code: CI2203, Coordinates: 5.862, -5.704
+Sub-prefectures: 6
+
+#### Djidji
+
+Code: CI220302, Coordinates: 6.148, -5.688
+
+#### Goudouko
+
+Code: CI220303, Coordinates: 5.674, -5.624
+
+#### Kadéko
+
+Code: CI220304, Coordinates: 6.093, -5.556
+
+#### Lakota
+
+Code: CI220301, Coordinates: 5.905, -5.682
+
+#### Niambézaria
+
+Code: CI220305, Coordinates: 5.676, -5.864
+
+#### Zikisso
+
+Code: CI220306, Coordinates: 6.063, -5.704
+

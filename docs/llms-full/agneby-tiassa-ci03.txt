@@ -1,0 +1,105 @@
+# Agneby-Tiassa — Ivory Coast Administrative Divisions
+
+> 4 departments, 19 sub-prefectures
+> Code: CI03
+> Coordinates: 5.953, -4.538
+> Last updated: 2026-05-23. License: CC-BY-4.0.
+
+## Departments
+
+### Agboville
+
+Code: CI0301, Coordinates: 5.922, -4.335
+Sub-prefectures: 11
+
+#### Aboudé
+
+Code: CI030101, Coordinates: 5.905, -4.555
+
+#### Agboville
+
+Code: CI030102, Coordinates: 5.858, -4.176
+
+#### Ananguié
+
+Code: CI030103, Coordinates: 6.05, -4.471
+
+#### Attobrou
+
+Code: CI030104, Coordinates: 6.132, -4.115
+
+#### Azaguié
+
+Code: CI030105, Coordinates: 5.663, -4.053
+
+#### Cechi
+
+Code: CI030106, Coordinates: 6.192, -4.424
+
+#### Grand-Morié
+
+Code: CI030107, Coordinates: 5.994, -4.104
+
+#### Guessiguié
+
+Code: CI030108, Coordinates: 5.689, -4.234
+
+#### Loviguié
+
+Code: CI030109, Coordinates: 5.816, -4.349
+
+#### Oress-Krobou
+
+Code: CI030110, Coordinates: 5.726, -4.378
+
+#### Rubino
+
+Code: CI030111, Coordinates: 6.109, -4.298
+
+### Sikensi
+
+Code: CI0302, Coordinates: 5.672, -4.528
+Sub-prefectures: 2
+
+#### Gomon
+
+Code: CI030202, Coordinates: 5.672, -4.431
+
+#### Sikensi
+
+Code: CI030201, Coordinates: 5.643, -4.595
+
+### Taabo
+
+Code: CI0303, Coordinates: 6.192, -4.994
+Sub-prefectures: 2
+
+#### Pacobo
+
+Code: CI030302, Coordinates: 6.155, -4.869
+
+#### Taabo
+
+Code: CI030301, Coordinates: 6.192, -5.073
+
+### Tiassalé
+
+Code: CI0304, Coordinates: 5.931, -4.796
+Sub-prefectures: 4
+
+#### Gbolouville
+
+Code: CI030402, Coordinates: 5.702, -4.739
+
+#### Morokro
+
+Code: CI030403, Coordinates: 6.099, -4.651
+
+#### N&#39;Douci
+
+Code: CI030404, Coordinates: 5.873, -4.716
+
+#### Tiassalé
+
+Code: CI030401, Coordinates: 5.91, -4.898
+

@@ -1,0 +1,380 @@
+[
+  {
+    "id": "CI220101",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Chiépo",
+      "en": "Chiépo",
+      "slug": "chipo-ci220101"
+    },
+    "code": {
+      "id": "CI220101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2201",
+      "level": 2,
+      "name": {
+        "local": "Divo",
+        "en": "Divo",
+        "slug": "divo-ci2201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI22",
+        "level": 1,
+        "name": {
+          "local": "Loh-Djiboua",
+          "en": "Loh-Djiboua",
+          "slug": "loh-djiboua-ci22"
+        }
+      },
+      {
+        "id": "CI2201",
+        "level": 2,
+        "name": {
+          "local": "Divo",
+          "en": "Divo",
+          "slug": "divo-ci2201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.731",
+      "lon": "-5.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI220102",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Didoko",
+      "en": "Didoko",
+      "slug": "didoko-ci220102"
+    },
+    "code": {
+      "id": "CI220102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2201",
+      "level": 2,
+      "name": {
+        "local": "Divo",
+        "en": "Divo",
+        "slug": "divo-ci2201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI22",
+        "level": 1,
+        "name": {
+          "local": "Loh-Djiboua",
+          "en": "Loh-Djiboua",
+          "slug": "loh-djiboua-ci22"
+        }
+      },
+      {
+        "id": "CI2201",
+        "level": 2,
+        "name": {
+          "local": "Divo",
+          "en": "Divo",
+          "slug": "divo-ci2201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.021",
+      "lon": "-5.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI220103",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Divo",
+      "en": "Divo",
+      "slug": "divo-ci220103"
+    },
+    "code": {
+      "id": "CI220103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2201",
+      "level": 2,
+      "name": {
+        "local": "Divo",
+        "en": "Divo",
+        "slug": "divo-ci2201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI22",
+        "level": 1,
+        "name": {
+          "local": "Loh-Djiboua",
+          "en": "Loh-Djiboua",
+          "slug": "loh-djiboua-ci22"
+        }
+      },
+      {
+        "id": "CI2201",
+        "level": 2,
+        "name": {
+          "local": "Divo",
+          "en": "Divo",
+          "slug": "divo-ci2201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.811",
+      "lon": "-5.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI220104",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Hiré",
+      "en": "Hiré",
+      "slug": "hir-ci220104"
+    },
+    "code": {
+      "id": "CI220104",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2201",
+      "level": 2,
+      "name": {
+        "local": "Divo",
+        "en": "Divo",
+        "slug": "divo-ci2201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI22",
+        "level": 1,
+        "name": {
+          "local": "Loh-Djiboua",
+          "en": "Loh-Djiboua",
+          "slug": "loh-djiboua-ci22"
+        }
+      },
+      {
+        "id": "CI2201",
+        "level": 2,
+        "name": {
+          "local": "Divo",
+          "en": "Divo",
+          "slug": "divo-ci2201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.149",
+      "lon": "-5.33"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI220105",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Nébo",
+      "en": "Nébo",
+      "slug": "nbo-ci220105"
+    },
+    "code": {
+      "id": "CI220105",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2201",
+      "level": 2,
+      "name": {
+        "local": "Divo",
+        "en": "Divo",
+        "slug": "divo-ci2201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI22",
+        "level": 1,
+        "name": {
+          "local": "Loh-Djiboua",
+          "en": "Loh-Djiboua",
+          "slug": "loh-djiboua-ci22"
+        }
+      },
+      {
+        "id": "CI2201",
+        "level": 2,
+        "name": {
+          "local": "Divo",
+          "en": "Divo",
+          "slug": "divo-ci2201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.025",
+      "lon": "-5.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI220106",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ogoudou",
+      "en": "Ogoudou",
+      "slug": "ogoudou-ci220106"
+    },
+    "code": {
+      "id": "CI220106",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2201",
+      "level": 2,
+      "name": {
+        "local": "Divo",
+        "en": "Divo",
+        "slug": "divo-ci2201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI22",
+        "level": 1,
+        "name": {
+          "local": "Loh-Djiboua",
+          "en": "Loh-Djiboua",
+          "slug": "loh-djiboua-ci22"
+        }
+      },
+      {
+        "id": "CI2201",
+        "level": 2,
+        "name": {
+          "local": "Divo",
+          "en": "Divo",
+          "slug": "divo-ci2201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.925",
+      "lon": "-5.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI220107",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Zégo",
+      "en": "Zégo",
+      "slug": "zgo-ci220107"
+    },
+    "code": {
+      "id": "CI220107",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI2201",
+      "level": 2,
+      "name": {
+        "local": "Divo",
+        "en": "Divo",
+        "slug": "divo-ci2201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI22",
+        "level": 1,
+        "name": {
+          "local": "Loh-Djiboua",
+          "en": "Loh-Djiboua",
+          "slug": "loh-djiboua-ci22"
+        }
+      },
+      {
+        "id": "CI2201",
+        "level": 2,
+        "name": {
+          "local": "Divo",
+          "en": "Divo",
+          "slug": "divo-ci2201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.11",
+      "lon": "-5.127"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

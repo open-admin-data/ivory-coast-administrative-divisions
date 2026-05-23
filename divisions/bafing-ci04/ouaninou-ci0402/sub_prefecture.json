@@ -1,0 +1,326 @@
+[
+  {
+    "id": "CI040202",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gbèlo",
+      "en": "Gbèlo",
+      "slug": "gblo-ci040202"
+    },
+    "code": {
+      "id": "CI040202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0402",
+      "level": 2,
+      "name": {
+        "local": "Ouaninou",
+        "en": "Ouaninou",
+        "slug": "ouaninou-ci0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI04",
+        "level": 1,
+        "name": {
+          "local": "Bafing",
+          "en": "Bafing",
+          "slug": "bafing-ci04"
+        }
+      },
+      {
+        "id": "CI0402",
+        "level": 2,
+        "name": {
+          "local": "Ouaninou",
+          "en": "Ouaninou",
+          "slug": "ouaninou-ci0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.154",
+      "lon": "-7.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI040203",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gouékan",
+      "en": "Gouékan",
+      "slug": "goukan-ci040203"
+    },
+    "code": {
+      "id": "CI040203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0402",
+      "level": 2,
+      "name": {
+        "local": "Ouaninou",
+        "en": "Ouaninou",
+        "slug": "ouaninou-ci0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI04",
+        "level": 1,
+        "name": {
+          "local": "Bafing",
+          "en": "Bafing",
+          "slug": "bafing-ci04"
+        }
+      },
+      {
+        "id": "CI0402",
+        "level": 2,
+        "name": {
+          "local": "Ouaninou",
+          "en": "Ouaninou",
+          "slug": "ouaninou-ci0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.029",
+      "lon": "-7.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI040204",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Koonan",
+      "en": "Koonan",
+      "slug": "koonan-ci040204"
+    },
+    "code": {
+      "id": "CI040204",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0402",
+      "level": 2,
+      "name": {
+        "local": "Ouaninou",
+        "en": "Ouaninou",
+        "slug": "ouaninou-ci0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI04",
+        "level": 1,
+        "name": {
+          "local": "Bafing",
+          "en": "Bafing",
+          "slug": "bafing-ci04"
+        }
+      },
+      {
+        "id": "CI0402",
+        "level": 2,
+        "name": {
+          "local": "Ouaninou",
+          "en": "Ouaninou",
+          "slug": "ouaninou-ci0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.38",
+      "lon": "-7.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI040201",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ouaninou",
+      "en": "Ouaninou",
+      "slug": "ouaninou-ci040201"
+    },
+    "code": {
+      "id": "CI040201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0402",
+      "level": 2,
+      "name": {
+        "local": "Ouaninou",
+        "en": "Ouaninou",
+        "slug": "ouaninou-ci0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI04",
+        "level": 1,
+        "name": {
+          "local": "Bafing",
+          "en": "Bafing",
+          "slug": "bafing-ci04"
+        }
+      },
+      {
+        "id": "CI0402",
+        "level": 2,
+        "name": {
+          "local": "Ouaninou",
+          "en": "Ouaninou",
+          "slug": "ouaninou-ci0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.268",
+      "lon": "-7.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI040205",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Saboudougou",
+      "en": "Saboudougou",
+      "slug": "saboudougou-ci040205"
+    },
+    "code": {
+      "id": "CI040205",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0402",
+      "level": 2,
+      "name": {
+        "local": "Ouaninou",
+        "en": "Ouaninou",
+        "slug": "ouaninou-ci0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI04",
+        "level": 1,
+        "name": {
+          "local": "Bafing",
+          "en": "Bafing",
+          "slug": "bafing-ci04"
+        }
+      },
+      {
+        "id": "CI0402",
+        "level": 2,
+        "name": {
+          "local": "Ouaninou",
+          "en": "Ouaninou",
+          "slug": "ouaninou-ci0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.396",
+      "lon": "-8.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI040206",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Santa",
+      "en": "Santa",
+      "slug": "santa-ci040206"
+    },
+    "code": {
+      "id": "CI040206",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0402",
+      "level": 2,
+      "name": {
+        "local": "Ouaninou",
+        "en": "Ouaninou",
+        "slug": "ouaninou-ci0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI04",
+        "level": 1,
+        "name": {
+          "local": "Bafing",
+          "en": "Bafing",
+          "slug": "bafing-ci04"
+        }
+      },
+      {
+        "id": "CI0402",
+        "level": 2,
+        "name": {
+          "local": "Ouaninou",
+          "en": "Ouaninou",
+          "slug": "ouaninou-ci0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.259",
+      "lon": "-8.1"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

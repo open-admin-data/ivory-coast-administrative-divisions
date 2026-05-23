@@ -1,0 +1,47 @@
+{
+  "id": "CI2303",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Zuénoula",
+    "en": "Zuénoula",
+    "slug": "zunoula-ci2303"
+  },
+  "code": {
+    "id": "CI2303",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI23",
+    "level": 1,
+    "name": {
+      "local": "Marahoue",
+      "en": "Marahoue",
+      "slug": "marahoue-ci23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI23",
+      "level": 1,
+      "name": {
+        "local": "Marahoue",
+        "en": "Marahoue",
+        "slug": "marahoue-ci23"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.461",
+    "lon": "-6.057"
+  },
+  "metadata": {},
+  "source": {}
+}

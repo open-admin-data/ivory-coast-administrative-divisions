@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CI080201",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Danoa",
+      "en": "Danoa",
+      "slug": "danoa-ci080201"
+    },
+    "code": {
+      "id": "CI080201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0802",
+      "level": 2,
+      "name": {
+        "local": "Doropo",
+        "en": "Doropo",
+        "slug": "doropo-ci0802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI08",
+        "level": 1,
+        "name": {
+          "local": "Bounkani",
+          "en": "Bounkani",
+          "slug": "bounkani-ci08"
+        }
+      },
+      {
+        "id": "CI0802",
+        "level": 2,
+        "name": {
+          "local": "Doropo",
+          "en": "Doropo",
+          "slug": "doropo-ci0802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.657",
+      "lon": "-3.056"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI080202",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Doropo",
+      "en": "Doropo",
+      "slug": "doropo-ci080202"
+    },
+    "code": {
+      "id": "CI080202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0802",
+      "level": 2,
+      "name": {
+        "local": "Doropo",
+        "en": "Doropo",
+        "slug": "doropo-ci0802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI08",
+        "level": 1,
+        "name": {
+          "local": "Bounkani",
+          "en": "Bounkani",
+          "slug": "bounkani-ci08"
+        }
+      },
+      {
+        "id": "CI0802",
+        "level": 2,
+        "name": {
+          "local": "Doropo",
+          "en": "Doropo",
+          "slug": "doropo-ci0802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.733",
+      "lon": "-3.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI080203",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kalamon",
+      "en": "Kalamon",
+      "slug": "kalamon-ci080203"
+    },
+    "code": {
+      "id": "CI080203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0802",
+      "level": 2,
+      "name": {
+        "local": "Doropo",
+        "en": "Doropo",
+        "slug": "doropo-ci0802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI08",
+        "level": 1,
+        "name": {
+          "local": "Bounkani",
+          "en": "Bounkani",
+          "slug": "bounkani-ci08"
+        }
+      },
+      {
+        "id": "CI0802",
+        "level": 2,
+        "name": {
+          "local": "Doropo",
+          "en": "Doropo",
+          "slug": "doropo-ci0802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.801",
+      "lon": "-3.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI080204",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Niamoué",
+      "en": "Niamoué",
+      "slug": "niamou-ci080204"
+    },
+    "code": {
+      "id": "CI080204",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0802",
+      "level": 2,
+      "name": {
+        "local": "Doropo",
+        "en": "Doropo",
+        "slug": "doropo-ci0802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI08",
+        "level": 1,
+        "name": {
+          "local": "Bounkani",
+          "en": "Bounkani",
+          "slug": "bounkani-ci08"
+        }
+      },
+      {
+        "id": "CI0802",
+        "level": 2,
+        "name": {
+          "local": "Doropo",
+          "en": "Doropo",
+          "slug": "doropo-ci0802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.555",
+      "lon": "-3.385"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "CI3002",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Adiaké",
+    "en": "Adiaké",
+    "slug": "adiak-ci3002"
+  },
+  "code": {
+    "id": "CI3002",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI30",
+    "level": 1,
+    "name": {
+      "local": "Sud-Comoe",
+      "en": "Sud-Comoe",
+      "slug": "sud-comoe-ci30"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI30",
+      "level": 1,
+      "name": {
+        "local": "Sud-Comoe",
+        "en": "Sud-Comoe",
+        "slug": "sud-comoe-ci30"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.233",
+    "lon": "-3.26"
+  },
+  "metadata": {},
+  "source": {}
+}

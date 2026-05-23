@@ -1,0 +1,30 @@
+{
+  "id": "CI18",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Haut-Sassandra",
+    "en": "Haut-Sassandra",
+    "slug": "haut-sassandra-ci18"
+  },
+  "code": {
+    "id": "CI18",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 4,
+    "sub_prefecture": 23
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.033",
+    "lon": "-6.603"
+  },
+  "metadata": {},
+  "source": {}
+}

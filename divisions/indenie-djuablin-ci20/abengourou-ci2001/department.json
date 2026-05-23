@@ -1,0 +1,47 @@
+{
+  "id": "CI2001",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Abengourou",
+    "en": "Abengourou",
+    "slug": "abengourou-ci2001"
+  },
+  "code": {
+    "id": "CI2001",
+    "iso": null
+  },
+  "parent": {
+    "id": "CI20",
+    "level": 1,
+    "name": {
+      "local": "Indenie-Djuablin",
+      "en": "Indenie-Djuablin",
+      "slug": "indenie-djuablin-ci20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CI20",
+      "level": 1,
+      "name": {
+        "local": "Indenie-Djuablin",
+        "en": "Indenie-Djuablin",
+        "slug": "indenie-djuablin-ci20"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.668",
+    "lon": "-3.515"
+  },
+  "metadata": {},
+  "source": {}
+}

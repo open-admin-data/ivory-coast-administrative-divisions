@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CI070202",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kongasso",
+      "en": "Kongasso",
+      "slug": "kongasso-ci070202"
+    },
+    "code": {
+      "id": "CI070202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0702",
+      "level": 2,
+      "name": {
+        "local": "Kounahiri",
+        "en": "Kounahiri",
+        "slug": "kounahiri-ci0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI07",
+        "level": 1,
+        "name": {
+          "local": "Bere",
+          "en": "Bere",
+          "slug": "bere-ci07"
+        }
+      },
+      {
+        "id": "CI0702",
+        "level": 2,
+        "name": {
+          "local": "Kounahiri",
+          "en": "Kounahiri",
+          "slug": "kounahiri-ci0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.818",
+      "lon": "-6.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CI070201",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kounahiri",
+      "en": "Kounahiri",
+      "slug": "kounahiri-ci070201"
+    },
+    "code": {
+      "id": "CI070201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CI0702",
+      "level": 2,
+      "name": {
+        "local": "Kounahiri",
+        "en": "Kounahiri",
+        "slug": "kounahiri-ci0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CI07",
+        "level": 1,
+        "name": {
+          "local": "Bere",
+          "en": "Bere",
+          "slug": "bere-ci07"
+        }
+      },
+      {
+        "id": "CI0702",
+        "level": 2,
+        "name": {
+          "local": "Kounahiri",
+          "en": "Kounahiri",
+          "slug": "kounahiri-ci0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.783",
+      "lon": "-5.859"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]
