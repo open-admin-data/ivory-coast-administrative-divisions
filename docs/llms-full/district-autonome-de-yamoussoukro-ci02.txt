@@ -3,7 +3,7 @@
 > 2 departments, 4 sub-prefectures
 > Code: CI02
 > Coordinates: 6.815, -5.222
-> Last updated: 2026-05-23. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Departments
 

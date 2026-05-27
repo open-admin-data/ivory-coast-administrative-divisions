@@ -3,7 +3,7 @@
 > 3 departments, 18 sub-prefectures
 > Code: CI23
 > Coordinates: 7.128, -5.744
-> Last updated: 2026-05-23. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Departments
 

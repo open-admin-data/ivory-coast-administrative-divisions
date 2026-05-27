@@ -3,7 +3,7 @@
 > 4 departments, 23 sub-prefectures
 > Code: CI16
 > Coordinates: 7.029, -7.39
-> Last updated: 2026-05-23. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Departments
 

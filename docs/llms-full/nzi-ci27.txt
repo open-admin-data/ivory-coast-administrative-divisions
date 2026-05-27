@@ -3,7 +3,7 @@
 > 3 departments, 10 sub-prefectures
 > Code: CI27
 > Coordinates: 7.021, -4.452
-> Last updated: 2026-05-23. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Departments
 

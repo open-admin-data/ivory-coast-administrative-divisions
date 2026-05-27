@@ -3,7 +3,7 @@
 > 4 departments, 19 sub-prefectures
 > Code: CI03
 > Coordinates: 5.953, -4.538
-> Last updated: 2026-05-23. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Departments
 

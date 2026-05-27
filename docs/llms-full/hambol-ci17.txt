@@ -3,7 +3,7 @@
 > 3 departments, 19 sub-prefectures
 > Code: CI17
 > Coordinates: 8.622, -4.821
-> Last updated: 2026-05-23. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Departments
 

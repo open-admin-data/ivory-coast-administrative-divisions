@@ -3,7 +3,7 @@
 > 2 departments, 11 sub-prefectures
 > Code: CI29
 > Coordinates: 5.017, -6.954
-> Last updated: 2026-05-23. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Departments
 

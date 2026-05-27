@@ -3,7 +3,7 @@
 > 3 departments, 15 sub-prefectures
 > Code: CI19
 > Coordinates: 7.498, -4.112
-> Last updated: 2026-05-23. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Departments
 

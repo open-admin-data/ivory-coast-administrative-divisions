@@ -3,7 +3,7 @@
 > 1 departments, 5 sub-prefectures
 > Code: CI01
 > Coordinates: 5.412, -4.069
-> Last updated: 2026-05-23. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Departments
 

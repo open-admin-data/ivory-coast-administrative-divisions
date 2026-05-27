@@ -3,7 +3,7 @@
 > 5 departments, 29 sub-prefectures
 > Code: CI14
 > Coordinates: 7.921, -3.369
-> Last updated: 2026-05-23. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Departments
 

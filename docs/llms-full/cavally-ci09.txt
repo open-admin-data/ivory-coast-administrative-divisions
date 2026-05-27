@@ -3,7 +3,7 @@
 > 4 departments, 17 sub-prefectures
 > Code: CI09
 > Coordinates: 6.299, -7.577
-> Last updated: 2026-05-23. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Departments
 

@@ -3,7 +3,7 @@
 > 3 departments, 12 sub-prefectures
 > Code: CI31
 > Coordinates: 9.548, -4.783
-> Last updated: 2026-05-23. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Departments
 
