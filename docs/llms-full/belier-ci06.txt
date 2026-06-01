@@ -3,7 +3,7 @@
 > 4 departments, 15 sub-prefectures
 > Code: CI06
 > Coordinates: 7.223, -5.201
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Departments
 

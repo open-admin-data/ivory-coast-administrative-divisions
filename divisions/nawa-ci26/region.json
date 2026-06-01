@@ -26,5 +26,9 @@
     "lon": "-6.69"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ci/regions/nawa-ci26/",
+    "api": "https://openadmindata.org/api/ci/"
+  }
 }

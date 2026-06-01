@@ -26,5 +26,9 @@
     "lon": "-7.417"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ci/regions/bafing-ci04/",
+    "api": "https://openadmindata.org/api/ci/"
+  }
 }

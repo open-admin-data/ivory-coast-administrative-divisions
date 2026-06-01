@@ -26,5 +26,9 @@
     "lon": "-3.471"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ci/regions/indenie-djuablin-ci20/",
+    "api": "https://openadmindata.org/api/ci/"
+  }
 }

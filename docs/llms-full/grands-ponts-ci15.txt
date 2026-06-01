@@ -3,7 +3,7 @@
 > 3 departments, 10 sub-prefectures
 > Code: CI15
 > Coordinates: 5.455, -4.663
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Departments
 

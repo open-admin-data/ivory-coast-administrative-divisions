@@ -26,5 +26,9 @@
     "lon": "-6.091"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ci/regions/goh-ci13/",
+    "api": "https://openadmindata.org/api/ci/"
+  }
 }

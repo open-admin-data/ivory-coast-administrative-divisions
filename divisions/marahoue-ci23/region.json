@@ -26,5 +26,9 @@
     "lon": "-5.744"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ci/regions/marahoue-ci23/",
+    "api": "https://openadmindata.org/api/ci/"
+  }
 }

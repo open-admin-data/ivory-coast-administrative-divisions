@@ -26,5 +26,9 @@
     "lon": "-4.174"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ci/regions/moronou-ci25/",
+    "api": "https://openadmindata.org/api/ci/"
+  }
 }

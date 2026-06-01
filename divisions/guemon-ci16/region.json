@@ -26,5 +26,9 @@
     "lon": "-7.39"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ci/regions/guemon-ci16/",
+    "api": "https://openadmindata.org/api/ci/"
+  }
 }

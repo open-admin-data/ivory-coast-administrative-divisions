@@ -3,7 +3,7 @@
 > 4 departments, 17 sub-prefectures
 > Code: CI08
 > Coordinates: 9.078, -3.307
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Departments
 

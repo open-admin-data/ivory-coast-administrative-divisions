@@ -26,5 +26,9 @@
     "lon": "-5.222"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ci/regions/district-autonome-de-yamoussoukro-ci02/",
+    "api": "https://openadmindata.org/api/ci/"
+  }
 }

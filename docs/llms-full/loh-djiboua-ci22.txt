@@ -3,7 +3,7 @@
 > 3 departments, 17 sub-prefectures
 > Code: CI22
 > Coordinates: 5.714, -5.481
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Departments
 

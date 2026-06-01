@@ -26,5 +26,9 @@
     "lon": "-6.954"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ci/regions/san-pedro-ci29/",
+    "api": "https://openadmindata.org/api/ci/"
+  }
 }

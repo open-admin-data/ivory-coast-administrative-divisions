@@ -26,5 +26,9 @@
     "lon": "-5.93"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ci/regions/gbokle-ci12/",
+    "api": "https://openadmindata.org/api/ci/"
+  }
 }

@@ -26,5 +26,9 @@
     "lon": "-6.603"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ci/regions/haut-sassandra-ci18/",
+    "api": "https://openadmindata.org/api/ci/"
+  }
 }

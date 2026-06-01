@@ -26,5 +26,9 @@
     "lon": "-5.481"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ci/regions/loh-djiboua-ci22/",
+    "api": "https://openadmindata.org/api/ci/"
+  }
 }

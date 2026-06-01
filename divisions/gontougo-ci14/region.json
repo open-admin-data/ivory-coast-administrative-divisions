@@ -26,5 +26,9 @@
     "lon": "-3.369"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ci/regions/gontougo-ci14/",
+    "api": "https://openadmindata.org/api/ci/"
+  }
 }

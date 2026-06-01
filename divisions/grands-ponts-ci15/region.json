@@ -26,5 +26,9 @@
     "lon": "-4.663"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ci/regions/grands-ponts-ci15/",
+    "api": "https://openadmindata.org/api/ci/"
+  }
 }

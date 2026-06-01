@@ -3,7 +3,7 @@
 > 4 departments, 20 sub-prefectures
 > Code: CI11
 > Coordinates: 7.692, -5.099
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Departments
 

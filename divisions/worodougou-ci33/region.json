@@ -26,5 +26,9 @@
     "lon": "-6.781"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ci/regions/worodougou-ci33/",
+    "api": "https://openadmindata.org/api/ci/"
+  }
 }

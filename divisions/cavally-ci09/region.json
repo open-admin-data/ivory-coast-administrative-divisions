@@ -26,5 +26,9 @@
     "lon": "-7.577"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ci/regions/cavally-ci09/",
+    "api": "https://openadmindata.org/api/ci/"
+  }
 }

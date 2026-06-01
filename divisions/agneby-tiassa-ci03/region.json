@@ -26,5 +26,9 @@
     "lon": "-4.538"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ci/regions/agneby-tiassa-ci03/",
+    "api": "https://openadmindata.org/api/ci/"
+  }
 }

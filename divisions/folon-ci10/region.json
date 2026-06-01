@@ -26,5 +26,9 @@
     "lon": "-7.466"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ci/regions/folon-ci10/",
+    "api": "https://openadmindata.org/api/ci/"
+  }
 }

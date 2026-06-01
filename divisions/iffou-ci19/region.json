@@ -26,5 +26,9 @@
     "lon": "-4.112"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ci/regions/iffou-ci19/",
+    "api": "https://openadmindata.org/api/ci/"
+  }
 }

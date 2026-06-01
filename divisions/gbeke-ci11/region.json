@@ -26,5 +26,9 @@
     "lon": "-5.099"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ci/regions/gbeke-ci11/",
+    "api": "https://openadmindata.org/api/ci/"
+  }
 }

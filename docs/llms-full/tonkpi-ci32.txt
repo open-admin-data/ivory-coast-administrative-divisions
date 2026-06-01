@@ -3,7 +3,7 @@
 > 5 departments, 33 sub-prefectures
 > Code: CI32
 > Coordinates: 7.367, -7.944
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Departments
 

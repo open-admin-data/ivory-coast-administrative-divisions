@@ -26,5 +26,9 @@
     "lon": "-3.307"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ci/regions/bounkani-ci08/",
+    "api": "https://openadmindata.org/api/ci/"
+  }
 }

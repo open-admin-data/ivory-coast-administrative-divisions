@@ -26,5 +26,9 @@
     "lon": "-4.821"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ci/regions/hambol-ci17/",
+    "api": "https://openadmindata.org/api/ci/"
+  }
 }

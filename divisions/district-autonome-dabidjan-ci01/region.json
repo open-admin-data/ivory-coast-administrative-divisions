@@ -26,5 +26,9 @@
     "lon": "-4.069"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ci/regions/district-autonome-dabidjan-ci01/",
+    "api": "https://openadmindata.org/api/ci/"
+  }
 }

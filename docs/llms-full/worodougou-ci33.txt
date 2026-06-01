@@ -3,7 +3,7 @@
 > 2 departments, 11 sub-prefectures
 > Code: CI33
 > Coordinates: 8.428, -6.781
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Departments
 

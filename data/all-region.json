@@ -27,7 +27,11 @@
       "lon": "-4.538"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ci/regions/agneby-tiassa-ci03/",
+      "api": "https://openadmindata.org/api/ci/"
+    }
   },
   {
     "id": "CI04",
@@ -57,7 +61,11 @@
       "lon": "-7.417"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ci/regions/bafing-ci04/",
+      "api": "https://openadmindata.org/api/ci/"
+    }
   },
   {
     "id": "CI05",
@@ -87,7 +95,11 @@
       "lon": "-6.453"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ci/regions/bagoue-ci05/",
+      "api": "https://openadmindata.org/api/ci/"
+    }
   },
   {
     "id": "CI06",
@@ -117,7 +129,11 @@
       "lon": "-5.201"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ci/regions/belier-ci06/",
+      "api": "https://openadmindata.org/api/ci/"
+    }
   },
   {
     "id": "CI07",
@@ -147,7 +163,11 @@
       "lon": "-5.932"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ci/regions/bere-ci07/",
+      "api": "https://openadmindata.org/api/ci/"
+    }
   },
   {
     "id": "CI08",
@@ -177,7 +197,11 @@
       "lon": "-3.307"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ci/regions/bounkani-ci08/",
+      "api": "https://openadmindata.org/api/ci/"
+    }
   },
   {
     "id": "CI09",
@@ -207,7 +231,11 @@
       "lon": "-7.577"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ci/regions/cavally-ci09/",
+      "api": "https://openadmindata.org/api/ci/"
+    }
   },
   {
     "id": "CI01",
@@ -237,7 +265,11 @@
       "lon": "-4.069"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ci/regions/district-autonome-dabidjan-ci01/",
+      "api": "https://openadmindata.org/api/ci/"
+    }
   },
   {
     "id": "CI02",
@@ -267,7 +299,11 @@
       "lon": "-5.222"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ci/regions/district-autonome-de-yamoussoukro-ci02/",
+      "api": "https://openadmindata.org/api/ci/"
+    }
   },
   {
     "id": "CI10",
@@ -297,7 +333,11 @@
       "lon": "-7.466"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ci/regions/folon-ci10/",
+      "api": "https://openadmindata.org/api/ci/"
+    }
   },
   {
     "id": "CI11",
@@ -327,7 +367,11 @@
       "lon": "-5.099"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ci/regions/gbeke-ci11/",
+      "api": "https://openadmindata.org/api/ci/"
+    }
   },
   {
     "id": "CI12",
@@ -357,7 +401,11 @@
       "lon": "-5.93"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ci/regions/gbokle-ci12/",
+      "api": "https://openadmindata.org/api/ci/"
+    }
   },
   {
     "id": "CI13",
@@ -387,7 +435,11 @@
       "lon": "-6.091"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ci/regions/goh-ci13/",
+      "api": "https://openadmindata.org/api/ci/"
+    }
   },
   {
     "id": "CI14",
@@ -417,7 +469,11 @@
       "lon": "-3.369"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ci/regions/gontougo-ci14/",
+      "api": "https://openadmindata.org/api/ci/"
+    }
   },
   {
     "id": "CI15",
@@ -447,7 +503,11 @@
       "lon": "-4.663"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ci/regions/grands-ponts-ci15/",
+      "api": "https://openadmindata.org/api/ci/"
+    }
   },
   {
     "id": "CI16",
@@ -477,7 +537,11 @@
       "lon": "-7.39"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ci/regions/guemon-ci16/",
+      "api": "https://openadmindata.org/api/ci/"
+    }
   },
   {
     "id": "CI17",
@@ -507,7 +571,11 @@
       "lon": "-4.821"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ci/regions/hambol-ci17/",
+      "api": "https://openadmindata.org/api/ci/"
+    }
   },
   {
     "id": "CI18",
@@ -537,7 +605,11 @@
       "lon": "-6.603"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ci/regions/haut-sassandra-ci18/",
+      "api": "https://openadmindata.org/api/ci/"
+    }
   },
   {
     "id": "CI19",
@@ -567,7 +639,11 @@
       "lon": "-4.112"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ci/regions/iffou-ci19/",
+      "api": "https://openadmindata.org/api/ci/"
+    }
   },
   {
     "id": "CI20",
@@ -597,7 +673,11 @@
       "lon": "-3.471"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ci/regions/indenie-djuablin-ci20/",
+      "api": "https://openadmindata.org/api/ci/"
+    }
   },
   {
     "id": "CI21",
@@ -627,7 +707,11 @@
       "lon": "-7.318"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ci/regions/kabadougou-ci21/",
+      "api": "https://openadmindata.org/api/ci/"
+    }
   },
   {
     "id": "CI22",
@@ -657,7 +741,11 @@
       "lon": "-5.481"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ci/regions/loh-djiboua-ci22/",
+      "api": "https://openadmindata.org/api/ci/"
+    }
   },
   {
     "id": "CI23",
@@ -687,7 +775,11 @@
       "lon": "-5.744"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ci/regions/marahoue-ci23/",
+      "api": "https://openadmindata.org/api/ci/"
+    }
   },
   {
     "id": "CI24",
@@ -717,7 +809,11 @@
       "lon": "-3.761"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ci/regions/me-ci24/",
+      "api": "https://openadmindata.org/api/ci/"
+    }
   },
   {
     "id": "CI25",
@@ -747,7 +843,11 @@
       "lon": "-4.174"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ci/regions/moronou-ci25/",
+      "api": "https://openadmindata.org/api/ci/"
+    }
   },
   {
     "id": "CI27",
@@ -777,7 +877,11 @@
       "lon": "-4.452"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ci/regions/nzi-ci27/",
+      "api": "https://openadmindata.org/api/ci/"
+    }
   },
   {
     "id": "CI26",
@@ -807,7 +911,11 @@
       "lon": "-6.69"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ci/regions/nawa-ci26/",
+      "api": "https://openadmindata.org/api/ci/"
+    }
   },
   {
     "id": "CI28",
@@ -837,7 +945,11 @@
       "lon": "-5.735"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ci/regions/poro-ci28/",
+      "api": "https://openadmindata.org/api/ci/"
+    }
   },
   {
     "id": "CI29",
@@ -867,7 +979,11 @@
       "lon": "-6.954"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ci/regions/san-pedro-ci29/",
+      "api": "https://openadmindata.org/api/ci/"
+    }
   },
   {
     "id": "CI30",
@@ -897,7 +1013,11 @@
       "lon": "-3.143"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ci/regions/sud-comoe-ci30/",
+      "api": "https://openadmindata.org/api/ci/"
+    }
   },
   {
     "id": "CI31",
@@ -927,7 +1047,11 @@
       "lon": "-4.783"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ci/regions/tchologo-ci31/",
+      "api": "https://openadmindata.org/api/ci/"
+    }
   },
   {
     "id": "CI32",
@@ -957,7 +1081,11 @@
       "lon": "-7.944"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ci/regions/tonkpi-ci32/",
+      "api": "https://openadmindata.org/api/ci/"
+    }
   },
   {
     "id": "CI33",
@@ -987,6 +1115,10 @@
       "lon": "-6.781"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ci/regions/worodougou-ci33/",
+      "api": "https://openadmindata.org/api/ci/"
+    }
   }
 ]

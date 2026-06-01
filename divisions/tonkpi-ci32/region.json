@@ -26,5 +26,9 @@
     "lon": "-7.944"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ci/regions/tonkpi-ci32/",
+    "api": "https://openadmindata.org/api/ci/"
+  }
 }

@@ -26,5 +26,9 @@
     "lon": "-4.783"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ci/regions/tchologo-ci31/",
+    "api": "https://openadmindata.org/api/ci/"
+  }
 }
